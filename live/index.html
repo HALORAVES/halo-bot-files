@@ -11,12 +11,23 @@ button.on{background:#ff0;color:#000}
 .t{break-inside:avoid;margin:0 0 14px;border:1px solid #333;border-top:2px solid #c9a227;background:#0a0a0a}
 .t img{width:100%;display:block;cursor:zoom-in}.i{padding:9px}.ti{font-weight:800;color:#fff}.th{color:#c9a227;font-size:11px;letter-spacing:.15em}
 .v{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap}.s{display:block;margin-top:6px;color:#ff0;font-size:12px}
-#lb{position:fixed;inset:0;background:rgba(0,0,0,.95);display:none;align-items:center;justify-content:center;z-index:9}
-#lb img{max-width:96vw;max-height:94vh;border:1px solid #c9a227}
+#lb{position:fixed;inset:0;background:rgba(0,0,0,.96);display:none;z-index:9;overflow:auto;padding:12px;gap:14px;flex-wrap:wrap;justify-content:center;align-items:flex-start}
+#stage{position:relative;max-width:min(96vw,900px)}#stage img{display:block;max-width:100%;max-height:86vh;border:1px solid #c9a227}
+#cv{position:absolute;inset:0;width:100%;height:100%;touch-action:none;cursor:crosshair}
+#fb{width:min(96vw,340px);border:1px solid #c9a227;padding:12px;background:#050505}#fb h3{margin:0 0 8px;color:#ff0;font-size:13px;letter-spacing:.2em}
+#fb textarea{width:100%;height:90px;background:#000;color:#fff;border:1px solid #444;padding:6px}#fb label{display:block;margin:10px 0 4px;color:#c9a227;font-size:11px;letter-spacing:.15em}
+.row{display:flex;gap:6px;flex-wrap:wrap;align-items:center}.sw{width:26px;height:26px;padding:0}#drop{border:1px dashed #666;padding:10px;text-align:center;color:#888;font-size:12px}
+#refs img{height:56px;margin:4px 4px 0 0;border:1px solid #444}#close{position:fixed;top:10px;right:14px;z-index:10}#send{width:100%;margin-top:12px;padding:12px;font-size:13px;background:#ff0;color:#000}
+#fbmsg{font-size:12px;margin-top:6px;color:#aaa}#fbmsg a{color:#ff0}
 </style></head><body>
 <header><h1>HALO STILLS — LIVE RENDER WALL</h1><div id="count">0 / 0 done</div><div id="bar"><div id="fill"></div></div>
 <div class="meta"><span id="upd">loading…</span><button id="exp">EXPORT VOTES</button></div></header>
-<div id="grid"></div><div id="lb" onclick="this.style.display='none'"><img></div>
+<div id="grid"></div><div id="lb"><button id="close">✕ CLOSE</button><div id="stage"><img id="lbimg"><canvas id="cv"></canvas></div>
+<div id="fb"><h3 id="fbt">FEEDBACK</h3><label>WHAT TO BUILD ON</label><textarea id="note" placeholder="more chrome, bigger halo…"></textarea>
+<label>DRAW ON IT</label><div class="row"><button class="sw" data-c="#ffff00" style="background:#ff0"></button><button class="sw" data-c="#ff00ff" style="background:#f0f"></button><button class="sw" data-c="#ffffff" style="background:#fff"></button>
+<input id="bs" type="range" min="2" max="40" value="8"><button id="undo">UNDO</button><button id="clr">CLEAR</button></div>
+<label>REFERENCE PHOTOS</label><div id="drop">tap to add · paste · drag images here<input id="file" type="file" accept="image/*" multiple style="display:none"></div><div id="refs"></div>
+<button id="send">SEND FEEDBACK</button><div id="fbmsg"></div></div></div>
 <script>
 const REPO='HALORAVES/halo-bot-files',K='halo_live_votes';let votes=JSON.parse(localStorage.getItem(K)||'{}'),sig='';
 const esc=s=>String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -25,7 +36,7 @@ function render(m){const g=document.getElementById('grid');g.innerHTML='';
  [...m.items].reverse().forEach(it=>{const v=votes[it.id];const d=document.createElement('div');d.className='t';
  d.innerHTML=`<img loading="lazy" src="${esc(it.file)}?v=${encodeURIComponent(m.updated)}" alt="${esc(it.title)}"><div class="i"><div class="th">${esc(it.theme)}</div><div class="ti">${esc(it.title)}</div>${it.note?`<div>${esc(it.note)}</div>`:''}
  <div class="v">${['yay','nay','build on'].map(x=>`<button data-x="${x}" class="${v===x?'on':''}">${x.toUpperCase()}</button>`).join('')}</div>${v?`<a class="s" target="_blank" href="${issue(it.id,v)}">→ send “${v}” to the bot</a>`:''}</div>`;
- d.querySelector('img').onclick=()=>{const l=document.getElementById('lb');l.querySelector('img').src=it._src||it.file;l.style.display='flex'};
+ d.querySelector('img').onclick=()=>openLB(it);
  d.querySelectorAll('button').forEach(b=>b.onclick=()=>{votes[it.id]=votes[it.id]===b.dataset.x?undefined:b.dataset.x;if(!votes[it.id])delete votes[it.id];localStorage.setItem(K,JSON.stringify(votes));render(m)});
  g.appendChild(d);if(/\.b64$/.test(it.file)){const im=d.querySelector('img');im.removeAttribute('src');fetch(it.file+'?v='+encodeURIComponent(m.updated)).then(r=>r.text()).then(t=>{im.src='data:image/jpeg;base64,'+t.trim();it._src=im.src})}})}
 async function load(){try{const m=await(await fetch('manifest.json?t='+Date.now(),{cache:'no-store'})).json();
@@ -33,5 +44,35 @@ async function load(){try{const m=await(await fetch('manifest.json?t='+Date.now(
  document.getElementById('upd').textContent='last updated '+new Date(m.updated).toLocaleString()+' · auto-refresh 30s';
  const s=JSON.stringify(m);if(s!==sig){sig=s;window._m=m;render(m)}}catch(e){document.getElementById('upd').textContent='refresh failed, retrying…'}}
 document.getElementById('exp').onclick=()=>{const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(votes,null,2)],{type:'application/json'}));a.download='halo_votes.json';a.click()};
+
+const FK='halo_live_fb';let fb=JSON.parse(localStorage.getItem(FK)||'{}'),cur=null,col='#ffff00',strokes=[],refs=[];
+const $=id=>document.getElementById(id),cv=$('cv'),cx=cv.getContext('2d');
+function saveFB(){if(!cur)return;fb[cur.id]={note:$('note').value,strokes,refs};try{localStorage.setItem(FK,JSON.stringify(fb))}catch(e){$('fbmsg').textContent='storage full: reference photos not saved'}}
+function openLB(it){cur=it;const f=fb[it.id]||{};strokes=f.strokes||[];refs=f.refs||[];$('note').value=f.note||'';$('fbt').textContent='FEEDBACK · '+it.title;$('fbmsg').textContent='';
+ const im=$('lbimg');im.onload=()=>{cv.width=im.naturalWidth;cv.height=im.naturalHeight;redraw()};im.src=it._src||it.file;showRefs();$('lb').style.display='flex'}
+$('close').onclick=()=>{saveFB();$('lb').style.display='none'};
+function redraw(){cx.clearRect(0,0,cv.width,cv.height);cx.lineCap=cx.lineJoin='round';strokes.forEach(s=>{cx.strokeStyle=s.c;cx.lineWidth=s.w;cx.beginPath();s.p.forEach((p,i)=>i?cx.lineTo(p[0],p[1]):cx.moveTo(p[0],p[1]));if(s.p.length==1)cx.lineTo(s.p[0][0]+.1,s.p[0][1]);cx.stroke()})}
+function pt(e){const r=cv.getBoundingClientRect();return[Math.round((e.clientX-r.left)*cv.width/r.width),Math.round((e.clientY-r.top)*cv.height/r.height)]}
+let dn=false;cv.addEventListener('pointerdown',e=>{dn=true;cv.setPointerCapture(e.pointerId);const k=cv.width/cv.getBoundingClientRect().width;strokes.push({c:col,w:+$('bs').value*k,p:[pt(e)]});redraw()});
+cv.addEventListener('pointermove',e=>{if(!dn)return;strokes[strokes.length-1].p.push(pt(e));redraw()});
+['pointerup','pointercancel'].forEach(t=>cv.addEventListener(t,()=>{if(dn){dn=false;saveFB()}}));
+document.querySelectorAll('.sw').forEach(b=>b.onclick=()=>{col=b.dataset.c;document.querySelectorAll('.sw').forEach(x=>x.style.outline='');b.style.outline='2px solid #c9a227'});
+$('undo').onclick=()=>{strokes.pop();redraw();saveFB()};$('clr').onclick=()=>{strokes=[];redraw();saveFB()};$('note').oninput=saveFB;
+function addFiles(fs){[...fs].filter(f=>f.type.startsWith('image/')).forEach(f=>{const r=new FileReader();r.onload=()=>{const i=new Image();i.onload=()=>{const c=document.createElement('canvas'),k=Math.min(1,1200/Math.max(i.width,i.height));c.width=i.width*k;c.height=i.height*k;c.getContext('2d').drawImage(i,0,0,c.width,c.height);refs.push(c.toDataURL('image/jpeg',.8));showRefs();saveFB()};i.src=r.result};r.readAsDataURL(f)})}
+function showRefs(){$('refs').innerHTML='';refs.forEach((u,n)=>{const i=new Image();i.src=u;i.title='tap to remove';i.onclick=()=>{refs.splice(n,1);showRefs();saveFB()};$('refs').appendChild(i)})}
+$('drop').onclick=()=>$('file').click();$('file').onchange=e=>addFiles(e.target.files);
+$('drop').ondragover=e=>e.preventDefault();$('drop').ondrop=e=>{e.preventDefault();addFiles(e.dataTransfer.files)};
+document.addEventListener('paste',e=>{if($('lb').style.display=='flex')addFiles([...e.clipboardData.items].map(i=>i.getAsFile()).filter(Boolean))});
+const ld=u=>new Promise(r=>{const i=new Image();i.onload=()=>r(i);i.src=u});
+$('send').onclick=async()=>{saveFB();const base=await ld($('lbimg').src),rs=await Promise.all(refs.map(ld)),H=base.naturalHeight;
+ let W=base.naturalWidth;const sc=rs.map(i=>H/i.height);rs.forEach((i,n)=>W+=i.width*sc[n]+20);
+ const c=document.createElement('canvas');c.width=W;c.height=H;const g=c.getContext('2d');g.fillStyle='#000';g.fillRect(0,0,W,H);g.drawImage(base,0,0);g.drawImage(cv,0,0);
+ let x=base.naturalWidth+20;rs.forEach((i,n)=>{g.drawImage(i,x,0,i.width*sc[n],H);x+=i.width*sc[n]+20});
+ const name='halo-feedback-'+cur.id+'.png',blob=await new Promise(r=>c.toBlob(r,'image/png')),file=new File([blob],name,{type:'image/png'});
+ const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=name;a.click();
+ const v=votes[cur.id]||'feedback',url=`https://github.com/${REPO}/issues/new?title=${encodeURIComponent('feedback: '+cur.id+' '+v)}&body=${encodeURIComponent(($('note').value||'(no note)')+'\n\nDrag the downloaded '+name+' into this box.')}`;
+ $('fbmsg').innerHTML=`Downloaded ${name}. <a target="_blank" href="${url}">Open GitHub issue →</a>`;
+ if(navigator.canShare&&navigator.canShare({files:[file]})){const b=document.createElement('button');b.textContent='SHARE IMAGE';b.onclick=()=>navigator.share({files:[file],title:name}).catch(()=>{});$('fbmsg').appendChild(b)}
+ window.open(url,'_blank')};
 load();setInterval(load,30000);
 </script></body></html>
