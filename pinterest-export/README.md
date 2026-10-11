@@ -20,6 +20,15 @@ python export_board.py --cookies cookies.txt
 ```
 **Never commit cookies.txt** (it's in .gitignore).
 
+## Windows alternative: PowerShell (no Python needed)
+Open **PowerShell**, then:
+```
+cd path\to\halo-bot-files\pinterest-export
+Set-ExecutionPolicy -Scope Process Bypass
+.\export_board.ps1
+```
+Options: `.\export_board.ps1 -Cookies cookies.txt` (if it finds fewer pins than the board has) and `-NoImages` (only write pins.json).
+
 ## 3. Send it back to GitHub
 ```
 cd ..
