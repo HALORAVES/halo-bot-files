@@ -1,1 +1,26 @@
-{"total":150,"done":1,"updated":"2026-10-11T23:50:00Z","items":[{"id":"cannonball_v2","file":"img/cannonball_v2.b64","title":"Cannonball Creek, test","theme":"CINEMATIC","note":""}]}
+{
+ "total": 150,
+ "done": 1,
+ "updated": "2026-10-11T23:59:07Z",
+ "items": [
+  {
+   "id": "cannonball_v2",
+   "file": "img/cannonball_v2.b64",
+   "title": "Cannonball Creek, test",
+   "theme": "CINEMATIC",
+   "note": ""
+  }
+ ],
+ "updates": [
+  {
+   "id": "cannonball_v3",
+   "of": "cannonball_v2",
+   "version": "v3",
+   "file": "img/cannonball_v3.b64",
+   "before_file": "cannonball_v2",
+   "title": "Cannonball Creek v3",
+   "note": "have the yellow be a reference for a halo to wrap around it, in the style of the photo. Then have what could look like a river running through the clear creek canyon. not some dusty looking place. So more like Sci-fi scenic and make this cannon ball look like it has like graffiti and cyberpunk",
+   "updated": "2026-10-11T23:59:07Z"
+  }
+ ]
+}
