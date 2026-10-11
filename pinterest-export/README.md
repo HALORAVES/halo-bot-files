@@ -1,5 +1,11 @@
 # Pinterest board export
 
+## Easiest: in your browser
+1. Log in to Pinterest and open https://www.pinterest.com/spirit0447/halo-raves/
+2. Press **F12** (Mac: **Cmd+Option+J**) and click **Console**. If Chrome warns about pasting, type `allow pasting` and press Enter.
+3. Paste everything in [`console-export.js`](console-export.js) and press Enter.
+4. Wait for **DONE**. `halo-pins.json` downloads automatically. Send that file to HALO.
+
 ## Easiest (Windows): one line, no installs, no git
 Open **PowerShell**, paste this, press Enter:
 ```
