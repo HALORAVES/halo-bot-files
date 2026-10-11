@@ -1,5 +1,12 @@
 # Pinterest board export
 
+## Easiest (Windows): one line, no installs, no git
+Open **PowerShell**, paste this, press Enter:
+```
+irm https://raw.githubusercontent.com/HALORAVES/halo-bot-files/main/pinterest-export/run.ps1 | iex
+```
+When it finishes it prints **COPY THIS LINK AND PASTE IT TO HALO: ...** (also on your clipboard). Paste that link to HALO.
+
 Saves every pin of https://www.pinterest.com/spirit0447/halo-raves/ (including sections) into `pins/` (images named by pin id) and `pins.json` (id, created_at, title, description, link, image_url, section).
 
 ## 1. Install Python (once)
