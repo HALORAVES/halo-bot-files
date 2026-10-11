@@ -1,0 +1,37 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HALO LIVE</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#000;color:#eee;font:14px/1.4 "Helvetica Neue",Arial,sans-serif}
+header{position:sticky;top:0;z-index:5;background:#000;border-bottom:3px solid #ff0;padding:14px 18px}
+h1{margin:0;font-size:13px;letter-spacing:.3em;color:#c9a227}#count{font-size:clamp(40px,9vw,88px);font-weight:900;color:#ff0;line-height:1}
+#bar{height:10px;border:1px solid #c9a227;margin:8px 0}#fill{height:100%;background:#ff0;width:0;transition:width .6s}
+.meta{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;font-size:12px;color:#aaa}
+button{background:#000;color:#ff0;border:1px solid #ff0;font:700 11px Arial;letter-spacing:.1em;padding:7px 9px;cursor:pointer}
+button.on{background:#ff0;color:#000}
+#grid{columns:4 280px;column-gap:14px;padding:14px}
+.t{break-inside:avoid;margin:0 0 14px;border:1px solid #333;border-top:2px solid #c9a227;background:#0a0a0a}
+.t img{width:100%;display:block;cursor:zoom-in}.i{padding:9px}.ti{font-weight:800;color:#fff}.th{color:#c9a227;font-size:11px;letter-spacing:.15em}
+.v{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap}.s{display:block;margin-top:6px;color:#ff0;font-size:12px}
+#lb{position:fixed;inset:0;background:rgba(0,0,0,.95);display:none;align-items:center;justify-content:center;z-index:9}
+#lb img{max-width:96vw;max-height:94vh;border:1px solid #c9a227}
+</style></head><body>
+<header><h1>HALO STILLS — LIVE RENDER WALL</h1><div id="count">0 / 0 done</div><div id="bar"><div id="fill"></div></div>
+<div class="meta"><span id="upd">loading…</span><button id="exp">EXPORT VOTES</button></div></header>
+<div id="grid"></div><div id="lb" onclick="this.style.display='none'"><img></div>
+<script>
+const REPO='HALORAVES/halo-bot-files',K='halo_live_votes';let votes=JSON.parse(localStorage.getItem(K)||'{}'),sig='';
+const esc=s=>String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function issue(id,v){return`https://github.com/${REPO}/issues/new?title=${encodeURIComponent('vote: '+id+' '+v)}&body=${encodeURIComponent('Note (optional): ')}`}
+function render(m){const g=document.getElementById('grid');g.innerHTML='';
+ [...m.items].reverse().forEach(it=>{const v=votes[it.id];const d=document.createElement('div');d.className='t';
+ d.innerHTML=`<img loading="lazy" src="${esc(it.file)}?v=${encodeURIComponent(m.updated)}" alt="${esc(it.title)}"><div class="i"><div class="th">${esc(it.theme)}</div><div class="ti">${esc(it.title)}</div>${it.note?`<div>${esc(it.note)}</div>`:''}
+ <div class="v">${['yay','nay','build on'].map(x=>`<button data-x="${x}" class="${v===x?'on':''}">${x.toUpperCase()}</button>`).join('')}</div>${v?`<a class="s" target="_blank" href="${issue(it.id,v)}">→ send “${v}” to the bot</a>`:''}</div>`;
+ d.querySelector('img').onclick=()=>{const l=document.getElementById('lb');l.querySelector('img').src=it._src||it.file;l.style.display='flex'};
+ d.querySelectorAll('button').forEach(b=>b.onclick=()=>{votes[it.id]=votes[it.id]===b.dataset.x?undefined:b.dataset.x;if(!votes[it.id])delete votes[it.id];localStorage.setItem(K,JSON.stringify(votes));render(m)});
+ g.appendChild(d);if(/\.b64$/.test(it.file)){const im=d.querySelector('img');im.removeAttribute('src');fetch(it.file+'?v='+encodeURIComponent(m.updated)).then(r=>r.text()).then(t=>{im.src='data:image/jpeg;base64,'+t.trim();it._src=im.src})}})}
+async function load(){try{const m=await(await fetch('manifest.json?t='+Date.now(),{cache:'no-store'})).json();
+ document.getElementById('count').textContent=`${m.done} / ${m.total} done`;document.getElementById('fill').style.width=(100*m.done/m.total)+'%';
+ document.getElementById('upd').textContent='last updated '+new Date(m.updated).toLocaleString()+' · auto-refresh 30s';
+ const s=JSON.stringify(m);if(s!==sig){sig=s;window._m=m;render(m)}}catch(e){document.getElementById('upd').textContent='refresh failed, retrying…'}}
+document.getElementById('exp').onclick=()=>{const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(votes,null,2)],{type:'application/json'}));a.download='halo_votes.json';a.click()};
+load();setInterval(load,30000);
+</script></body></html>
