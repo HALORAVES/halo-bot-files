@@ -1,7 +1,7 @@
 {
  "total": 240,
- "done": 212,
- "updated": "2026-10-12T06:42:11Z",
+ "done": 240,
+ "updated": "2026-10-12T07:44:00Z",
  "items": [
   {
    "id": "cannonball_v2",
@@ -6219,6 +6219,842 @@
     {
      "label": "haloraves.com night: pepper-jungle",
      "url": "https://www.haloraves.com/nights/pepper-jungle"
+    }
+   ]
+  },
+  {
+   "id": "C_38STATE_01",
+   "file": "img/C_38STATE_01.b64",
+   "title": "38 State_Copper_Column",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH",
+    "clients:38 State Brewing"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3); tailored to 38 State Brewing",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 38 State Brewing",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
+  },
+  {
+   "id": "C_BOGGYDRAW_01",
+   "file": "img/C_BOGGYDRAW_01.b64",
+   "title": "Boggy Draw_River_Keg",
+   "theme": "POUR/DRIP",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POUR/DRIP",
+    "clients:Boggy Draw Brewery"
+   ],
+   "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3); tailored to Boggy Draw Brewery",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Boggy Draw Brewery",
+   "refs": [
+    {
+     "label": "Client page: Boggy Draw Brewery",
+     "url": "https://www.findmeabrewery.com/boggy-draw-brewery-3535-s-platte-river-dr-ste-l-sheridan-colorado/"
+    },
+    {
+     "label": "Pinterest pin \u2026236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin \u2026384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    },
+    {
+     "label": "Pinterest pin \u2026688279",
+     "url": "https://www.pinterest.com/pin/1137440449703688279/"
+    }
+   ]
+  },
+  {
+   "id": "C_COALMINE_01",
+   "file": "img/C_COALMINE_01.b64",
+   "title": "Coal Mine_Lantern",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH",
+    "clients:Coal Mine Avenue Brewing"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3); tailored to Coal Mine Avenue Brewing",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Coal Mine Avenue Brewing",
+   "refs": [
+    {
+     "label": "Client page: Coal Mine Avenue Brewing",
+     "url": "https://coalmineavebrewing.com"
+    },
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
+  },
+  {
+   "id": "C_LADYJUSTICE_01",
+   "file": "img/C_LADYJUSTICE_01.b64",
+   "title": "Lady Justice_Bronze_Scales",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH",
+    "clients:Lady Justice Brewing"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3); tailored to Lady Justice Brewing",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Lady Justice Brewing",
+   "refs": [
+    {
+     "label": "Client page: Lady Justice Brewing",
+     "url": "https://www.ladyjusticebrewing.com/main"
+    },
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
+  },
+  {
+   "id": "C_LOCAVORE_01",
+   "file": "img/C_LOCAVORE_01.b64",
+   "title": "Locavore_Grain_Silo",
+   "theme": "POUR/DRIP",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POUR/DRIP",
+    "clients:Locavore Beer Works"
+   ],
+   "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3); tailored to Locavore Beer Works",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Locavore Beer Works",
+   "refs": [
+    {
+     "label": "Client page: Locavore Beer Works",
+     "url": "https://locavorebeerworks.com"
+    },
+    {
+     "label": "Pinterest pin \u2026236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin \u2026384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    },
+    {
+     "label": "Pinterest pin \u2026688279",
+     "url": "https://www.pinterest.com/pin/1137440449703688279/"
+    }
+   ]
+  },
+  {
+   "id": "C_ZYMOS_01",
+   "file": "img/C_ZYMOS_01.b64",
+   "title": "Zymos_Yeast_Flask",
+   "theme": "ACID/GRADIENT",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "ACID/GRADIENT",
+    "clients:Zymos Brewing"
+   ],
+   "sources": "HALO Pinterest catalog: ACID/GRADIENT board (weight 0.7), HALO brand look (0.3); tailored to Zymos Brewing",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Zymos Brewing",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384676",
+     "url": "https://www.pinterest.com/pin/1137440449702384676/"
+    },
+    {
+     "label": "Pinterest pin \u2026341243",
+     "url": "https://www.pinterest.com/pin/1137440449702341243/"
+    },
+    {
+     "label": "Pinterest pin \u2026341227",
+     "url": "https://www.pinterest.com/pin/1137440449702341227/"
+    }
+   ]
+  },
+  {
+   "id": "C_GARDENSDISP_01",
+   "file": "img/C_GARDENSDISP_01.b64",
+   "title": "Gardens_Emerald_Bud",
+   "theme": "SMALL/LIFE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SMALL/LIFE",
+    "clients:Gardens Dispensary Englewood"
+   ],
+   "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3); tailored to Gardens Dispensary Englewood",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Gardens Dispensary Englewood",
+   "refs": [
+    {
+     "label": "Client page: Gardens Dispensary Englewood",
+     "url": "https://gardensdispensary.com/locations/cannabis-dispensary-englewood-co"
+    },
+    {
+     "label": "Pinterest pin \u2026806130",
+     "url": "https://www.pinterest.com/pin/1137440449695806130/"
+    },
+    {
+     "label": "Pinterest pin \u2026423576",
+     "url": "https://www.pinterest.com/pin/1137440449702423576/"
+    }
+   ]
+  },
+  {
+   "id": "C_SILVERSTEM_01",
+   "file": "img/C_SILVERSTEM_01.b64",
+   "title": "Silver Stem_Chrome_Stem",
+   "theme": "ACID/GRADIENT",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "ACID/GRADIENT",
+    "clients:Silver Stem Fine Cannabis Sheridan"
+   ],
+   "sources": "HALO Pinterest catalog: ACID/GRADIENT board (weight 0.7), HALO brand look (0.3); tailored to Silver Stem Fine Cannabis Sheridan",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Silver Stem Fine Cannabis Sheridan",
+   "refs": [
+    {
+     "label": "Client page: Silver Stem Fine Cannabis Sheridan",
+     "url": "https://silverstemcannabis.com/shop/sheridan/about-us"
+    },
+    {
+     "label": "Pinterest pin \u2026384676",
+     "url": "https://www.pinterest.com/pin/1137440449702384676/"
+    },
+    {
+     "label": "Pinterest pin \u2026341243",
+     "url": "https://www.pinterest.com/pin/1137440449702341243/"
+    },
+    {
+     "label": "Pinterest pin \u2026341227",
+     "url": "https://www.pinterest.com/pin/1137440449702341227/"
+    }
+   ]
+  },
+  {
+   "id": "C_3DEEP_01",
+   "file": "img/C_3DEEP_01.b64",
+   "title": "3 Deep_Subwoofer",
+   "theme": "SIGNAL/NOISE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SIGNAL/NOISE",
+    "clients:3 Deep Productions"
+   ],
+   "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3); tailored to 3 Deep Productions",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 3 Deep Productions",
+   "refs": [
+    {
+     "label": "Client page: 3 Deep Productions",
+     "url": "https://www.3deep.net"
+    },
+    {
+     "label": "Pinterest pin \u2026384607",
+     "url": "https://www.pinterest.com/pin/1137440449702384607/"
+    },
+    {
+     "label": "Pinterest pin \u2026424072",
+     "url": "https://www.pinterest.com/pin/1137440449702424072/"
+    },
+    {
+     "label": "Pinterest pin \u2026688891",
+     "url": "https://www.pinterest.com/pin/1137440449703688891/"
+    }
+   ]
+  },
+  {
+   "id": "C_QUITERIGHT_01",
+   "file": "img/C_QUITERIGHT_01.b64",
+   "title": "Quite Right_Vinyl_Monolith",
+   "theme": "TAPE/DECK",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TAPE/DECK",
+    "clients:Quite Right Records"
+   ],
+   "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3); tailored to Quite Right Records",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Quite Right Records",
+   "refs": [
+    {
+     "label": "Client page: Quite Right Records",
+     "url": "https://www.instagram.com/quiterightrecords/"
+    },
+    {
+     "label": "Pinterest pin \u2026384476",
+     "url": "https://www.pinterest.com/pin/1137440449702384476/"
+    },
+    {
+     "label": "Pinterest pin \u2026340159",
+     "url": "https://www.pinterest.com/pin/1137440449702340159/"
+    },
+    {
+     "label": "Pinterest pin \u2026384470",
+     "url": "https://www.pinterest.com/pin/1137440449702384470/"
+    }
+   ]
+  },
+  {
+   "id": "C_LINGLE_01",
+   "file": "img/C_LINGLE_01.b64",
+   "title": "Lingle_Drafting_Lamp",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH",
+    "clients:Lingle Design Group"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3); tailored to Lingle Design Group",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Lingle Design Group",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
+  },
+  {
+   "id": "C_RHYTHMYOGA_01",
+   "file": "img/C_RHYTHMYOGA_01.b64",
+   "title": "Rhythm_Singing_Bowl",
+   "theme": "POUR/DRIP",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POUR/DRIP",
+    "clients:Rhythm Art & Yoga"
+   ],
+   "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3); tailored to Rhythm Art & Yoga",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Rhythm Art & Yoga",
+   "refs": [
+    {
+     "label": "Client page: Rhythm Art & Yoga",
+     "url": "https://www.yelp.com/biz/rhythm-art-and-yoga-englewood-3"
+    },
+    {
+     "label": "Pinterest pin \u2026236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin \u2026384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    },
+    {
+     "label": "Pinterest pin \u2026688279",
+     "url": "https://www.pinterest.com/pin/1137440449703688279/"
+    }
+   ]
+  },
+  {
+   "id": "C_SANDHYA_01",
+   "file": "img/C_SANDHYA_01.b64",
+   "title": "Sandhya_Prayer_Flag_Pole",
+   "theme": "DREAM/COLLAGE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "DREAM/COLLAGE",
+    "clients:Sandhya Yoga"
+   ],
+   "sources": "HALO Pinterest catalog: DREAM/COLLAGE board (weight 0.7), HALO brand look (0.3); tailored to Sandhya Yoga",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Sandhya Yoga",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899980",
+     "url": "https://www.pinterest.com/pin/1137440449703899980/"
+    },
+    {
+     "label": "Pinterest pin \u2026889191",
+     "url": "https://www.pinterest.com/pin/1137440449703889191/"
+    },
+    {
+     "label": "Pinterest pin \u2026882896",
+     "url": "https://www.pinterest.com/pin/1137440449703882896/"
+    }
+   ]
+  },
+  {
+   "id": "C_KONABOWLS_01",
+   "file": "img/C_KONABOWLS_01.b64",
+   "title": "Kona_Chrome_Blender",
+   "theme": "ACID/GRADIENT",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "ACID/GRADIENT",
+    "clients:Kona Bowls"
+   ],
+   "sources": "HALO Pinterest catalog: ACID/GRADIENT board (weight 0.7), HALO brand look (0.3); tailored to Kona Bowls",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Kona Bowls",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384676",
+     "url": "https://www.pinterest.com/pin/1137440449702384676/"
+    },
+    {
+     "label": "Pinterest pin \u2026341243",
+     "url": "https://www.pinterest.com/pin/1137440449702341243/"
+    },
+    {
+     "label": "Pinterest pin \u2026341227",
+     "url": "https://www.pinterest.com/pin/1137440449702341227/"
+    }
+   ]
+  },
+  {
+   "id": "C_OKINAWA_01",
+   "file": "img/C_OKINAWA_01.b64",
+   "title": "Okinawa_Ceramic_Bowl",
+   "theme": "BITE/COLOR",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "BITE/COLOR",
+    "clients:Okinawa"
+   ],
+   "sources": "HALO Pinterest catalog: BITE/COLOR board (weight 0.7), HALO brand look (0.3); tailored to Okinawa",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Okinawa",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026698731",
+     "url": "https://www.pinterest.com/pin/1137440449703698731/"
+    },
+    {
+     "label": "Pinterest pin \u2026238209",
+     "url": "https://www.pinterest.com/pin/1137440449696238209/"
+    },
+    {
+     "label": "Pinterest pin \u2026236968",
+     "url": "https://www.pinterest.com/pin/1137440449696236968/"
+    }
+   ]
+  },
+  {
+   "id": "C_SHERPA_01",
+   "file": "img/C_SHERPA_01.b64",
+   "title": "Sherpa_Prayer_Wheel",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH",
+    "clients:Sherpa House"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3); tailored to Sherpa House",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Sherpa House",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
+  },
+  {
+   "id": "C_WOODYS_01",
+   "file": "img/C_WOODYS_01.b64",
+   "title": "Woody_Pizza_Peel",
+   "theme": "SIGN/MARK",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SIGN/MARK",
+    "clients:Woody's"
+   ],
+   "sources": "HALO Pinterest catalog: SIGN/MARK board (weight 0.7), HALO brand look (0.3); tailored to Woody's",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Woody's",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237981",
+     "url": "https://www.pinterest.com/pin/1137440449696237981/"
+    },
+    {
+     "label": "Pinterest pin \u2026237880",
+     "url": "https://www.pinterest.com/pin/1137440449696237880/"
+    }
+   ]
+  },
+  {
+   "id": "C_GILDEDGOATMID_01",
+   "file": "img/C_GILDEDGOATMID_01.b64",
+   "title": "Gilded Goat_Golden_Stein",
+   "theme": "POUR/DRIP",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POUR/DRIP",
+    "clients:Gilded Goat Midtown"
+   ],
+   "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3); tailored to Gilded Goat Midtown",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Gilded Goat Midtown",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin \u2026384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    },
+    {
+     "label": "Pinterest pin \u2026688279",
+     "url": "https://www.pinterest.com/pin/1137440449703688279/"
+    }
+   ]
+  },
+  {
+   "id": "C_COMPASS_01",
+   "file": "img/C_COMPASS_01.b64",
+   "title": "Compass_Brass_Needle",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH",
+    "clients:Compass Denver"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3); tailored to Compass Denver",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Compass Denver",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
+  },
+  {
+   "id": "C_LIVSOTH_01",
+   "file": "img/C_LIVSOTH_01.b64",
+   "title": "LIV_Estate_Key",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH",
+    "clients:LIV Sotheby's"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3); tailored to LIV Sotheby's",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 LIV Sotheby's",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
+  },
+  {
+   "id": "C_14ER_01",
+   "file": "img/C_14ER_01.b64",
+   "title": "14er_Summit_Cairn",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH",
+    "clients:14er Boulder"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3); tailored to 14er Boulder",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 14er Boulder",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
+  },
+  {
+   "id": "C_GINGERBAKER_01",
+   "file": "img/C_GINGERBAKER_01.b64",
+   "title": "Ginger Baker_Pie_Tin",
+   "theme": "BITE/COLOR",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "BITE/COLOR",
+    "clients:Ginger and Baker"
+   ],
+   "sources": "HALO Pinterest catalog: BITE/COLOR board (weight 0.7), HALO brand look (0.3); tailored to Ginger and Baker",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Ginger and Baker",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026698731",
+     "url": "https://www.pinterest.com/pin/1137440449703698731/"
+    },
+    {
+     "label": "Pinterest pin \u2026238209",
+     "url": "https://www.pinterest.com/pin/1137440449696238209/"
+    },
+    {
+     "label": "Pinterest pin \u2026236968",
+     "url": "https://www.pinterest.com/pin/1137440449696236968/"
+    }
+   ]
+  },
+  {
+   "id": "C_AVANTI_01",
+   "file": "img/C_AVANTI_01.b64",
+   "title": "Avanti_Food_Truck",
+   "theme": "DREAM/COLLAGE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "DREAM/COLLAGE",
+    "clients:Avanti"
+   ],
+   "sources": "HALO Pinterest catalog: DREAM/COLLAGE board (weight 0.7), HALO brand look (0.3); tailored to Avanti",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Avanti",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899980",
+     "url": "https://www.pinterest.com/pin/1137440449703899980/"
+    },
+    {
+     "label": "Pinterest pin \u2026889191",
+     "url": "https://www.pinterest.com/pin/1137440449703889191/"
+    },
+    {
+     "label": "Pinterest pin \u2026882896",
+     "url": "https://www.pinterest.com/pin/1137440449703882896/"
+    }
+   ]
+  },
+  {
+   "id": "C_SOURCE_01",
+   "file": "img/C_SOURCE_01.b64",
+   "title": "Source_Iron_Beam",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH",
+    "clients:The Source"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3); tailored to The Source",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 The Source",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
+  },
+  {
+   "id": "N_TIMESKA_04",
+   "file": "img/N_TIMESKA_04.b64",
+   "title": "Time/Ska_Turntable_Cliff",
+   "theme": "NIGHTS",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "NIGHTS",
+    "nights:time-ska"
+   ],
+   "sources": "HALO Pinterest catalog: NIGHTS board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "event",
+   "kindLabel": "EVENT \u00b7 Time/Ska",
+   "refs": [
+    {
+     "label": "haloraves.com night: time-ska",
+     "url": "https://www.haloraves.com/nights/time-ska"
+    }
+   ]
+  },
+  {
+   "id": "N_DEADPUNCH_04",
+   "file": "img/N_DEADPUNCH_04.b64",
+   "title": "Dead/Punch_Bell_Gong",
+   "theme": "NIGHTS",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "NIGHTS",
+    "nights:dead-punch"
+   ],
+   "sources": "HALO Pinterest catalog: NIGHTS board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "event",
+   "kindLabel": "EVENT \u00b7 Dead/Punch",
+   "refs": [
+    {
+     "label": "haloraves.com night: dead-punch",
+     "url": "https://www.haloraves.com/nights/dead-punch"
+    }
+   ]
+  },
+  {
+   "id": "N_WIZARDCOURT_04",
+   "file": "img/N_WIZARDCOURT_04.b64",
+   "title": "Wizard/Court_Crystal_Staff",
+   "theme": "NIGHTS",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "NIGHTS",
+    "nights:wizard-court"
+   ],
+   "sources": "HALO Pinterest catalog: NIGHTS board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "event",
+   "kindLabel": "EVENT \u00b7 Wizard/Court",
+   "refs": [
+    {
+     "label": "haloraves.com night: wizard-court",
+     "url": "https://www.haloraves.com/nights/wizard-court"
+    }
+   ]
+  },
+  {
+   "id": "N_SPOREAMEN_04",
+   "file": "img/N_SPOREAMEN_04.b64",
+   "title": "Spore/Amen_Spore_Print",
+   "theme": "NIGHTS",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "NIGHTS",
+    "nights:spore-amen"
+   ],
+   "sources": "HALO Pinterest catalog: NIGHTS board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T07:42:23Z",
+   "kind": "event",
+   "kindLabel": "EVENT \u00b7 Spore/Amen",
+   "refs": [
+    {
+     "label": "haloraves.com night: spore-amen",
+     "url": "https://www.haloraves.com/nights/spore-amen"
     }
    ]
   }
