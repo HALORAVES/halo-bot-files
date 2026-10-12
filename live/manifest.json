@@ -1,7 +1,7 @@
 {
-  "total": 145,
-  "done": 145,
-  "updated": "2026-10-12T21:56:13Z",
+  "total": 146,
+  "done": 146,
+  "updated": "2026-10-12T21:56:42Z",
   "items": [
     {
       "id": "mono_lith_01",
@@ -5351,6 +5351,46 @@
       "theme": "PRODUCT POSTERS",
       "note": "",
       "updated": "2026-10-12T21:56:13Z"
+    },
+    {
+      "id": "PP_16",
+      "title": "HALO \u00b7 Soft Lilac Float",
+      "kind": "product",
+      "kindLabel": "PRODUCT \u00b7 Get Your HALO",
+      "section": "Product Posters",
+      "status": "review",
+      "cta": "Get Your HALO",
+      "rooms": [],
+      "refs": [
+        {
+          "label": "haloraves.com/halo",
+          "url": "https://www.haloraves.com/halo"
+        },
+        {
+          "label": "Product shot own-halo",
+          "url": "https://www.haloraves.com/brand/own-halo.jpg"
+        },
+        {
+          "label": "Pinterest pin \u2026341541",
+          "url": "https://www.pinterest.com/pin/1137440449702341541/"
+        }
+      ],
+      "prints": [
+        {
+          "label": "Letter 8.5\u00d711",
+          "pdf": "promo/PP_16_letter.pdf.b64",
+          "name": "HALO_PRODUCT_PP_16_letter.pdf"
+        },
+        {
+          "label": "11\u00d717",
+          "pdf": "promo/PP_16_tabloid.pdf.b64",
+          "name": "HALO_PRODUCT_PP_16_tabloid.pdf"
+        }
+      ],
+      "file": "img/PP_16.b64",
+      "theme": "PRODUCT POSTERS",
+      "note": "",
+      "updated": "2026-10-12T21:56:42Z"
     }
   ],
   "updates": [
