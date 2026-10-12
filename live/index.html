@@ -17,7 +17,7 @@ button:hover,button.on{background:var(--y);color:#000}button.keep{border-color:v
 #grid{columns:4 260px;column-gap:14px;margin-top:16px}#grid.ups{columns:1}
 .t{break-inside:avoid;margin:0 0 14px;border:1px solid #2a2a2a;border-top:2px solid var(--g);background:#070707;max-width:1000px}
 .t img{width:100%;display:block}.t img.main{cursor:zoom-in}.i{padding:9px}.ti{font-weight:800;color:#fff;font-size:16px}.th{color:var(--g);font-size:11px;letter-spacing:.15em;text-transform:uppercase}
-.st{float:right;font:800 10px Arial;padding:2px 6px;border:1px solid var(--m);color:var(--m);letter-spacing:.1em}.st.keep{background:var(--g);color:#000;border-color:var(--g)}.st.nay{border-color:#f0f;color:#f0f}
+.st{float:right;font:800 10px Arial;padding:2px 6px;border:1px solid var(--m);color:var(--m);letter-spacing:.1em}.st.build{border-color:#0ff;color:#0ff}.st.keep{background:var(--g);color:#000;border-color:var(--g)}.st.nay{border-color:#f0f;color:#f0f}
 .v{display:flex;gap:5px;margin-top:8px;flex-wrap:wrap}.s{display:block;margin-top:6px;color:var(--y);font-size:13px}
 .ba{display:grid;grid-template-columns:1fr 1fr;gap:4px}.ba figure{margin:0;position:relative}
 .ba figcaption{z-index:2;position:absolute;top:6px;left:6px;background:#000;color:var(--y);font:800 11px Arial;letter-spacing:.2em;padding:3px 6px;border:1px solid var(--y)}
@@ -55,12 +55,14 @@ const gh=(t,b)=>`https://github.com/${REPO}/issues/new?title=${encodeURIComponen
 function issue(id,v){return gh('vote: '+id+' '+v)}
 const save=()=>{localStorage.setItem(K,JSON.stringify(votes));localStorage.setItem(KK,JSON.stringify(keeps));localStorage.setItem(PK,JSON.stringify(pend))};
 function all(){return M?[...M.items.map(x=>({...x})),...(M.updates||[]).map(x=>({...x,upd:1}))]:[]}
-const stat=it=>keeps[it.id]?'keep':(it.status||'review');
+const VS={'yay':'keep','keep':'keep','build on':'build','nay':'nay'};
+const stat=it=>{if(keeps[it.id])return 'keep';const v=votes[it.id];if(v&&VS[v])return VS[v];if(typeof fb!=='undefined'&&fb[it.id]&&(fb[it.id].note||'').trim()&&(!it.status||it.status==='review'))return 'build';return it.status||'review'};
+const isRev=it=>stat(it)==='review';
 const rms=it=>it.rooms||[];
 function rooms(){const P=all(),live=P.filter(x=>stat(x)!=='nay'),R=[];
  R.push({g:'WALL',id:'UPDATES',name:'UPDATES',law:'Each new version beside the one before it, with the note that moved it.',f:x=>x.upd});
  R.push({g:'WALL',id:'KEEPERS',name:'KEEPERS',law:'The gallery. Only what earned a KEEP.',f:x=>stat(x)==='keep'});
- R.push({g:'WALL',id:'IN REVIEW',name:'IN REVIEW',law:'New pieces waiting on a call: KEEP, YAY, NAY or BUILD ON.',f:x=>stat(x)==='review'});
+ R.push({g:'WALL',id:'IN REVIEW',name:'IN REVIEW',law:'New pieces waiting on a call: KEEP, YAY, NAY or BUILD ON.',f:x=>isRev(x)});
  THEMES.forEach(([n,l])=>R.push({g:'THEMES',id:'t:'+n,name:n,law:l,f:x=>stat(x)!=='nay'&&rms(x).includes(n)}));
  NIGHTS.forEach(n=>R.push({g:'NIGHTS',id:'nights:'+n,name:n.replace(/-/g,' '),law:'haloraves.com/nights/'+n,f:x=>stat(x)!=='nay'&&rms(x).includes('nights:'+n)}));
  const other=new Set();P.forEach(x=>rms(x).forEach(r=>{if(r.includes(':')&&!r.startsWith('nights:'))other.add(r)}));
@@ -82,7 +84,7 @@ function tile(it){const v=votes[it.id],st=stat(it),d=document.createElement('div
  if(it.upd){const be=d.querySelector('img.bef');if(bef){b64img(be,bef.file);be.style.cursor='zoom-in';be.onclick=()=>openLB(bef)}}
  d.querySelectorAll('.v button').forEach(b=>b.onclick=()=>b.dataset.x==='fb'?openLB(it):act(it,b.dataset.x));return d}
 function draw(){if(!M)return;const R=rooms();let r=R.find(x=>x.id===room);if(!r){room='UPDATES';r=R[0]}nav(R);
- const kept=all().filter(x=>stat(x)==='keep').length;document.getElementById('count').textContent=`${kept} / ${M.total} KEPT`;document.getElementById('fill').style.width=Math.min(100,100*kept/M.total)+'%';
+ const kept=all().filter(x=>stat(x)==='keep').length;document.getElementById('count').textContent=`${kept} / ${M.total} KEPT · ${all().filter(isRev).length} IN REVIEW`;document.getElementById('fill').style.width=Math.min(100,100*kept/M.total)+'%';
  document.getElementById('pend').textContent=`SEND ALL PENDING (${pend.length})`;
  document.getElementById('head').innerHTML=`<h1>${esc(r.name)}</h1><div class="law">${esc(r.law)}</div><div class="sub">${r.items.length} piece${r.items.length==1?'':'s'}</div>`;
  const g=document.getElementById('grid');g.className=r.id==='UPDATES'?'ups':'';g.innerHTML='';
@@ -95,7 +97,7 @@ document.getElementById('exp').onclick=()=>{const a=document.createElement('a');
 document.getElementById('pend').onclick=()=>{if(!pend.length){alert('Nothing pending.');return}const body=pend.join('\n')+'\n\nNote (optional): ';open(gh('votes: batch ('+pend.length+')',body),'_blank');pend=[];save();draw()};
 const FK='halo_live_fb';let fb=JSON.parse(localStorage.getItem(FK)||'{}'),cur=null,col='#ffff00',strokes=[],refs=[];
 const $=id=>document.getElementById(id),cv=$('cv'),cx=cv.getContext('2d');
-function saveFB(){if(!cur)return;fb[cur.id]={note:$('note').value,strokes,refs};try{localStorage.setItem(FK,JSON.stringify(fb))}catch(e){$('fbmsg').textContent='storage full: reference photos not saved'}}
+function saveFB(){if(!cur)return;fb[cur.id]={note:$('note').value,strokes,refs};if(typeof draw==='function')setTimeout(draw,0);try{localStorage.setItem(FK,JSON.stringify(fb))}catch(e){$('fbmsg').textContent='storage full: reference photos not saved'}}
 function openLB(it){cur=it;const f=fb[it.id]||{};strokes=f.strokes||[];refs=f.refs||[];$('note').value=f.note||'';$('fbt').textContent='FEEDBACK · '+(it.title||it.id);$('fbmsg').textContent='';
  const im=$('lbimg');im.onload=()=>{cv.width=im.naturalWidth;cv.height=im.naturalHeight;redraw()};if(it._src)im.src=it._src;else b64img(im,it.file,it);showRefs();$('lb').style.display='flex'}
 $('close').onclick=()=>{saveFB();$('lb').style.display='none'};

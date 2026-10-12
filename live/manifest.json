@@ -1,7 +1,7 @@
 {
  "total": 240,
  "done": 107,
- "updated": "2026-10-12T02:29:33Z",
+ "updated": "2026-10-12T03:04:45Z",
  "items": [
   {
    "id": "cannonball_v2",
@@ -488,7 +488,7 @@
    "title": "Canyon DROP",
    "theme": "BENT/TYPE",
    "note": "",
-   "status": "review",
+   "status": "nay",
    "rooms": [
     "BENT/TYPE"
    ],
@@ -501,7 +501,7 @@
    "title": "Oculus Ring",
    "theme": "SIGN/MARK",
    "note": "",
-   "status": "review",
+   "status": "nay",
    "rooms": [
     "SIGN/MARK"
    ],
@@ -553,7 +553,7 @@
    "title": "Prairie Glow",
    "theme": "ACID/GRADIENT",
    "note": "",
-   "status": "review",
+   "status": "nay",
    "rooms": [
     "ACID/GRADIENT"
    ],
@@ -566,7 +566,7 @@
    "title": "Plaza Grid",
    "theme": "POSTER/GRID",
    "note": "",
-   "status": "review",
+   "status": "nay",
    "rooms": [
     "POSTER/GRID"
    ],
@@ -593,7 +593,7 @@
    "title": "Forest CRT",
    "theme": "SIGNAL/NOISE",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "SIGNAL/NOISE"
    ],
@@ -606,7 +606,7 @@
    "title": "Lake Gate",
    "theme": "MONO/LITH",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "MONO/LITH"
    ],
@@ -905,7 +905,7 @@
    "title": "Stone RISE",
    "theme": "BENT/TYPE",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "BENT/TYPE"
    ],
@@ -918,7 +918,7 @@
    "title": "Highway Ring",
    "theme": "SIGN/MARK",
    "note": "",
-   "status": "review",
+   "status": "nay",
    "rooms": [
     "SIGN/MARK"
    ],
@@ -931,7 +931,7 @@
    "title": "Rooftop Melt",
    "theme": "BITE/COLOR",
    "note": "",
-   "status": "review",
+   "status": "nay",
    "rooms": [
     "BITE/COLOR"
    ],
@@ -944,7 +944,7 @@
    "title": "Cliff Decks",
    "theme": "TAPE/DECK",
    "note": "",
-   "status": "review",
+   "status": "nay",
    "rooms": [
     "TAPE/DECK"
    ],
@@ -957,7 +957,7 @@
    "title": "Balloon Grin",
    "theme": "TOY/SMILE",
    "note": "",
-   "status": "review",
+   "status": "nay",
    "rooms": [
     "TOY/SMILE"
    ],
@@ -970,7 +970,7 @@
    "title": "Ice Falls",
    "theme": "ACID/GRADIENT",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "ACID/GRADIENT"
    ],
@@ -983,7 +983,7 @@
    "title": "Pillar Lake",
    "theme": "POSTER/GRID",
    "note": "",
-   "status": "review",
+   "status": "nay",
    "rooms": [
     "POSTER/GRID"
    ],
@@ -1038,7 +1038,7 @@
    "title": "Sub Crater",
    "theme": "DREAM/COLLAGE",
    "note": "",
-   "status": "review",
+   "status": "nay",
    "rooms": [
     "DREAM/COLLAGE"
    ],
@@ -1051,7 +1051,7 @@
    "title": "Dune Relic",
    "theme": "HEAD/OPEN",
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "HEAD/OPEN"
    ],
@@ -1064,7 +1064,7 @@
    "title": "Stitched Orb",
    "theme": "HIDE/SKIN",
    "note": "",
-   "status": "review",
+   "status": "nay",
    "rooms": [
     "HIDE/SKIN"
    ],
@@ -1091,7 +1091,7 @@
    "title": "Rainforest MOSS",
    "theme": "MATTER/TYPE",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "MATTER/TYPE"
    ],
@@ -1104,7 +1104,7 @@
    "title": "Glass WAVE",
    "theme": "BENT/TYPE",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "BENT/TYPE"
    ],
@@ -1117,7 +1117,7 @@
    "title": "Lantern Ring",
    "theme": "SIGN/MARK",
    "note": "",
-   "status": "review",
+   "status": "nay",
    "rooms": [
     "SIGN/MARK"
    ],
@@ -1599,7 +1599,7 @@
    "title": "cannonball_v4 \u2192 v5",
    "note": "YAY on v4 + more depth and shadow detailing, multi-depth holographic field, hyper realistic volumetric lighting and shadows, deep contrast, hyper color within glow",
    "updated": "2026-10-12T00:07:31Z",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "MATTER/TYPE",
     "clients:Cannonball Creek"
@@ -1614,7 +1614,7 @@
    "title": "T_MONOLITH_03 \u2192 E1",
    "note": "",
    "updated": "2026-10-12T02:27:47Z",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "MONO/LITH"
    ]
@@ -1628,7 +1628,7 @@
    "title": "dream_collage_01 \u2192 E1",
    "note": "",
    "updated": "2026-10-12T02:27:47Z",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "DREAM/COLLAGE"
    ]
@@ -1642,7 +1642,7 @@
    "title": "T_HEADOPEN_01 \u2192 E1",
    "note": "",
    "updated": "2026-10-12T02:27:47Z",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "HEAD/OPEN"
    ]
@@ -1656,7 +1656,7 @@
    "title": "T_HIDESKIN_03 \u2192 E1",
    "note": "",
    "updated": "2026-10-12T02:27:47Z",
-   "status": "review",
+   "status": "nay",
    "rooms": [
     "HIDE/SKIN"
    ]
@@ -1670,7 +1670,7 @@
    "title": "T_SMALLLIFE_03 \u2192 E1",
    "note": "",
    "updated": "2026-10-12T02:27:47Z",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "SMALL/LIFE"
    ]
@@ -1684,7 +1684,7 @@
    "title": "T_MATTERTYPE_05 \u2192 E1",
    "note": "",
    "updated": "2026-10-12T02:27:47Z",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "MATTER/TYPE"
    ]
@@ -1698,7 +1698,7 @@
    "title": "T_BENTTYPE_05 \u2192 E1",
    "note": "O letter malformed, rework",
    "updated": "2026-10-12T02:27:47Z",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "BENT/TYPE"
    ]
@@ -1712,7 +1712,7 @@
    "title": "T_SIGNMARK_01 \u2192 E1",
    "note": "",
    "updated": "2026-10-12T02:27:47Z",
-   "status": "review",
+   "status": "nay",
    "rooms": [
     "SIGN/MARK"
    ]
@@ -1726,7 +1726,7 @@
    "title": "T_BITECOLOR_01 \u2192 E1",
    "note": "",
    "updated": "2026-10-12T02:27:47Z",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "BITE/COLOR"
    ]
@@ -1740,7 +1740,7 @@
    "title": "T_TAPEDECK_01 \u2192 E1",
    "note": "",
    "updated": "2026-10-12T02:27:47Z",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "TAPE/DECK"
    ]
@@ -1754,7 +1754,7 @@
    "title": "T_TOYSMILE_01 \u2192 E1",
    "note": "",
    "updated": "2026-10-12T02:27:47Z",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "TOY/SMILE"
    ]
@@ -1768,7 +1768,7 @@
    "title": "T_ACIDGRADIENT_05 \u2192 E1",
    "note": "",
    "updated": "2026-10-12T02:27:47Z",
-   "status": "review",
+   "status": "nay",
    "rooms": [
     "ACID/GRADIENT"
    ]
@@ -1782,7 +1782,7 @@
    "title": "T_POSTERGRID_01 \u2192 E1",
    "note": "",
    "updated": "2026-10-12T02:27:47Z",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "POSTER/GRID"
    ]
@@ -1796,7 +1796,7 @@
    "title": "T_POURDRIP_01 \u2192 E1",
    "note": "",
    "updated": "2026-10-12T02:27:47Z",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "POUR/DRIP"
    ]
@@ -1810,7 +1810,7 @@
    "title": "T_SIGNALNOISE_01 \u2192 E1",
    "note": "",
    "updated": "2026-10-12T02:27:47Z",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "SIGNAL/NOISE"
    ]
