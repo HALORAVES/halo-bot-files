@@ -1,7 +1,7 @@
 {
-  "total": 139,
-  "done": 139,
-  "updated": "2026-10-12T21:53:17Z",
+  "total": 140,
+  "done": 140,
+  "updated": "2026-10-12T21:53:44Z",
   "items": [
     {
       "id": "mono_lith_01",
@@ -5111,6 +5111,46 @@
       "theme": "PRODUCT POSTERS",
       "note": "",
       "updated": "2026-10-12T21:53:17Z"
+    },
+    {
+      "id": "PP_09",
+      "title": "HALO \u00b7 The Line-Up",
+      "kind": "product",
+      "kindLabel": "PRODUCT \u00b7 Get Your HALO",
+      "section": "Product Posters",
+      "status": "review",
+      "cta": "Get Your HALO",
+      "rooms": [],
+      "refs": [
+        {
+          "label": "haloraves.com/halo",
+          "url": "https://www.haloraves.com/halo"
+        },
+        {
+          "label": "Product shot halo-line",
+          "url": "https://www.haloraves.com/brand/halo-line.jpg"
+        },
+        {
+          "label": "Pinterest pin \u2026129894",
+          "url": "https://www.pinterest.com/pin/1137440449704129894/"
+        }
+      ],
+      "prints": [
+        {
+          "label": "Letter 8.5\u00d711",
+          "pdf": "promo/PP_09_letter.pdf.b64",
+          "name": "HALO_PRODUCT_PP_09_letter.pdf"
+        },
+        {
+          "label": "11\u00d717",
+          "pdf": "promo/PP_09_tabloid.pdf.b64",
+          "name": "HALO_PRODUCT_PP_09_tabloid.pdf"
+        }
+      ],
+      "file": "img/PP_09.b64",
+      "theme": "PRODUCT POSTERS",
+      "note": "",
+      "updated": "2026-10-12T21:53:44Z"
     }
   ],
   "updates": [
