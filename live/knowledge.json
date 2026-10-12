@@ -3,90 +3,249 @@
   "law": "One impossible solid in open water or wild land, alone, with weather around it.",
   "notes": "Built-on pins are lone objects at sea and in forest: floating cube among icebergs, orange square in storm water, lone sailboat, black object hovering over ocean, rock in a room splitting lightning, green pyramid in forest, concrete block with red-lit windows. Weight: horizon + one solid + one tiny human for scale. Less city, more sea, ice and storm.",
   "kept": 29,
-  "built_on": 22
+  "built_on": 22,
+  "originals": {
+   "liked": {
+    "T_MONOLITH_05": "yay",
+    "T_MONOLITH_01": "build on",
+    "T_MONOLITH_02": "build on",
+    "T_MONOLITH_04": "build on",
+    "mono_lith_01": "yay"
+   },
+   "rejected": [],
+   "pattern": "Won 5/5: heavy stone/concrete structures in real weather (inverted pyramid over valley, tower on spire, broken bridge with halo in the gap, stairs out of storm sea, neon-seamed monolith in lake). Keep doing it."
+  }
  },
  "DREAM/COLLAGE": {
   "law": "Two scales in one frame, and neither one apologizes.",
   "notes": "All 36 kept are built on. The move is a real photo with one wrong-sized guest: goldfish on a car, dinosaur at kite height, astronaut over earth, unicorns in fog, cat on a highway, orca in black and white. Keep it photographic and deadpan, natural daylight or fog, no glow-overload; the joke is the scale, not the effects.",
   "kept": 36,
-  "built_on": 36
+  "built_on": 36,
+  "originals": {
+   "liked": {
+    "dream_collage_01": "build on"
+   },
+   "rejected": [
+    "T_DREAMCOLLAGE_03",
+    "T_DREAMCOLLAGE_01",
+    "T_DREAMCOLLAGE_02",
+    "T_DREAMCOLLAGE_04"
+   ],
+   "pattern": "Only the desert jellyfish survived. Lost: music gear dropped into landscapes (turntable, headphones on peaks, mirrorball at sea, synth in valley). Collage should be a living creature out of scale, not equipment."
+  }
  },
  "HEAD/OPEN": {
   "law": "The head is a container. Show what is inside it.",
   "notes": "Built-ons: classical stone/statue heads opened by matter: ice block on top, ocean pouring out, black-and-yellow paint over the face, gold lettering on the face, skull mask on red. Monochrome or one accent color (yellow, red, gold). Statue over living face.",
   "kept": 16,
-  "built_on": 10
+  "built_on": 10,
+  "originals": {
+   "liked": {
+    "T_HEADOPEN_03": "build on",
+    "T_HEADOPEN_02": "build on",
+    "T_HEADOPEN_04": "yay"
+   },
+   "rejected": [
+    "T_HEADOPEN_01"
+   ],
+   "pattern": "Won: stone/glass/helmet heads opened to reveal speaker, galaxy, storm, in fog or dust. Lost: half-sunk stone face in a lake with a beam."
+  }
  },
  "HIDE/SKIN": {
   "law": "Pattern grown, not drawn.",
   "notes": "13 kept, none built on yet: macro surfaces only, woven wool, butterfly wings, cowhide, bracket fungus, feathers, beetle shell, bark with moss, leaf veins, orange reticulated skin, red coral with pearls. Rule stays: fill the frame with one real grown texture; use as a skin on a monumental object, not as a scene.",
   "kept": 13,
-  "built_on": 0
+  "built_on": 0,
+  "originals": {
+   "liked": {
+    "T_HIDESKIN_02": "build on"
+   },
+   "rejected": [
+    "T_HIDESKIN_03",
+    "T_HIDESKIN_01",
+    "T_HIDESKIN_04"
+   ],
+   "pattern": "Won: texture as cracked skin of a monolith with glowing veins. Lost: patterned floating orbs/planets with rings and a textured tree tower."
+  }
  },
  "SMALL/LIFE": {
   "law": "The smallest animal, lit like a monument.",
   "notes": "23 kept, 2 built on (lime caterpillar-creature on black, tiny leafhopper on green). Keeps: clownfish in white anemone, goldfish face, hummingbird iridescence, ladybug on mushroom, fuzzy bee, chrysalis. Macro, shallow depth of field, one saturated creature on a soft field, eye-level, enormous presence.",
   "kept": 23,
-  "built_on": 2
+  "built_on": 2,
+  "originals": {
+   "liked": {
+    "T_SMALLLIFE_05": "yay",
+    "T_SMALLLIFE_01": "yay",
+    "T_SMALLLIFE_02": "build on"
+   },
+   "rejected": [
+    "T_SMALLLIFE_03",
+    "T_SMALLLIFE_04"
+   ],
+   "pattern": "Won: insect on a record/stylus, spider in dewy meadow, warm light and violet bokeh. Lost: frog and snail on synthetic props (speaker, mesh dome) with flat dark backgrounds."
+  }
  },
  "MATTER/TYPE": {
   "law": "The letter is made of the thing it says.",
   "notes": "24 built on, the biggest type move: letters as soft 3D matter: moss/grass letters, cloud letters, glass E filled with water, foamy bubble letters, yarn L, flower-filled glass, inflated pastel letters, liquid chrome. One fat letterform, tactile and wet, bright single-color field. Render the word HALO (or a single letter) as the matter.",
   "kept": 29,
-  "built_on": 24
+  "built_on": 24,
+  "originals": {
+   "liked": {
+    "T_MATTERTYPE_02": "build on"
+   },
+   "rejected": [
+    "T_MATTERTYPE_03",
+    "T_MATTERTYPE_01"
+   ],
+   "pattern": "Won: BASS in wet rock with crashing surf. Lost: burning HALO and ICE letters. Word must be heavy natural stone in motion water, not fire/ice effects."
+  }
  },
  "BENT/TYPE": {
   "law": "The word moves the way it means.",
   "notes": "All 11 kept are built on: black-on-white kinetic wordmarks: LIQUID melting, TURBULENCE shaking, fall dropping a letter, MILK splashing, LUCID flaming in chrome gradient, BLACK dripping into rainbow, 'feel' smiling. Minimal, one word, one deformation, mostly monochrome with one gradient accent.",
   "kept": 11,
-  "built_on": 11
+  "built_on": 11,
+  "originals": {
+   "liked": {
+    "T_BENTTYPE_01": "build on"
+   },
+   "rejected": [
+    "T_BENTTYPE_03"
+   ],
+   "pattern": "Won: liquid-chrome HALO over water. Lost: thin neon LOOP line-script."
+  }
  },
  "SIGN/MARK": {
   "law": "One mark, no explanation.",
   "notes": "Only 3 kept, 2 built: negative-space marks (butterfly made of two faces, ink drop inside the word). Lean on double-reading silhouettes; flat, bold, one color field. Lowest-weight theme.",
   "kept": 3,
-  "built_on": 2
+  "built_on": 2,
+  "originals": {
+   "liked": {},
+   "rejected": [
+    "T_SIGNMARK_03",
+    "T_SIGNMARK_01"
+   ],
+   "pattern": "0 liked. Minimal lone ring in empty salt flat/snow rejected. Too sparse; needs a real object and depth."
+  }
  },
  "BITE/COLOR": {
   "law": "Appetite in one saturated color.",
   "notes": "18 built on: food as surreal studio product: lollipop heart with ants, watermelon speech bubble, honey-dripping blueberry, waffle with syrup, cards with heart-shaped meat, teacup on a tongue, flower in nose, honey heart with bees, noodle knitting, ice-cream turtle. Clean seamless backdrops (red, pink, cream, yellow), one food object doing something it shouldn't, glossy macro light.",
   "kept": 26,
-  "built_on": 18
+  "built_on": 18,
+  "originals": {
+   "liked": {},
+   "rejected": [
+    "T_BITECOLOR_05",
+    "T_BITECOLOR_03",
+    "T_BITECOLOR_01"
+   ],
+   "pattern": "0 liked. Floating fruit with orbit rings (dragonfruit, grapes, lemon) rejected outright. Rethink: food must be studio-surreal per pins, not planet fruit."
+  }
  },
  "TAPE/DECK": {
   "law": "The machine that played it, kept as a relic.",
   "notes": "3 built on: a white Panasonic-style cassette recorder, a wall-sized maximal boombox/console, a translucent cassette with exposed reels. Product-photo isolation on plain backdrops plus one monumental machine; show the guts through clear plastic.",
   "kept": 8,
-  "built_on": 3
+  "built_on": 3,
+  "originals": {
+   "liked": {
+    "T_TAPEDECK_03": "build on",
+    "T_TAPEDECK_01": "build on",
+    "tape_deck_01": "build on"
+   },
+   "rejected": [
+    "T_TAPEDECK_05"
+   ],
+   "pattern": "Won 3/4: giant cassettes/boombox in forest, canyon, graffiti alley. Lost: flat console on salt plain."
+  }
  },
  "TOY/SMILE": {
   "law": "A small grin with a hard edge.",
   "notes": "21 built on: yellow acid smileys (tennis balls in thorns, biohazard ball pit, skull smiley, yin-yang smiley, smiley crumpled in foil), gummy bear, pixel characters, pill and blister packs, transparent tech toys. Acid-house smiley is the core icon; glossy product render on black.",
   "kept": 30,
-  "built_on": 21
+  "built_on": 21,
+  "originals": {
+   "liked": {
+    "T_TOYSMILE_03": "build on",
+    "toy_smile_01": "build on"
+   },
+   "rejected": [
+    "T_TOYSMILE_05",
+    "T_TOYSMILE_01"
+   ],
+   "pattern": "Won: black duck in dam reservoir, smiley in meadow. Lost: dark creature on a city rooftop, robot in sunflowers."
+  }
  },
  "ACID/GRADIENT": {
   "law": "Color that glows like a screen, not paint.",
   "notes": "15 built on: thermal/chroma gradients on chrome bodies and heads (rainbow-chrome torso, CHROMA glass ribbon, neon cyber-grunge head with lime/orange gear, glowing purple ribbons, blurred glowing cat, stacked glass app-icons). Black or flat-blue fields, iridescent glass/chrome, thermal-camera color.",
   "kept": 27,
-  "built_on": 15
+  "built_on": 15,
+  "originals": {
+   "liked": {
+    "T_ACIDGRADIENT_03": "build on"
+   },
+   "rejected": [
+    "T_ACIDGRADIENT_05",
+    "T_ACIDGRADIENT_01"
+   ],
+   "pattern": "Won: gradient-lit tunnel with ring. Lost: chrome pod/capsule, rainbow glass orb."
+  }
  },
  "POSTER/GRID": {
   "law": "Type, grid, one image, no mercy.",
   "notes": "39 built on, the largest set: neo-brutalist rave posters: acid-lime on black, one chrome/3D hero (crystal cluster, alien flower, alarm clock with goldfish, chrome head, plastic bag, red keyboard key), huge cropped grotesk headlines, grids, barcodes, stickers. For HALO renders: keep the hero object and the lime/black/chrome palette, drop the readable text.",
   "kept": 58,
-  "built_on": 39
+  "built_on": 39,
+  "originals": {
+   "liked": {},
+   "rejected": [
+    "T_POSTERGRID_01",
+    "T_POSTERGRID_03"
+   ],
+   "pattern": "0 liked. Grid wall and lit-window ring rejected; architectural grid alone is dull."
+  }
  },
  "POUR/DRIP": {
   "law": "Something solid lets go.",
   "notes": "No theme-board marks; 8 POUR/DRIP pins kept and built on from the General Wall: pink slime down black brick, neon green slime over a statue head with lime halo, gold dripping lips, yellow oil cells, glossy chocolate drops, liquid goldfish jelly. Glossy viscous neon on dark stone.",
   "kept": 0,
-  "built_on": 8
+  "built_on": 8,
+  "originals": {
+   "liked": {
+    "T_POURDRIP_02": "yay",
+    "T_POURDRIP_01": "build on",
+    "pour_drip_01": "build on",
+    "T_POURDRIP_03": "build on"
+   },
+   "rejected": [
+    "T_POURDRIP_04",
+    "T_POURDRIP_05"
+   ],
+   "pattern": "Won 4/6: acid-yellow and neon liquid pouring off cubes, spheres, cliffs, melting record. Lost: honeycomb drip, paint down stairs."
+  }
  },
  "SIGNAL/NOISE": {
   "law": "The picture is the interference.",
   "notes": "9 built on: CMYK misregistered dots, test-card circle, glitch chess knight, line-warped sphere, checkerboard beast, pixelated face with yellow code, TV color bars over a face, glowing pixel icons. Black fields, RGB split, color bars, checker, pixel blocks on a real object.",
   "kept": 12,
-  "built_on": 9
- }
+  "built_on": 9,
+  "originals": {
+   "liked": {
+    "T_SIGNALNOISE_05": "build on",
+    "T_SIGNALNOISE_01": "build on",
+    "T_SIGNALNOISE_03": "build on"
+   },
+   "rejected": [
+    "T_SIGNALNOISE_04",
+    "signal_noise_01"
+   ],
+   "pattern": "Won 3/5: CRT tower, glitch keep, glitching horses. Lost: satellite dish, rings radiating from a dish."
+  }
+ },
+ "_originals_global": "Across themes, wins = one heavy, weathered, monumental object in a real landscape with weather (fog, storm, canyon, forest, sea), volumetric god-rays, acid-yellow halo or acid liquid, graffiti/neon spray. Losses = floating spheres/orbs with planet rings, fruit, empty minimal scenes, thin neon line-type, fire/ice letter effects, gear dropped on peaks, small props on synthetic backdrops."
 }
