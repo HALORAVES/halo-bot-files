@@ -35,13 +35,13 @@ button:hover,button.on{background:var(--y);color:#000}button.keep{border-color:v
 #refs img{height:56px;margin:4px 4px 0 0;border:1px solid #444}#close{position:fixed;top:10px;right:14px;z-index:51}#send{width:100%;margin-top:12px;padding:12px;font-size:13px;background:#ff0;color:#000}
 #fbmsg{font-size:12px;margin-top:6px;color:#aaa}#fbmsg a{color:#ff0}
 .kp{display:inline-block;font:800 9px Arial;letter-spacing:.08em;padding:2px 7px;border-radius:9px;margin:0 0 5px;color:#000}.kp.client{background:#ff3fa4}.kp.general{background:#9ad7ff}.kp.event{background:#ffb000}.kf{display:flex;gap:4px;flex-wrap:wrap;margin:0 0 8px}.kf button{font:800 10px Arial;padding:3px 7px}#lbk{position:absolute;top:12px;left:12px;z-index:5}.rf{font:10px Arial;margin:4px 0;line-height:1.5}.rf a{color:#9ad7ff;margin-right:8px;text-decoration:underline}#lbr{margin:6px 0}#grid.kg{grid-template-columns:repeat(auto-fill,minmax(420px,1fr))}.kc{background:#0b0b0b;border:1px solid #222}.kc img{width:100%;display:block;cursor:zoom-in}.kc .ki{padding:10px 12px}.kc .kt{font:800 15px Arial;margin:4px 0}.kc .ka{display:flex;gap:6px;margin-top:8px}.kc form{display:none;margin-top:8px}.kc form.on{display:block}.kc input,.kc textarea{width:100%;box-sizing:border-box;background:#111;color:#eee;border:1px solid #333;margin:3px 0;padding:6px;font:12px Arial}
-#fs{position:fixed;inset:0;background:#000e;display:none;align-items:center;justify-content:center;z-index:99;cursor:zoom-out}#fs img{max-width:98vw;max-height:98vh}@media(max-width:760px){#grid.kg{grid-template-columns:1fr}}</style></head><body>
+#fs{position:fixed;inset:0;background:#000e;display:none;align-items:center;justify-content:center;z-index:99;cursor:zoom-out}#fs img{max-width:98vw;max-height:98vh}@media(max-width:760px){#grid.kg{grid-template-columns:1fr}}.ru{display:flex;gap:4px;margin:3px 0}.ru input{flex:1;background:#111;color:#eee;border:1px solid #333;padding:5px;font:12px Arial}.addref{font:700 10px Arial;padding:3px 7px}</style></head><body>
 <div id="top"><div><div id="wm">HALO STILLS — LIVE</div><div id="count">0 / 150 KEPT</div></div>
 <div id="prog"><div id="bar"><div id="fill"></div></div><div id="upd">loading…</div></div>
 <button id="pend">SEND ALL PENDING (0)</button><button id="exp" title="Save all your marks, notes and markup images as one file">⬇ DOWNLOAD</button></div>
 <div id="wrap"><nav id="nav"></nav><main id="main"><div class="head" id="head"></div><div id="grid"></div></main></div>
 <div id="fs"><img id="fsimg" alt=""></div><div id="lb"><button id="close">✕ CLOSE</button><div id="stage"><span id="lbk"></span><img id="lbimg"><canvas id="cv"></canvas></div>
-<div id="fb"><h3 id="fbt">FEEDBACK</h3><div id="lbr"></div><label>WHAT TO BUILD ON</label><textarea id="note" placeholder="more chrome, bigger halo…"></textarea>
+<div id="fb"><h3 id="fbt">FEEDBACK</h3><div id="lbr"></div><label>WHAT TO BUILD ON</label><textarea id="note" placeholder="more chrome, bigger halo…"></textarea><label>REFERENCE URLS</label><div id="rurls"></div>
 <label>DRAW ON IT</label><div class="row"><button class="sw" data-c="#ffff00" style="background:#ff0"></button><button class="sw" data-c="#ff00ff" style="background:#f0f"></button><button class="sw" data-c="#ffffff" style="background:#fff"></button>
 <input id="bs" type="range" min="2" max="40" value="8"><button id="undo">UNDO</button><button id="clr">CLEAR</button></div>
 <label>REFERENCE PHOTOS</label><div id="drop">tap to add · paste · drag images here<input id="file" type="file" accept="image/*" multiple style="display:none"></div><div id="refs"></div>
@@ -64,6 +64,9 @@ const VS={'yay':'keep','keep':'keep','build on':'build','nay':'nay'};
 const stat=it=>{if(keeps[it.id])return 'keep';const v=votes[it.id];if(v&&VS[v])return VS[v];if(typeof fb!=='undefined'&&fb[it.id]&&(fb[it.id].note||'').trim()&&(!it.status||it.status==='review'))return 'build';return it.status||'review'};
 const isRev=it=>stat(it)==='review';
 const rms=it=>it.rooms||[];
+function urlBox(box,vals){box.innerHTML='';const add=v=>{const r=document.createElement('div');r.className='ru';r.innerHTML='<input type="url" placeholder="Reference URL (https://…)">';r.querySelector('input').value=v||'';box.appendChild(r);return r};(vals&&vals.length?vals:['']).forEach(add);const b=document.createElement('button');b.type='button';b.className='addref';b.textContent='+ ADD ANOTHER URL';b.onclick=()=>{add('').querySelector('input').focus()};box.appendChild(b);box._add=add}
+const urlsOf=box=>[...box.querySelectorAll('input')].map(i=>i.value.trim()).filter(Boolean);
+const refLines=u=>u.length?'\n'+u.map(x=>'Ref: '+x).join('\n'):'';
 function rootOf(it,P){let x=it,n=0;while(x&&x.of&&n++<20){const p=P.find(y=>y.id===x.of);if(!p)return x.of;x=p}return x.id}
 function depth(it,P){let x=it,n=0;while(x&&x.of&&n<20){n++;x=P.find(y=>y.id===x.of)}return n}
 function keepFinal(P){const best={};P.filter(x=>stat(x)==='keep').forEach(x=>{const r=rootOf(x,P),d=depth(x,P),b=best[r];if(!b||d>b.d||(d===b.d&&String(x.updated||'')>String(b.x.updated||'')))best[r]={x,d}});return Object.values(best).map(o=>o.x)}
@@ -74,14 +77,14 @@ function full(src){if(!src)return;$('fsimg').src=src;$('fs').style.display='flex
 function ktile(it){const d=document.createElement('div');d.className='kc';const p=bon[it.id]||{};
  d.innerHTML=`<img alt="${esc(it.title||it.id)}"><div class="ki">${pill(it)}<div class="kt">${esc(it.title||it.id)}</div><div class="th">${esc(it.id)}</div>${refsH(it)}
  <div class="ka"><button data-a="dl">⬇ DOWNLOAD</button><button data-a="bo">BUILD ON</button></div>
- <form><input name="t" placeholder="Client / target (optional), e.g. build for Atomic Cowboy" value="${esc(p.target||'')}"><textarea name="n" rows="3" placeholder="What to build on this…">${esc(p.note||'')}</textarea><button type="submit">SEND BUILD ON →</button> <span class="bm"></span></form></div>`;
+ <form><input name="t" placeholder="Client / target (optional), e.g. build for Atomic Cowboy" value="${esc(p.target||'')}"><textarea name="n" rows="3" placeholder="What to build on this…">${esc(p.note||'')}</textarea><div class="rub"></div><button type="submit">SEND BUILD ON →</button> <span class="bm"></span></form></div>`;
  const im=d.querySelector('img');b64img(im,it.file,it);im.onclick=()=>full(im.src);
- const f=d.querySelector('form');
+ const f=d.querySelector('form');urlBox(f.querySelector('.rub'),p.urls);
  d.querySelector('[data-a=dl]').onclick=()=>dlOne(it);
  d.querySelector('[data-a=bo]').onclick=()=>f.classList.toggle('on');
- f.onsubmit=e=>{e.preventDefault();const t=f.t.value.trim(),n=f.n.value.trim();if(!n&&!t){f.querySelector('.bm').textContent='write a note first';return}
-  bon[it.id]={target:t,note:n,t:new Date().toISOString()};localStorage.setItem(BK,JSON.stringify(bon));
-  open(`https://github.com/${REPO}/issues/new?title=${encodeURIComponent('buildon: '+it.id+(t?' → '+t:''))}&body=${encodeURIComponent('Target: '+(t||'(none)')+'\nNote: '+(n||'(none)'))}`,'_blank');f.querySelector('.bm').textContent='saved · GitHub issue opened'};
+ f.onsubmit=e=>{e.preventDefault();const t=f.t.value.trim(),n=f.n.value.trim(),us=urlsOf(f.querySelector('.rub'));if(!n&&!t){f.querySelector('.bm').textContent='write a note first';return}
+  bon[it.id]={target:t,note:n,urls:us,t:new Date().toISOString()};localStorage.setItem(BK,JSON.stringify(bon));
+  open(`https://github.com/${REPO}/issues/new?title=${encodeURIComponent('buildon: '+it.id+(t?' → '+t:''))}&body=${encodeURIComponent('Target: '+(t||'(none)')+'\nNote: '+(n||'(none)')+refLines(us))}`,'_blank');f.querySelector('.bm').textContent='saved · GitHub issue opened'};
  return d}
 function rooms(){const P=all(),live=P.filter(x=>stat(x)!=='nay'),R=[];
  R.push({g:'WALL',id:'UPDATES',name:'UPDATES',law:'Each new version beside the one before it, with the note that moved it.',f:x=>x.upd});
@@ -118,12 +121,12 @@ async function load(){try{const m=await(await fetch('manifest.json?t='+Date.now(
  document.getElementById('upd').textContent='last updated '+new Date(m.updated).toLocaleString()+' · auto-refresh 30s';
  const s=JSON.stringify(m);if(s!==sig){sig=s;M=m;draw()}}catch(e){document.getElementById('upd').textContent='refresh failed, retrying…'}}
 // Only place in the page that downloads a file: the header DOWNLOAD button.
-document.getElementById('exp').onclick=()=>{let mk={};try{mk=JSON.parse(localStorage.getItem('halo_live_mk')||'{}')}catch(e){}const d={exported:new Date().toISOString(),votes,keeps,pending:pend,feedback:fb,markups:mk};const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(d,null,1)],{type:'application/json'}));a.download='halo_marks_'+new Date().toISOString().slice(0,10)+'.json';document.body.appendChild(a);a.click();a.remove()};
+document.getElementById('exp').onclick=()=>{let mk={};try{mk=JSON.parse(localStorage.getItem('halo_live_mk')||'{}')}catch(e){}const d={exported:new Date().toISOString(),votes,keeps,pending:pend,feedback:fb,markups:mk,buildon:JSON.parse(localStorage.getItem('halo_buildon')||'{}')};const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(d,null,1)],{type:'application/json'}));a.download='halo_marks_'+new Date().toISOString().slice(0,10)+'.json';document.body.appendChild(a);a.click();a.remove()};
 document.getElementById('pend').onclick=()=>{if(!pend.length){alert('Nothing pending.');return}const body=pend.join('\n')+'\n\nNote (optional): ';open(gh('votes: batch ('+pend.length+')',body),'_blank');pend=[];save();draw()};
 const FK='halo_live_fb';let fb=JSON.parse(localStorage.getItem(FK)||'{}'),cur=null,col='#ffff00',strokes=[],refs=[];
 const $=id=>document.getElementById(id),cv=$('cv'),cx=cv.getContext('2d');
-function saveFB(){if(!cur)return;fb[cur.id]={note:$('note').value,strokes,refs};if(typeof draw==='function')setTimeout(draw,0);try{localStorage.setItem(FK,JSON.stringify(fb))}catch(e){$('fbmsg').textContent='storage full: reference photos not saved'}}
-function openLB(it){cur=it;const f=fb[it.id]||{};strokes=f.strokes||[];refs=f.refs||[];$('note').value=f.note||'';$('fbt').textContent='FEEDBACK · '+(it.title||it.id);$('lbk').innerHTML=pill(it);$('lbr').innerHTML=refsH(it);$('fbmsg').textContent='';
+function saveFB(){if(!cur)return;fb[cur.id]={note:$('note').value,urls:urlsOf($('rurls')),strokes,refs};if(typeof draw==='function')setTimeout(draw,0);try{localStorage.setItem(FK,JSON.stringify(fb))}catch(e){$('fbmsg').textContent='storage full: reference photos not saved'}}
+function openLB(it){cur=it;const f=fb[it.id]||{};strokes=f.strokes||[];refs=f.refs||[];$('note').value=f.note||'';urlBox($('rurls'),f.urls);$('fbt').textContent='FEEDBACK · '+(it.title||it.id);$('lbk').innerHTML=pill(it);$('lbr').innerHTML=refsH(it);$('fbmsg').textContent='';
  const im=$('lbimg');im.onload=()=>{cv.width=im.naturalWidth;cv.height=im.naturalHeight;redraw()};if(it._src)im.src=it._src;else b64img(im,it.file,it);showRefs();$('lb').style.display='flex'}
 $('fs').onclick=()=>{$('fs').style.display='none'};$('close').onclick=()=>{saveFB();$('lb').style.display='none'};
 function redraw(){cx.clearRect(0,0,cv.width,cv.height);cx.lineCap=cx.lineJoin='round';strokes.forEach(s=>{cx.strokeStyle=s.c;cx.lineWidth=s.w;cx.beginPath();s.p.forEach((p,i)=>i?cx.lineTo(p[0],p[1]):cx.moveTo(p[0],p[1]));if(s.p.length==1)cx.lineTo(s.p[0][0]+.1,s.p[0][1]);cx.stroke()})}
@@ -132,7 +135,7 @@ let dn=false;cv.addEventListener('pointerdown',e=>{dn=true;cv.setPointerCapture(
 cv.addEventListener('pointermove',e=>{if(!dn)return;strokes[strokes.length-1].p.push(pt(e));redraw()});
 ['pointerup','pointercancel'].forEach(t=>cv.addEventListener(t,()=>{if(dn){dn=false;saveFB()}}));
 document.querySelectorAll('.sw').forEach(b=>b.onclick=()=>{col=b.dataset.c;document.querySelectorAll('.sw').forEach(x=>x.style.outline='');b.style.outline='2px solid #c9a227'});
-$('undo').onclick=()=>{strokes.pop();redraw();saveFB()};$('clr').onclick=()=>{strokes=[];redraw();saveFB()};$('note').oninput=saveFB;
+$('undo').onclick=()=>{strokes.pop();redraw();saveFB()};$('clr').onclick=()=>{strokes=[];redraw();saveFB()};$('note').oninput=saveFB;$('rurls').addEventListener('input',saveFB);
 function addFiles(fs){[...fs].filter(f=>f.type.startsWith('image/')).forEach(f=>{const r=new FileReader();r.onload=()=>{const i=new Image();i.onload=()=>{const c=document.createElement('canvas'),k=Math.min(1,1200/Math.max(i.width,i.height));c.width=i.width*k;c.height=i.height*k;c.getContext('2d').drawImage(i,0,0,c.width,c.height);refs.push(c.toDataURL('image/jpeg',.8));showRefs();saveFB()};i.src=r.result};r.readAsDataURL(f)})}
 function showRefs(){$('refs').innerHTML='';refs.forEach((u,n)=>{const i=new Image();i.src=u;i.title='tap to remove';i.onclick=()=>{refs.splice(n,1);showRefs();saveFB()};$('refs').appendChild(i)})}
 $('drop').onclick=()=>$('file').click();$('file').onchange=e=>addFiles(e.target.files);
@@ -145,7 +148,7 @@ $('send').onclick=async()=>{saveFB();const base=await ld($('lbimg').src),rs=awai
  let x=base.naturalWidth+20;rs.forEach((i,n)=>{g.drawImage(i,x,0,i.width*sc[n],H);x+=i.width*sc[n]+20});
  const name='halo-feedback-'+cur.id+'.png',blob=await new Promise(r=>c.toBlob(r,'image/png')),file=new File([blob],name,{type:'image/png'});
  try{const mk=JSON.parse(localStorage.getItem('halo_live_mk')||'{}');mk[cur.id]=c.toDataURL('image/jpeg',.7);localStorage.setItem('halo_live_mk',JSON.stringify(mk))}catch(e){}
- const v=votes[cur.id]||'feedback',url=`https://github.com/${REPO}/issues/new?title=${encodeURIComponent('feedback: '+cur.id+' '+v)}&body=${encodeURIComponent(($('note').value||'(no note)')+'\n\n(Markup image saved in the gallery; use ⬇ DOWNLOAD in the header to export it, then drag it here if wanted.)')}`;
+ const v=votes[cur.id]||'feedback',url=`https://github.com/${REPO}/issues/new?title=${encodeURIComponent('feedback: '+cur.id+' '+v)}&body=${encodeURIComponent(($('note').value||'(no note)')+refLines(urlsOf($('rurls')))+'\n\n(Markup image saved in the gallery; use ⬇ DOWNLOAD in the header to export it, then drag it here if wanted.)')}`;
  $('fbmsg').innerHTML=`Saved. <a target="_blank" href="${url}">Open GitHub issue →</a>`;
  if(navigator.canShare&&navigator.canShare({files:[file]})){const b=document.createElement('button');b.textContent='SHARE IMAGE';b.onclick=()=>navigator.share({files:[file],title:name}).catch(()=>{});$('fbmsg').appendChild(b)}
  window.open(url,'_blank')};
