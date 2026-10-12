@@ -1,6 +1,6 @@
 {
- "total": 146,
- "done": 146,
+ "total": 153,
+ "done": 153,
  "updated": "2026-10-12T22:59:15Z",
  "items": [
   {
@@ -4798,7 +4798,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 Get Your HALO",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "Get Your HALO",
    "rooms": [],
    "refs": [
@@ -4838,7 +4838,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 Transmitter Zone",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "Transmitter Zone",
    "rooms": [],
    "refs": [
@@ -4878,7 +4878,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 Get Your HALO",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "Get Your HALO",
    "rooms": [],
    "refs": [
@@ -4918,7 +4918,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 PRIVATE RAVE",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "PRIVATE RAVE",
    "rooms": [],
    "refs": [
@@ -4958,7 +4958,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 Get Your HALO",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "Get Your HALO",
    "rooms": [],
    "refs": [
@@ -4998,7 +4998,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 Get Your HALO",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "Get Your HALO",
    "rooms": [],
    "refs": [
@@ -5038,7 +5038,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 RSVP",
    "section": "Product Posters",
-   "status": "review",
+   "status": "build",
    "cta": "RSVP",
    "rooms": [],
    "refs": [
@@ -5078,7 +5078,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 Get Your HALO",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "Get Your HALO",
    "rooms": [],
    "refs": [
@@ -5118,7 +5118,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 Get Your HALO",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "Get Your HALO",
    "rooms": [],
    "refs": [
@@ -5158,7 +5158,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 Transmitter Zone",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "Transmitter Zone",
    "rooms": [],
    "refs": [
@@ -5198,7 +5198,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 RSVP",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "RSVP",
    "rooms": [],
    "refs": [
@@ -5238,7 +5238,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 RSVP",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "RSVP",
    "rooms": [],
    "refs": [
@@ -5278,7 +5278,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 Transmitter Zone",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "Transmitter Zone",
    "rooms": [],
    "refs": [
@@ -5318,7 +5318,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 PRIVATE RAVE",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "PRIVATE RAVE",
    "rooms": [],
    "refs": [
@@ -5358,7 +5358,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 Get Your HALO",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "Get Your HALO",
    "rooms": [],
    "refs": [
@@ -5393,136 +5393,276 @@
    "updated": "2026-10-12T21:56:42Z"
   },
   {
-   "kind": "request",
-   "kindLabel": "REQUEST \u00b7 Chief of Staff",
-   "section": "Chief of Staff Requests",
-   "theme": "CHIEF OF STAFF REQUESTS",
+   "id": "PP_17",
+   "title": "HALO \u00b7 Riverside Night II",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 RSVP",
+   "section": "Product Posters",
+   "status": "review",
+   "cta": "RSVP",
    "rooms": [],
-   "note": "",
-   "requested_by": "HALO Chief of Staff",
-   "rules": "No price, date, coin or health claim; shown in place; one idea; works in B/W; plain HALO RAVES wordmark.",
-   "status_label": "Awaiting Spirit's approval",
-   "date": "2026-10-13",
-   "request": "Still A for an email to Rise Yoga & Wellness, Golden: a listening hour in a yoga studio after class, mats down, thirty headphones, no speaker, shown on a phone.",
-   "project": "Email to Rise Yoga & Wellness, Golden",
-   "use": "Image in the outreach email to Rise Yoga & Wellness (Golden), shown on a phone",
-   "id": "REQ_RISEYOGA_A_v1",
-   "version": "v1",
-   "title": "Rise Yoga \u00b7 Still A \u00b7 listening hour on a phone \u00b7 v1",
    "refs": [
     {
-     "label": "haloraves.com",
-     "url": "https://www.haloraves.com"
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-aura (real photo, composited)",
+     "url": "https://www.haloraves.com/brand/halo-aura.jpg"
     }
    ],
-   "file": "img/REQ_RISEYOGA_A_v1.b64",
-   "full": {
-    "path": "full/REQ_RISEYOGA_A_v1.png.b64",
-    "name": "HALO_still_A_rise-yoga_2026-10-13.png",
-    "type": "image/png"
-   },
-   "status": "review",
-   "updated": "2026-10-12T22:59:15Z"
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_17_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_17_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_17_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_17_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_17.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "Built on PP_07 Riverside Night with the real product photo composited in",
+   "updated": "2026-10-12T22:54:50Z",
+   "product_method": "real product photo cut out and composited into a generated scene",
+   "builds_on": "PP_07"
   },
   {
-   "kind": "request",
-   "kindLabel": "REQUEST \u00b7 Chief of Staff",
-   "section": "Chief of Staff Requests",
-   "theme": "CHIEF OF STAFF REQUESTS",
+   "id": "PP_18",
+   "title": "HALO \u00b7 Skylight Gallery",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 Get Your HALO",
+   "section": "Product Posters",
+   "status": "review",
+   "cta": "Get Your HALO",
    "rooms": [],
-   "note": "",
-   "requested_by": "HALO Chief of Staff",
-   "rules": "No price, date, coin or health claim; shown in place; one idea; works in B/W; plain HALO RAVES wordmark.",
-   "status_label": "Awaiting Spirit's approval",
-   "date": "2026-10-13",
-   "request": "Still A for an email to Rise Yoga & Wellness, Golden: a listening hour in a yoga studio after class, mats down, thirty headphones, no speaker, shown on a phone.",
-   "project": "Email to Rise Yoga & Wellness, Golden",
-   "use": "Image in the outreach email to Rise Yoga & Wellness (Golden), shown on a phone",
-   "id": "REQ_RISEYOGA_A_v2",
-   "version": "v2",
-   "title": "Rise Yoga \u00b7 Still A \u00b7 listening hour on a phone \u00b7 v2",
    "refs": [
     {
-     "label": "haloraves.com",
-     "url": "https://www.haloraves.com"
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-hero (real photo, composited)",
+     "url": "https://www.haloraves.com/brand/halo-hero.jpg"
     }
    ],
-   "v1_id": "REQ_RISEYOGA_A_v1",
-   "of": "REQ_RISEYOGA_A_v1",
-   "file": "img/REQ_RISEYOGA_A_v2.b64",
-   "full": {
-    "path": "full/REQ_RISEYOGA_A_v2.png.b64",
-    "name": "HALO_still_A_rise-yoga_v2_2026-10-13.png",
-    "type": "image/png"
-   },
-   "status": "review",
-   "updated": "2026-10-12T22:59:15Z"
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_18_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_18_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_18_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_18_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_18.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T22:54:50Z",
+   "product_method": "real product photo cut out and composited into a generated scene"
   },
   {
-   "kind": "request",
-   "kindLabel": "REQUEST \u00b7 Chief of Staff",
-   "section": "Chief of Staff Requests",
-   "theme": "CHIEF OF STAFF REQUESTS",
+   "id": "PP_19",
+   "title": "HALO \u00b7 Moss Stone",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 Transmitter Zone",
+   "section": "Product Posters",
+   "status": "review",
+   "cta": "Transmitter Zone",
    "rooms": [],
-   "note": "",
-   "requested_by": "HALO Chief of Staff",
-   "rules": "No price, date, coin or health claim; shown in place; one idea; works in B/W; plain HALO RAVES wordmark.",
-   "status_label": "Awaiting Spirit's approval",
-   "date": "2026-10-13",
-   "request": "Still B for the line \"Thirty people. The park stays quiet.\", shown on a wall or phone.",
-   "project": "Still for the line \"Thirty people. The park stays quiet.\"",
-   "use": "Paired with the line \"Thirty people. The park stays quiet.\" in Chief of Staff outreach, shown on a wall or phone",
-   "id": "REQ_PARK_B_v1",
-   "version": "v1",
-   "title": "\"Thirty people. The park stays quiet.\" \u00b7 Still B \u00b7 v1",
    "refs": [
     {
-     "label": "haloraves.com",
-     "url": "https://www.haloraves.com"
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-aura (real photo, composited)",
+     "url": "https://www.haloraves.com/brand/halo-aura.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026124249",
+     "url": "https://www.pinterest.com/pin/1137440449704124249/"
     }
    ],
-   "file": "img/REQ_PARK_B_v1.b64",
-   "full": {
-    "path": "full/REQ_PARK_B_v1.png.b64",
-    "name": "HALO_still_B_park-stays-quiet_2026-10-13.png",
-    "type": "image/png"
-   },
-   "status": "review",
-   "updated": "2026-10-12T22:59:15Z"
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_19_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_19_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_19_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_19_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_19.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T22:54:50Z",
+   "product_method": "real product photo cut out and composited into a generated scene"
   },
   {
-   "kind": "request",
-   "kindLabel": "REQUEST \u00b7 Chief of Staff",
-   "section": "Chief of Staff Requests",
-   "theme": "CHIEF OF STAFF REQUESTS",
+   "id": "PP_20",
+   "title": "HALO \u00b7 Pink Sweep",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 Get Your HALO",
+   "section": "Product Posters",
+   "status": "review",
+   "cta": "Get Your HALO",
    "rooms": [],
-   "note": "",
-   "requested_by": "HALO Chief of Staff",
-   "rules": "No price, date, coin or health claim; shown in place; one idea; works in B/W; plain HALO RAVES wordmark.",
-   "status_label": "Awaiting Spirit's approval",
-   "date": "2026-10-13",
-   "request": "Still B for the line \"Thirty people. The park stays quiet.\", shown on a wall or phone.",
-   "project": "Still for the line \"Thirty people. The park stays quiet.\"",
-   "use": "Paired with the line \"Thirty people. The park stays quiet.\" in Chief of Staff outreach, shown on a wall or phone",
-   "id": "REQ_PARK_B_v2",
-   "version": "v2",
-   "title": "\"Thirty people. The park stays quiet.\" \u00b7 Still B \u00b7 v2",
    "refs": [
     {
-     "label": "haloraves.com",
-     "url": "https://www.haloraves.com"
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-hero (real photo, composited)",
+     "url": "https://www.haloraves.com/brand/halo-hero.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026124269",
+     "url": "https://www.pinterest.com/pin/1137440449704124269/"
     }
    ],
-   "v1_id": "REQ_PARK_B_v1",
-   "of": "REQ_PARK_B_v1",
-   "file": "img/REQ_PARK_B_v2.b64",
-   "full": {
-    "path": "full/REQ_PARK_B_v2.png.b64",
-    "name": "HALO_still_B_park-stays-quiet_v2_2026-10-13.png",
-    "type": "image/png"
-   },
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_20_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_20_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_20_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_20_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_20.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T22:54:50Z",
+   "product_method": "real product photo cut out and composited into a generated scene"
+  },
+  {
+   "id": "PP_21",
+   "title": "HALO \u00b7 Ice and Violets",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 PRIVATE RAVE",
+   "section": "Product Posters",
    "status": "review",
-   "updated": "2026-10-12T22:59:15Z"
+   "cta": "PRIVATE RAVE",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-hero (real photo, composited)",
+     "url": "https://www.haloraves.com/brand/halo-hero.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026124261",
+     "url": "https://www.pinterest.com/pin/1137440449704124261/"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_21_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_21_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_21_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_21_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_21.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T22:54:50Z",
+   "product_method": "real product photo cut out and composited into a generated scene"
+  },
+  {
+   "id": "PP_22",
+   "title": "HALO \u00b7 After Hours Flat Lay",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 Get Your HALO",
+   "section": "Product Posters",
+   "status": "review",
+   "cta": "Get Your HALO",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-still (real photo, composited)",
+     "url": "https://www.haloraves.com/brand/halo-still.jpg"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_22_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_22_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_22_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_22_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_22.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T22:54:50Z",
+   "product_method": "real product photo cut out and composited into a generated scene"
+  },
+  {
+   "id": "PP_23",
+   "title": "HALO \u00b7 Rain Window",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 Transmitter Zone",
+   "section": "Product Posters",
+   "status": "review",
+   "cta": "Transmitter Zone",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-line (real photo, composited)",
+     "url": "https://www.haloraves.com/brand/halo-line.jpg"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_23_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_23_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_23_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_23_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_23.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T22:54:50Z",
+   "product_method": "real product photo cut out and composited into a generated scene"
   }
  ],
  "updates": [
@@ -6075,6 +6215,591 @@
      "url": "https://www.pinterest.com/pin/1137440449696237405/"
     }
    ]
+  },
+  {
+   "id": "IBP_07_B1",
+   "of": "IBP_07",
+   "version": "B1",
+   "file": "img/IBP_07_B1.b64",
+   "before_file": "IBP_07",
+   "title": "IBP_07 \u2192 B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-12T22:54:50Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026124249",
+     "url": "https://www.pinterest.com/pin/1137440449704124249/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704124249/",
+     "thumb": "1137440449704124249",
+     "label": "pin \u2026124249"
+    }
+   ]
+  },
+  {
+   "id": "IBP_09_B1",
+   "of": "IBP_09",
+   "version": "B1",
+   "file": "img/IBP_09_B1.b64",
+   "before_file": "IBP_09",
+   "title": "IBP_09 \u2192 B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-12T22:54:50Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026124261",
+     "url": "https://www.pinterest.com/pin/1137440449704124261/"
+    },
+    {
+     "label": "Trend: Cloud Dancer white (Pantone Color of the Year 2026)",
+     "url": "https://www.pantone.com/articles/press-releases/pantone-announces-color-of-the-year-2026-cloud-dancer"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704124261/",
+     "thumb": "1137440449704124261",
+     "label": "pin \u2026124261"
+    }
+   ]
+  },
+  {
+   "id": "IBP_10_B1",
+   "of": "IBP_10",
+   "version": "B1",
+   "file": "img/IBP_10_B1.b64",
+   "before_file": "IBP_10",
+   "title": "IBP_10 \u2192 B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-12T22:54:50Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026124269",
+     "url": "https://www.pinterest.com/pin/1137440449704124269/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704124269/",
+     "thumb": "1137440449704124269",
+     "label": "pin \u2026124269"
+    }
+   ]
+  },
+  {
+   "id": "IBP_11_B1",
+   "of": "IBP_11",
+   "version": "B1",
+   "file": "img/IBP_11_B1.b64",
+   "before_file": "IBP_11",
+   "title": "IBP_11 \u2192 B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-12T22:54:50Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026124276",
+     "url": "https://www.pinterest.com/pin/1137440449704124276/"
+    },
+    {
+     "label": "Trend: Liquid chrome / Acid Y2K revival",
+     "url": "https://www.omoro.io/styles/acid-y2k"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704124276/",
+     "thumb": "1137440449704124276",
+     "label": "pin \u2026124276"
+    }
+   ]
+  },
+  {
+   "id": "IBP_12_B1",
+   "of": "IBP_12",
+   "version": "B1",
+   "file": "img/IBP_12_B1.b64",
+   "before_file": "IBP_12",
+   "title": "IBP_12 \u2192 B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-12T22:54:50Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026124307",
+     "url": "https://www.pinterest.com/pin/1137440449704124307/"
+    },
+    {
+     "label": "Trend: Multi-dimensional depth: one strong 3D element + 2D type",
+     "url": "https://www.youtube.com/watch?v=yHs9-RVTwsA"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704124307/",
+     "thumb": "1137440449704124307",
+     "label": "pin \u2026124307"
+    }
+   ]
+  },
+  {
+   "id": "IBP_19_B1",
+   "of": "IBP_19",
+   "version": "B1",
+   "file": "img/IBP_19_B1.b64",
+   "before_file": "IBP_19",
+   "title": "IBP_19 \u2192 B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-12T22:54:50Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026125750",
+     "url": "https://www.pinterest.com/pin/1137440449704125750/"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704125750/",
+     "thumb": "1137440449704125750",
+     "label": "pin \u2026125750"
+    }
+   ]
+  },
+  {
+   "id": "IBP_23_B1",
+   "of": "IBP_23",
+   "version": "B1",
+   "file": "img/IBP_23_B1.b64",
+   "before_file": "IBP_23",
+   "title": "IBP_23 \u2192 B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-12T22:54:50Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236631",
+     "url": "https://www.pinterest.com/pin/1137440449696236631/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696236631/",
+     "thumb": "1137440449696236631",
+     "label": "pin \u2026236631"
+    }
+   ]
+  },
+  {
+   "id": "IBP_25_B1",
+   "of": "IBP_25",
+   "version": "B1",
+   "file": "img/IBP_25_B1.b64",
+   "before_file": "IBP_25",
+   "title": "IBP_25 \u2192 B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-12T22:54:50Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026341541",
+     "url": "https://www.pinterest.com/pin/1137440449702341541/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702341541/",
+     "thumb": "1137440449702341541",
+     "label": "pin \u2026341541"
+    }
+   ]
+  },
+  {
+   "id": "IBP_26_B1",
+   "of": "IBP_26",
+   "version": "B1",
+   "file": "img/IBP_26_B1.b64",
+   "before_file": "IBP_26",
+   "title": "IBP_26 \u2192 B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-12T22:54:50Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026375526",
+     "url": "https://www.pinterest.com/pin/1137440449702375526/"
+    },
+    {
+     "label": "Trend: Analog / human-made texture (grain, letterpress, photocopy)",
+     "url": "https://www.adobe.com/express/learn/blog/design-trends-2026"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702375526/",
+     "thumb": "1137440449702375526",
+     "label": "pin \u2026375526"
+    }
+   ]
+  },
+  {
+   "id": "IBP_32_B1",
+   "of": "IBP_32",
+   "version": "B1",
+   "file": "img/IBP_32_B1.b64",
+   "before_file": "IBP_32",
+   "title": "IBP_32 \u2192 B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-12T22:54:50Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026125710",
+     "url": "https://www.pinterest.com/pin/1137440449704125710/"
+    },
+    {
+     "label": "Pinterest pin \u2026124344",
+     "url": "https://www.pinterest.com/pin/1137440449704124344/"
+    },
+    {
+     "label": "Trend: Future Medieval / cyber-gothic blackletter",
+     "url": "https://www.kittl.com/blogs/future-medieval-design-stl/"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704125710/",
+     "thumb": "1137440449704125710",
+     "label": "pin \u2026125710"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704124344/",
+     "thumb": "1137440449704124344",
+     "label": "pin \u2026124344"
+    }
+   ]
+  },
+  {
+   "id": "IBP_35_B1",
+   "of": "IBP_35",
+   "version": "B1",
+   "file": "img/IBP_35_B1.b64",
+   "before_file": "IBP_35",
+   "title": "IBP_35 \u2192 B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-12T22:54:50Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026129882",
+     "url": "https://www.pinterest.com/pin/1137440449704129882/"
+    },
+    {
+     "label": "Trend: Liquid chrome / Acid Y2K revival",
+     "url": "https://www.omoro.io/styles/acid-y2k"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704129882/",
+     "thumb": "1137440449704129882",
+     "label": "pin \u2026129882"
+    }
+   ]
+  },
+  {
+   "id": "IBP_36_B1",
+   "of": "IBP_36",
+   "version": "B1",
+   "file": "img/IBP_36_B1.b64",
+   "before_file": "IBP_36",
+   "title": "IBP_36 \u2192 B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-12T22:54:50Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026129890",
+     "url": "https://www.pinterest.com/pin/1137440449704129890/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704129890/",
+     "thumb": "1137440449704129890",
+     "label": "pin \u2026129890"
+    }
+   ]
+  },
+  {
+   "id": "IBP_38_B1",
+   "of": "IBP_38",
+   "version": "B1",
+   "file": "img/IBP_38_B1.b64",
+   "before_file": "IBP_38",
+   "title": "IBP_38 \u2192 B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-12T22:54:50Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026129896",
+     "url": "https://www.pinterest.com/pin/1137440449704129896/"
+    },
+    {
+     "label": "Trend: Analog / human-made texture (grain, letterpress, photocopy)",
+     "url": "https://www.adobe.com/express/learn/blog/design-trends-2026"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704129896/",
+     "thumb": "1137440449704129896",
+     "label": "pin \u2026129896"
+    }
+   ]
+  },
+  {
+   "id": "IBP_39_B1",
+   "of": "IBP_39",
+   "version": "B1",
+   "file": "img/IBP_39_B1.b64",
+   "before_file": "IBP_39",
+   "title": "IBP_39 \u2192 B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-12T22:54:50Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026129897",
+     "url": "https://www.pinterest.com/pin/1137440449704129897/"
+    },
+    {
+     "label": "Trend: Glitchy Glam + Extra Celestial (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704129897/",
+     "thumb": "1137440449704129897",
+     "label": "pin \u2026129897"
+    }
+   ]
+  },
+  {
+   "id": "IBP_40_B1",
+   "of": "IBP_40",
+   "version": "B1",
+   "file": "img/IBP_40_B1.b64",
+   "before_file": "IBP_40",
+   "title": "IBP_40 \u2192 B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-12T22:54:50Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026129929",
+     "url": "https://www.pinterest.com/pin/1137440449704129929/"
+    },
+    {
+     "label": "Trend: Liquid chrome / Acid Y2K revival",
+     "url": "https://www.omoro.io/styles/acid-y2k"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704129929/",
+     "thumb": "1137440449704129929",
+     "label": "pin \u2026129929"
+    }
+   ]
+  },
+  {
+   "id": "IBP_41_B1",
+   "of": "IBP_41",
+   "version": "B1",
+   "file": "img/IBP_41_B1.b64",
+   "before_file": "IBP_41",
+   "title": "IBP_41 \u2192 B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-12T22:54:50Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026129933",
+     "url": "https://www.pinterest.com/pin/1137440449704129933/"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704129933/",
+     "thumb": "1137440449704129933",
+     "label": "pin \u2026129933"
+    }
+   ]
+  },
+  {
+   "id": "P5_EV_03_B1",
+   "of": "P5_EV_03",
+   "version": "B1",
+   "file": "img/P5_EV_03_B1.b64",
+   "before_file": "P5_EV_03",
+   "title": "P5_EV_03 \u2192 B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-12T22:54:50Z",
+   "status": "review",
+   "rooms": [
+    "NIGHTS",
+    "nights:spore-amen"
+   ],
+   "theme": "NIGHTS",
+   "kind": "event",
+   "kindLabel": "EVENT \u00b7 Spore / Amen",
+   "refs": [
+    {
+     "label": "Source poster: haloraves.com/nights/spore-amen",
+     "url": "https://www.haloraves.com/nights/spore-amen"
+    }
+   ]
   }
  ],
  "kinds": {
@@ -6082,11 +6807,6 @@
    "room": "PROMO PRINTS",
    "fields": "file (preview .b64), cta, of (source art id), prints[{label,pdf (.b64 path),name}]",
    "maker": "/workspace/halo-output/promo/make_promo.py"
-  },
-  "request": {
-   "room": "CHIEF OF STAFF REQUESTS",
-   "fields": "request, project, use, rules, status_label, version, v1_id (v2+), date, full{path,name,type}",
-   "howto": "/workspace/halo-output/kb/request_board.md"
   }
  }
 }
