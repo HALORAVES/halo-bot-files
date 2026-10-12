@@ -1,7 +1,7 @@
 {
  "total": 240,
  "done": 107,
- "updated": "2026-10-12T02:27:47Z",
+ "updated": "2026-10-12T02:29:33Z",
  "items": [
   {
    "id": "cannonball_v2",
@@ -9,12 +9,14 @@
    "title": "Cannonball Creek, test",
    "theme": "CINEMATIC",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "MATTER/TYPE",
     "clients:Cannonball Creek"
    ],
-   "updated": "2026-10-11T23:50:00Z"
+   "updated": "2026-10-11T23:50:00Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "mono_lith_01",
@@ -22,7 +24,7 @@
    "title": "Alpine Monolith",
    "theme": "MONO/LITH",
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "MONO/LITH"
    ],
@@ -39,7 +41,8 @@
      "1137440449703901949",
      "1137440449703900346"
     ]
-   }
+   },
+   "vote": "yay"
   },
   {
    "id": "dream_collage_01",
@@ -47,7 +50,7 @@
    "title": "Dune Jellyfish",
    "theme": "DREAM/COLLAGE",
    "note": "",
-   "status": "nay",
+   "status": "build",
    "rooms": [
     "DREAM/COLLAGE"
    ],
@@ -64,7 +67,9 @@
      "1137440449704036304",
      "1137440449704036267"
     ]
-   }
+   },
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "tape_deck_01",
@@ -72,7 +77,7 @@
    "title": "Alley Cassette",
    "theme": "TAPE/DECK",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "TAPE/DECK"
    ],
@@ -89,7 +94,9 @@
      "1137440449702424044",
      "1137440449702384515"
     ]
-   }
+   },
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "pour_drip_01",
@@ -97,7 +104,7 @@
    "title": "Red Rock Pour",
    "theme": "POUR/DRIP",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "POUR/DRIP"
    ],
@@ -114,7 +121,9 @@
      "1137440449704036484",
      "1137440449704036390"
     ]
-   }
+   },
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "toy_smile_01",
@@ -122,7 +131,7 @@
    "title": "Meadow Smile",
    "theme": "TOY/SMILE",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "TOY/SMILE"
    ],
@@ -139,7 +148,9 @@
      "1137440449704036277",
      "1137440449704036222"
     ]
-   }
+   },
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "signal_noise_01",
@@ -164,7 +175,8 @@
      "1137440449704036496",
      "1137440449704036373"
     ]
-   }
+   },
+   "vote": "nay"
   },
   {
    "id": "T_MONOLITH_01",
@@ -172,12 +184,14 @@
    "title": "Balanced Tower",
    "theme": "MONO/LITH",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "MONO/LITH"
    ],
    "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:41:52Z"
+   "updated": "2026-10-12T01:41:52Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "T_DREAMCOLLAGE_01",
@@ -190,7 +204,8 @@
     "DREAM/COLLAGE"
    ],
    "sources": "HALO Pinterest catalog: DREAM/COLLAGE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:41:52Z"
+   "updated": "2026-10-12T01:41:52Z",
+   "vote": "nay"
   },
   {
    "id": "T_HEADOPEN_01",
@@ -203,7 +218,8 @@
     "HEAD/OPEN"
    ],
    "sources": "HALO Pinterest catalog: HEAD/OPEN board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:41:52Z"
+   "updated": "2026-10-12T01:41:52Z",
+   "vote": "nay"
   },
   {
    "id": "T_HIDESKIN_01",
@@ -216,7 +232,8 @@
     "HIDE/SKIN"
    ],
    "sources": "HALO Pinterest catalog: HIDE/SKIN board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:41:52Z"
+   "updated": "2026-10-12T01:41:52Z",
+   "vote": "nay"
   },
   {
    "id": "T_SMALLLIFE_01",
@@ -224,12 +241,13 @@
    "title": "Haloed Spider",
    "theme": "SMALL/LIFE",
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "SMALL/LIFE"
    ],
    "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:41:52Z"
+   "updated": "2026-10-12T01:41:52Z",
+   "vote": "yay"
   },
   {
    "id": "T_MATTERTYPE_01",
@@ -242,7 +260,8 @@
     "MATTER/TYPE"
    ],
    "sources": "HALO Pinterest catalog: MATTER/TYPE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:41:52Z"
+   "updated": "2026-10-12T01:41:52Z",
+   "vote": "nay"
   },
   {
    "id": "T_BENTTYPE_01",
@@ -250,12 +269,14 @@
    "title": "Chrome Wave",
    "theme": "BENT/TYPE",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "BENT/TYPE"
    ],
    "sources": "HALO Pinterest catalog: BENT/TYPE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:41:52Z"
+   "updated": "2026-10-12T01:41:52Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "T_SIGNMARK_01",
@@ -268,7 +289,8 @@
     "SIGN/MARK"
    ],
    "sources": "HALO Pinterest catalog: SIGN/MARK board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:41:52Z"
+   "updated": "2026-10-12T01:41:52Z",
+   "vote": "nay"
   },
   {
    "id": "T_BITECOLOR_01",
@@ -281,7 +303,8 @@
     "BITE/COLOR"
    ],
    "sources": "HALO Pinterest catalog: BITE/COLOR board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:41:52Z"
+   "updated": "2026-10-12T01:41:52Z",
+   "vote": "nay"
   },
   {
    "id": "T_TAPEDECK_01",
@@ -289,12 +312,14 @@
    "title": "Forest Cassette",
    "theme": "TAPE/DECK",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "TAPE/DECK"
    ],
    "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:41:52Z"
+   "updated": "2026-10-12T01:41:52Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "T_TOYSMILE_01",
@@ -307,7 +332,8 @@
     "TOY/SMILE"
    ],
    "sources": "HALO Pinterest catalog: TOY/SMILE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "nay"
   },
   {
    "id": "T_ACIDGRADIENT_01",
@@ -320,7 +346,8 @@
     "ACID/GRADIENT"
    ],
    "sources": "HALO Pinterest catalog: ACID/GRADIENT board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "nay"
   },
   {
    "id": "T_POSTERGRID_01",
@@ -333,7 +360,8 @@
     "POSTER/GRID"
    ],
    "sources": "HALO Pinterest catalog: POSTER/GRID board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "nay"
   },
   {
    "id": "T_POURDRIP_01",
@@ -341,12 +369,14 @@
    "title": "Molten Sphere",
    "theme": "POUR/DRIP",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "POUR/DRIP"
    ],
    "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "T_SIGNALNOISE_01",
@@ -354,12 +384,14 @@
    "title": "Glitch Keep",
    "theme": "SIGNAL/NOISE",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "SIGNAL/NOISE"
    ],
    "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "T_MONOLITH_02",
@@ -367,12 +399,14 @@
    "title": "Broken Bridge",
    "theme": "MONO/LITH",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "MONO/LITH"
    ],
    "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "T_DREAMCOLLAGE_02",
@@ -385,7 +419,8 @@
     "DREAM/COLLAGE"
    ],
    "sources": "HALO Pinterest catalog: DREAM/COLLAGE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "nay"
   },
   {
    "id": "T_HEADOPEN_02",
@@ -393,12 +428,14 @@
    "title": "Galaxy Helmet",
    "theme": "HEAD/OPEN",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "HEAD/OPEN"
    ],
    "sources": "HALO Pinterest catalog: HEAD/OPEN board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "T_HIDESKIN_02",
@@ -406,12 +443,14 @@
    "title": "Veined Stone",
    "theme": "HIDE/SKIN",
    "note": "",
-   "status": "nay",
+   "status": "build",
    "rooms": [
     "HIDE/SKIN"
    ],
    "sources": "HALO Pinterest catalog: HIDE/SKIN board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "T_SMALLLIFE_02",
@@ -419,12 +458,14 @@
    "title": "Record Bee",
    "theme": "SMALL/LIFE",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "SMALL/LIFE"
    ],
    "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "T_MATTERTYPE_02",
@@ -432,12 +473,14 @@
    "title": "Ocean BASS",
    "theme": "MATTER/TYPE",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "MATTER/TYPE"
    ],
    "sources": "HALO Pinterest catalog: MATTER/TYPE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "T_BENTTYPE_02",
@@ -536,12 +579,13 @@
    "title": "Cube Falls",
    "theme": "POUR/DRIP",
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "POUR/DRIP"
    ],
    "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "yay"
   },
   {
    "id": "T_SIGNALNOISE_02",
@@ -580,7 +624,8 @@
     "DREAM/COLLAGE"
    ],
    "sources": "HALO Pinterest catalog: DREAM/COLLAGE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "nay"
   },
   {
    "id": "T_HEADOPEN_03",
@@ -588,12 +633,14 @@
    "title": "Speaker Head",
    "theme": "HEAD/OPEN",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "HEAD/OPEN"
    ],
    "sources": "HALO Pinterest catalog: HEAD/OPEN board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "T_HIDESKIN_03",
@@ -606,7 +653,8 @@
     "HIDE/SKIN"
    ],
    "sources": "HALO Pinterest catalog: HIDE/SKIN board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "nay"
   },
   {
    "id": "T_SMALLLIFE_03",
@@ -619,7 +667,8 @@
     "SMALL/LIFE"
    ],
    "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "nay"
   },
   {
    "id": "T_MATTERTYPE_03",
@@ -632,7 +681,8 @@
     "MATTER/TYPE"
    ],
    "sources": "HALO Pinterest catalog: MATTER/TYPE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "nay"
   },
   {
    "id": "T_BENTTYPE_03",
@@ -645,7 +695,8 @@
     "BENT/TYPE"
    ],
    "sources": "HALO Pinterest catalog: BENT/TYPE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "nay"
   },
   {
    "id": "T_SIGNMARK_03",
@@ -658,7 +709,8 @@
     "SIGN/MARK"
    ],
    "sources": "HALO Pinterest catalog: SIGN/MARK board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "nay"
   },
   {
    "id": "T_BITECOLOR_03",
@@ -671,7 +723,8 @@
     "BITE/COLOR"
    ],
    "sources": "HALO Pinterest catalog: BITE/COLOR board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "nay"
   },
   {
    "id": "T_TAPEDECK_03",
@@ -679,12 +732,14 @@
    "title": "Canyon Boombox",
    "theme": "TAPE/DECK",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "TAPE/DECK"
    ],
    "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "T_TOYSMILE_03",
@@ -692,12 +747,14 @@
    "title": "Dam Duck",
    "theme": "TOY/SMILE",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "TOY/SMILE"
    ],
    "sources": "HALO Pinterest catalog: TOY/SMILE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "T_ACIDGRADIENT_03",
@@ -705,12 +762,14 @@
    "title": "Tunnel Glow",
    "theme": "ACID/GRADIENT",
    "note": "",
-   "status": "nay",
+   "status": "build",
    "rooms": [
     "ACID/GRADIENT"
    ],
    "sources": "HALO Pinterest catalog: ACID/GRADIENT board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "T_POSTERGRID_03",
@@ -723,7 +782,8 @@
     "POSTER/GRID"
    ],
    "sources": "HALO Pinterest catalog: POSTER/GRID board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "nay"
   },
   {
    "id": "T_POURDRIP_03",
@@ -731,12 +791,14 @@
    "title": "Melting Record",
    "theme": "POUR/DRIP",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "POUR/DRIP"
    ],
    "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "T_SIGNALNOISE_03",
@@ -744,12 +806,14 @@
    "title": "Glitch Horses",
    "theme": "SIGNAL/NOISE",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "SIGNAL/NOISE"
    ],
    "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "T_MONOLITH_04",
@@ -757,12 +821,14 @@
    "title": "Sea Stairs",
    "theme": "MONO/LITH",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "MONO/LITH"
    ],
    "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "T_DREAMCOLLAGE_04",
@@ -775,7 +841,8 @@
     "DREAM/COLLAGE"
    ],
    "sources": "HALO Pinterest catalog: DREAM/COLLAGE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "nay"
   },
   {
    "id": "T_HEADOPEN_04",
@@ -783,12 +850,13 @@
    "title": "Storm Head",
    "theme": "HEAD/OPEN",
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "HEAD/OPEN"
    ],
    "sources": "HALO Pinterest catalog: HEAD/OPEN board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "yay"
   },
   {
    "id": "T_HIDESKIN_04",
@@ -801,7 +869,8 @@
     "HIDE/SKIN"
    ],
    "sources": "HALO Pinterest catalog: HIDE/SKIN board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "nay"
   },
   {
    "id": "T_SMALLLIFE_04",
@@ -814,7 +883,8 @@
     "SMALL/LIFE"
    ],
    "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "nay"
   },
   {
    "id": "T_MATTERTYPE_04",
@@ -931,7 +1001,8 @@
     "POUR/DRIP"
    ],
    "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "nay"
   },
   {
    "id": "T_SIGNALNOISE_04",
@@ -944,7 +1015,8 @@
     "SIGNAL/NOISE"
    ],
    "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:49:17Z"
+   "updated": "2026-10-12T01:49:17Z",
+   "vote": "nay"
   },
   {
    "id": "T_MONOLITH_05",
@@ -952,12 +1024,13 @@
    "title": "Inverted Pyramid",
    "theme": "MONO/LITH",
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "MONO/LITH"
    ],
    "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:51:57Z"
+   "updated": "2026-10-12T01:51:57Z",
+   "vote": "yay"
   },
   {
    "id": "T_DREAMCOLLAGE_05",
@@ -1009,7 +1082,8 @@
     "SMALL/LIFE"
    ],
    "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:51:57Z"
+   "updated": "2026-10-12T01:51:57Z",
+   "vote": "yay"
   },
   {
    "id": "T_MATTERTYPE_05",
@@ -1061,7 +1135,8 @@
     "BITE/COLOR"
    ],
    "sources": "HALO Pinterest catalog: BITE/COLOR board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:51:57Z"
+   "updated": "2026-10-12T01:51:57Z",
+   "vote": "nay"
   },
   {
    "id": "T_TAPEDECK_05",
@@ -1074,7 +1149,8 @@
     "TAPE/DECK"
    ],
    "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:51:57Z"
+   "updated": "2026-10-12T01:51:57Z",
+   "vote": "nay"
   },
   {
    "id": "T_TOYSMILE_05",
@@ -1087,7 +1163,8 @@
     "TOY/SMILE"
    ],
    "sources": "HALO Pinterest catalog: TOY/SMILE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:51:57Z"
+   "updated": "2026-10-12T01:51:57Z",
+   "vote": "nay"
   },
   {
    "id": "T_ACIDGRADIENT_05",
@@ -1100,7 +1177,8 @@
     "ACID/GRADIENT"
    ],
    "sources": "HALO Pinterest catalog: ACID/GRADIENT board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:51:57Z"
+   "updated": "2026-10-12T01:51:57Z",
+   "vote": "nay"
   },
   {
    "id": "T_POSTERGRID_05",
@@ -1126,7 +1204,8 @@
     "POUR/DRIP"
    ],
    "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:51:57Z"
+   "updated": "2026-10-12T01:51:57Z",
+   "vote": "nay"
   },
   {
    "id": "T_SIGNALNOISE_05",
@@ -1134,12 +1213,14 @@
    "title": "CRT Tower",
    "theme": "SIGNAL/NOISE",
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "SIGNAL/NOISE"
    ],
    "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:51:57Z"
+   "updated": "2026-10-12T01:51:57Z",
+   "vote": "build on",
+   "flag": "build_on"
   },
   {
    "id": "N_TIMESKA_02",
@@ -1506,7 +1587,8 @@
    "rooms": [
     "MATTER/TYPE",
     "clients:Cannonball Creek"
-   ]
+   ],
+   "vote": "yay"
   },
   {
    "id": "cannonball_v5",
