@@ -1,7 +1,7 @@
 {
-  "total": 142,
-  "done": 142,
-  "updated": "2026-10-12T21:54:41Z",
+  "total": 143,
+  "done": 143,
+  "updated": "2026-10-12T21:55:14Z",
   "items": [
     {
       "id": "mono_lith_01",
@@ -5231,6 +5231,46 @@
       "theme": "PRODUCT POSTERS",
       "note": "",
       "updated": "2026-10-12T21:54:41Z"
+    },
+    {
+      "id": "PP_13",
+      "title": "HALO \u00b7 Flat Lay \u00b7 After Hours",
+      "kind": "product",
+      "kindLabel": "PRODUCT \u00b7 RSVP",
+      "section": "Product Posters",
+      "status": "review",
+      "cta": "RSVP",
+      "rooms": [],
+      "refs": [
+        {
+          "label": "haloraves.com/halo",
+          "url": "https://www.haloraves.com/halo"
+        },
+        {
+          "label": "Product shot halo-still",
+          "url": "https://www.haloraves.com/brand/halo-still.jpg"
+        },
+        {
+          "label": "Pinterest pin \u2026129886",
+          "url": "https://www.pinterest.com/pin/1137440449704129886/"
+        }
+      ],
+      "prints": [
+        {
+          "label": "Letter 8.5\u00d711",
+          "pdf": "promo/PP_13_letter.pdf.b64",
+          "name": "HALO_PRODUCT_PP_13_letter.pdf"
+        },
+        {
+          "label": "11\u00d717",
+          "pdf": "promo/PP_13_tabloid.pdf.b64",
+          "name": "HALO_PRODUCT_PP_13_tabloid.pdf"
+        }
+      ],
+      "file": "img/PP_13.b64",
+      "theme": "PRODUCT POSTERS",
+      "note": "",
+      "updated": "2026-10-12T21:55:14Z"
     }
   ],
   "updates": [
