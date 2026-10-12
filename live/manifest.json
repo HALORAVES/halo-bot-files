@@ -1,7 +1,7 @@
 {
-  "total": 143,
-  "done": 143,
-  "updated": "2026-10-12T21:55:14Z",
+  "total": 144,
+  "done": 144,
+  "updated": "2026-10-12T21:55:43Z",
   "items": [
     {
       "id": "mono_lith_01",
@@ -5271,6 +5271,46 @@
       "theme": "PRODUCT POSTERS",
       "note": "",
       "updated": "2026-10-12T21:55:14Z"
+    },
+    {
+      "id": "PP_14",
+      "title": "HALO \u00b7 Cup Detail \u00b7 Glow Line",
+      "kind": "product",
+      "kindLabel": "PRODUCT \u00b7 Transmitter Zone",
+      "section": "Product Posters",
+      "status": "review",
+      "cta": "Transmitter Zone",
+      "rooms": [],
+      "refs": [
+        {
+          "label": "haloraves.com/halo",
+          "url": "https://www.haloraves.com/halo"
+        },
+        {
+          "label": "Product shot halo-sticker",
+          "url": "https://www.haloraves.com/brand/halo-sticker.jpg"
+        },
+        {
+          "label": "Pinterest pin \u2026129882",
+          "url": "https://www.pinterest.com/pin/1137440449704129882/"
+        }
+      ],
+      "prints": [
+        {
+          "label": "Letter 8.5\u00d711",
+          "pdf": "promo/PP_14_letter.pdf.b64",
+          "name": "HALO_PRODUCT_PP_14_letter.pdf"
+        },
+        {
+          "label": "11\u00d717",
+          "pdf": "promo/PP_14_tabloid.pdf.b64",
+          "name": "HALO_PRODUCT_PP_14_tabloid.pdf"
+        }
+      ],
+      "file": "img/PP_14.b64",
+      "theme": "PRODUCT POSTERS",
+      "note": "",
+      "updated": "2026-10-12T21:55:43Z"
     }
   ],
   "updates": [
