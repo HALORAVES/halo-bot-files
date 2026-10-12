@@ -101,6 +101,7 @@ function rooms(){const P=all(),live=P.filter(x=>stat(x)!=='nay'),R=[];
  R.push({g:'WALL',id:'UPDATES',name:'UPDATES',law:'Each new version beside the one before it, with the note that moved it.',f:x=>x.upd});
  R.push({g:'WALL',id:'KEEPERS',name:'KEEPERS',law:'The gallery. Only what earned a KEEP.',f:x=>stat(x)==='keep'});
  R.push({g:'WALL',id:'IN REVIEW',name:'IN REVIEW',law:'New pieces waiting on a call: KEEP, YAY, NAY or BUILD ON.',f:x=>isRev(x)});
+ R.push({g:'WALL',id:'INSPIRED BY PINTEREST',name:'INSPIRED BY PINTEREST',law:'Each piece built from a pin on the HALO RAVES board, with its source pin on the card. Single-pin pieces are marked.',f:x=>x.section==='Inspired by Pinterest'});
  R.push({g:'PRINT',id:'PROMO PRINTS',name:'PROMO PRINTS',law:'Print-ready brand pieces: 300 dpi PDF, 0.125in bleed, haloraves.com + one CTA. Download and take to the print shop.',f:x=>kof(x)[0]==='promo'});
  THEMES.forEach(([n,l])=>R.push({g:'THEMES',id:'t:'+n,name:n,law:l,f:x=>stat(x)!=='nay'&&rms(x).includes(n)}));
  NIGHTS.forEach(n=>R.push({g:'NIGHTS',id:'nights:'+n,name:n.replace(/-/g,' '),law:'haloraves.com/nights/'+n,f:x=>stat(x)!=='nay'&&rms(x).includes('nights:'+n)}));
