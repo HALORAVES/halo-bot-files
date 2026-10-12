@@ -1,7 +1,7 @@
 {
-  "total": 144,
-  "done": 144,
-  "updated": "2026-10-12T21:55:43Z",
+  "total": 145,
+  "done": 145,
+  "updated": "2026-10-12T21:56:13Z",
   "items": [
     {
       "id": "mono_lith_01",
@@ -5311,6 +5311,46 @@
       "theme": "PRODUCT POSTERS",
       "note": "",
       "updated": "2026-10-12T21:55:43Z"
+    },
+    {
+      "id": "PP_15",
+      "title": "HALO \u00b7 Twin Glow",
+      "kind": "product",
+      "kindLabel": "PRODUCT \u00b7 PRIVATE RAVE",
+      "section": "Product Posters",
+      "status": "review",
+      "cta": "PRIVATE RAVE",
+      "rooms": [],
+      "refs": [
+        {
+          "label": "haloraves.com/halo",
+          "url": "https://www.haloraves.com/halo"
+        },
+        {
+          "label": "Product shot halo-close",
+          "url": "https://www.haloraves.com/brand/halo-close.jpg"
+        },
+        {
+          "label": "Pinterest pin \u2026340956",
+          "url": "https://www.pinterest.com/pin/1137440449702340956/"
+        }
+      ],
+      "prints": [
+        {
+          "label": "Letter 8.5\u00d711",
+          "pdf": "promo/PP_15_letter.pdf.b64",
+          "name": "HALO_PRODUCT_PP_15_letter.pdf"
+        },
+        {
+          "label": "11\u00d717",
+          "pdf": "promo/PP_15_tabloid.pdf.b64",
+          "name": "HALO_PRODUCT_PP_15_tabloid.pdf"
+        }
+      ],
+      "file": "img/PP_15.b64",
+      "theme": "PRODUCT POSTERS",
+      "note": "",
+      "updated": "2026-10-12T21:56:13Z"
     }
   ],
   "updates": [
