@@ -35,7 +35,8 @@ button:hover,button.on{background:var(--y);color:#000}button.keep{border-color:v
 #refs img{height:56px;margin:4px 4px 0 0;border:1px solid #444}#close{position:fixed;top:10px;right:14px;z-index:51}#send{width:100%;margin-top:12px;padding:12px;font-size:13px;background:#ff0;color:#000}
 #fbmsg{font-size:12px;margin-top:6px;color:#aaa}#fbmsg a{color:#ff0}
 .kp{display:inline-block;font:800 9px Arial;letter-spacing:.08em;padding:2px 7px;border-radius:9px;margin:0 0 5px;color:#000}.kp.client{background:#ff3fa4}.kp.general{background:#9ad7ff}.kp.event{background:#ffb000}.kf{display:flex;gap:4px;flex-wrap:wrap;margin:0 0 8px}.kf button{font:800 10px Arial;padding:3px 7px}#lbk{position:absolute;top:12px;left:12px;z-index:5}.rf{font:10px Arial;margin:4px 0;line-height:1.5}.rf a{color:#9ad7ff;margin-right:8px;text-decoration:underline}#lbr{margin:6px 0}#grid.kg{grid-template-columns:repeat(auto-fill,minmax(420px,1fr))}.kc{background:#0b0b0b;border:1px solid #222}.kc img{width:100%;display:block;cursor:zoom-in}.kc .ki{padding:10px 12px}.kc .kt{font:800 15px Arial;margin:4px 0}.kc .ka{display:flex;gap:6px;margin-top:8px}.kc form{display:none;margin-top:8px}.kc form.on{display:block}.kc input,.kc textarea{width:100%;box-sizing:border-box;background:#111;color:#eee;border:1px solid #333;margin:3px 0;padding:6px;font:12px Arial}
-#fs{position:fixed;inset:0;background:#000e;display:none;align-items:center;justify-content:center;z-index:99;cursor:zoom-out}#fs img{max-width:98vw;max-height:98vh}@media(max-width:760px){#grid.kg{grid-template-columns:1fr}}.ru{display:flex;gap:4px;margin:3px 0}.ru input{flex:1;background:#111;color:#eee;border:1px solid #333;padding:5px;font:12px Arial}.addref{font:700 10px Arial;padding:3px 7px}</style></head><body>
+#fs{position:fixed;inset:0;background:#000e;display:none;align-items:center;justify-content:center;z-index:99;cursor:zoom-out}#fs img{max-width:98vw;max-height:98vh}@media(max-width:760px){#grid.kg{grid-template-columns:1fr}}.ru{display:flex;gap:4px;margin:3px 0}.ru input{flex:1;background:#111;color:#eee;border:1px solid #333;padding:5px;font:12px Arial}.addref{font:700 10px Arial;padding:3px 7px}.sp{font:700 10px Arial;letter-spacing:.08em;color:#ff0;margin:6px 0}.sp a{display:inline-flex;align-items:center;gap:4px;margin:3px 6px 0 0;color:#ddd;text-decoration:none;font-weight:400}.sp img{width:34px;height:34px;object-fit:cover;border:1px solid #555}
+</style></head><body>
 <div id="top"><div><div id="wm">HALO STILLS — LIVE</div><div id="count">0 / 150 KEPT</div></div>
 <div id="prog"><div id="bar"><div id="fill"></div></div><div id="upd">loading…</div></div>
 <button id="pend">SEND ALL PENDING (0)</button><button id="exp" title="Save all your marks, notes and markup images as one file">⬇ DOWNLOAD</button></div>
@@ -56,6 +57,9 @@ const gh=(t,b)=>`https://github.com/${REPO}/issues/new?title=${encodeURIComponen
 function issue(id,v){return gh('vote: '+id+' '+v)}
 const save=()=>{localStorage.setItem(K,JSON.stringify(votes));localStorage.setItem(KK,JSON.stringify(keeps));localStorage.setItem(PK,JSON.stringify(pend))};
 const kof=it=>{if(it.kind)return[it.kind,it.kindLabel||it.kind.toUpperCase()];const r=it.rooms||[];const n=r.find(q=>/^(nights|events?):/.test(q));if(n||/^N_/.test(it.id)||it.theme==='NIGHTS')return['event','EVENT'+(n?' · '+n.split(':')[1]:'')];const c=r.find(q=>/^(clients?|prospects?):/.test(q));if(c)return['client','CLIENT · '+c.split(':')[1]];return['general','GENERAL']};
+let ST=null;const thumbs=()=>ST||(ST=fetch('srcthumbs.json?v='+encodeURIComponent(M.updated)).then(r=>r.ok?r.json():{}).catch(()=>({})));
+const srcH=it=>(it.source_pins&&it.source_pins.length)?`<div class="sp">SOURCE PINS: ${it.source_pins.map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener"><img data-th="${esc(s.thumb||'')}" alt="${esc(s.label||'pin')}">${esc(s.label||s.url)}</a>`).join('')}</div>`:'';
+function fillTh(d){const ims=d.querySelectorAll('img[data-th]');if(!ims.length)return;thumbs().then(T=>ims.forEach(i=>{const t=T[i.dataset.th];if(t)i.src='data:image/jpeg;base64,'+t;else i.remove()}))}
 const refsH=it=>(it.refs&&it.refs.length)?`<div class="rf">REF: ${it.refs.map(r=>`<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.label)}</a>`).join('')}</div>`:'';
 const pill=it=>{const[k,l]=kof(it);return`<span class="kp ${k}">${esc(l)}</span>`};
 let kindF=localStorage.getItem('halo_kindf')||'all';
@@ -75,7 +79,7 @@ function b64blob(it){return fetch(it.file+'?v='+encodeURIComponent(M.updated)).t
 function dlOne(it){b64blob(it).then(bl=>{const a=document.createElement('a');a.href=URL.createObjectURL(bl);a.download=it.id+'.jpg';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),5000)})}
 function full(src){if(!src)return;$('fsimg').src=src;$('fs').style.display='flex'}
 function ktile(it){const d=document.createElement('div');d.className='kc';const p=bon[it.id]||{};
- d.innerHTML=`<img alt="${esc(it.title||it.id)}"><div class="ki">${pill(it)}<div class="kt">${esc(it.title||it.id)}</div><div class="th">${esc(it.id)}</div>${refsH(it)}
+ d.innerHTML=`<img alt="${esc(it.title||it.id)}"><div class="ki">${pill(it)}<div class="kt">${esc(it.title||it.id)}</div><div class="th">${esc(it.id)}</div>${srcH(it)}${refsH(it)}
  <div class="ka"><button data-a="dl">⬇ DOWNLOAD</button><button data-a="bo">BUILD ON</button></div>
  <form><input name="t" placeholder="Client / target (optional), e.g. build for Atomic Cowboy" value="${esc(p.target||'')}"><textarea name="n" rows="3" placeholder="What to build on this…">${esc(p.note||'')}</textarea><div class="rub"></div><button type="submit">SEND BUILD ON →</button> <span class="bm"></span></form></div>`;
  const im=d.querySelector('img');b64img(im,it.file,it);im.onclick=()=>full(im.src);
@@ -85,6 +89,7 @@ function ktile(it){const d=document.createElement('div');d.className='kc';const 
  f.onsubmit=e=>{e.preventDefault();const t=f.t.value.trim(),n=f.n.value.trim(),us=urlsOf(f.querySelector('.rub'));if(!n&&!t){f.querySelector('.bm').textContent='write a note first';return}
   bon[it.id]={target:t,note:n,urls:us,t:new Date().toISOString()};localStorage.setItem(BK,JSON.stringify(bon));
   open(`https://github.com/${REPO}/issues/new?title=${encodeURIComponent('buildon: '+it.id+(t?' → '+t:''))}&body=${encodeURIComponent('Target: '+(t||'(none)')+'\nNote: '+(n||'(none)')+refLines(us))}`,'_blank');f.querySelector('.bm').textContent='saved · GitHub issue opened'};
+ fillTh(d);
  return d}
 function rooms(){const P=all(),live=P.filter(x=>stat(x)!=='nay'),R=[];
  R.push({g:'WALL',id:'UPDATES',name:'UPDATES',law:'Each new version beside the one before it, with the note that moved it.',f:x=>x.upd});
@@ -106,8 +111,8 @@ function tile(it){const v=votes[it.id],st=stat(it),d=document.createElement('div
  const pic=`<img class="main" alt="${esc(it.title||it.id)}">`;
  d.innerHTML=(it.upd?`<div class="ba"><figure><figcaption>BEFORE</figcaption><img class="bef"></figure><figure><figcaption>AFTER</figcaption>${pic}</figure></div>`:pic)+
  `<div class="i"><span class="st ${st}">${st.toUpperCase()}</span>${pill(it)}<div class="th">${it.upd?`<span class="vt">${esc(it.version)}</span>UPDATE OF ${esc(it.of)}`:esc(it.theme||rms(it).filter(r=>!r.includes(':')).join(' · '))}</div><div class="ti">${esc(it.title||it.id)}</div>${it.note?`<div class="nt">${it.upd?'FEEDBACK: ':''}${esc(it.note)}</div>`:''}
- ${refsH(it)}<div class="v"><button class="keep${keeps[it.id]?' on':''}" data-x="keep">KEEP</button>${['yay','nay','build on'].map(x=>`<button data-x="${x}" class="${v===x?'on':''}">${x.toUpperCase()}</button>`).join('')}<button data-x="fb">✎ FEEDBACK</button></div>${v?`<a class="s" target="_blank" href="${issue(it.id,v)}">→ send “${v}” to the bot</a>`:''}</div>`;
- const im=d.querySelector('img.main');im.onclick=()=>openLB(it);b64img(im,it.file,it);
+ ${srcH(it)}${refsH(it)}<div class="v"><button class="keep${keeps[it.id]?' on':''}" data-x="keep">KEEP</button>${['yay','nay','build on'].map(x=>`<button data-x="${x}" class="${v===x?'on':''}">${x.toUpperCase()}</button>`).join('')}<button data-x="fb">✎ FEEDBACK</button></div>${v?`<a class="s" target="_blank" href="${issue(it.id,v)}">→ send “${v}” to the bot</a>`:''}</div>`;
+ fillTh(d);const im=d.querySelector('img.main');im.onclick=()=>openLB(it);b64img(im,it.file,it);
  if(it.upd){const be=d.querySelector('img.bef');if(bef){b64img(be,bef.file);be.style.cursor='zoom-in';be.onclick=()=>openLB(bef)}}
  d.querySelectorAll('.v button').forEach(b=>b.onclick=()=>b.dataset.x==='fb'?openLB(it):act(it,b.dataset.x));return d}
 function draw(){if(!M)return;const R=rooms();let r=R.find(x=>x.id===room);if(!r){room='UPDATES';r=R[0]}nav(R);
