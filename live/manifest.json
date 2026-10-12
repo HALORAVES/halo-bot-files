@@ -1,7 +1,7 @@
 {
-  "total": 134,
-  "done": 134,
-  "updated": "2026-10-12T21:50:46Z",
+  "total": 135,
+  "done": 135,
+  "updated": "2026-10-12T21:51:15Z",
   "items": [
     {
       "id": "mono_lith_01",
@@ -4911,6 +4911,46 @@
       "theme": "PRODUCT POSTERS",
       "note": "",
       "updated": "2026-10-12T21:50:46Z"
+    },
+    {
+      "id": "PP_04",
+      "title": "HALO \u00b7 Chrome Pool",
+      "kind": "product",
+      "kindLabel": "PRODUCT \u00b7 PRIVATE RAVE",
+      "section": "Product Posters",
+      "status": "review",
+      "cta": "PRIVATE RAVE",
+      "rooms": [],
+      "refs": [
+        {
+          "label": "haloraves.com/halo",
+          "url": "https://www.haloraves.com/halo"
+        },
+        {
+          "label": "Product shot look-acid",
+          "url": "https://www.haloraves.com/brand/look-acid.jpg"
+        },
+        {
+          "label": "Pinterest pin \u2026125691",
+          "url": "https://www.pinterest.com/pin/1137440449704125691/"
+        }
+      ],
+      "prints": [
+        {
+          "label": "Letter 8.5\u00d711",
+          "pdf": "promo/PP_04_letter.pdf.b64",
+          "name": "HALO_PRODUCT_PP_04_letter.pdf"
+        },
+        {
+          "label": "11\u00d717",
+          "pdf": "promo/PP_04_tabloid.pdf.b64",
+          "name": "HALO_PRODUCT_PP_04_tabloid.pdf"
+        }
+      ],
+      "file": "img/PP_04.b64",
+      "theme": "PRODUCT POSTERS",
+      "note": "",
+      "updated": "2026-10-12T21:51:15Z"
     }
   ],
   "updates": [
