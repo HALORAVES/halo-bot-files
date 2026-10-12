@@ -1,7 +1,7 @@
 {
-  "total": 133,
-  "done": 133,
-  "updated": "2026-10-12T21:50:18Z",
+  "total": 134,
+  "done": 134,
+  "updated": "2026-10-12T21:50:46Z",
   "items": [
     {
       "id": "mono_lith_01",
@@ -4871,6 +4871,46 @@
       "theme": "PRODUCT POSTERS",
       "note": "",
       "updated": "2026-10-12T21:50:18Z"
+    },
+    {
+      "id": "PP_03",
+      "title": "HALO \u00b7 Levitation \u00b7 Tide",
+      "kind": "product",
+      "kindLabel": "PRODUCT \u00b7 Get Your HALO",
+      "section": "Product Posters",
+      "status": "review",
+      "cta": "Get Your HALO",
+      "rooms": [],
+      "refs": [
+        {
+          "label": "haloraves.com/halo",
+          "url": "https://www.haloraves.com/halo"
+        },
+        {
+          "label": "Product shot halo-night-tide",
+          "url": "https://www.haloraves.com/brand/halo-night-tide.jpg"
+        },
+        {
+          "label": "Pinterest pin \u2026125761",
+          "url": "https://www.pinterest.com/pin/1137440449704125761/"
+        }
+      ],
+      "prints": [
+        {
+          "label": "Letter 8.5\u00d711",
+          "pdf": "promo/PP_03_letter.pdf.b64",
+          "name": "HALO_PRODUCT_PP_03_letter.pdf"
+        },
+        {
+          "label": "11\u00d717",
+          "pdf": "promo/PP_03_tabloid.pdf.b64",
+          "name": "HALO_PRODUCT_PP_03_tabloid.pdf"
+        }
+      ],
+      "file": "img/PP_03.b64",
+      "theme": "PRODUCT POSTERS",
+      "note": "",
+      "updated": "2026-10-12T21:50:46Z"
     }
   ],
   "updates": [
