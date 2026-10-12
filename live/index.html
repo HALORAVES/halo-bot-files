@@ -37,7 +37,7 @@ button:hover,button.on{background:var(--y);color:#000}button.keep{border-color:v
 .kp{display:inline-block;font:800 9px Arial;letter-spacing:.08em;padding:2px 7px;border-radius:9px;margin:0 0 5px;color:#000}.kp.client{background:#ff3fa4}.kp.general{background:#9ad7ff}.kp.event{background:#ffb000}.kf{display:flex;gap:4px;flex-wrap:wrap;margin:0 0 8px}.kf button{font:800 10px Arial;padding:3px 7px}#lbk{position:absolute;top:12px;left:12px;z-index:5}.rf{font:10px Arial;margin:4px 0;line-height:1.5}.rf a{color:#9ad7ff;margin-right:8px;text-decoration:underline}#lbr{margin:6px 0}</style></head><body>
 <div id="top"><div><div id="wm">HALO STILLS — LIVE</div><div id="count">0 / 150 KEPT</div></div>
 <div id="prog"><div id="bar"><div id="fill"></div></div><div id="upd">loading…</div></div>
-<button id="pend">SEND ALL PENDING (0)</button><button id="exp">EXPORT VOTES</button></div>
+<button id="pend">SEND ALL PENDING (0)</button><button id="exp" title="Save all your marks, notes and markup images as one file">⬇ DOWNLOAD</button></div>
 <div id="wrap"><nav id="nav"></nav><main id="main"><div class="head" id="head"></div><div id="grid"></div></main></div>
 <div id="lb"><button id="close">✕ CLOSE</button><div id="stage"><span id="lbk"></span><img id="lbimg"><canvas id="cv"></canvas></div>
 <div id="fb"><h3 id="fbt">FEEDBACK</h3><div id="lbr"></div><label>WHAT TO BUILD ON</label><textarea id="note" placeholder="more chrome, bigger halo…"></textarea>
@@ -97,7 +97,8 @@ function draw(){if(!M)return;const R=rooms();let r=R.find(x=>x.id===room);if(!r)
 async function load(){try{const m=await(await fetch('manifest.json?t='+Date.now(),{cache:'no-store'})).json();
  document.getElementById('upd').textContent='last updated '+new Date(m.updated).toLocaleString()+' · auto-refresh 30s';
  const s=JSON.stringify(m);if(s!==sig){sig=s;M=m;draw()}}catch(e){document.getElementById('upd').textContent='refresh failed, retrying…'}}
-document.getElementById('exp').onclick=()=>{const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify({votes,keeps},null,2)],{type:'application/json'}));a.download='halo_votes.json';a.click()};
+// Only place in the page that downloads a file: the header DOWNLOAD button.
+document.getElementById('exp').onclick=()=>{let mk={};try{mk=JSON.parse(localStorage.getItem('halo_live_mk')||'{}')}catch(e){}const d={exported:new Date().toISOString(),votes,keeps,pending:pend,feedback:fb,markups:mk};const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(d,null,1)],{type:'application/json'}));a.download='halo_marks_'+new Date().toISOString().slice(0,10)+'.json';document.body.appendChild(a);a.click();a.remove()};
 document.getElementById('pend').onclick=()=>{if(!pend.length){alert('Nothing pending.');return}const body=pend.join('\n')+'\n\nNote (optional): ';open(gh('votes: batch ('+pend.length+')',body),'_blank');pend=[];save();draw()};
 const FK='halo_live_fb';let fb=JSON.parse(localStorage.getItem(FK)||'{}'),cur=null,col='#ffff00',strokes=[],refs=[];
 const $=id=>document.getElementById(id),cv=$('cv'),cx=cv.getContext('2d');
@@ -123,9 +124,9 @@ $('send').onclick=async()=>{saveFB();const base=await ld($('lbimg').src),rs=awai
  const c=document.createElement('canvas');c.width=W;c.height=H;const g=c.getContext('2d');g.fillStyle='#000';g.fillRect(0,0,W,H);g.drawImage(base,0,0);g.drawImage(cv,0,0);
  let x=base.naturalWidth+20;rs.forEach((i,n)=>{g.drawImage(i,x,0,i.width*sc[n],H);x+=i.width*sc[n]+20});
  const name='halo-feedback-'+cur.id+'.png',blob=await new Promise(r=>c.toBlob(r,'image/png')),file=new File([blob],name,{type:'image/png'});
- const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=name;a.click();
- const v=votes[cur.id]||'feedback',url=`https://github.com/${REPO}/issues/new?title=${encodeURIComponent('feedback: '+cur.id+' '+v)}&body=${encodeURIComponent(($('note').value||'(no note)')+'\n\nDrag the downloaded '+name+' into this box.')}`;
- $('fbmsg').innerHTML=`Downloaded ${name}. <a target="_blank" href="${url}">Open GitHub issue →</a>`;
+ try{const mk=JSON.parse(localStorage.getItem('halo_live_mk')||'{}');mk[cur.id]=c.toDataURL('image/jpeg',.7);localStorage.setItem('halo_live_mk',JSON.stringify(mk))}catch(e){}
+ const v=votes[cur.id]||'feedback',url=`https://github.com/${REPO}/issues/new?title=${encodeURIComponent('feedback: '+cur.id+' '+v)}&body=${encodeURIComponent(($('note').value||'(no note)')+'\n\n(Markup image saved in the gallery; use ⬇ DOWNLOAD in the header to export it, then drag it here if wanted.)')}`;
+ $('fbmsg').innerHTML=`Saved. <a target="_blank" href="${url}">Open GitHub issue →</a>`;
  if(navigator.canShare&&navigator.canShare({files:[file]})){const b=document.createElement('button');b.textContent='SHARE IMAGE';b.onclick=()=>navigator.share({files:[file],title:name}).catch(()=>{});$('fbmsg').appendChild(b)}
  window.open(url,'_blank')};
 
