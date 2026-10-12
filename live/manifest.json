@@ -8,7 +8,13 @@
    "file": "img/cannonball_v2.b64",
    "title": "Cannonball Creek, test",
    "theme": "CINEMATIC",
-   "note": ""
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MATTER/TYPE",
+    "clients:Cannonball Creek"
+   ],
+   "updated": "2026-10-11T23:50:00Z"
   }
  ],
  "updates": [
@@ -20,7 +26,12 @@
    "before_file": "cannonball_v2",
    "title": "Cannonball Creek v3",
    "note": "have the yellow be a reference for a halo to wrap around it, in the style of the photo. Then have what could look like a river running through the clear creek canyon. not some dusty looking place. So more like Sci-fi scenic and make this cannon ball look like it has like graffiti and cyberpunk",
-   "updated": "2026-10-11T23:59:07Z"
+   "updated": "2026-10-11T23:59:07Z",
+   "status": "review",
+   "rooms": [
+    "MATTER/TYPE",
+    "clients:Cannonball Creek"
+   ]
   },
   {
    "id": "cannonball_v4",
@@ -30,7 +41,12 @@
    "before_file": "cannonball_v3",
    "title": "cannonball_v3 \u2192 v4",
    "note": "more like the pokeball reference in one of the pins type of graffiti",
-   "updated": "2026-10-12T00:00:26Z"
+   "updated": "2026-10-12T00:00:26Z",
+   "status": "keep",
+   "rooms": [
+    "MATTER/TYPE",
+    "clients:Cannonball Creek"
+   ]
   },
   {
    "id": "cannonball_v5",
@@ -40,7 +56,12 @@
    "before_file": "cannonball_v4",
    "title": "cannonball_v4 \u2192 v5",
    "note": "YAY on v4 + more depth and shadow detailing, multi-depth holographic field, hyper realistic volumetric lighting and shadows, deep contrast, hyper color within glow",
-   "updated": "2026-10-12T00:07:31Z"
+   "updated": "2026-10-12T00:07:31Z",
+   "status": "review",
+   "rooms": [
+    "MATTER/TYPE",
+    "clients:Cannonball Creek"
+   ]
   }
  ]
 }
