@@ -1,7 +1,7 @@
 {
-  "total": 132,
-  "done": 132,
-  "updated": "2026-10-12T21:49:49Z",
+  "total": 133,
+  "done": 133,
+  "updated": "2026-10-12T21:50:18Z",
   "items": [
     {
       "id": "mono_lith_01",
@@ -4831,6 +4831,46 @@
       "theme": "PRODUCT POSTERS",
       "note": "",
       "updated": "2026-10-12T21:49:49Z"
+    },
+    {
+      "id": "PP_02",
+      "title": "HALO \u00b7 Honeycomb Macro",
+      "kind": "product",
+      "kindLabel": "PRODUCT \u00b7 Transmitter Zone",
+      "section": "Product Posters",
+      "status": "review",
+      "cta": "Transmitter Zone",
+      "rooms": [],
+      "refs": [
+        {
+          "label": "haloraves.com/halo",
+          "url": "https://www.haloraves.com/halo"
+        },
+        {
+          "label": "Product shot halo-night-ember",
+          "url": "https://www.haloraves.com/brand/halo-night-ember.jpg"
+        },
+        {
+          "label": "Pinterest pin \u2026124255",
+          "url": "https://www.pinterest.com/pin/1137440449704124255/"
+        }
+      ],
+      "prints": [
+        {
+          "label": "Letter 8.5\u00d711",
+          "pdf": "promo/PP_02_letter.pdf.b64",
+          "name": "HALO_PRODUCT_PP_02_letter.pdf"
+        },
+        {
+          "label": "11\u00d717",
+          "pdf": "promo/PP_02_tabloid.pdf.b64",
+          "name": "HALO_PRODUCT_PP_02_tabloid.pdf"
+        }
+      ],
+      "file": "img/PP_02.b64",
+      "theme": "PRODUCT POSTERS",
+      "note": "",
+      "updated": "2026-10-12T21:50:18Z"
     }
   ],
   "updates": [
