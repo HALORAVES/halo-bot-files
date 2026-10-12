@@ -1,7 +1,7 @@
 {
- "total": 77,
- "done": 77,
- "updated": "2026-10-12T17:04:32Z",
+ "total": 127,
+ "done": 127,
+ "updated": "2026-10-12T17:50:11Z",
  "items": [
   {
    "id": "mono_lith_01",
@@ -3430,6 +3430,2368 @@
     {
      "label": "Pinterest pin \u2026889704",
      "url": "https://www.pinterest.com/pin/1137440449703889704/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G01",
+   "file": "img/P3_G01.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612148/",
+     "thumb": "1137440449702612148",
+     "label": "pin \u2026612148"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703883262/",
+     "thumb": "1137440449703883262",
+     "label": "pin \u2026883262"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889495/",
+     "thumb": "1137440449703889495",
+     "label": "pin \u2026889495"
+    }
+   ],
+   "title": "MONO/LITH \u00b7 pin-led 02",
+   "theme": "MONO/LITH",
+   "rooms": [
+    "MONO/LITH"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 MONO/LITH",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026612148",
+     "url": "https://www.pinterest.com/pin/1137440449702612148/"
+    },
+    {
+     "label": "Pinterest pin \u2026883262",
+     "url": "https://www.pinterest.com/pin/1137440449703883262/"
+    },
+    {
+     "label": "Pinterest pin \u2026889495",
+     "url": "https://www.pinterest.com/pin/1137440449703889495/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G02",
+   "file": "img/P3_G02.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703883262/",
+     "thumb": "1137440449703883262",
+     "label": "pin \u2026883262"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703883282/",
+     "thumb": "1137440449703883282",
+     "label": "pin \u2026883282"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704032811/",
+     "thumb": "1137440449704032811",
+     "label": "pin \u2026032811"
+    }
+   ],
+   "title": "MONO/LITH \u00b7 pin-led 03",
+   "theme": "MONO/LITH",
+   "rooms": [
+    "MONO/LITH"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 MONO/LITH",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026883262",
+     "url": "https://www.pinterest.com/pin/1137440449703883262/"
+    },
+    {
+     "label": "Pinterest pin \u2026883282",
+     "url": "https://www.pinterest.com/pin/1137440449703883282/"
+    },
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G03",
+   "file": "img/P3_G03.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449694017076/",
+     "thumb": "1137440449694017076",
+     "label": "pin \u2026017076"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612634/",
+     "thumb": "1137440449702612634",
+     "label": "pin \u2026612634"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889775/",
+     "thumb": "1137440449703889775",
+     "label": "pin \u2026889775"
+    }
+   ],
+   "title": "DREAM/COLLAGE \u00b7 pin-led 02",
+   "theme": "DREAM/COLLAGE",
+   "rooms": [
+    "DREAM/COLLAGE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026017076",
+     "url": "https://www.pinterest.com/pin/1137440449694017076/"
+    },
+    {
+     "label": "Pinterest pin \u2026612634",
+     "url": "https://www.pinterest.com/pin/1137440449702612634/"
+    },
+    {
+     "label": "Pinterest pin \u2026889775",
+     "url": "https://www.pinterest.com/pin/1137440449703889775/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G04",
+   "file": "img/P3_G04.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612305/",
+     "thumb": "1137440449702612305",
+     "label": "pin \u2026612305"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612507/",
+     "thumb": "1137440449702612507",
+     "label": "pin \u2026612507"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889363/",
+     "thumb": "1137440449703889363",
+     "label": "pin \u2026889363"
+    }
+   ],
+   "title": "DREAM/COLLAGE \u00b7 pin-led 03",
+   "theme": "DREAM/COLLAGE",
+   "rooms": [
+    "DREAM/COLLAGE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026612305",
+     "url": "https://www.pinterest.com/pin/1137440449702612305/"
+    },
+    {
+     "label": "Pinterest pin \u2026612507",
+     "url": "https://www.pinterest.com/pin/1137440449702612507/"
+    },
+    {
+     "label": "Pinterest pin \u2026889363",
+     "url": "https://www.pinterest.com/pin/1137440449703889363/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G05",
+   "file": "img/P3_G05.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702424005/",
+     "thumb": "1137440449702424005",
+     "label": "pin \u2026424005"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702424053/",
+     "thumb": "1137440449702424053",
+     "label": "pin \u2026424053"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612695/",
+     "thumb": "1137440449702612695",
+     "label": "pin \u2026612695"
+    }
+   ],
+   "title": "HEAD/OPEN \u00b7 pin-led 02",
+   "theme": "HEAD/OPEN",
+   "rooms": [
+    "HEAD/OPEN"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 HEAD/OPEN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026424005",
+     "url": "https://www.pinterest.com/pin/1137440449702424005/"
+    },
+    {
+     "label": "Pinterest pin \u2026424053",
+     "url": "https://www.pinterest.com/pin/1137440449702424053/"
+    },
+    {
+     "label": "Pinterest pin \u2026612695",
+     "url": "https://www.pinterest.com/pin/1137440449702612695/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G06",
+   "file": "img/P3_G06.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702613303/",
+     "thumb": "1137440449702613303",
+     "label": "pin \u2026613303"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703688230/",
+     "thumb": "1137440449703688230",
+     "label": "pin \u2026688230"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704032975/",
+     "thumb": "1137440449704032975",
+     "label": "pin \u2026032975"
+    }
+   ],
+   "title": "HEAD/OPEN \u00b7 pin-led 03",
+   "theme": "HEAD/OPEN",
+   "rooms": [
+    "HEAD/OPEN"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 HEAD/OPEN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026613303",
+     "url": "https://www.pinterest.com/pin/1137440449702613303/"
+    },
+    {
+     "label": "Pinterest pin \u2026688230",
+     "url": "https://www.pinterest.com/pin/1137440449703688230/"
+    },
+    {
+     "label": "Pinterest pin \u2026032975",
+     "url": "https://www.pinterest.com/pin/1137440449704032975/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G07",
+   "file": "img/P3_G07.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695805674/",
+     "thumb": "1137440449695805674",
+     "label": "pin \u2026805674"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695805787/",
+     "thumb": "1137440449695805787",
+     "label": "pin \u2026805787"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695805837/",
+     "thumb": "1137440449695805837",
+     "label": "pin \u2026805837"
+    }
+   ],
+   "title": "HIDE/SKIN \u00b7 pin-led 02",
+   "theme": "HIDE/SKIN",
+   "rooms": [
+    "HIDE/SKIN"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 HIDE/SKIN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026805674",
+     "url": "https://www.pinterest.com/pin/1137440449695805674/"
+    },
+    {
+     "label": "Pinterest pin \u2026805787",
+     "url": "https://www.pinterest.com/pin/1137440449695805787/"
+    },
+    {
+     "label": "Pinterest pin \u2026805837",
+     "url": "https://www.pinterest.com/pin/1137440449695805837/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G08",
+   "file": "img/P3_G08.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695805787/",
+     "thumb": "1137440449695805787",
+     "label": "pin \u2026805787"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695805924/",
+     "thumb": "1137440449695805924",
+     "label": "pin \u2026805924"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695805936/",
+     "thumb": "1137440449695805936",
+     "label": "pin \u2026805936"
+    }
+   ],
+   "title": "HIDE/SKIN \u00b7 pin-led 03",
+   "theme": "HIDE/SKIN",
+   "rooms": [
+    "HIDE/SKIN"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 HIDE/SKIN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026805787",
+     "url": "https://www.pinterest.com/pin/1137440449695805787/"
+    },
+    {
+     "label": "Pinterest pin \u2026805924",
+     "url": "https://www.pinterest.com/pin/1137440449695805924/"
+    },
+    {
+     "label": "Pinterest pin \u2026805936",
+     "url": "https://www.pinterest.com/pin/1137440449695805936/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G09",
+   "file": "img/P3_G09.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695805988/",
+     "thumb": "1137440449695805988",
+     "label": "pin \u2026805988"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695806112/",
+     "thumb": "1137440449695806112",
+     "label": "pin \u2026806112"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/4596345763983278144/",
+     "thumb": "4596345763983278144",
+     "label": "pin \u2026278144"
+    }
+   ],
+   "title": "SMALL/LIFE \u00b7 pin-led 02",
+   "theme": "SMALL/LIFE",
+   "rooms": [
+    "SMALL/LIFE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SMALL/LIFE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026805988",
+     "url": "https://www.pinterest.com/pin/1137440449695805988/"
+    },
+    {
+     "label": "Pinterest pin \u2026806112",
+     "url": "https://www.pinterest.com/pin/1137440449695806112/"
+    },
+    {
+     "label": "Pinterest pin \u2026278144",
+     "url": "https://www.pinterest.com/pin/4596345763983278144/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G10",
+   "file": "img/P3_G10.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695806014/",
+     "thumb": "1137440449695806014",
+     "label": "pin \u2026806014"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695806285/",
+     "thumb": "1137440449695806285",
+     "label": "pin \u2026806285"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889353/",
+     "thumb": "1137440449703889353",
+     "label": "pin \u2026889353"
+    }
+   ],
+   "title": "SMALL/LIFE \u00b7 pin-led 03",
+   "theme": "SMALL/LIFE",
+   "rooms": [
+    "SMALL/LIFE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SMALL/LIFE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026806014",
+     "url": "https://www.pinterest.com/pin/1137440449695806014/"
+    },
+    {
+     "label": "Pinterest pin \u2026806285",
+     "url": "https://www.pinterest.com/pin/1137440449695806285/"
+    },
+    {
+     "label": "Pinterest pin \u2026889353",
+     "url": "https://www.pinterest.com/pin/1137440449703889353/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G11",
+   "file": "img/P3_G11.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696237361/",
+     "thumb": "1137440449696237361",
+     "label": "pin \u2026237361"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612501/",
+     "thumb": "1137440449702612501",
+     "label": "pin \u2026612501"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889478/",
+     "thumb": "1137440449703889478",
+     "label": "pin \u2026889478"
+    }
+   ],
+   "title": "POUR/DRIP \u00b7 pin-led 02",
+   "theme": "POUR/DRIP",
+   "rooms": [
+    "POUR/DRIP"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 POUR/DRIP",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237361",
+     "url": "https://www.pinterest.com/pin/1137440449696237361/"
+    },
+    {
+     "label": "Pinterest pin \u2026612501",
+     "url": "https://www.pinterest.com/pin/1137440449702612501/"
+    },
+    {
+     "label": "Pinterest pin \u2026889478",
+     "url": "https://www.pinterest.com/pin/1137440449703889478/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G12",
+   "file": "img/P3_G12.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702341721/",
+     "thumb": "1137440449702341721",
+     "label": "pin \u2026341721"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702375538/",
+     "thumb": "1137440449702375538",
+     "label": "pin \u2026375538"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702375546/",
+     "thumb": "1137440449702375546",
+     "label": "pin \u2026375546"
+    }
+   ],
+   "title": "POUR/DRIP \u00b7 pin-led 03",
+   "theme": "POUR/DRIP",
+   "rooms": [
+    "POUR/DRIP"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 POUR/DRIP",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026341721",
+     "url": "https://www.pinterest.com/pin/1137440449702341721/"
+    },
+    {
+     "label": "Pinterest pin \u2026375538",
+     "url": "https://www.pinterest.com/pin/1137440449702375538/"
+    },
+    {
+     "label": "Pinterest pin \u2026375546",
+     "url": "https://www.pinterest.com/pin/1137440449702375546/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G13",
+   "file": "img/P3_G13.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702341582/",
+     "thumb": "1137440449702341582",
+     "label": "pin \u2026341582"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702384628/",
+     "thumb": "1137440449702384628",
+     "label": "pin \u2026384628"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703688832/",
+     "thumb": "1137440449703688832",
+     "label": "pin \u2026688832"
+    }
+   ],
+   "title": "TOY/SMILE \u00b7 pin-led 02",
+   "theme": "TOY/SMILE",
+   "rooms": [
+    "TOY/SMILE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 TOY/SMILE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026341582",
+     "url": "https://www.pinterest.com/pin/1137440449702341582/"
+    },
+    {
+     "label": "Pinterest pin \u2026384628",
+     "url": "https://www.pinterest.com/pin/1137440449702384628/"
+    },
+    {
+     "label": "Pinterest pin \u2026688832",
+     "url": "https://www.pinterest.com/pin/1137440449703688832/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G14",
+   "file": "img/P3_G14.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702384628/",
+     "thumb": "1137440449702384628",
+     "label": "pin \u2026384628"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612042/",
+     "thumb": "1137440449702612042",
+     "label": "pin \u2026612042"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612081/",
+     "thumb": "1137440449702612081",
+     "label": "pin \u2026612081"
+    }
+   ],
+   "title": "TOY/SMILE \u00b7 pin-led 03",
+   "theme": "TOY/SMILE",
+   "rooms": [
+    "TOY/SMILE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 TOY/SMILE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384628",
+     "url": "https://www.pinterest.com/pin/1137440449702384628/"
+    },
+    {
+     "label": "Pinterest pin \u2026612042",
+     "url": "https://www.pinterest.com/pin/1137440449702612042/"
+    },
+    {
+     "label": "Pinterest pin \u2026612081",
+     "url": "https://www.pinterest.com/pin/1137440449702612081/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G15",
+   "file": "img/P3_G15.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449694016977/",
+     "thumb": "1137440449694016977",
+     "label": "pin \u2026016977"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702340075/",
+     "thumb": "1137440449702340075",
+     "label": "pin \u2026340075"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702384476/",
+     "thumb": "1137440449702384476",
+     "label": "pin \u2026384476"
+    }
+   ],
+   "title": "TAPE/DECK \u00b7 pin-led 02",
+   "theme": "TAPE/DECK",
+   "rooms": [
+    "TAPE/DECK"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 TAPE/DECK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026016977",
+     "url": "https://www.pinterest.com/pin/1137440449694016977/"
+    },
+    {
+     "label": "Pinterest pin \u2026340075",
+     "url": "https://www.pinterest.com/pin/1137440449702340075/"
+    },
+    {
+     "label": "Pinterest pin \u2026384476",
+     "url": "https://www.pinterest.com/pin/1137440449702384476/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G16",
+   "file": "img/P3_G16.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702340196/",
+     "thumb": "1137440449702340196",
+     "label": "pin \u2026340196"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702384490/",
+     "thumb": "1137440449702384490",
+     "label": "pin \u2026384490"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702611914/",
+     "thumb": "1137440449702611914",
+     "label": "pin \u2026611914"
+    }
+   ],
+   "title": "TAPE/DECK \u00b7 pin-led 03",
+   "theme": "TAPE/DECK",
+   "rooms": [
+    "TAPE/DECK"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 TAPE/DECK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026340196",
+     "url": "https://www.pinterest.com/pin/1137440449702340196/"
+    },
+    {
+     "label": "Pinterest pin \u2026384490",
+     "url": "https://www.pinterest.com/pin/1137440449702384490/"
+    },
+    {
+     "label": "Pinterest pin \u2026611914",
+     "url": "https://www.pinterest.com/pin/1137440449702611914/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G17",
+   "file": "img/P3_G17.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702341796/",
+     "thumb": "1137440449702341796",
+     "label": "pin \u2026341796"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702383435/",
+     "thumb": "1137440449702383435",
+     "label": "pin \u2026383435"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702384647/",
+     "thumb": "1137440449702384647",
+     "label": "pin \u2026384647"
+    }
+   ],
+   "title": "SIGNAL/NOISE \u00b7 pin-led 02",
+   "theme": "SIGNAL/NOISE",
+   "rooms": [
+    "SIGNAL/NOISE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026341796",
+     "url": "https://www.pinterest.com/pin/1137440449702341796/"
+    },
+    {
+     "label": "Pinterest pin \u2026383435",
+     "url": "https://www.pinterest.com/pin/1137440449702383435/"
+    },
+    {
+     "label": "Pinterest pin \u2026384647",
+     "url": "https://www.pinterest.com/pin/1137440449702384647/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G18",
+   "file": "img/P3_G18.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702341796/",
+     "thumb": "1137440449702341796",
+     "label": "pin \u2026341796"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702384647/",
+     "thumb": "1137440449702384647",
+     "label": "pin \u2026384647"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702423917/",
+     "thumb": "1137440449702423917",
+     "label": "pin \u2026423917"
+    }
+   ],
+   "title": "SIGNAL/NOISE \u00b7 pin-led 03",
+   "theme": "SIGNAL/NOISE",
+   "rooms": [
+    "SIGNAL/NOISE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026341796",
+     "url": "https://www.pinterest.com/pin/1137440449702341796/"
+    },
+    {
+     "label": "Pinterest pin \u2026384647",
+     "url": "https://www.pinterest.com/pin/1137440449702384647/"
+    },
+    {
+     "label": "Pinterest pin \u2026423917",
+     "url": "https://www.pinterest.com/pin/1137440449702423917/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G19",
+   "file": "img/P3_G19.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696236928/",
+     "thumb": "1137440449696236928",
+     "label": "pin \u2026236928"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696236968/",
+     "thumb": "1137440449696236968",
+     "label": "pin \u2026236968"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696238209/",
+     "thumb": "1137440449696238209",
+     "label": "pin \u2026238209"
+    }
+   ],
+   "title": "BITE/COLOR \u00b7 pin-led 02",
+   "theme": "BITE/COLOR",
+   "rooms": [
+    "BITE/COLOR"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 BITE/COLOR",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236928",
+     "url": "https://www.pinterest.com/pin/1137440449696236928/"
+    },
+    {
+     "label": "Pinterest pin \u2026236968",
+     "url": "https://www.pinterest.com/pin/1137440449696236968/"
+    },
+    {
+     "label": "Pinterest pin \u2026238209",
+     "url": "https://www.pinterest.com/pin/1137440449696238209/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G20",
+   "file": "img/P3_G20.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696236922/",
+     "thumb": "1137440449696236922",
+     "label": "pin \u2026236922"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696238209/",
+     "thumb": "1137440449696238209",
+     "label": "pin \u2026238209"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702339902/",
+     "thumb": "1137440449702339902",
+     "label": "pin \u2026339902"
+    }
+   ],
+   "title": "BITE/COLOR \u00b7 pin-led 03",
+   "theme": "BITE/COLOR",
+   "rooms": [
+    "BITE/COLOR"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 BITE/COLOR",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236922",
+     "url": "https://www.pinterest.com/pin/1137440449696236922/"
+    },
+    {
+     "label": "Pinterest pin \u2026238209",
+     "url": "https://www.pinterest.com/pin/1137440449696238209/"
+    },
+    {
+     "label": "Pinterest pin \u2026339902",
+     "url": "https://www.pinterest.com/pin/1137440449702339902/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G21",
+   "file": "img/P3_G21.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702341035/",
+     "thumb": "1137440449702341035",
+     "label": "pin \u2026341035"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702384603/",
+     "thumb": "1137440449702384603",
+     "label": "pin \u2026384603"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702613297/",
+     "thumb": "1137440449702613297",
+     "label": "pin \u2026613297"
+    }
+   ],
+   "title": "ACID/GRADIENT \u00b7 pin-led 02",
+   "theme": "ACID/GRADIENT",
+   "rooms": [
+    "ACID/GRADIENT"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 ACID/GRADIENT",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026341035",
+     "url": "https://www.pinterest.com/pin/1137440449702341035/"
+    },
+    {
+     "label": "Pinterest pin \u2026384603",
+     "url": "https://www.pinterest.com/pin/1137440449702384603/"
+    },
+    {
+     "label": "Pinterest pin \u2026613297",
+     "url": "https://www.pinterest.com/pin/1137440449702613297/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G22",
+   "file": "img/P3_G22.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702340956/",
+     "thumb": "1137440449702340956",
+     "label": "pin \u2026340956"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702341009/",
+     "thumb": "1137440449702341009",
+     "label": "pin \u2026341009"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702341021/",
+     "thumb": "1137440449702341021",
+     "label": "pin \u2026341021"
+    }
+   ],
+   "title": "ACID/GRADIENT \u00b7 pin-led 03",
+   "theme": "ACID/GRADIENT",
+   "rooms": [
+    "ACID/GRADIENT"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 ACID/GRADIENT",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026340956",
+     "url": "https://www.pinterest.com/pin/1137440449702340956/"
+    },
+    {
+     "label": "Pinterest pin \u2026341009",
+     "url": "https://www.pinterest.com/pin/1137440449702341009/"
+    },
+    {
+     "label": "Pinterest pin \u2026341021",
+     "url": "https://www.pinterest.com/pin/1137440449702341021/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G23",
+   "file": "img/P3_G23.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612138/",
+     "thumb": "1137440449702612138",
+     "label": "pin \u2026612138"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612187/",
+     "thumb": "1137440449702612187",
+     "label": "pin \u2026612187"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889385/",
+     "thumb": "1137440449703889385",
+     "label": "pin \u2026889385"
+    }
+   ],
+   "title": "POSTER/GRID \u00b7 pin-led 02",
+   "theme": "POSTER/GRID",
+   "rooms": [
+    "POSTER/GRID"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 POSTER/GRID",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026612138",
+     "url": "https://www.pinterest.com/pin/1137440449702612138/"
+    },
+    {
+     "label": "Pinterest pin \u2026612187",
+     "url": "https://www.pinterest.com/pin/1137440449702612187/"
+    },
+    {
+     "label": "Pinterest pin \u2026889385",
+     "url": "https://www.pinterest.com/pin/1137440449703889385/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G24",
+   "file": "img/P3_G24.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612196/",
+     "thumb": "1137440449702612196",
+     "label": "pin \u2026612196"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703693338/",
+     "thumb": "1137440449703693338",
+     "label": "pin \u2026693338"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703899875/",
+     "thumb": "1137440449703899875",
+     "label": "pin \u2026899875"
+    }
+   ],
+   "title": "POSTER/GRID \u00b7 pin-led 03",
+   "theme": "POSTER/GRID",
+   "rooms": [
+    "POSTER/GRID"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 POSTER/GRID",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026612196",
+     "url": "https://www.pinterest.com/pin/1137440449702612196/"
+    },
+    {
+     "label": "Pinterest pin \u2026693338",
+     "url": "https://www.pinterest.com/pin/1137440449703693338/"
+    },
+    {
+     "label": "Pinterest pin \u2026899875",
+     "url": "https://www.pinterest.com/pin/1137440449703899875/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G25",
+   "file": "img/P3_G25.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696237430/",
+     "thumb": "1137440449696237430",
+     "label": "pin \u2026237430"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696237554/",
+     "thumb": "1137440449696237554",
+     "label": "pin \u2026237554"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696237651/",
+     "thumb": "1137440449696237651",
+     "label": "pin \u2026237651"
+    }
+   ],
+   "title": "BENT/TYPE \u00b7 pin-led 02",
+   "theme": "BENT/TYPE",
+   "rooms": [
+    "BENT/TYPE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 BENT/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237430",
+     "url": "https://www.pinterest.com/pin/1137440449696237430/"
+    },
+    {
+     "label": "Pinterest pin \u2026237554",
+     "url": "https://www.pinterest.com/pin/1137440449696237554/"
+    },
+    {
+     "label": "Pinterest pin \u2026237651",
+     "url": "https://www.pinterest.com/pin/1137440449696237651/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G26",
+   "file": "img/P3_G26.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696237531/",
+     "thumb": "1137440449696237531",
+     "label": "pin \u2026237531"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696237548/",
+     "thumb": "1137440449696237548",
+     "label": "pin \u2026237548"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702423540/",
+     "thumb": "1137440449702423540",
+     "label": "pin \u2026423540"
+    }
+   ],
+   "title": "BENT/TYPE \u00b7 pin-led 03",
+   "theme": "BENT/TYPE",
+   "rooms": [
+    "BENT/TYPE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 BENT/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237531",
+     "url": "https://www.pinterest.com/pin/1137440449696237531/"
+    },
+    {
+     "label": "Pinterest pin \u2026237548",
+     "url": "https://www.pinterest.com/pin/1137440449696237548/"
+    },
+    {
+     "label": "Pinterest pin \u2026423540",
+     "url": "https://www.pinterest.com/pin/1137440449702423540/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G27",
+   "file": "img/P3_G27.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696237812/",
+     "thumb": "1137440449696237812",
+     "label": "pin \u2026237812"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696238041/",
+     "thumb": "1137440449696238041",
+     "label": "pin \u2026238041"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702375518/",
+     "thumb": "1137440449702375518",
+     "label": "pin \u2026375518"
+    }
+   ],
+   "title": "SIGN/MARK \u00b7 pin-led 02",
+   "theme": "SIGN/MARK",
+   "rooms": [
+    "SIGN/MARK"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SIGN/MARK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237812",
+     "url": "https://www.pinterest.com/pin/1137440449696237812/"
+    },
+    {
+     "label": "Pinterest pin \u2026238041",
+     "url": "https://www.pinterest.com/pin/1137440449696238041/"
+    },
+    {
+     "label": "Pinterest pin \u2026375518",
+     "url": "https://www.pinterest.com/pin/1137440449702375518/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G28",
+   "file": "img/P3_G28.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696237776/",
+     "thumb": "1137440449696237776",
+     "label": "pin \u2026237776"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696238025/",
+     "thumb": "1137440449696238025",
+     "label": "pin \u2026238025"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702375518/",
+     "thumb": "1137440449702375518",
+     "label": "pin \u2026375518"
+    }
+   ],
+   "title": "SIGN/MARK \u00b7 pin-led 03",
+   "theme": "SIGN/MARK",
+   "rooms": [
+    "SIGN/MARK"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SIGN/MARK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237776",
+     "url": "https://www.pinterest.com/pin/1137440449696237776/"
+    },
+    {
+     "label": "Pinterest pin \u2026238025",
+     "url": "https://www.pinterest.com/pin/1137440449696238025/"
+    },
+    {
+     "label": "Pinterest pin \u2026375518",
+     "url": "https://www.pinterest.com/pin/1137440449702375518/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G29",
+   "file": "img/P3_G29.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696236727/",
+     "thumb": "1137440449696236727",
+     "label": "pin \u2026236727"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696236752/",
+     "thumb": "1137440449696236752",
+     "label": "pin \u2026236752"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696237158/",
+     "thumb": "1137440449696237158",
+     "label": "pin \u2026237158"
+    }
+   ],
+   "title": "MATTER/TYPE \u00b7 pin-led 02",
+   "theme": "MATTER/TYPE",
+   "rooms": [
+    "MATTER/TYPE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 MATTER/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236727",
+     "url": "https://www.pinterest.com/pin/1137440449696236727/"
+    },
+    {
+     "label": "Pinterest pin \u2026236752",
+     "url": "https://www.pinterest.com/pin/1137440449696236752/"
+    },
+    {
+     "label": "Pinterest pin \u2026237158",
+     "url": "https://www.pinterest.com/pin/1137440449696237158/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_G30",
+   "file": "img/P3_G30.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696236701/",
+     "thumb": "1137440449696236701",
+     "label": "pin \u2026236701"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696236746/",
+     "thumb": "1137440449696236746",
+     "label": "pin \u2026236746"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696236752/",
+     "thumb": "1137440449696236752",
+     "label": "pin \u2026236752"
+    }
+   ],
+   "title": "MATTER/TYPE \u00b7 pin-led 03",
+   "theme": "MATTER/TYPE",
+   "rooms": [
+    "MATTER/TYPE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 MATTER/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236701",
+     "url": "https://www.pinterest.com/pin/1137440449696236701/"
+    },
+    {
+     "label": "Pinterest pin \u2026236746",
+     "url": "https://www.pinterest.com/pin/1137440449696236746/"
+    },
+    {
+     "label": "Pinterest pin \u2026236752",
+     "url": "https://www.pinterest.com/pin/1137440449696236752/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_C01",
+   "file": "img/P3_C01.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702611818/",
+     "thumb": "1137440449702611818",
+     "label": "pin \u2026611818"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889347/",
+     "thumb": "1137440449703889347",
+     "label": "pin \u2026889347"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703890667/",
+     "thumb": "1137440449703890667",
+     "label": "pin \u2026890667"
+    }
+   ],
+   "title": "Atomic Cowboy \u00b7 pin-led",
+   "theme": "CLIENT",
+   "rooms": [
+    "clients:Atomic Cowboy"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Atomic Cowboy",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026611818",
+     "url": "https://www.pinterest.com/pin/1137440449702611818/"
+    },
+    {
+     "label": "Pinterest pin \u2026889347",
+     "url": "https://www.pinterest.com/pin/1137440449703889347/"
+    },
+    {
+     "label": "Pinterest pin \u2026890667",
+     "url": "https://www.pinterest.com/pin/1137440449703890667/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_C02",
+   "file": "img/P3_C02.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696236907/",
+     "thumb": "1137440449696236907",
+     "label": "pin \u2026236907"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696236985/",
+     "thumb": "1137440449696236985",
+     "label": "pin \u2026236985"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696238162/",
+     "thumb": "1137440449696238162",
+     "label": "pin \u2026238162"
+    }
+   ],
+   "title": "Babe's Tea Room \u00b7 pin-led",
+   "theme": "CLIENT",
+   "rooms": [
+    "clients:Babe's Tea Room"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Babe's Tea Room",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236907",
+     "url": "https://www.pinterest.com/pin/1137440449696236907/"
+    },
+    {
+     "label": "Pinterest pin \u2026236985",
+     "url": "https://www.pinterest.com/pin/1137440449696236985/"
+    },
+    {
+     "label": "Pinterest pin \u2026238162",
+     "url": "https://www.pinterest.com/pin/1137440449696238162/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_C03",
+   "file": "img/P3_C03.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702341721/",
+     "thumb": "1137440449702341721",
+     "label": "pin \u2026341721"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702375546/",
+     "thumb": "1137440449702375546",
+     "label": "pin \u2026375546"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612515/",
+     "thumb": "1137440449702612515",
+     "label": "pin \u2026612515"
+    }
+   ],
+   "title": "Holidaily Brewing Golden taproom \u00b7 pin-led",
+   "theme": "CLIENT",
+   "rooms": [
+    "clients:Holidaily Brewing Golden taproom"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Holidaily Brewing Golden taproom",
+   "refs": [
+    {
+     "label": "Client page: Holidaily Brewing Golden taproom",
+     "url": "https://holidailybrewing.com/taprooms/golden-taproom/"
+    },
+    {
+     "label": "Pinterest pin \u2026341721",
+     "url": "https://www.pinterest.com/pin/1137440449702341721/"
+    },
+    {
+     "label": "Pinterest pin \u2026375546",
+     "url": "https://www.pinterest.com/pin/1137440449702375546/"
+    },
+    {
+     "label": "Pinterest pin \u2026612515",
+     "url": "https://www.pinterest.com/pin/1137440449702612515/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_C04",
+   "file": "img/P3_C04.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703883275/",
+     "thumb": "1137440449703883275",
+     "label": "pin \u2026883275"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889594/",
+     "thumb": "1137440449703889594",
+     "label": "pin \u2026889594"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703901949/",
+     "thumb": "1137440449703901949",
+     "label": "pin \u2026901949"
+    }
+   ],
+   "title": "Coal Mine Avenue Brewing \u00b7 pin-led",
+   "theme": "CLIENT",
+   "rooms": [
+    "clients:Coal Mine Avenue Brewing"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Coal Mine Avenue Brewing",
+   "refs": [
+    {
+     "label": "Client page: Coal Mine Avenue Brewing",
+     "url": "https://coalmineavebrewing.com"
+    },
+    {
+     "label": "Pinterest pin \u2026883275",
+     "url": "https://www.pinterest.com/pin/1137440449703883275/"
+    },
+    {
+     "label": "Pinterest pin \u2026889594",
+     "url": "https://www.pinterest.com/pin/1137440449703889594/"
+    },
+    {
+     "label": "Pinterest pin \u2026901949",
+     "url": "https://www.pinterest.com/pin/1137440449703901949/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_C05",
+   "file": "img/P3_C05.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702423645/",
+     "thumb": "1137440449702423645",
+     "label": "pin \u2026423645"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612623/",
+     "thumb": "1137440449702612623",
+     "label": "pin \u2026612623"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704032799/",
+     "thumb": "1137440449704032799",
+     "label": "pin \u2026032799"
+    }
+   ],
+   "title": "Lady Justice Brewing \u00b7 pin-led",
+   "theme": "CLIENT",
+   "rooms": [
+    "clients:Lady Justice Brewing"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Lady Justice Brewing",
+   "refs": [
+    {
+     "label": "Client page: Lady Justice Brewing",
+     "url": "https://www.ladyjusticebrewing.com/main"
+    },
+    {
+     "label": "Pinterest pin \u2026423645",
+     "url": "https://www.pinterest.com/pin/1137440449702423645/"
+    },
+    {
+     "label": "Pinterest pin \u2026612623",
+     "url": "https://www.pinterest.com/pin/1137440449702612623/"
+    },
+    {
+     "label": "Pinterest pin \u2026032799",
+     "url": "https://www.pinterest.com/pin/1137440449704032799/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_C06",
+   "file": "img/P3_C06.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703883282/",
+     "thumb": "1137440449703883282",
+     "label": "pin \u2026883282"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889594/",
+     "thumb": "1137440449703889594",
+     "label": "pin \u2026889594"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889784/",
+     "thumb": "1137440449703889784",
+     "label": "pin \u2026889784"
+    }
+   ],
+   "title": "The Golden Hotel \u00b7 pin-led",
+   "theme": "CLIENT",
+   "rooms": [
+    "clients:The Golden Hotel"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 The Golden Hotel",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026883282",
+     "url": "https://www.pinterest.com/pin/1137440449703883282/"
+    },
+    {
+     "label": "Pinterest pin \u2026889594",
+     "url": "https://www.pinterest.com/pin/1137440449703889594/"
+    },
+    {
+     "label": "Pinterest pin \u2026889784",
+     "url": "https://www.pinterest.com/pin/1137440449703889784/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_C07",
+   "file": "img/P3_C07.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702340966/",
+     "thumb": "1137440449702340966",
+     "label": "pin \u2026340966"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702340993/",
+     "thumb": "1137440449702340993",
+     "label": "pin \u2026340993"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702341069/",
+     "thumb": "1137440449702341069",
+     "label": "pin \u2026341069"
+    }
+   ],
+   "title": "Sandhya Yoga \u00b7 pin-led",
+   "theme": "CLIENT",
+   "rooms": [
+    "clients:Sandhya Yoga"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Sandhya Yoga",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026340966",
+     "url": "https://www.pinterest.com/pin/1137440449702340966/"
+    },
+    {
+     "label": "Pinterest pin \u2026340993",
+     "url": "https://www.pinterest.com/pin/1137440449702340993/"
+    },
+    {
+     "label": "Pinterest pin \u2026341069",
+     "url": "https://www.pinterest.com/pin/1137440449702341069/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_C08",
+   "file": "img/P3_C08.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612634/",
+     "thumb": "1137440449702612634",
+     "label": "pin \u2026612634"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703881010/",
+     "thumb": "1137440449703881010",
+     "label": "pin \u2026881010"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889316/",
+     "thumb": "1137440449703889316",
+     "label": "pin \u2026889316"
+    }
+   ],
+   "title": "Yoga Pod Boulder \u00b7 pin-led",
+   "theme": "CLIENT",
+   "rooms": [
+    "clients:Yoga Pod Boulder"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Yoga Pod Boulder",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026612634",
+     "url": "https://www.pinterest.com/pin/1137440449702612634/"
+    },
+    {
+     "label": "Pinterest pin \u2026881010",
+     "url": "https://www.pinterest.com/pin/1137440449703881010/"
+    },
+    {
+     "label": "Pinterest pin \u2026889316",
+     "url": "https://www.pinterest.com/pin/1137440449703889316/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_C09",
+   "file": "img/P3_C09.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695805740/",
+     "thumb": "1137440449695805740",
+     "label": "pin \u2026805740"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695805764/",
+     "thumb": "1137440449695805764",
+     "label": "pin \u2026805764"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695805799/",
+     "thumb": "1137440449695805799",
+     "label": "pin \u2026805799"
+    }
+   ],
+   "title": "Gardens Dispensary Englewood \u00b7 pin-led",
+   "theme": "CLIENT",
+   "rooms": [
+    "clients:Gardens Dispensary Englewood"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Gardens Dispensary Englewood",
+   "refs": [
+    {
+     "label": "Client page: Gardens Dispensary Englewood",
+     "url": "https://gardensdispensary.com/locations/cannabis-dispensary-englewood-co"
+    },
+    {
+     "label": "Pinterest pin \u2026805740",
+     "url": "https://www.pinterest.com/pin/1137440449695805740/"
+    },
+    {
+     "label": "Pinterest pin \u2026805764",
+     "url": "https://www.pinterest.com/pin/1137440449695805764/"
+    },
+    {
+     "label": "Pinterest pin \u2026805799",
+     "url": "https://www.pinterest.com/pin/1137440449695805799/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_C10",
+   "file": "img/P3_C10.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702341810/",
+     "thumb": "1137440449702341810",
+     "label": "pin \u2026341810"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702383429/",
+     "thumb": "1137440449702383429",
+     "label": "pin \u2026383429"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702424072/",
+     "thumb": "1137440449702424072",
+     "label": "pin \u2026424072"
+    }
+   ],
+   "title": "The Roxy \u00b7 pin-led",
+   "theme": "CLIENT",
+   "rooms": [
+    "clients:The Roxy"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 The Roxy",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026341810",
+     "url": "https://www.pinterest.com/pin/1137440449702341810/"
+    },
+    {
+     "label": "Pinterest pin \u2026383429",
+     "url": "https://www.pinterest.com/pin/1137440449702383429/"
+    },
+    {
+     "label": "Pinterest pin \u2026424072",
+     "url": "https://www.pinterest.com/pin/1137440449702424072/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_C11",
+   "file": "img/P3_C11.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702340196/",
+     "thumb": "1137440449702340196",
+     "label": "pin \u2026340196"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702384476/",
+     "thumb": "1137440449702384476",
+     "label": "pin \u2026384476"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702384490/",
+     "thumb": "1137440449702384490",
+     "label": "pin \u2026384490"
+    }
+   ],
+   "title": "Quite Right Records \u00b7 pin-led",
+   "theme": "CLIENT",
+   "rooms": [
+    "clients:Quite Right Records"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Quite Right Records",
+   "refs": [
+    {
+     "label": "Client page: Quite Right Records",
+     "url": "https://www.instagram.com/quiterightrecords/"
+    },
+    {
+     "label": "Pinterest pin \u2026340196",
+     "url": "https://www.pinterest.com/pin/1137440449702340196/"
+    },
+    {
+     "label": "Pinterest pin \u2026384476",
+     "url": "https://www.pinterest.com/pin/1137440449702384476/"
+    },
+    {
+     "label": "Pinterest pin \u2026384490",
+     "url": "https://www.pinterest.com/pin/1137440449702384490/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_C12",
+   "file": "img/P3_C12.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696236922/",
+     "thumb": "1137440449696236922",
+     "label": "pin \u2026236922"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696236950/",
+     "thumb": "1137440449696236950",
+     "label": "pin \u2026236950"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696236979/",
+     "thumb": "1137440449696236979",
+     "label": "pin \u2026236979"
+    }
+   ],
+   "title": "Denver Beer Co Littleton \u00b7 pin-led",
+   "theme": "CLIENT",
+   "rooms": [
+    "clients:Denver Beer Co Littleton"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Denver Beer Co Littleton",
+   "refs": [
+    {
+     "label": "Client page: Denver Beer Co Littleton",
+     "url": "https://denverbeerco.com/contact/"
+    },
+    {
+     "label": "Pinterest pin \u2026236922",
+     "url": "https://www.pinterest.com/pin/1137440449696236922/"
+    },
+    {
+     "label": "Pinterest pin \u2026236950",
+     "url": "https://www.pinterest.com/pin/1137440449696236950/"
+    },
+    {
+     "label": "Pinterest pin \u2026236979",
+     "url": "https://www.pinterest.com/pin/1137440449696236979/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_C13",
+   "file": "img/P3_C13.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695805988/",
+     "thumb": "1137440449695805988",
+     "label": "pin \u2026805988"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695806005/",
+     "thumb": "1137440449695806005",
+     "label": "pin \u2026806005"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889409/",
+     "thumb": "1137440449703889409",
+     "label": "pin \u2026889409"
+    }
+   ],
+   "title": "Locavore Beer Works \u00b7 pin-led",
+   "theme": "CLIENT",
+   "rooms": [
+    "clients:Locavore Beer Works"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Locavore Beer Works",
+   "refs": [
+    {
+     "label": "Client page: Locavore Beer Works",
+     "url": "https://locavorebeerworks.com"
+    },
+    {
+     "label": "Pinterest pin \u2026805988",
+     "url": "https://www.pinterest.com/pin/1137440449695805988/"
+    },
+    {
+     "label": "Pinterest pin \u2026806005",
+     "url": "https://www.pinterest.com/pin/1137440449695806005/"
+    },
+    {
+     "label": "Pinterest pin \u2026889409",
+     "url": "https://www.pinterest.com/pin/1137440449703889409/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_C14",
+   "file": "img/P3_C14.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702611813/",
+     "thumb": "1137440449702611813",
+     "label": "pin \u2026611813"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612042/",
+     "thumb": "1137440449702612042",
+     "label": "pin \u2026612042"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612081/",
+     "thumb": "1137440449702612081",
+     "label": "pin \u2026612081"
+    }
+   ],
+   "title": "Ratio Beerworks \u00b7 pin-led",
+   "theme": "CLIENT",
+   "rooms": [
+    "clients:Ratio Beerworks"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Ratio Beerworks",
+   "refs": [
+    {
+     "label": "Client page: Ratio Beerworks",
+     "url": "https://ratiobeerworks.com"
+    },
+    {
+     "label": "Pinterest pin \u2026611813",
+     "url": "https://www.pinterest.com/pin/1137440449702611813/"
+    },
+    {
+     "label": "Pinterest pin \u2026612042",
+     "url": "https://www.pinterest.com/pin/1137440449702612042/"
+    },
+    {
+     "label": "Pinterest pin \u2026612081",
+     "url": "https://www.pinterest.com/pin/1137440449702612081/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_E01",
+   "file": "img/P3_E01.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612148/",
+     "thumb": "1137440449702612148",
+     "label": "pin \u2026612148"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703883282/",
+     "thumb": "1137440449703883282",
+     "label": "pin \u2026883282"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889594/",
+     "thumb": "1137440449703889594",
+     "label": "pin \u2026889594"
+    }
+   ],
+   "title": "Dead / Punch \u00b7 pin-led",
+   "theme": "NIGHTS",
+   "rooms": [
+    "NIGHTS",
+    "nights:dead-punch"
+   ],
+   "kind": "event",
+   "kindLabel": "EVENT \u00b7 Dead / Punch",
+   "refs": [
+    {
+     "label": "haloraves.com night: dead-punch",
+     "url": "https://www.haloraves.com/nights/dead-punch"
+    },
+    {
+     "label": "Pinterest pin \u2026612148",
+     "url": "https://www.pinterest.com/pin/1137440449702612148/"
+    },
+    {
+     "label": "Pinterest pin \u2026883282",
+     "url": "https://www.pinterest.com/pin/1137440449703883282/"
+    },
+    {
+     "label": "Pinterest pin \u2026889594",
+     "url": "https://www.pinterest.com/pin/1137440449703889594/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_E02",
+   "file": "img/P3_E02.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889316/",
+     "thumb": "1137440449703889316",
+     "label": "pin \u2026889316"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889347/",
+     "thumb": "1137440449703889347",
+     "label": "pin \u2026889347"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703899980/",
+     "thumb": "1137440449703899980",
+     "label": "pin \u2026899980"
+    }
+   ],
+   "title": "Game / Piano / Sands \u00b7 pin-led",
+   "theme": "NIGHTS",
+   "rooms": [
+    "NIGHTS",
+    "nights:game-piano-sands"
+   ],
+   "kind": "event",
+   "kindLabel": "EVENT \u00b7 Game / Piano / Sands",
+   "refs": [
+    {
+     "label": "haloraves.com night: game-piano-sands",
+     "url": "https://www.haloraves.com/nights/game-piano-sands"
+    },
+    {
+     "label": "Pinterest pin \u2026889316",
+     "url": "https://www.pinterest.com/pin/1137440449703889316/"
+    },
+    {
+     "label": "Pinterest pin \u2026889347",
+     "url": "https://www.pinterest.com/pin/1137440449703889347/"
+    },
+    {
+     "label": "Pinterest pin \u2026899980",
+     "url": "https://www.pinterest.com/pin/1137440449703899980/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_E03",
+   "file": "img/P3_E03.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702384615/",
+     "thumb": "1137440449702384615",
+     "label": "pin \u2026384615"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702423917/",
+     "thumb": "1137440449702423917",
+     "label": "pin \u2026423917"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702424178/",
+     "thumb": "1137440449702424178",
+     "label": "pin \u2026424178"
+    }
+   ],
+   "title": "Nina \u00d7 Break \u00b7 pin-led",
+   "theme": "NIGHTS",
+   "rooms": [
+    "NIGHTS",
+    "nights:nina-break"
+   ],
+   "kind": "event",
+   "kindLabel": "EVENT \u00b7 Nina \u00d7 Break",
+   "refs": [
+    {
+     "label": "haloraves.com night: nina-break",
+     "url": "https://www.haloraves.com/nights/nina-break"
+    },
+    {
+     "label": "Pinterest pin \u2026384615",
+     "url": "https://www.pinterest.com/pin/1137440449702384615/"
+    },
+    {
+     "label": "Pinterest pin \u2026423917",
+     "url": "https://www.pinterest.com/pin/1137440449702423917/"
+    },
+    {
+     "label": "Pinterest pin \u2026424178",
+     "url": "https://www.pinterest.com/pin/1137440449702424178/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_E04",
+   "file": "img/P3_E04.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702423645/",
+     "thumb": "1137440449702423645",
+     "label": "pin \u2026423645"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612623/",
+     "thumb": "1137440449702612623",
+     "label": "pin \u2026612623"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612774/",
+     "thumb": "1137440449702612774",
+     "label": "pin \u2026612774"
+    }
+   ],
+   "title": "Zimmer \u00d7 Ska \u00b7 pin-led",
+   "theme": "NIGHTS",
+   "rooms": [
+    "NIGHTS",
+    "nights:time-ska"
+   ],
+   "kind": "event",
+   "kindLabel": "EVENT \u00b7 Zimmer \u00d7 Ska",
+   "refs": [
+    {
+     "label": "haloraves.com night: time-ska",
+     "url": "https://www.haloraves.com/nights/time-ska"
+    },
+    {
+     "label": "Pinterest pin \u2026423645",
+     "url": "https://www.pinterest.com/pin/1137440449702423645/"
+    },
+    {
+     "label": "Pinterest pin \u2026612623",
+     "url": "https://www.pinterest.com/pin/1137440449702612623/"
+    },
+    {
+     "label": "Pinterest pin \u2026612774",
+     "url": "https://www.pinterest.com/pin/1137440449702612774/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_E05",
+   "file": "img/P3_E05.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702613422/",
+     "thumb": "1137440449702613422",
+     "label": "pin \u2026613422"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703693311/",
+     "thumb": "1137440449703693311",
+     "label": "pin \u2026693311"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703693356/",
+     "thumb": "1137440449703693356",
+     "label": "pin \u2026693356"
+    }
+   ],
+   "title": "Pepper / Glitch / Jungle \u00b7 pin-led",
+   "theme": "NIGHTS",
+   "rooms": [
+    "NIGHTS",
+    "nights:pepper-jungle"
+   ],
+   "kind": "event",
+   "kindLabel": "EVENT \u00b7 Pepper / Glitch / Jungle",
+   "refs": [
+    {
+     "label": "haloraves.com night: pepper-jungle",
+     "url": "https://www.haloraves.com/nights/pepper-jungle"
+    },
+    {
+     "label": "Pinterest pin \u2026613422",
+     "url": "https://www.pinterest.com/pin/1137440449702613422/"
+    },
+    {
+     "label": "Pinterest pin \u2026693311",
+     "url": "https://www.pinterest.com/pin/1137440449703693311/"
+    },
+    {
+     "label": "Pinterest pin \u2026693356",
+     "url": "https://www.pinterest.com/pin/1137440449703693356/"
+    }
+   ],
+   "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
+  },
+  {
+   "id": "P3_E06",
+   "file": "img/P3_E06.b64",
+   "note": "",
+   "status": "review",
+   "updated": "2026-10-12T17:50:11Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695805802/",
+     "thumb": "1137440449695805802",
+     "label": "pin \u2026805802"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695805837/",
+     "thumb": "1137440449695805837",
+     "label": "pin \u2026805837"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695805848/",
+     "thumb": "1137440449695805848",
+     "label": "pin \u2026805848"
+    }
+   ],
+   "title": "Spore / Amen \u00b7 pin-led",
+   "theme": "NIGHTS",
+   "rooms": [
+    "NIGHTS",
+    "nights:spore-amen"
+   ],
+   "kind": "event",
+   "kindLabel": "EVENT \u00b7 Spore / Amen",
+   "refs": [
+    {
+     "label": "haloraves.com night: spore-amen",
+     "url": "https://www.haloraves.com/nights/spore-amen"
+    },
+    {
+     "label": "Pinterest pin \u2026805802",
+     "url": "https://www.pinterest.com/pin/1137440449695805802/"
+    },
+    {
+     "label": "Pinterest pin \u2026805837",
+     "url": "https://www.pinterest.com/pin/1137440449695805837/"
+    },
+    {
+     "label": "Pinterest pin \u2026805848",
+     "url": "https://www.pinterest.com/pin/1137440449695805848/"
     }
    ],
    "sources": "Rendered from 3 pins as reference images (strong weight), light HALO touch (haloraves.com wordmark)"
