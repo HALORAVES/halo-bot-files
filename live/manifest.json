@@ -1,7 +1,7 @@
 {
-  "total": 138,
-  "done": 138,
-  "updated": "2026-10-12T21:52:49Z",
+  "total": 139,
+  "done": 139,
+  "updated": "2026-10-12T21:53:17Z",
   "items": [
     {
       "id": "mono_lith_01",
@@ -5071,6 +5071,46 @@
       "theme": "PRODUCT POSTERS",
       "note": "",
       "updated": "2026-10-12T21:52:49Z"
+    },
+    {
+      "id": "PP_08",
+      "title": "HALO \u00b7 Gallery Plinth \u00b7 Cloud Dancer",
+      "kind": "product",
+      "kindLabel": "PRODUCT \u00b7 Get Your HALO",
+      "section": "Product Posters",
+      "status": "review",
+      "cta": "Get Your HALO",
+      "rooms": [],
+      "refs": [
+        {
+          "label": "haloraves.com/halo",
+          "url": "https://www.haloraves.com/halo"
+        },
+        {
+          "label": "Product shot halo-hero",
+          "url": "https://www.haloraves.com/brand/halo-hero.jpg"
+        },
+        {
+          "label": "Pinterest pin \u2026129847",
+          "url": "https://www.pinterest.com/pin/1137440449704129847/"
+        }
+      ],
+      "prints": [
+        {
+          "label": "Letter 8.5\u00d711",
+          "pdf": "promo/PP_08_letter.pdf.b64",
+          "name": "HALO_PRODUCT_PP_08_letter.pdf"
+        },
+        {
+          "label": "11\u00d717",
+          "pdf": "promo/PP_08_tabloid.pdf.b64",
+          "name": "HALO_PRODUCT_PP_08_tabloid.pdf"
+        }
+      ],
+      "file": "img/PP_08.b64",
+      "theme": "PRODUCT POSTERS",
+      "note": "",
+      "updated": "2026-10-12T21:53:17Z"
     }
   ],
   "updates": [
