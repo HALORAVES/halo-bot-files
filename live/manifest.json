@@ -1,7 +1,7 @@
 {
  "total": 153,
  "done": 153,
- "updated": "2026-10-12T22:59:15Z",
+ "updated": "2026-10-12T22:59:36Z",
  "items": [
   {
    "id": "mono_lith_01",
@@ -5663,6 +5663,138 @@
    "note": "",
    "updated": "2026-10-12T22:54:50Z",
    "product_method": "real product photo cut out and composited into a generated scene"
+  },
+  {
+   "kind": "request",
+   "kindLabel": "REQUEST \u00b7 Chief of Staff",
+   "section": "Chief of Staff Requests",
+   "theme": "CHIEF OF STAFF REQUESTS",
+   "rooms": [],
+   "note": "",
+   "requested_by": "HALO Chief of Staff",
+   "rules": "No price, date, coin or health claim; shown in place; one idea; works in B/W; plain HALO RAVES wordmark.",
+   "status_label": "Awaiting Spirit's approval",
+   "date": "2026-10-13",
+   "request": "Still A for an email to Rise Yoga & Wellness, Golden: a listening hour in a yoga studio after class, mats down, thirty headphones, no speaker, shown on a phone.",
+   "project": "Email to Rise Yoga & Wellness, Golden",
+   "use": "Image in the outreach email to Rise Yoga & Wellness (Golden), shown on a phone",
+   "id": "REQ_RISEYOGA_A_v1",
+   "version": "v1",
+   "title": "Rise Yoga \u00b7 Still A \u00b7 listening hour on a phone \u00b7 v1",
+   "refs": [
+    {
+     "label": "haloraves.com",
+     "url": "https://www.haloraves.com"
+    }
+   ],
+   "file": "img/REQ_RISEYOGA_A_v1.b64",
+   "full": {
+    "path": "full/REQ_RISEYOGA_A_v1.png.b64",
+    "name": "HALO_still_A_rise-yoga_2026-10-13.png",
+    "type": "image/png"
+   },
+   "status": "review",
+   "updated": "2026-10-12T22:59:36Z"
+  },
+  {
+   "kind": "request",
+   "kindLabel": "REQUEST \u00b7 Chief of Staff",
+   "section": "Chief of Staff Requests",
+   "theme": "CHIEF OF STAFF REQUESTS",
+   "rooms": [],
+   "note": "",
+   "requested_by": "HALO Chief of Staff",
+   "rules": "No price, date, coin or health claim; shown in place; one idea; works in B/W; plain HALO RAVES wordmark.",
+   "status_label": "Awaiting Spirit's approval",
+   "date": "2026-10-13",
+   "request": "Still A for an email to Rise Yoga & Wellness, Golden: a listening hour in a yoga studio after class, mats down, thirty headphones, no speaker, shown on a phone.",
+   "project": "Email to Rise Yoga & Wellness, Golden",
+   "use": "Image in the outreach email to Rise Yoga & Wellness (Golden), shown on a phone",
+   "id": "REQ_RISEYOGA_A_v2",
+   "version": "v2",
+   "title": "Rise Yoga \u00b7 Still A \u00b7 listening hour on a phone \u00b7 v2",
+   "refs": [
+    {
+     "label": "haloraves.com",
+     "url": "https://www.haloraves.com"
+    }
+   ],
+   "v1_id": "REQ_RISEYOGA_A_v1",
+   "of": "REQ_RISEYOGA_A_v1",
+   "file": "img/REQ_RISEYOGA_A_v2.b64",
+   "full": {
+    "path": "full/REQ_RISEYOGA_A_v2.png.b64",
+    "name": "HALO_still_A_rise-yoga_v2_2026-10-13.png",
+    "type": "image/png"
+   },
+   "status": "review",
+   "updated": "2026-10-12T22:59:36Z"
+  },
+  {
+   "kind": "request",
+   "kindLabel": "REQUEST \u00b7 Chief of Staff",
+   "section": "Chief of Staff Requests",
+   "theme": "CHIEF OF STAFF REQUESTS",
+   "rooms": [],
+   "note": "",
+   "requested_by": "HALO Chief of Staff",
+   "rules": "No price, date, coin or health claim; shown in place; one idea; works in B/W; plain HALO RAVES wordmark.",
+   "status_label": "Awaiting Spirit's approval",
+   "date": "2026-10-13",
+   "request": "Still B for the line \"Thirty people. The park stays quiet.\", shown on a wall or phone.",
+   "project": "Still for the line \"Thirty people. The park stays quiet.\"",
+   "use": "Paired with the line \"Thirty people. The park stays quiet.\" in Chief of Staff outreach, shown on a wall or phone",
+   "id": "REQ_PARK_B_v1",
+   "version": "v1",
+   "title": "\"Thirty people. The park stays quiet.\" \u00b7 Still B \u00b7 v1",
+   "refs": [
+    {
+     "label": "haloraves.com",
+     "url": "https://www.haloraves.com"
+    }
+   ],
+   "file": "img/REQ_PARK_B_v1.b64",
+   "full": {
+    "path": "full/REQ_PARK_B_v1.png.b64",
+    "name": "HALO_still_B_park-stays-quiet_2026-10-13.png",
+    "type": "image/png"
+   },
+   "status": "review",
+   "updated": "2026-10-12T22:59:36Z"
+  },
+  {
+   "kind": "request",
+   "kindLabel": "REQUEST \u00b7 Chief of Staff",
+   "section": "Chief of Staff Requests",
+   "theme": "CHIEF OF STAFF REQUESTS",
+   "rooms": [],
+   "note": "",
+   "requested_by": "HALO Chief of Staff",
+   "rules": "No price, date, coin or health claim; shown in place; one idea; works in B/W; plain HALO RAVES wordmark.",
+   "status_label": "Awaiting Spirit's approval",
+   "date": "2026-10-13",
+   "request": "Still B for the line \"Thirty people. The park stays quiet.\", shown on a wall or phone.",
+   "project": "Still for the line \"Thirty people. The park stays quiet.\"",
+   "use": "Paired with the line \"Thirty people. The park stays quiet.\" in Chief of Staff outreach, shown on a wall or phone",
+   "id": "REQ_PARK_B_v2",
+   "version": "v2",
+   "title": "\"Thirty people. The park stays quiet.\" \u00b7 Still B \u00b7 v2",
+   "refs": [
+    {
+     "label": "haloraves.com",
+     "url": "https://www.haloraves.com"
+    }
+   ],
+   "v1_id": "REQ_PARK_B_v1",
+   "of": "REQ_PARK_B_v1",
+   "file": "img/REQ_PARK_B_v2.b64",
+   "full": {
+    "path": "full/REQ_PARK_B_v2.png.b64",
+    "name": "HALO_still_B_park-stays-quiet_v2_2026-10-13.png",
+    "type": "image/png"
+   },
+   "status": "review",
+   "updated": "2026-10-12T22:59:36Z"
   }
  ],
  "updates": [
@@ -6807,6 +6939,11 @@
    "room": "PROMO PRINTS",
    "fields": "file (preview .b64), cta, of (source art id), prints[{label,pdf (.b64 path),name}]",
    "maker": "/workspace/halo-output/promo/make_promo.py"
+  },
+  "request": {
+   "room": "CHIEF OF STAFF REQUESTS",
+   "fields": "request, project, use, rules, status_label, version, v1_id (v2+), date, full{path,name,type}",
+   "howto": "/workspace/halo-output/kb/request_board.md"
   }
  }
 }
