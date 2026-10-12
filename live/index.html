@@ -34,12 +34,13 @@ button:hover,button.on{background:var(--y);color:#000}button.keep{border-color:v
 .row{display:flex;gap:6px;flex-wrap:wrap;align-items:center}.sw{width:26px;height:26px;padding:0}#drop{border:1px dashed #666;padding:10px;text-align:center;color:#888;font-size:12px}
 #refs img{height:56px;margin:4px 4px 0 0;border:1px solid #444}#close{position:fixed;top:10px;right:14px;z-index:51}#send{width:100%;margin-top:12px;padding:12px;font-size:13px;background:#ff0;color:#000}
 #fbmsg{font-size:12px;margin-top:6px;color:#aaa}#fbmsg a{color:#ff0}
-.kp{display:inline-block;font:800 9px Arial;letter-spacing:.08em;padding:2px 7px;border-radius:9px;margin:0 0 5px;color:#000}.kp.client{background:#ff3fa4}.kp.general{background:#9ad7ff}.kp.event{background:#ffb000}.kf{display:flex;gap:4px;flex-wrap:wrap;margin:0 0 8px}.kf button{font:800 10px Arial;padding:3px 7px}#lbk{position:absolute;top:12px;left:12px;z-index:5}.rf{font:10px Arial;margin:4px 0;line-height:1.5}.rf a{color:#9ad7ff;margin-right:8px;text-decoration:underline}#lbr{margin:6px 0}</style></head><body>
+.kp{display:inline-block;font:800 9px Arial;letter-spacing:.08em;padding:2px 7px;border-radius:9px;margin:0 0 5px;color:#000}.kp.client{background:#ff3fa4}.kp.general{background:#9ad7ff}.kp.event{background:#ffb000}.kf{display:flex;gap:4px;flex-wrap:wrap;margin:0 0 8px}.kf button{font:800 10px Arial;padding:3px 7px}#lbk{position:absolute;top:12px;left:12px;z-index:5}.rf{font:10px Arial;margin:4px 0;line-height:1.5}.rf a{color:#9ad7ff;margin-right:8px;text-decoration:underline}#lbr{margin:6px 0}#grid.kg{grid-template-columns:repeat(auto-fill,minmax(420px,1fr))}.kc{background:#0b0b0b;border:1px solid #222}.kc img{width:100%;display:block;cursor:zoom-in}.kc .ki{padding:10px 12px}.kc .kt{font:800 15px Arial;margin:4px 0}.kc .ka{display:flex;gap:6px;margin-top:8px}.kc form{display:none;margin-top:8px}.kc form.on{display:block}.kc input,.kc textarea{width:100%;box-sizing:border-box;background:#111;color:#eee;border:1px solid #333;margin:3px 0;padding:6px;font:12px Arial}
+#fs{position:fixed;inset:0;background:#000e;display:none;align-items:center;justify-content:center;z-index:99;cursor:zoom-out}#fs img{max-width:98vw;max-height:98vh}@media(max-width:760px){#grid.kg{grid-template-columns:1fr}}</style></head><body>
 <div id="top"><div><div id="wm">HALO STILLS — LIVE</div><div id="count">0 / 150 KEPT</div></div>
 <div id="prog"><div id="bar"><div id="fill"></div></div><div id="upd">loading…</div></div>
 <button id="pend">SEND ALL PENDING (0)</button><button id="exp" title="Save all your marks, notes and markup images as one file">⬇ DOWNLOAD</button></div>
 <div id="wrap"><nav id="nav"></nav><main id="main"><div class="head" id="head"></div><div id="grid"></div></main></div>
-<div id="lb"><button id="close">✕ CLOSE</button><div id="stage"><span id="lbk"></span><img id="lbimg"><canvas id="cv"></canvas></div>
+<div id="fs"><img id="fsimg" alt=""></div><div id="lb"><button id="close">✕ CLOSE</button><div id="stage"><span id="lbk"></span><img id="lbimg"><canvas id="cv"></canvas></div>
 <div id="fb"><h3 id="fbt">FEEDBACK</h3><div id="lbr"></div><label>WHAT TO BUILD ON</label><textarea id="note" placeholder="more chrome, bigger halo…"></textarea>
 <label>DRAW ON IT</label><div class="row"><button class="sw" data-c="#ffff00" style="background:#ff0"></button><button class="sw" data-c="#ff00ff" style="background:#f0f"></button><button class="sw" data-c="#ffffff" style="background:#fff"></button>
 <input id="bs" type="range" min="2" max="40" value="8"><button id="undo">UNDO</button><button id="clr">CLEAR</button></div>
@@ -63,6 +64,25 @@ const VS={'yay':'keep','keep':'keep','build on':'build','nay':'nay'};
 const stat=it=>{if(keeps[it.id])return 'keep';const v=votes[it.id];if(v&&VS[v])return VS[v];if(typeof fb!=='undefined'&&fb[it.id]&&(fb[it.id].note||'').trim()&&(!it.status||it.status==='review'))return 'build';return it.status||'review'};
 const isRev=it=>stat(it)==='review';
 const rms=it=>it.rooms||[];
+function rootOf(it,P){let x=it,n=0;while(x&&x.of&&n++<20){const p=P.find(y=>y.id===x.of);if(!p)return x.of;x=p}return x.id}
+function depth(it,P){let x=it,n=0;while(x&&x.of&&n<20){n++;x=P.find(y=>y.id===x.of)}return n}
+function keepFinal(P){const best={};P.filter(x=>stat(x)==='keep').forEach(x=>{const r=rootOf(x,P),d=depth(x,P),b=best[r];if(!b||d>b.d||(d===b.d&&String(x.updated||'')>String(b.x.updated||'')))best[r]={x,d}});return Object.values(best).map(o=>o.x)}
+const BK='halo_buildon';let bon=JSON.parse(localStorage.getItem(BK)||'{}');
+function b64blob(it){return fetch(it.file+'?v='+encodeURIComponent(M.updated)).then(r=>r.text()).then(t=>{const b=atob(t.trim().replace(/^data:[^,]*,/,'')),u=new Uint8Array(b.length);for(let i=0;i<b.length;i++)u[i]=b.charCodeAt(i);return new Blob([u],{type:'image/jpeg'})})}
+function dlOne(it){b64blob(it).then(bl=>{const a=document.createElement('a');a.href=URL.createObjectURL(bl);a.download=it.id+'.jpg';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),5000)})}
+function full(src){if(!src)return;$('fsimg').src=src;$('fs').style.display='flex'}
+function ktile(it){const d=document.createElement('div');d.className='kc';const p=bon[it.id]||{};
+ d.innerHTML=`<img alt="${esc(it.title||it.id)}"><div class="ki">${pill(it)}<div class="kt">${esc(it.title||it.id)}</div><div class="th">${esc(it.id)}</div>${refsH(it)}
+ <div class="ka"><button data-a="dl">⬇ DOWNLOAD</button><button data-a="bo">BUILD ON</button></div>
+ <form><input name="t" placeholder="Client / target (optional), e.g. build for Atomic Cowboy" value="${esc(p.target||'')}"><textarea name="n" rows="3" placeholder="What to build on this…">${esc(p.note||'')}</textarea><button type="submit">SEND BUILD ON →</button> <span class="bm"></span></form></div>`;
+ const im=d.querySelector('img');b64img(im,it.file,it);im.onclick=()=>full(im.src);
+ const f=d.querySelector('form');
+ d.querySelector('[data-a=dl]').onclick=()=>dlOne(it);
+ d.querySelector('[data-a=bo]').onclick=()=>f.classList.toggle('on');
+ f.onsubmit=e=>{e.preventDefault();const t=f.t.value.trim(),n=f.n.value.trim();if(!n&&!t){f.querySelector('.bm').textContent='write a note first';return}
+  bon[it.id]={target:t,note:n,t:new Date().toISOString()};localStorage.setItem(BK,JSON.stringify(bon));
+  open(`https://github.com/${REPO}/issues/new?title=${encodeURIComponent('buildon: '+it.id+(t?' → '+t:''))}&body=${encodeURIComponent('Target: '+(t||'(none)')+'\nNote: '+(n||'(none)'))}`,'_blank');f.querySelector('.bm').textContent='saved · GitHub issue opened'};
+ return d}
 function rooms(){const P=all(),live=P.filter(x=>stat(x)!=='nay'),R=[];
  R.push({g:'WALL',id:'UPDATES',name:'UPDATES',law:'Each new version beside the one before it, with the note that moved it.',f:x=>x.upd});
  R.push({g:'WALL',id:'KEEPERS',name:'KEEPERS',law:'The gallery. Only what earned a KEEP.',f:x=>stat(x)==='keep'});
@@ -71,7 +91,7 @@ function rooms(){const P=all(),live=P.filter(x=>stat(x)!=='nay'),R=[];
  NIGHTS.forEach(n=>R.push({g:'NIGHTS',id:'nights:'+n,name:n.replace(/-/g,' '),law:'haloraves.com/nights/'+n,f:x=>stat(x)!=='nay'&&rms(x).includes('nights:'+n)}));
  const other=new Set();P.forEach(x=>rms(x).forEach(r=>{if(r.includes(':')&&!r.startsWith('nights:'))other.add(r)}));
  [...other].sort().forEach(r=>{const[g,...n]=r.split(':');R.push({g:g.toUpperCase(),id:r,name:n.join(':'),law:'',f:x=>stat(x)!=='nay'&&rms(x).includes(r)})});
- R.forEach(r=>r.items=(r.id==='UPDATES'?P:live.concat(r.id==='IN REVIEW'||r.id==='KEEPERS'?[]:[])).filter(r.f));return R}
+ R.forEach(r=>r.items=(r.id==='UPDATES'?P:live.concat(r.id==='IN REVIEW'||r.id==='KEEPERS'?[]:[])).filter(r.f));const KR=R.find(r=>r.id==='KEEPERS');if(KR)KR.items=keepFinal(P);return R}
 function nav(R){const n=document.getElementById('nav');let g='',h='';R.forEach(r=>{if(r.g!==g){g=r.g;h+=`<h4>${esc(g)}</h4>`}h+=`<div class="b${r.id===room?' act':''}" data-r="${esc(r.id)}">${esc(r.name)}<span class="n">${r.items.length}</span></div>`});
  h=`<div class="kf">${['all','client','general','event'].map(k=>`<button data-k="${k}" class="${kindF===k?'on':''}">${k.toUpperCase()}</button>`).join('')}</div>`+h;n.innerHTML=h;n.querySelectorAll('.kf button').forEach(b=>b.onclick=()=>{kindF=b.dataset.k;localStorage.setItem('halo_kindf',kindF);draw()});n.querySelectorAll('.b').forEach(b=>b.onclick=()=>go(b.dataset.r));const a=n.querySelector('.act');if(a&&innerWidth<=760)a.scrollIntoView({inline:'center',block:'nearest'})}
 function go(r){room=r;history.replaceState(null,'','#'+encodeURIComponent(r));const mn=document.getElementById('main');mn.classList.add('fade');setTimeout(()=>{draw();mn.classList.remove('fade');scrollTo({top:0})},180)}
@@ -91,9 +111,9 @@ function draw(){if(!M)return;const R=rooms();let r=R.find(x=>x.id===room);if(!r)
  const kept=all().filter(x=>stat(x)==='keep').length;document.getElementById('count').textContent=`${kept} / ${M.total} KEPT · ${all().filter(isRev).length} IN REVIEW`;document.getElementById('fill').style.width=Math.min(100,100*kept/M.total)+'%';
  document.getElementById('pend').textContent=`SEND ALL PENDING (${pend.length})`;
  document.getElementById('head').innerHTML=`<h1>${esc(r.name)}</h1><div class="law">${esc(r.law)}</div><div class="sub">${r.items.length} piece${r.items.length==1?'':'s'}</div>`;
- const g=document.getElementById('grid');g.className=r.id==='UPDATES'?'ups':'';g.innerHTML='';
+ const g=document.getElementById('grid');g.className=r.id==='UPDATES'?'ups':r.id==='KEEPERS'?'kg':'';g.innerHTML='';
  const L=[...r.items].sort((a,b)=>String(b.updated||'').localeCompare(String(a.updated||'')));
- if(!L.length)g.innerHTML='<div class="empty">Nothing in this room yet. New pieces land here as they are made.</div>';L.forEach(it=>g.appendChild(tile(it)))}
+ if(!L.length)g.innerHTML='<div class="empty">Nothing in this room yet. New pieces land here as they are made.</div>';L.forEach(it=>g.appendChild(r.id==='KEEPERS'?ktile(it):tile(it)))}
 async function load(){try{const m=await(await fetch('manifest.json?t='+Date.now(),{cache:'no-store'})).json();
  document.getElementById('upd').textContent='last updated '+new Date(m.updated).toLocaleString()+' · auto-refresh 30s';
  const s=JSON.stringify(m);if(s!==sig){sig=s;M=m;draw()}}catch(e){document.getElementById('upd').textContent='refresh failed, retrying…'}}
@@ -105,7 +125,7 @@ const $=id=>document.getElementById(id),cv=$('cv'),cx=cv.getContext('2d');
 function saveFB(){if(!cur)return;fb[cur.id]={note:$('note').value,strokes,refs};if(typeof draw==='function')setTimeout(draw,0);try{localStorage.setItem(FK,JSON.stringify(fb))}catch(e){$('fbmsg').textContent='storage full: reference photos not saved'}}
 function openLB(it){cur=it;const f=fb[it.id]||{};strokes=f.strokes||[];refs=f.refs||[];$('note').value=f.note||'';$('fbt').textContent='FEEDBACK · '+(it.title||it.id);$('lbk').innerHTML=pill(it);$('lbr').innerHTML=refsH(it);$('fbmsg').textContent='';
  const im=$('lbimg');im.onload=()=>{cv.width=im.naturalWidth;cv.height=im.naturalHeight;redraw()};if(it._src)im.src=it._src;else b64img(im,it.file,it);showRefs();$('lb').style.display='flex'}
-$('close').onclick=()=>{saveFB();$('lb').style.display='none'};
+$('fs').onclick=()=>{$('fs').style.display='none'};$('close').onclick=()=>{saveFB();$('lb').style.display='none'};
 function redraw(){cx.clearRect(0,0,cv.width,cv.height);cx.lineCap=cx.lineJoin='round';strokes.forEach(s=>{cx.strokeStyle=s.c;cx.lineWidth=s.w;cx.beginPath();s.p.forEach((p,i)=>i?cx.lineTo(p[0],p[1]):cx.moveTo(p[0],p[1]));if(s.p.length==1)cx.lineTo(s.p[0][0]+.1,s.p[0][1]);cx.stroke()})}
 function pt(e){const r=cv.getBoundingClientRect();return[Math.round((e.clientX-r.left)*cv.width/r.width),Math.round((e.clientY-r.top)*cv.height/r.height)]}
 let dn=false;cv.addEventListener('pointerdown',e=>{dn=true;cv.setPointerCapture(e.pointerId);const k=cv.width/cv.getBoundingClientRect().width;strokes.push({c:col,w:+$('bs').value*k,p:[pt(e)]});redraw()});
