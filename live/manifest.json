@@ -1,7 +1,7 @@
 {
  "total": 240,
- "done": 117,
- "updated": "2026-10-12T04:28:25Z",
+ "done": 162,
+ "updated": "2026-10-12T05:34:59Z",
  "items": [
   {
    "id": "cannonball_v2",
@@ -3456,6 +3456,1295 @@
      "url": "https://www.pinterest.com/pin/1137440449703889465/"
     }
    ]
+  },
+  {
+   "id": "T_HEADOPEN_03_E2",
+   "file": "img/T_HEADOPEN_03_E2.b64",
+   "title": "T_HEADOPEN_03_E2",
+   "theme": "HEAD/OPEN",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "HEAD/OPEN"
+   ],
+   "sources": "HALO Pinterest catalog: HEAD/OPEN board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 HEAD/OPEN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032971",
+     "url": "https://www.pinterest.com/pin/1137440449704032971/"
+    },
+    {
+     "label": "Pinterest pin \u2026899876",
+     "url": "https://www.pinterest.com/pin/1137440449703899876/"
+    },
+    {
+     "label": "Pinterest pin \u2026612695",
+     "url": "https://www.pinterest.com/pin/1137440449702612695/"
+    }
+   ]
+  },
+  {
+   "id": "T_HEADOPEN_03_S1",
+   "file": "img/T_HEADOPEN_03_S1.b64",
+   "title": "T_HEADOPEN_03_S1",
+   "theme": "HEAD/OPEN",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "HEAD/OPEN"
+   ],
+   "sources": "HALO Pinterest catalog: HEAD/OPEN board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 HEAD/OPEN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032971",
+     "url": "https://www.pinterest.com/pin/1137440449704032971/"
+    },
+    {
+     "label": "Pinterest pin \u2026899876",
+     "url": "https://www.pinterest.com/pin/1137440449703899876/"
+    },
+    {
+     "label": "Pinterest pin \u2026612695",
+     "url": "https://www.pinterest.com/pin/1137440449702612695/"
+    }
+   ]
+  },
+  {
+   "id": "T_SMALLLIFE_01_E2",
+   "file": "img/T_SMALLLIFE_01_E2.b64",
+   "title": "T_SMALLLIFE_01_E2",
+   "theme": "SMALL/LIFE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SMALL/LIFE"
+   ],
+   "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SMALL/LIFE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026806130",
+     "url": "https://www.pinterest.com/pin/1137440449695806130/"
+    },
+    {
+     "label": "Pinterest pin \u2026423576",
+     "url": "https://www.pinterest.com/pin/1137440449702423576/"
+    }
+   ]
+  },
+  {
+   "id": "T_SMALLLIFE_01_S1",
+   "file": "img/T_SMALLLIFE_01_S1.b64",
+   "title": "T_SMALLLIFE_01_S1",
+   "theme": "SMALL/LIFE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SMALL/LIFE"
+   ],
+   "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SMALL/LIFE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026806130",
+     "url": "https://www.pinterest.com/pin/1137440449695806130/"
+    },
+    {
+     "label": "Pinterest pin \u2026423576",
+     "url": "https://www.pinterest.com/pin/1137440449702423576/"
+    }
+   ]
+  },
+  {
+   "id": "T_SIGNALNOISE_05_E2",
+   "file": "img/T_SIGNALNOISE_05_E2.b64",
+   "title": "T_SIGNALNOISE_05_E2",
+   "theme": "SIGNAL/NOISE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SIGNAL/NOISE"
+   ],
+   "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384607",
+     "url": "https://www.pinterest.com/pin/1137440449702384607/"
+    },
+    {
+     "label": "Pinterest pin \u2026424072",
+     "url": "https://www.pinterest.com/pin/1137440449702424072/"
+    },
+    {
+     "label": "Pinterest pin \u2026688891",
+     "url": "https://www.pinterest.com/pin/1137440449703688891/"
+    }
+   ]
+  },
+  {
+   "id": "T_SIGNALNOISE_05_S1",
+   "file": "img/T_SIGNALNOISE_05_S1.b64",
+   "title": "T_SIGNALNOISE_05_S1",
+   "theme": "SIGNAL/NOISE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SIGNAL/NOISE"
+   ],
+   "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384607",
+     "url": "https://www.pinterest.com/pin/1137440449702384607/"
+    },
+    {
+     "label": "Pinterest pin \u2026424072",
+     "url": "https://www.pinterest.com/pin/1137440449702424072/"
+    },
+    {
+     "label": "Pinterest pin \u2026688891",
+     "url": "https://www.pinterest.com/pin/1137440449703688891/"
+    }
+   ]
+  },
+  {
+   "id": "T_BENTTYPE_01_E2",
+   "file": "img/T_BENTTYPE_01_E2.b64",
+   "title": "T_BENTTYPE_01_E2",
+   "theme": "BENT/TYPE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "BENT/TYPE"
+   ],
+   "sources": "HALO Pinterest catalog: BENT/TYPE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 BENT/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237572",
+     "url": "https://www.pinterest.com/pin/1137440449696237572/"
+    },
+    {
+     "label": "Pinterest pin \u2026237567",
+     "url": "https://www.pinterest.com/pin/1137440449696237567/"
+    },
+    {
+     "label": "Pinterest pin \u2026237472",
+     "url": "https://www.pinterest.com/pin/1137440449696237472/"
+    }
+   ]
+  },
+  {
+   "id": "T_BENTTYPE_01_S1",
+   "file": "img/T_BENTTYPE_01_S1.b64",
+   "title": "T_BENTTYPE_01_S1",
+   "theme": "BENT/TYPE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "BENT/TYPE"
+   ],
+   "sources": "HALO Pinterest catalog: BENT/TYPE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 BENT/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237572",
+     "url": "https://www.pinterest.com/pin/1137440449696237572/"
+    },
+    {
+     "label": "Pinterest pin \u2026237567",
+     "url": "https://www.pinterest.com/pin/1137440449696237567/"
+    },
+    {
+     "label": "Pinterest pin \u2026237472",
+     "url": "https://www.pinterest.com/pin/1137440449696237472/"
+    }
+   ]
+  },
+  {
+   "id": "T_TAPEDECK_03_E2",
+   "file": "img/T_TAPEDECK_03_E2.b64",
+   "title": "T_TAPEDECK_03_E2",
+   "theme": "TAPE/DECK",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TAPE/DECK"
+   ],
+   "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 TAPE/DECK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384476",
+     "url": "https://www.pinterest.com/pin/1137440449702384476/"
+    },
+    {
+     "label": "Pinterest pin \u2026340159",
+     "url": "https://www.pinterest.com/pin/1137440449702340159/"
+    },
+    {
+     "label": "Pinterest pin \u2026384470",
+     "url": "https://www.pinterest.com/pin/1137440449702384470/"
+    }
+   ]
+  },
+  {
+   "id": "T_TAPEDECK_03_S1",
+   "file": "img/T_TAPEDECK_03_S1.b64",
+   "title": "T_TAPEDECK_03_S1",
+   "theme": "TAPE/DECK",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TAPE/DECK"
+   ],
+   "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 TAPE/DECK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384476",
+     "url": "https://www.pinterest.com/pin/1137440449702384476/"
+    },
+    {
+     "label": "Pinterest pin \u2026340159",
+     "url": "https://www.pinterest.com/pin/1137440449702340159/"
+    },
+    {
+     "label": "Pinterest pin \u2026384470",
+     "url": "https://www.pinterest.com/pin/1137440449702384470/"
+    }
+   ]
+  },
+  {
+   "id": "T_TOYSMILE_03_E2",
+   "file": "img/T_TOYSMILE_03_E2.b64",
+   "title": "T_TOYSMILE_03_E2",
+   "theme": "TOY/SMILE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TOY/SMILE"
+   ],
+   "sources": "HALO Pinterest catalog: TOY/SMILE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 TOY/SMILE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899879",
+     "url": "https://www.pinterest.com/pin/1137440449703899879/"
+    },
+    {
+     "label": "Pinterest pin \u2026567863",
+     "url": "https://www.pinterest.com/pin/1137440449703567863/"
+    },
+    {
+     "label": "Pinterest pin \u2026611813",
+     "url": "https://www.pinterest.com/pin/1137440449702611813/"
+    }
+   ]
+  },
+  {
+   "id": "T_TOYSMILE_03_S1",
+   "file": "img/T_TOYSMILE_03_S1.b64",
+   "title": "T_TOYSMILE_03_S1",
+   "theme": "TOY/SMILE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TOY/SMILE"
+   ],
+   "sources": "HALO Pinterest catalog: TOY/SMILE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 TOY/SMILE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899879",
+     "url": "https://www.pinterest.com/pin/1137440449703899879/"
+    },
+    {
+     "label": "Pinterest pin \u2026567863",
+     "url": "https://www.pinterest.com/pin/1137440449703567863/"
+    },
+    {
+     "label": "Pinterest pin \u2026611813",
+     "url": "https://www.pinterest.com/pin/1137440449702611813/"
+    }
+   ]
+  },
+  {
+   "id": "T_POURDRIP_01_S1",
+   "file": "img/T_POURDRIP_01_S1.b64",
+   "title": "T_POURDRIP_01_S1",
+   "theme": "POUR/DRIP",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POUR/DRIP"
+   ],
+   "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 POUR/DRIP",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin \u2026384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    },
+    {
+     "label": "Pinterest pin \u2026688279",
+     "url": "https://www.pinterest.com/pin/1137440449703688279/"
+    }
+   ]
+  },
+  {
+   "id": "T_ACIDGRADIENT_03_E2",
+   "file": "img/T_ACIDGRADIENT_03_E2.b64",
+   "title": "T_ACIDGRADIENT_03_E2",
+   "theme": "ACID/GRADIENT",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "ACID/GRADIENT"
+   ],
+   "sources": "HALO Pinterest catalog: ACID/GRADIENT board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 ACID/GRADIENT",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384676",
+     "url": "https://www.pinterest.com/pin/1137440449702384676/"
+    },
+    {
+     "label": "Pinterest pin \u2026341243",
+     "url": "https://www.pinterest.com/pin/1137440449702341243/"
+    },
+    {
+     "label": "Pinterest pin \u2026341227",
+     "url": "https://www.pinterest.com/pin/1137440449702341227/"
+    }
+   ]
+  },
+  {
+   "id": "T_ACIDGRADIENT_03_S1",
+   "file": "img/T_ACIDGRADIENT_03_S1.b64",
+   "title": "T_ACIDGRADIENT_03_S1",
+   "theme": "ACID/GRADIENT",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "ACID/GRADIENT"
+   ],
+   "sources": "HALO Pinterest catalog: ACID/GRADIENT board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 ACID/GRADIENT",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384676",
+     "url": "https://www.pinterest.com/pin/1137440449702384676/"
+    },
+    {
+     "label": "Pinterest pin \u2026341243",
+     "url": "https://www.pinterest.com/pin/1137440449702341243/"
+    },
+    {
+     "label": "Pinterest pin \u2026341227",
+     "url": "https://www.pinterest.com/pin/1137440449702341227/"
+    }
+   ]
+  },
+  {
+   "id": "T_TAPEDECK_01_E2",
+   "file": "img/T_TAPEDECK_01_E2.b64",
+   "title": "T_TAPEDECK_01_E2",
+   "theme": "TAPE/DECK",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TAPE/DECK"
+   ],
+   "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 TAPE/DECK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384476",
+     "url": "https://www.pinterest.com/pin/1137440449702384476/"
+    },
+    {
+     "label": "Pinterest pin \u2026340159",
+     "url": "https://www.pinterest.com/pin/1137440449702340159/"
+    },
+    {
+     "label": "Pinterest pin \u2026384470",
+     "url": "https://www.pinterest.com/pin/1137440449702384470/"
+    }
+   ]
+  },
+  {
+   "id": "T_TAPEDECK_01_S1",
+   "file": "img/T_TAPEDECK_01_S1.b64",
+   "title": "T_TAPEDECK_01_S1",
+   "theme": "TAPE/DECK",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TAPE/DECK"
+   ],
+   "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 TAPE/DECK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384476",
+     "url": "https://www.pinterest.com/pin/1137440449702384476/"
+    },
+    {
+     "label": "Pinterest pin \u2026340159",
+     "url": "https://www.pinterest.com/pin/1137440449702340159/"
+    },
+    {
+     "label": "Pinterest pin \u2026384470",
+     "url": "https://www.pinterest.com/pin/1137440449702384470/"
+    }
+   ]
+  },
+  {
+   "id": "T_SIGNALNOISE_01_S1",
+   "file": "img/T_SIGNALNOISE_01_S1.b64",
+   "title": "T_SIGNALNOISE_01_S1",
+   "theme": "SIGNAL/NOISE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SIGNAL/NOISE"
+   ],
+   "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384607",
+     "url": "https://www.pinterest.com/pin/1137440449702384607/"
+    },
+    {
+     "label": "Pinterest pin \u2026424072",
+     "url": "https://www.pinterest.com/pin/1137440449702424072/"
+    },
+    {
+     "label": "Pinterest pin \u2026688891",
+     "url": "https://www.pinterest.com/pin/1137440449703688891/"
+    }
+   ]
+  },
+  {
+   "id": "pour_drip_01_E2",
+   "file": "img/pour_drip_01_E2.b64",
+   "title": "pour_drip_01_E2",
+   "theme": "POUR/DRIP",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POUR/DRIP"
+   ],
+   "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 POUR/DRIP",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin \u2026384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    },
+    {
+     "label": "Pinterest pin \u2026688279",
+     "url": "https://www.pinterest.com/pin/1137440449703688279/"
+    }
+   ]
+  },
+  {
+   "id": "pour_drip_01_S1",
+   "file": "img/pour_drip_01_S1.b64",
+   "title": "pour_drip_01_S1",
+   "theme": "POUR/DRIP",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POUR/DRIP"
+   ],
+   "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 POUR/DRIP",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin \u2026384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    },
+    {
+     "label": "Pinterest pin \u2026688279",
+     "url": "https://www.pinterest.com/pin/1137440449703688279/"
+    }
+   ]
+  },
+  {
+   "id": "T_MONOLITH_02_E2",
+   "file": "img/T_MONOLITH_02_E2.b64",
+   "title": "T_MONOLITH_02_E2",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 MONO/LITH",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
+  },
+  {
+   "id": "T_MONOLITH_02_S1",
+   "file": "img/T_MONOLITH_02_S1.b64",
+   "title": "T_MONOLITH_02_S1",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 MONO/LITH",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
+  },
+  {
+   "id": "T_POURDRIP_03_E2",
+   "file": "img/T_POURDRIP_03_E2.b64",
+   "title": "T_POURDRIP_03_E2",
+   "theme": "POUR/DRIP",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POUR/DRIP"
+   ],
+   "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 POUR/DRIP",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin \u2026384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    },
+    {
+     "label": "Pinterest pin \u2026688279",
+     "url": "https://www.pinterest.com/pin/1137440449703688279/"
+    }
+   ]
+  },
+  {
+   "id": "T_POURDRIP_03_S1",
+   "file": "img/T_POURDRIP_03_S1.b64",
+   "title": "T_POURDRIP_03_S1",
+   "theme": "POUR/DRIP",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POUR/DRIP"
+   ],
+   "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 POUR/DRIP",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin \u2026384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    },
+    {
+     "label": "Pinterest pin \u2026688279",
+     "url": "https://www.pinterest.com/pin/1137440449703688279/"
+    }
+   ]
+  },
+  {
+   "id": "toy_smile_01_E2",
+   "file": "img/toy_smile_01_E2.b64",
+   "title": "toy_smile_01_E2",
+   "theme": "TOY/SMILE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TOY/SMILE"
+   ],
+   "sources": "HALO Pinterest catalog: TOY/SMILE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 TOY/SMILE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899879",
+     "url": "https://www.pinterest.com/pin/1137440449703899879/"
+    },
+    {
+     "label": "Pinterest pin \u2026567863",
+     "url": "https://www.pinterest.com/pin/1137440449703567863/"
+    },
+    {
+     "label": "Pinterest pin \u2026611813",
+     "url": "https://www.pinterest.com/pin/1137440449702611813/"
+    }
+   ]
+  },
+  {
+   "id": "toy_smile_01_S1",
+   "file": "img/toy_smile_01_S1.b64",
+   "title": "toy_smile_01_S1",
+   "theme": "TOY/SMILE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TOY/SMILE"
+   ],
+   "sources": "HALO Pinterest catalog: TOY/SMILE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 TOY/SMILE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899879",
+     "url": "https://www.pinterest.com/pin/1137440449703899879/"
+    },
+    {
+     "label": "Pinterest pin \u2026567863",
+     "url": "https://www.pinterest.com/pin/1137440449703567863/"
+    },
+    {
+     "label": "Pinterest pin \u2026611813",
+     "url": "https://www.pinterest.com/pin/1137440449702611813/"
+    }
+   ]
+  },
+  {
+   "id": "T_SIGNALNOISE_03_E2",
+   "file": "img/T_SIGNALNOISE_03_E2.b64",
+   "title": "T_SIGNALNOISE_03_E2",
+   "theme": "SIGNAL/NOISE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SIGNAL/NOISE"
+   ],
+   "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384607",
+     "url": "https://www.pinterest.com/pin/1137440449702384607/"
+    },
+    {
+     "label": "Pinterest pin \u2026424072",
+     "url": "https://www.pinterest.com/pin/1137440449702424072/"
+    },
+    {
+     "label": "Pinterest pin \u2026688891",
+     "url": "https://www.pinterest.com/pin/1137440449703688891/"
+    }
+   ]
+  },
+  {
+   "id": "T_SIGNALNOISE_03_S1",
+   "file": "img/T_SIGNALNOISE_03_S1.b64",
+   "title": "T_SIGNALNOISE_03_S1",
+   "theme": "SIGNAL/NOISE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SIGNAL/NOISE"
+   ],
+   "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384607",
+     "url": "https://www.pinterest.com/pin/1137440449702384607/"
+    },
+    {
+     "label": "Pinterest pin \u2026424072",
+     "url": "https://www.pinterest.com/pin/1137440449702424072/"
+    },
+    {
+     "label": "Pinterest pin \u2026688891",
+     "url": "https://www.pinterest.com/pin/1137440449703688891/"
+    }
+   ]
+  },
+  {
+   "id": "T_HEADOPEN_02_E2",
+   "file": "img/T_HEADOPEN_02_E2.b64",
+   "title": "T_HEADOPEN_02_E2",
+   "theme": "HEAD/OPEN",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "HEAD/OPEN"
+   ],
+   "sources": "HALO Pinterest catalog: HEAD/OPEN board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 HEAD/OPEN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032971",
+     "url": "https://www.pinterest.com/pin/1137440449704032971/"
+    },
+    {
+     "label": "Pinterest pin \u2026899876",
+     "url": "https://www.pinterest.com/pin/1137440449703899876/"
+    },
+    {
+     "label": "Pinterest pin \u2026612695",
+     "url": "https://www.pinterest.com/pin/1137440449702612695/"
+    }
+   ]
+  },
+  {
+   "id": "T_HEADOPEN_02_S1",
+   "file": "img/T_HEADOPEN_02_S1.b64",
+   "title": "T_HEADOPEN_02_S1",
+   "theme": "HEAD/OPEN",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "HEAD/OPEN"
+   ],
+   "sources": "HALO Pinterest catalog: HEAD/OPEN board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 HEAD/OPEN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032971",
+     "url": "https://www.pinterest.com/pin/1137440449704032971/"
+    },
+    {
+     "label": "Pinterest pin \u2026899876",
+     "url": "https://www.pinterest.com/pin/1137440449703899876/"
+    },
+    {
+     "label": "Pinterest pin \u2026612695",
+     "url": "https://www.pinterest.com/pin/1137440449702612695/"
+    }
+   ]
+  },
+  {
+   "id": "T_MONOLITH_04_E2",
+   "file": "img/T_MONOLITH_04_E2.b64",
+   "title": "T_MONOLITH_04_E2",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 MONO/LITH",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
+  },
+  {
+   "id": "T_MONOLITH_04_S1",
+   "file": "img/T_MONOLITH_04_S1.b64",
+   "title": "T_MONOLITH_04_S1",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 MONO/LITH",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
+  },
+  {
+   "id": "mono_lith_01_E2",
+   "file": "img/mono_lith_01_E2.b64",
+   "title": "mono_lith_01_E2",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 MONO/LITH",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
+  },
+  {
+   "id": "mono_lith_01_S1",
+   "file": "img/mono_lith_01_S1.b64",
+   "title": "mono_lith_01_S1",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 MONO/LITH",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
+  },
+  {
+   "id": "T_HIDESKIN_02_E2",
+   "file": "img/T_HIDESKIN_02_E2.b64",
+   "title": "T_HIDESKIN_02_E2",
+   "theme": "HIDE/SKIN",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "HIDE/SKIN"
+   ],
+   "sources": "HALO Pinterest catalog: HIDE/SKIN board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 HIDE/SKIN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026805862",
+     "url": "https://www.pinterest.com/pin/1137440449695805862/"
+    },
+    {
+     "label": "Pinterest pin \u2026805815",
+     "url": "https://www.pinterest.com/pin/1137440449695805815/"
+    },
+    {
+     "label": "Pinterest pin \u2026805812",
+     "url": "https://www.pinterest.com/pin/1137440449695805812/"
+    }
+   ]
+  },
+  {
+   "id": "T_HIDESKIN_02_S1",
+   "file": "img/T_HIDESKIN_02_S1.b64",
+   "title": "T_HIDESKIN_02_S1",
+   "theme": "HIDE/SKIN",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "HIDE/SKIN"
+   ],
+   "sources": "HALO Pinterest catalog: HIDE/SKIN board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 HIDE/SKIN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026805862",
+     "url": "https://www.pinterest.com/pin/1137440449695805862/"
+    },
+    {
+     "label": "Pinterest pin \u2026805815",
+     "url": "https://www.pinterest.com/pin/1137440449695805815/"
+    },
+    {
+     "label": "Pinterest pin \u2026805812",
+     "url": "https://www.pinterest.com/pin/1137440449695805812/"
+    }
+   ]
+  },
+  {
+   "id": "dream_collage_01_S1",
+   "file": "img/dream_collage_01_S1.b64",
+   "title": "dream_collage_01_S1",
+   "theme": "DREAM/COLLAGE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "DREAM/COLLAGE"
+   ],
+   "sources": "HALO Pinterest catalog: DREAM/COLLAGE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899980",
+     "url": "https://www.pinterest.com/pin/1137440449703899980/"
+    },
+    {
+     "label": "Pinterest pin \u2026889191",
+     "url": "https://www.pinterest.com/pin/1137440449703889191/"
+    },
+    {
+     "label": "Pinterest pin \u2026882896",
+     "url": "https://www.pinterest.com/pin/1137440449703882896/"
+    }
+   ]
+  },
+  {
+   "id": "T_SMALLLIFE_02_E2",
+   "file": "img/T_SMALLLIFE_02_E2.b64",
+   "title": "T_SMALLLIFE_02_E2",
+   "theme": "SMALL/LIFE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SMALL/LIFE"
+   ],
+   "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SMALL/LIFE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026806130",
+     "url": "https://www.pinterest.com/pin/1137440449695806130/"
+    },
+    {
+     "label": "Pinterest pin \u2026423576",
+     "url": "https://www.pinterest.com/pin/1137440449702423576/"
+    }
+   ]
+  },
+  {
+   "id": "T_SMALLLIFE_02_S1",
+   "file": "img/T_SMALLLIFE_02_S1.b64",
+   "title": "T_SMALLLIFE_02_S1",
+   "theme": "SMALL/LIFE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SMALL/LIFE"
+   ],
+   "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SMALL/LIFE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026806130",
+     "url": "https://www.pinterest.com/pin/1137440449695806130/"
+    },
+    {
+     "label": "Pinterest pin \u2026423576",
+     "url": "https://www.pinterest.com/pin/1137440449702423576/"
+    }
+   ]
+  },
+  {
+   "id": "T_HEADOPEN_04_E2",
+   "file": "img/T_HEADOPEN_04_E2.b64",
+   "title": "T_HEADOPEN_04_E2",
+   "theme": "HEAD/OPEN",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "HEAD/OPEN"
+   ],
+   "sources": "HALO Pinterest catalog: HEAD/OPEN board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 HEAD/OPEN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032971",
+     "url": "https://www.pinterest.com/pin/1137440449704032971/"
+    },
+    {
+     "label": "Pinterest pin \u2026899876",
+     "url": "https://www.pinterest.com/pin/1137440449703899876/"
+    },
+    {
+     "label": "Pinterest pin \u2026612695",
+     "url": "https://www.pinterest.com/pin/1137440449702612695/"
+    }
+   ]
+  },
+  {
+   "id": "T_HEADOPEN_04_S1",
+   "file": "img/T_HEADOPEN_04_S1.b64",
+   "title": "T_HEADOPEN_04_S1",
+   "theme": "HEAD/OPEN",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "HEAD/OPEN"
+   ],
+   "sources": "HALO Pinterest catalog: HEAD/OPEN board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 HEAD/OPEN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032971",
+     "url": "https://www.pinterest.com/pin/1137440449704032971/"
+    },
+    {
+     "label": "Pinterest pin \u2026899876",
+     "url": "https://www.pinterest.com/pin/1137440449703899876/"
+    },
+    {
+     "label": "Pinterest pin \u2026612695",
+     "url": "https://www.pinterest.com/pin/1137440449702612695/"
+    }
+   ]
+  },
+  {
+   "id": "tape_deck_01_E2",
+   "file": "img/tape_deck_01_E2.b64",
+   "title": "tape_deck_01_E2",
+   "theme": "TAPE/DECK",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TAPE/DECK"
+   ],
+   "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 TAPE/DECK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384476",
+     "url": "https://www.pinterest.com/pin/1137440449702384476/"
+    },
+    {
+     "label": "Pinterest pin \u2026340159",
+     "url": "https://www.pinterest.com/pin/1137440449702340159/"
+    },
+    {
+     "label": "Pinterest pin \u2026384470",
+     "url": "https://www.pinterest.com/pin/1137440449702384470/"
+    }
+   ]
+  },
+  {
+   "id": "tape_deck_01_S1",
+   "file": "img/tape_deck_01_S1.b64",
+   "title": "tape_deck_01_S1",
+   "theme": "TAPE/DECK",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TAPE/DECK"
+   ],
+   "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 TAPE/DECK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384476",
+     "url": "https://www.pinterest.com/pin/1137440449702384476/"
+    },
+    {
+     "label": "Pinterest pin \u2026340159",
+     "url": "https://www.pinterest.com/pin/1137440449702340159/"
+    },
+    {
+     "label": "Pinterest pin \u2026384470",
+     "url": "https://www.pinterest.com/pin/1137440449702384470/"
+    }
+   ]
+  },
+  {
+   "id": "T_MATTERTYPE_02_E2",
+   "file": "img/T_MATTERTYPE_02_E2.b64",
+   "title": "T_MATTERTYPE_02_E2",
+   "theme": "MATTER/TYPE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MATTER/TYPE"
+   ],
+   "sources": "HALO Pinterest catalog: MATTER/TYPE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 MATTER/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237286",
+     "url": "https://www.pinterest.com/pin/1137440449696237286/"
+    },
+    {
+     "label": "Pinterest pin \u2026237417",
+     "url": "https://www.pinterest.com/pin/1137440449696237417/"
+    },
+    {
+     "label": "Pinterest pin \u2026237405",
+     "url": "https://www.pinterest.com/pin/1137440449696237405/"
+    }
+   ]
+  },
+  {
+   "id": "T_MATTERTYPE_02_S1",
+   "file": "img/T_MATTERTYPE_02_S1.b64",
+   "title": "T_MATTERTYPE_02_S1",
+   "theme": "MATTER/TYPE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MATTER/TYPE"
+   ],
+   "sources": "HALO Pinterest catalog: MATTER/TYPE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 MATTER/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237286",
+     "url": "https://www.pinterest.com/pin/1137440449696237286/"
+    },
+    {
+     "label": "Pinterest pin \u2026237417",
+     "url": "https://www.pinterest.com/pin/1137440449696237417/"
+    },
+    {
+     "label": "Pinterest pin \u2026237405",
+     "url": "https://www.pinterest.com/pin/1137440449696237405/"
+    }
+   ]
   }
  ],
  "updates": [
@@ -4154,7 +5443,7 @@
    "title": "T_POSTERGRID_01 \u2192 E2",
    "note": "",
    "updated": "2026-10-12T04:28:25Z",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "POSTER/GRID"
    ],
@@ -4185,7 +5474,7 @@
    "title": "N_PEPPERJUNGLE_02 \u2192 03",
    "note": "",
    "updated": "2026-10-12T04:28:25Z",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "NIGHTS",
     "nights:pepper-jungle"
@@ -4209,7 +5498,7 @@
    "title": "T_SIGNALNOISE_01 \u2192 E2",
    "note": "",
    "updated": "2026-10-12T04:28:25Z",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "SIGNAL/NOISE"
    ],
@@ -4240,7 +5529,7 @@
    "title": "T_POURDRIP_01 \u2192 E2",
    "note": "",
    "updated": "2026-10-12T04:28:25Z",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "POUR/DRIP"
    ],
@@ -4271,7 +5560,7 @@
    "title": "T_SMALLLIFE_B1 \u2192 E1",
    "note": "",
    "updated": "2026-10-12T04:28:25Z",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "SMALL/LIFE"
    ],
@@ -4298,7 +5587,7 @@
    "title": "T_MATTERTYPE_05 \u2192 E3",
    "note": "",
    "updated": "2026-10-12T04:28:25Z",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "MATTER/TYPE"
    ],
@@ -4319,6 +5608,130 @@
      "url": "https://www.pinterest.com/pin/1137440449696237405/"
     }
    ]
+  },
+  {
+   "id": "T_MONOLITH_05_S1_E1",
+   "file": "img/T_MONOLITH_05_S1_E1.b64",
+   "title": "T_MONOLITH_05_S1 \u2192 E1",
+   "theme": "MONO/LITH",
+   "note": "more crystal like (#14)",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 MONO/LITH",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ],
+   "of": "T_MONOLITH_05_S1",
+   "version": "E1",
+   "before_file": "T_MONOLITH_05_S1"
+  },
+  {
+   "id": "T_POSTERGRID_01_E3",
+   "file": "img/T_POSTERGRID_01_E3.b64",
+   "title": "T_POSTERGRID_01 \u2192 E3",
+   "theme": "POSTER/GRID",
+   "note": "crystal bursting through the Arthur Lakes Library (#22)",
+   "status": "review",
+   "rooms": [
+    "POSTER/GRID"
+   ],
+   "sources": "HALO Pinterest catalog: POSTER/GRID board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 POSTER/GRID",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026690442",
+     "url": "https://www.pinterest.com/pin/1137440449703690442/"
+    },
+    {
+     "label": "Pinterest pin \u2026698759",
+     "url": "https://www.pinterest.com/pin/1137440449703698759/"
+    },
+    {
+     "label": "Pinterest pin \u2026690491",
+     "url": "https://www.pinterest.com/pin/1137440449703690491/"
+    }
+   ],
+   "of": "T_POSTERGRID_01",
+   "version": "E3",
+   "before_file": "T_POSTERGRID_01_E2"
+  },
+  {
+   "id": "T_POURDRIP_01_E3",
+   "file": "img/T_POURDRIP_01_E3.b64",
+   "title": "T_POURDRIP_01 \u2192 E3",
+   "theme": "POUR/DRIP",
+   "note": "more like chrome water (#23)",
+   "status": "review",
+   "rooms": [
+    "POUR/DRIP"
+   ],
+   "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 POUR/DRIP",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin \u2026384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    },
+    {
+     "label": "Pinterest pin \u2026688279",
+     "url": "https://www.pinterest.com/pin/1137440449703688279/"
+    }
+   ],
+   "of": "T_POURDRIP_01",
+   "version": "E3",
+   "before_file": "T_POURDRIP_01_E2"
+  },
+  {
+   "id": "T_SMALLLIFE_B1_E2",
+   "file": "img/T_SMALLLIFE_B1_E2.b64",
+   "title": "T_SMALLLIFE_B1 \u2192 E2",
+   "theme": "SMALL/LIFE",
+   "note": "giant falling water drop with the green guy on its side (#24)",
+   "status": "review",
+   "rooms": [
+    "SMALL/LIFE"
+   ],
+   "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T05:34:42Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SMALL/LIFE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026806130",
+     "url": "https://www.pinterest.com/pin/1137440449695806130/"
+    },
+    {
+     "label": "Pinterest pin \u2026423576",
+     "url": "https://www.pinterest.com/pin/1137440449702423576/"
+    }
+   ],
+   "of": "T_SMALLLIFE_B1",
+   "version": "E2",
+   "before_file": "T_SMALLLIFE_B1_E1"
   }
  ]
 }
