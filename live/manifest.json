@@ -1,7 +1,7 @@
 {
-  "total": 137,
-  "done": 137,
-  "updated": "2026-10-12T21:52:18Z",
+  "total": 138,
+  "done": 138,
+  "updated": "2026-10-12T21:52:49Z",
   "items": [
     {
       "id": "mono_lith_01",
@@ -5031,6 +5031,46 @@
       "theme": "PRODUCT POSTERS",
       "note": "",
       "updated": "2026-10-12T21:52:18Z"
+    },
+    {
+      "id": "PP_07",
+      "title": "HALO \u00b7 Riverside Night",
+      "kind": "product",
+      "kindLabel": "PRODUCT \u00b7 RSVP",
+      "section": "Product Posters",
+      "status": "review",
+      "cta": "RSVP",
+      "rooms": [],
+      "refs": [
+        {
+          "label": "haloraves.com/halo",
+          "url": "https://www.haloraves.com/halo"
+        },
+        {
+          "label": "Product shot halo-rave",
+          "url": "https://www.haloraves.com/brand/halo-rave.jpg"
+        },
+        {
+          "label": "Pinterest pin \u2026120235",
+          "url": "https://www.pinterest.com/pin/1137440449704120235/"
+        }
+      ],
+      "prints": [
+        {
+          "label": "Letter 8.5\u00d711",
+          "pdf": "promo/PP_07_letter.pdf.b64",
+          "name": "HALO_PRODUCT_PP_07_letter.pdf"
+        },
+        {
+          "label": "11\u00d717",
+          "pdf": "promo/PP_07_tabloid.pdf.b64",
+          "name": "HALO_PRODUCT_PP_07_tabloid.pdf"
+        }
+      ],
+      "file": "img/PP_07.b64",
+      "theme": "PRODUCT POSTERS",
+      "note": "",
+      "updated": "2026-10-12T21:52:49Z"
     }
   ],
   "updates": [
