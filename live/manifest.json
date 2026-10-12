@@ -1,7 +1,7 @@
 {
-  "total": 141,
-  "done": 141,
-  "updated": "2026-10-12T21:54:12Z",
+  "total": 142,
+  "done": 142,
+  "updated": "2026-10-12T21:54:41Z",
   "items": [
     {
       "id": "mono_lith_01",
@@ -5191,6 +5191,46 @@
       "theme": "PRODUCT POSTERS",
       "note": "",
       "updated": "2026-10-12T21:54:12Z"
+    },
+    {
+      "id": "PP_12",
+      "title": "HALO \u00b7 Monument Fog",
+      "kind": "product",
+      "kindLabel": "PRODUCT \u00b7 RSVP",
+      "section": "Product Posters",
+      "status": "review",
+      "cta": "RSVP",
+      "rooms": [],
+      "refs": [
+        {
+          "label": "haloraves.com/halo",
+          "url": "https://www.haloraves.com/halo"
+        },
+        {
+          "label": "Product shot halo-night-tide",
+          "url": "https://www.haloraves.com/brand/halo-night-tide.jpg"
+        },
+        {
+          "label": "Pinterest pin \u2026341594",
+          "url": "https://www.pinterest.com/pin/1137440449702341594/"
+        }
+      ],
+      "prints": [
+        {
+          "label": "Letter 8.5\u00d711",
+          "pdf": "promo/PP_12_letter.pdf.b64",
+          "name": "HALO_PRODUCT_PP_12_letter.pdf"
+        },
+        {
+          "label": "11\u00d717",
+          "pdf": "promo/PP_12_tabloid.pdf.b64",
+          "name": "HALO_PRODUCT_PP_12_tabloid.pdf"
+        }
+      ],
+      "file": "img/PP_12.b64",
+      "theme": "PRODUCT POSTERS",
+      "note": "",
+      "updated": "2026-10-12T21:54:41Z"
     }
   ],
   "updates": [
