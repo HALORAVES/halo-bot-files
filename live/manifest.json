@@ -1,7 +1,7 @@
 {
-  "total": 140,
-  "done": 140,
-  "updated": "2026-10-12T21:53:44Z",
+  "total": 141,
+  "done": 141,
+  "updated": "2026-10-12T21:54:12Z",
   "items": [
     {
       "id": "mono_lith_01",
@@ -5151,6 +5151,46 @@
       "theme": "PRODUCT POSTERS",
       "note": "",
       "updated": "2026-10-12T21:53:44Z"
+    },
+    {
+      "id": "PP_11",
+      "title": "HALO \u00b7 Acid Op-Art Stage",
+      "kind": "product",
+      "kindLabel": "PRODUCT \u00b7 Transmitter Zone",
+      "section": "Product Posters",
+      "status": "review",
+      "cta": "Transmitter Zone",
+      "rooms": [],
+      "refs": [
+        {
+          "label": "haloraves.com/halo",
+          "url": "https://www.haloraves.com/halo"
+        },
+        {
+          "label": "Product shot halo-night-prism",
+          "url": "https://www.haloraves.com/brand/halo-night-prism.jpg"
+        },
+        {
+          "label": "Pinterest pin \u2026124242",
+          "url": "https://www.pinterest.com/pin/1137440449704124242/"
+        }
+      ],
+      "prints": [
+        {
+          "label": "Letter 8.5\u00d711",
+          "pdf": "promo/PP_11_letter.pdf.b64",
+          "name": "HALO_PRODUCT_PP_11_letter.pdf"
+        },
+        {
+          "label": "11\u00d717",
+          "pdf": "promo/PP_11_tabloid.pdf.b64",
+          "name": "HALO_PRODUCT_PP_11_tabloid.pdf"
+        }
+      ],
+      "file": "img/PP_11.b64",
+      "theme": "PRODUCT POSTERS",
+      "note": "",
+      "updated": "2026-10-12T21:54:12Z"
     }
   ],
   "updates": [
