@@ -1,7 +1,7 @@
 {
- "total": 150,
- "done": 7,
- "updated": "2026-10-12T01:41:52Z",
+ "total": 240,
+ "done": 67,
+ "updated": "2026-10-12T01:49:17Z",
  "items": [
   {
    "id": "cannonball_v2",
@@ -295,6 +295,656 @@
    ],
    "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:41:52Z"
+  },
+  {
+   "id": "T_TOYSMILE_01",
+   "file": "img/T_TOYSMILE_01.b64",
+   "title": "Rooftop Grin",
+   "theme": "TOY/SMILE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TOY/SMILE"
+   ],
+   "sources": "HALO Pinterest catalog: TOY/SMILE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_ACIDGRADIENT_01",
+   "file": "img/T_ACIDGRADIENT_01.b64",
+   "title": "Gradient Orb",
+   "theme": "ACID/GRADIENT",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "ACID/GRADIENT"
+   ],
+   "sources": "HALO Pinterest catalog: ACID/GRADIENT board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_POSTERGRID_01",
+   "file": "img/T_POSTERGRID_01.b64",
+   "title": "Grid Wall",
+   "theme": "POSTER/GRID",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POSTER/GRID"
+   ],
+   "sources": "HALO Pinterest catalog: POSTER/GRID board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_POURDRIP_01",
+   "file": "img/T_POURDRIP_01.b64",
+   "title": "Molten Sphere",
+   "theme": "POUR/DRIP",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POUR/DRIP"
+   ],
+   "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_SIGNALNOISE_01",
+   "file": "img/T_SIGNALNOISE_01.b64",
+   "title": "Glitch Keep",
+   "theme": "SIGNAL/NOISE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SIGNAL/NOISE"
+   ],
+   "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_MONOLITH_02",
+   "file": "img/T_MONOLITH_02.b64",
+   "title": "Broken Bridge",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_DREAMCOLLAGE_02",
+   "file": "img/T_DREAMCOLLAGE_02.b64",
+   "title": "Peak Headphones",
+   "theme": "DREAM/COLLAGE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "DREAM/COLLAGE"
+   ],
+   "sources": "HALO Pinterest catalog: DREAM/COLLAGE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_HEADOPEN_02",
+   "file": "img/T_HEADOPEN_02.b64",
+   "title": "Galaxy Helmet",
+   "theme": "HEAD/OPEN",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "HEAD/OPEN"
+   ],
+   "sources": "HALO Pinterest catalog: HEAD/OPEN board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_HIDESKIN_02",
+   "file": "img/T_HIDESKIN_02.b64",
+   "title": "Veined Stone",
+   "theme": "HIDE/SKIN",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "HIDE/SKIN"
+   ],
+   "sources": "HALO Pinterest catalog: HIDE/SKIN board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_SMALLLIFE_02",
+   "file": "img/T_SMALLLIFE_02.b64",
+   "title": "Record Bee",
+   "theme": "SMALL/LIFE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SMALL/LIFE"
+   ],
+   "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_MATTERTYPE_02",
+   "file": "img/T_MATTERTYPE_02.b64",
+   "title": "Ocean BASS",
+   "theme": "MATTER/TYPE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MATTER/TYPE"
+   ],
+   "sources": "HALO Pinterest catalog: MATTER/TYPE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_BENTTYPE_02",
+   "file": "img/T_BENTTYPE_02.b64",
+   "title": "Canyon DROP",
+   "theme": "BENT/TYPE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "BENT/TYPE"
+   ],
+   "sources": "HALO Pinterest catalog: BENT/TYPE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_SIGNMARK_02",
+   "file": "img/T_SIGNMARK_02.b64",
+   "title": "Oculus Ring",
+   "theme": "SIGN/MARK",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SIGN/MARK"
+   ],
+   "sources": "HALO Pinterest catalog: SIGN/MARK board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_BITECOLOR_02",
+   "file": "img/T_BITECOLOR_02.b64",
+   "title": "Mesa Chili",
+   "theme": "BITE/COLOR",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "BITE/COLOR"
+   ],
+   "sources": "HALO Pinterest catalog: BITE/COLOR board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_TAPEDECK_02",
+   "file": "img/T_TAPEDECK_02.b64",
+   "title": "Summit Reels",
+   "theme": "TAPE/DECK",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TAPE/DECK"
+   ],
+   "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_TOYSMILE_02",
+   "file": "img/T_TOYSMILE_02.b64",
+   "title": "Street Grin",
+   "theme": "TOY/SMILE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TOY/SMILE"
+   ],
+   "sources": "HALO Pinterest catalog: TOY/SMILE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_ACIDGRADIENT_02",
+   "file": "img/T_ACIDGRADIENT_02.b64",
+   "title": "Prairie Glow",
+   "theme": "ACID/GRADIENT",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "ACID/GRADIENT"
+   ],
+   "sources": "HALO Pinterest catalog: ACID/GRADIENT board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_POSTERGRID_02",
+   "file": "img/T_POSTERGRID_02.b64",
+   "title": "Plaza Grid",
+   "theme": "POSTER/GRID",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POSTER/GRID"
+   ],
+   "sources": "HALO Pinterest catalog: POSTER/GRID board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_POURDRIP_02",
+   "file": "img/T_POURDRIP_02.b64",
+   "title": "Cube Falls",
+   "theme": "POUR/DRIP",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POUR/DRIP"
+   ],
+   "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_SIGNALNOISE_02",
+   "file": "img/T_SIGNALNOISE_02.b64",
+   "title": "Forest CRT",
+   "theme": "SIGNAL/NOISE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SIGNAL/NOISE"
+   ],
+   "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_MONOLITH_03",
+   "file": "img/T_MONOLITH_03.b64",
+   "title": "Lake Gate",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_DREAMCOLLAGE_03",
+   "file": "img/T_DREAMCOLLAGE_03.b64",
+   "title": "Sea Mirrorball",
+   "theme": "DREAM/COLLAGE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "DREAM/COLLAGE"
+   ],
+   "sources": "HALO Pinterest catalog: DREAM/COLLAGE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_HEADOPEN_03",
+   "file": "img/T_HEADOPEN_03.b64",
+   "title": "Speaker Head",
+   "theme": "HEAD/OPEN",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "HEAD/OPEN"
+   ],
+   "sources": "HALO Pinterest catalog: HEAD/OPEN board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_HIDESKIN_03",
+   "file": "img/T_HIDESKIN_03.b64",
+   "title": "Wing Scale Orb",
+   "theme": "HIDE/SKIN",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "HIDE/SKIN"
+   ],
+   "sources": "HALO Pinterest catalog: HIDE/SKIN board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_SMALLLIFE_03",
+   "file": "img/T_SMALLLIFE_03.b64",
+   "title": "Haloed Frog",
+   "theme": "SMALL/LIFE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SMALL/LIFE"
+   ],
+   "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_MATTERTYPE_03",
+   "file": "img/T_MATTERTYPE_03.b64",
+   "title": "Glacier ICE",
+   "theme": "MATTER/TYPE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MATTER/TYPE"
+   ],
+   "sources": "HALO Pinterest catalog: MATTER/TYPE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_BENTTYPE_03",
+   "file": "img/T_BENTTYPE_03.b64",
+   "title": "Neon LOOP",
+   "theme": "BENT/TYPE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "BENT/TYPE"
+   ],
+   "sources": "HALO Pinterest catalog: BENT/TYPE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_SIGNMARK_03",
+   "file": "img/T_SIGNMARK_03.b64",
+   "title": "Snow Ring",
+   "theme": "SIGN/MARK",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SIGN/MARK"
+   ],
+   "sources": "HALO Pinterest catalog: SIGN/MARK board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_BITECOLOR_03",
+   "file": "img/T_BITECOLOR_03.b64",
+   "title": "Arch Grapes",
+   "theme": "BITE/COLOR",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "BITE/COLOR"
+   ],
+   "sources": "HALO Pinterest catalog: BITE/COLOR board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_TAPEDECK_03",
+   "file": "img/T_TAPEDECK_03.b64",
+   "title": "Canyon Boombox",
+   "theme": "TAPE/DECK",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TAPE/DECK"
+   ],
+   "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_TOYSMILE_03",
+   "file": "img/T_TOYSMILE_03.b64",
+   "title": "Dam Duck",
+   "theme": "TOY/SMILE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TOY/SMILE"
+   ],
+   "sources": "HALO Pinterest catalog: TOY/SMILE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_ACIDGRADIENT_03",
+   "file": "img/T_ACIDGRADIENT_03.b64",
+   "title": "Tunnel Glow",
+   "theme": "ACID/GRADIENT",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "ACID/GRADIENT"
+   ],
+   "sources": "HALO Pinterest catalog: ACID/GRADIENT board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_POSTERGRID_03",
+   "file": "img/T_POSTERGRID_03.b64",
+   "title": "Window Ring",
+   "theme": "POSTER/GRID",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POSTER/GRID"
+   ],
+   "sources": "HALO Pinterest catalog: POSTER/GRID board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_POURDRIP_03",
+   "file": "img/T_POURDRIP_03.b64",
+   "title": "Melting Record",
+   "theme": "POUR/DRIP",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POUR/DRIP"
+   ],
+   "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_SIGNALNOISE_03",
+   "file": "img/T_SIGNALNOISE_03.b64",
+   "title": "Glitch Horses",
+   "theme": "SIGNAL/NOISE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SIGNAL/NOISE"
+   ],
+   "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_MONOLITH_04",
+   "file": "img/T_MONOLITH_04.b64",
+   "title": "Sea Stairs",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_DREAMCOLLAGE_04",
+   "file": "img/T_DREAMCOLLAGE_04.b64",
+   "title": "Valley Synth",
+   "theme": "DREAM/COLLAGE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "DREAM/COLLAGE"
+   ],
+   "sources": "HALO Pinterest catalog: DREAM/COLLAGE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_HEADOPEN_04",
+   "file": "img/T_HEADOPEN_04.b64",
+   "title": "Storm Head",
+   "theme": "HEAD/OPEN",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "HEAD/OPEN"
+   ],
+   "sources": "HALO Pinterest catalog: HEAD/OPEN board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_HIDESKIN_04",
+   "file": "img/T_HIDESKIN_04.b64",
+   "title": "Reef Tower",
+   "theme": "HIDE/SKIN",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "HIDE/SKIN"
+   ],
+   "sources": "HALO Pinterest catalog: HIDE/SKIN board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_SMALLLIFE_04",
+   "file": "img/T_SMALLLIFE_04.b64",
+   "title": "Mic Snail",
+   "theme": "SMALL/LIFE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SMALL/LIFE"
+   ],
+   "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_MATTERTYPE_04",
+   "file": "img/T_MATTERTYPE_04.b64",
+   "title": "Ember FIRE",
+   "theme": "MATTER/TYPE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MATTER/TYPE"
+   ],
+   "sources": "HALO Pinterest catalog: MATTER/TYPE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_BENTTYPE_04",
+   "file": "img/T_BENTTYPE_04.b64",
+   "title": "Stone RISE",
+   "theme": "BENT/TYPE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "BENT/TYPE"
+   ],
+   "sources": "HALO Pinterest catalog: BENT/TYPE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_SIGNMARK_04",
+   "file": "img/T_SIGNMARK_04.b64",
+   "title": "Highway Ring",
+   "theme": "SIGN/MARK",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SIGN/MARK"
+   ],
+   "sources": "HALO Pinterest catalog: SIGN/MARK board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_BITECOLOR_04",
+   "file": "img/T_BITECOLOR_04.b64",
+   "title": "Rooftop Melt",
+   "theme": "BITE/COLOR",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "BITE/COLOR"
+   ],
+   "sources": "HALO Pinterest catalog: BITE/COLOR board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_TAPEDECK_04",
+   "file": "img/T_TAPEDECK_04.b64",
+   "title": "Cliff Decks",
+   "theme": "TAPE/DECK",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TAPE/DECK"
+   ],
+   "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_TOYSMILE_04",
+   "file": "img/T_TOYSMILE_04.b64",
+   "title": "Balloon Grin",
+   "theme": "TOY/SMILE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TOY/SMILE"
+   ],
+   "sources": "HALO Pinterest catalog: TOY/SMILE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_ACIDGRADIENT_04",
+   "file": "img/T_ACIDGRADIENT_04.b64",
+   "title": "Ice Falls",
+   "theme": "ACID/GRADIENT",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "ACID/GRADIENT"
+   ],
+   "sources": "HALO Pinterest catalog: ACID/GRADIENT board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_POSTERGRID_04",
+   "file": "img/T_POSTERGRID_04.b64",
+   "title": "Pillar Lake",
+   "theme": "POSTER/GRID",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POSTER/GRID"
+   ],
+   "sources": "HALO Pinterest catalog: POSTER/GRID board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_POURDRIP_04",
+   "file": "img/T_POURDRIP_04.b64",
+   "title": "Honey Comb",
+   "theme": "POUR/DRIP",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POUR/DRIP"
+   ],
+   "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_SIGNALNOISE_04",
+   "file": "img/T_SIGNALNOISE_04.b64",
+   "title": "Static Dish",
+   "theme": "SIGNAL/NOISE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SIGNAL/NOISE"
+   ],
+   "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:49:17Z"
   }
  ],
  "updates": [
