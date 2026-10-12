@@ -1,7 +1,7 @@
 {
  "total": 240,
- "done": 67,
- "updated": "2026-10-12T01:49:17Z",
+ "done": 82,
+ "updated": "2026-10-12T01:51:57Z",
  "items": [
   {
    "id": "cannonball_v2",
@@ -795,7 +795,7 @@
    "file": "img/T_HIDESKIN_04.b64",
    "title": "Reef Tower",
    "theme": "HIDE/SKIN",
-   "note": "",
+   "note": "rework queued (dull ring)",
    "status": "review",
    "rooms": [
     "HIDE/SKIN"
@@ -945,6 +945,201 @@
    ],
    "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z"
+  },
+  {
+   "id": "T_MONOLITH_05",
+   "file": "img/T_MONOLITH_05.b64",
+   "title": "Inverted Pyramid",
+   "theme": "MONO/LITH",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MONO/LITH"
+   ],
+   "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:51:57Z"
+  },
+  {
+   "id": "T_DREAMCOLLAGE_05",
+   "file": "img/T_DREAMCOLLAGE_05.b64",
+   "title": "Sub Crater",
+   "theme": "DREAM/COLLAGE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "DREAM/COLLAGE"
+   ],
+   "sources": "HALO Pinterest catalog: DREAM/COLLAGE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:51:57Z"
+  },
+  {
+   "id": "T_HEADOPEN_05",
+   "file": "img/T_HEADOPEN_05.b64",
+   "title": "Dune Relic",
+   "theme": "HEAD/OPEN",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "HEAD/OPEN"
+   ],
+   "sources": "HALO Pinterest catalog: HEAD/OPEN board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:51:57Z"
+  },
+  {
+   "id": "T_HIDESKIN_05",
+   "file": "img/T_HIDESKIN_05.b64",
+   "title": "Stitched Orb",
+   "theme": "HIDE/SKIN",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "HIDE/SKIN"
+   ],
+   "sources": "HALO Pinterest catalog: HIDE/SKIN board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:51:57Z"
+  },
+  {
+   "id": "T_SMALLLIFE_05",
+   "file": "img/T_SMALLLIFE_05.b64",
+   "title": "Stylus Firefly",
+   "theme": "SMALL/LIFE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SMALL/LIFE"
+   ],
+   "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:51:57Z"
+  },
+  {
+   "id": "T_MATTERTYPE_05",
+   "file": "img/T_MATTERTYPE_05.b64",
+   "title": "Rainforest MOSS",
+   "theme": "MATTER/TYPE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "MATTER/TYPE"
+   ],
+   "sources": "HALO Pinterest catalog: MATTER/TYPE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:51:57Z"
+  },
+  {
+   "id": "T_BENTTYPE_05",
+   "file": "img/T_BENTTYPE_05.b64",
+   "title": "Glass WAVE",
+   "theme": "BENT/TYPE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "BENT/TYPE"
+   ],
+   "sources": "HALO Pinterest catalog: BENT/TYPE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:51:57Z"
+  },
+  {
+   "id": "T_SIGNMARK_05",
+   "file": "img/T_SIGNMARK_05.b64",
+   "title": "Lantern Ring",
+   "theme": "SIGN/MARK",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SIGN/MARK"
+   ],
+   "sources": "HALO Pinterest catalog: SIGN/MARK board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:51:57Z"
+  },
+  {
+   "id": "T_BITECOLOR_05",
+   "file": "img/T_BITECOLOR_05.b64",
+   "title": "Bowl Dragonfruit",
+   "theme": "BITE/COLOR",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "BITE/COLOR"
+   ],
+   "sources": "HALO Pinterest catalog: BITE/COLOR board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:51:57Z"
+  },
+  {
+   "id": "T_TAPEDECK_05",
+   "file": "img/T_TAPEDECK_05.b64",
+   "title": "Salt Console",
+   "theme": "TAPE/DECK",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TAPE/DECK"
+   ],
+   "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:51:57Z"
+  },
+  {
+   "id": "T_TOYSMILE_05",
+   "file": "img/T_TOYSMILE_05.b64",
+   "title": "Sunflower Bot",
+   "theme": "TOY/SMILE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "TOY/SMILE"
+   ],
+   "sources": "HALO Pinterest catalog: TOY/SMILE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:51:57Z"
+  },
+  {
+   "id": "T_ACIDGRADIENT_05",
+   "file": "img/T_ACIDGRADIENT_05.b64",
+   "title": "Chrome Pod",
+   "theme": "ACID/GRADIENT",
+   "note": "rework queued (dull ring)",
+   "status": "review",
+   "rooms": [
+    "ACID/GRADIENT"
+   ],
+   "sources": "HALO Pinterest catalog: ACID/GRADIENT board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:51:57Z"
+  },
+  {
+   "id": "T_POSTERGRID_05",
+   "file": "img/T_POSTERGRID_05.b64",
+   "title": "Garage Ring",
+   "theme": "POSTER/GRID",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POSTER/GRID"
+   ],
+   "sources": "HALO Pinterest catalog: POSTER/GRID board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:51:57Z"
+  },
+  {
+   "id": "T_POURDRIP_05",
+   "file": "img/T_POURDRIP_05.b64",
+   "title": "Paint Stairs",
+   "theme": "POUR/DRIP",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "POUR/DRIP"
+   ],
+   "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:51:57Z"
+  },
+  {
+   "id": "T_SIGNALNOISE_05",
+   "file": "img/T_SIGNALNOISE_05.b64",
+   "title": "CRT Tower",
+   "theme": "SIGNAL/NOISE",
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "SIGNAL/NOISE"
+   ],
+   "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:51:57Z"
   }
  ],
  "updates": [
