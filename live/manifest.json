@@ -18,7 +18,13 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "client",
-   "kindLabel": "CLIENT \u00b7 Cannonball Creek"
+   "kindLabel": "CLIENT \u00b7 Cannonball Creek",
+   "refs": [
+    {
+     "label": "Client page: Cannonball Creek",
+     "url": "https://www.visitgolden.com/listing/cannonball-creek-brewery/"
+    }
+   ]
   },
   {
    "id": "mono_lith_01",
@@ -46,7 +52,25 @@
    },
    "vote": "yay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 MONO/LITH"
+   "kindLabel": "GENERAL \u00b7 MONO/LITH",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026901973",
+     "url": "https://www.pinterest.com/pin/1137440449703901973/"
+    },
+    {
+     "label": "Pinterest pin \u2026901949",
+     "url": "https://www.pinterest.com/pin/1137440449703901949/"
+    },
+    {
+     "label": "Pinterest pin \u2026900346",
+     "url": "https://www.pinterest.com/pin/1137440449703900346/"
+    }
+   ]
   },
   {
    "id": "dream_collage_01",
@@ -75,7 +99,25 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE"
+   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026036540",
+     "url": "https://www.pinterest.com/pin/1137440449704036540/"
+    },
+    {
+     "label": "Pinterest pin \u2026036429",
+     "url": "https://www.pinterest.com/pin/1137440449704036429/"
+    },
+    {
+     "label": "Pinterest pin \u2026036304",
+     "url": "https://www.pinterest.com/pin/1137440449704036304/"
+    },
+    {
+     "label": "Pinterest pin \u2026036267",
+     "url": "https://www.pinterest.com/pin/1137440449704036267/"
+    }
+   ]
   },
   {
    "id": "tape_deck_01",
@@ -104,7 +146,25 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 TAPE/DECK"
+   "kindLabel": "GENERAL \u00b7 TAPE/DECK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026688211",
+     "url": "https://www.pinterest.com/pin/1137440449703688211/"
+    },
+    {
+     "label": "Pinterest pin \u2026611914",
+     "url": "https://www.pinterest.com/pin/1137440449702611914/"
+    },
+    {
+     "label": "Pinterest pin \u2026424044",
+     "url": "https://www.pinterest.com/pin/1137440449702424044/"
+    },
+    {
+     "label": "Pinterest pin \u2026384515",
+     "url": "https://www.pinterest.com/pin/1137440449702384515/"
+    }
+   ]
   },
   {
    "id": "pour_drip_01",
@@ -133,7 +193,25 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 POUR/DRIP"
+   "kindLabel": "GENERAL \u00b7 POUR/DRIP",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026036532",
+     "url": "https://www.pinterest.com/pin/1137440449704036532/"
+    },
+    {
+     "label": "Pinterest pin \u2026036505",
+     "url": "https://www.pinterest.com/pin/1137440449704036505/"
+    },
+    {
+     "label": "Pinterest pin \u2026036484",
+     "url": "https://www.pinterest.com/pin/1137440449704036484/"
+    },
+    {
+     "label": "Pinterest pin \u2026036390",
+     "url": "https://www.pinterest.com/pin/1137440449704036390/"
+    }
+   ]
   },
   {
    "id": "toy_smile_01",
@@ -162,7 +240,25 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 TOY/SMILE"
+   "kindLabel": "GENERAL \u00b7 TOY/SMILE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026036445",
+     "url": "https://www.pinterest.com/pin/1137440449704036445/"
+    },
+    {
+     "label": "Pinterest pin \u2026036407",
+     "url": "https://www.pinterest.com/pin/1137440449704036407/"
+    },
+    {
+     "label": "Pinterest pin \u2026036277",
+     "url": "https://www.pinterest.com/pin/1137440449704036277/"
+    },
+    {
+     "label": "Pinterest pin \u2026036222",
+     "url": "https://www.pinterest.com/pin/1137440449704036222/"
+    }
+   ]
   },
   {
    "id": "signal_noise_01",
@@ -190,7 +286,25 @@
    },
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE"
+   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026036553",
+     "url": "https://www.pinterest.com/pin/1137440449704036553/"
+    },
+    {
+     "label": "Pinterest pin \u2026036519",
+     "url": "https://www.pinterest.com/pin/1137440449704036519/"
+    },
+    {
+     "label": "Pinterest pin \u2026036496",
+     "url": "https://www.pinterest.com/pin/1137440449704036496/"
+    },
+    {
+     "label": "Pinterest pin \u2026036373",
+     "url": "https://www.pinterest.com/pin/1137440449704036373/"
+    }
+   ]
   },
   {
    "id": "T_MONOLITH_01",
@@ -207,7 +321,21 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 MONO/LITH"
+   "kindLabel": "GENERAL \u00b7 MONO/LITH",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
   },
   {
    "id": "T_DREAMCOLLAGE_01",
@@ -223,7 +351,21 @@
    "updated": "2026-10-12T01:41:52Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE"
+   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899980",
+     "url": "https://www.pinterest.com/pin/1137440449703899980/"
+    },
+    {
+     "label": "Pinterest pin \u2026889191",
+     "url": "https://www.pinterest.com/pin/1137440449703889191/"
+    },
+    {
+     "label": "Pinterest pin \u2026882896",
+     "url": "https://www.pinterest.com/pin/1137440449703882896/"
+    }
+   ]
   },
   {
    "id": "T_HEADOPEN_01",
@@ -239,7 +381,21 @@
    "updated": "2026-10-12T01:41:52Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 HEAD/OPEN"
+   "kindLabel": "GENERAL \u00b7 HEAD/OPEN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032971",
+     "url": "https://www.pinterest.com/pin/1137440449704032971/"
+    },
+    {
+     "label": "Pinterest pin \u2026899876",
+     "url": "https://www.pinterest.com/pin/1137440449703899876/"
+    },
+    {
+     "label": "Pinterest pin \u2026612695",
+     "url": "https://www.pinterest.com/pin/1137440449702612695/"
+    }
+   ]
   },
   {
    "id": "T_HIDESKIN_01",
@@ -255,7 +411,21 @@
    "updated": "2026-10-12T01:41:52Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 HIDE/SKIN"
+   "kindLabel": "GENERAL \u00b7 HIDE/SKIN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026805862",
+     "url": "https://www.pinterest.com/pin/1137440449695805862/"
+    },
+    {
+     "label": "Pinterest pin \u2026805815",
+     "url": "https://www.pinterest.com/pin/1137440449695805815/"
+    },
+    {
+     "label": "Pinterest pin \u2026805812",
+     "url": "https://www.pinterest.com/pin/1137440449695805812/"
+    }
+   ]
   },
   {
    "id": "T_SMALLLIFE_01",
@@ -271,7 +441,17 @@
    "updated": "2026-10-12T01:41:52Z",
    "vote": "yay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SMALL/LIFE"
+   "kindLabel": "GENERAL \u00b7 SMALL/LIFE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026806130",
+     "url": "https://www.pinterest.com/pin/1137440449695806130/"
+    },
+    {
+     "label": "Pinterest pin \u2026423576",
+     "url": "https://www.pinterest.com/pin/1137440449702423576/"
+    }
+   ]
   },
   {
    "id": "T_MATTERTYPE_01",
@@ -287,7 +467,21 @@
    "updated": "2026-10-12T01:41:52Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 MATTER/TYPE"
+   "kindLabel": "GENERAL \u00b7 MATTER/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237286",
+     "url": "https://www.pinterest.com/pin/1137440449696237286/"
+    },
+    {
+     "label": "Pinterest pin \u2026237417",
+     "url": "https://www.pinterest.com/pin/1137440449696237417/"
+    },
+    {
+     "label": "Pinterest pin \u2026237405",
+     "url": "https://www.pinterest.com/pin/1137440449696237405/"
+    }
+   ]
   },
   {
    "id": "T_BENTTYPE_01",
@@ -304,7 +498,21 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 BENT/TYPE"
+   "kindLabel": "GENERAL \u00b7 BENT/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237572",
+     "url": "https://www.pinterest.com/pin/1137440449696237572/"
+    },
+    {
+     "label": "Pinterest pin \u2026237567",
+     "url": "https://www.pinterest.com/pin/1137440449696237567/"
+    },
+    {
+     "label": "Pinterest pin \u2026237472",
+     "url": "https://www.pinterest.com/pin/1137440449696237472/"
+    }
+   ]
   },
   {
    "id": "T_SIGNMARK_01",
@@ -320,7 +528,17 @@
    "updated": "2026-10-12T01:41:52Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SIGN/MARK"
+   "kindLabel": "GENERAL \u00b7 SIGN/MARK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237981",
+     "url": "https://www.pinterest.com/pin/1137440449696237981/"
+    },
+    {
+     "label": "Pinterest pin \u2026237880",
+     "url": "https://www.pinterest.com/pin/1137440449696237880/"
+    }
+   ]
   },
   {
    "id": "T_BITECOLOR_01",
@@ -336,7 +554,21 @@
    "updated": "2026-10-12T01:41:52Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 BITE/COLOR"
+   "kindLabel": "GENERAL \u00b7 BITE/COLOR",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026698731",
+     "url": "https://www.pinterest.com/pin/1137440449703698731/"
+    },
+    {
+     "label": "Pinterest pin \u2026238209",
+     "url": "https://www.pinterest.com/pin/1137440449696238209/"
+    },
+    {
+     "label": "Pinterest pin \u2026236968",
+     "url": "https://www.pinterest.com/pin/1137440449696236968/"
+    }
+   ]
   },
   {
    "id": "T_TAPEDECK_01",
@@ -353,7 +585,21 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 TAPE/DECK"
+   "kindLabel": "GENERAL \u00b7 TAPE/DECK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384476",
+     "url": "https://www.pinterest.com/pin/1137440449702384476/"
+    },
+    {
+     "label": "Pinterest pin \u2026340159",
+     "url": "https://www.pinterest.com/pin/1137440449702340159/"
+    },
+    {
+     "label": "Pinterest pin \u2026384470",
+     "url": "https://www.pinterest.com/pin/1137440449702384470/"
+    }
+   ]
   },
   {
    "id": "T_TOYSMILE_01",
@@ -369,7 +615,21 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 TOY/SMILE"
+   "kindLabel": "GENERAL \u00b7 TOY/SMILE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899879",
+     "url": "https://www.pinterest.com/pin/1137440449703899879/"
+    },
+    {
+     "label": "Pinterest pin \u2026567863",
+     "url": "https://www.pinterest.com/pin/1137440449703567863/"
+    },
+    {
+     "label": "Pinterest pin \u2026611813",
+     "url": "https://www.pinterest.com/pin/1137440449702611813/"
+    }
+   ]
   },
   {
    "id": "T_ACIDGRADIENT_01",
@@ -385,7 +645,21 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 ACID/GRADIENT"
+   "kindLabel": "GENERAL \u00b7 ACID/GRADIENT",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384676",
+     "url": "https://www.pinterest.com/pin/1137440449702384676/"
+    },
+    {
+     "label": "Pinterest pin \u2026341243",
+     "url": "https://www.pinterest.com/pin/1137440449702341243/"
+    },
+    {
+     "label": "Pinterest pin \u2026341227",
+     "url": "https://www.pinterest.com/pin/1137440449702341227/"
+    }
+   ]
   },
   {
    "id": "T_POSTERGRID_01",
@@ -401,7 +675,21 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 POSTER/GRID"
+   "kindLabel": "GENERAL \u00b7 POSTER/GRID",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026690442",
+     "url": "https://www.pinterest.com/pin/1137440449703690442/"
+    },
+    {
+     "label": "Pinterest pin \u2026698759",
+     "url": "https://www.pinterest.com/pin/1137440449703698759/"
+    },
+    {
+     "label": "Pinterest pin \u2026690491",
+     "url": "https://www.pinterest.com/pin/1137440449703690491/"
+    }
+   ]
   },
   {
    "id": "T_POURDRIP_01",
@@ -418,7 +706,21 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 POUR/DRIP"
+   "kindLabel": "GENERAL \u00b7 POUR/DRIP",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin \u2026384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    },
+    {
+     "label": "Pinterest pin \u2026688279",
+     "url": "https://www.pinterest.com/pin/1137440449703688279/"
+    }
+   ]
   },
   {
    "id": "T_SIGNALNOISE_01",
@@ -435,7 +737,21 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE"
+   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384607",
+     "url": "https://www.pinterest.com/pin/1137440449702384607/"
+    },
+    {
+     "label": "Pinterest pin \u2026424072",
+     "url": "https://www.pinterest.com/pin/1137440449702424072/"
+    },
+    {
+     "label": "Pinterest pin \u2026688891",
+     "url": "https://www.pinterest.com/pin/1137440449703688891/"
+    }
+   ]
   },
   {
    "id": "T_MONOLITH_02",
@@ -452,7 +768,21 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 MONO/LITH"
+   "kindLabel": "GENERAL \u00b7 MONO/LITH",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
   },
   {
    "id": "T_DREAMCOLLAGE_02",
@@ -468,7 +798,21 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE"
+   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899980",
+     "url": "https://www.pinterest.com/pin/1137440449703899980/"
+    },
+    {
+     "label": "Pinterest pin \u2026889191",
+     "url": "https://www.pinterest.com/pin/1137440449703889191/"
+    },
+    {
+     "label": "Pinterest pin \u2026882896",
+     "url": "https://www.pinterest.com/pin/1137440449703882896/"
+    }
+   ]
   },
   {
    "id": "T_HEADOPEN_02",
@@ -485,7 +829,21 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 HEAD/OPEN"
+   "kindLabel": "GENERAL \u00b7 HEAD/OPEN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032971",
+     "url": "https://www.pinterest.com/pin/1137440449704032971/"
+    },
+    {
+     "label": "Pinterest pin \u2026899876",
+     "url": "https://www.pinterest.com/pin/1137440449703899876/"
+    },
+    {
+     "label": "Pinterest pin \u2026612695",
+     "url": "https://www.pinterest.com/pin/1137440449702612695/"
+    }
+   ]
   },
   {
    "id": "T_HIDESKIN_02",
@@ -502,7 +860,21 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 HIDE/SKIN"
+   "kindLabel": "GENERAL \u00b7 HIDE/SKIN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026805862",
+     "url": "https://www.pinterest.com/pin/1137440449695805862/"
+    },
+    {
+     "label": "Pinterest pin \u2026805815",
+     "url": "https://www.pinterest.com/pin/1137440449695805815/"
+    },
+    {
+     "label": "Pinterest pin \u2026805812",
+     "url": "https://www.pinterest.com/pin/1137440449695805812/"
+    }
+   ]
   },
   {
    "id": "T_SMALLLIFE_02",
@@ -519,7 +891,17 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SMALL/LIFE"
+   "kindLabel": "GENERAL \u00b7 SMALL/LIFE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026806130",
+     "url": "https://www.pinterest.com/pin/1137440449695806130/"
+    },
+    {
+     "label": "Pinterest pin \u2026423576",
+     "url": "https://www.pinterest.com/pin/1137440449702423576/"
+    }
+   ]
   },
   {
    "id": "T_MATTERTYPE_02",
@@ -536,7 +918,21 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 MATTER/TYPE"
+   "kindLabel": "GENERAL \u00b7 MATTER/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237286",
+     "url": "https://www.pinterest.com/pin/1137440449696237286/"
+    },
+    {
+     "label": "Pinterest pin \u2026237417",
+     "url": "https://www.pinterest.com/pin/1137440449696237417/"
+    },
+    {
+     "label": "Pinterest pin \u2026237405",
+     "url": "https://www.pinterest.com/pin/1137440449696237405/"
+    }
+   ]
   },
   {
    "id": "T_BENTTYPE_02",
@@ -551,7 +947,21 @@
    "sources": "HALO Pinterest catalog: BENT/TYPE board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 BENT/TYPE"
+   "kindLabel": "GENERAL \u00b7 BENT/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237572",
+     "url": "https://www.pinterest.com/pin/1137440449696237572/"
+    },
+    {
+     "label": "Pinterest pin \u2026237567",
+     "url": "https://www.pinterest.com/pin/1137440449696237567/"
+    },
+    {
+     "label": "Pinterest pin \u2026237472",
+     "url": "https://www.pinterest.com/pin/1137440449696237472/"
+    }
+   ]
   },
   {
    "id": "T_SIGNMARK_02",
@@ -566,7 +976,17 @@
    "sources": "HALO Pinterest catalog: SIGN/MARK board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SIGN/MARK"
+   "kindLabel": "GENERAL \u00b7 SIGN/MARK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237981",
+     "url": "https://www.pinterest.com/pin/1137440449696237981/"
+    },
+    {
+     "label": "Pinterest pin \u2026237880",
+     "url": "https://www.pinterest.com/pin/1137440449696237880/"
+    }
+   ]
   },
   {
    "id": "T_BITECOLOR_02",
@@ -581,7 +1001,21 @@
    "sources": "HALO Pinterest catalog: BITE/COLOR board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 BITE/COLOR"
+   "kindLabel": "GENERAL \u00b7 BITE/COLOR",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026698731",
+     "url": "https://www.pinterest.com/pin/1137440449703698731/"
+    },
+    {
+     "label": "Pinterest pin \u2026238209",
+     "url": "https://www.pinterest.com/pin/1137440449696238209/"
+    },
+    {
+     "label": "Pinterest pin \u2026236968",
+     "url": "https://www.pinterest.com/pin/1137440449696236968/"
+    }
+   ]
   },
   {
    "id": "T_TAPEDECK_02",
@@ -596,7 +1030,21 @@
    "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 TAPE/DECK"
+   "kindLabel": "GENERAL \u00b7 TAPE/DECK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384476",
+     "url": "https://www.pinterest.com/pin/1137440449702384476/"
+    },
+    {
+     "label": "Pinterest pin \u2026340159",
+     "url": "https://www.pinterest.com/pin/1137440449702340159/"
+    },
+    {
+     "label": "Pinterest pin \u2026384470",
+     "url": "https://www.pinterest.com/pin/1137440449702384470/"
+    }
+   ]
   },
   {
    "id": "T_TOYSMILE_02",
@@ -611,7 +1059,21 @@
    "sources": "HALO Pinterest catalog: TOY/SMILE board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 TOY/SMILE"
+   "kindLabel": "GENERAL \u00b7 TOY/SMILE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899879",
+     "url": "https://www.pinterest.com/pin/1137440449703899879/"
+    },
+    {
+     "label": "Pinterest pin \u2026567863",
+     "url": "https://www.pinterest.com/pin/1137440449703567863/"
+    },
+    {
+     "label": "Pinterest pin \u2026611813",
+     "url": "https://www.pinterest.com/pin/1137440449702611813/"
+    }
+   ]
   },
   {
    "id": "T_ACIDGRADIENT_02",
@@ -626,7 +1088,21 @@
    "sources": "HALO Pinterest catalog: ACID/GRADIENT board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 ACID/GRADIENT"
+   "kindLabel": "GENERAL \u00b7 ACID/GRADIENT",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384676",
+     "url": "https://www.pinterest.com/pin/1137440449702384676/"
+    },
+    {
+     "label": "Pinterest pin \u2026341243",
+     "url": "https://www.pinterest.com/pin/1137440449702341243/"
+    },
+    {
+     "label": "Pinterest pin \u2026341227",
+     "url": "https://www.pinterest.com/pin/1137440449702341227/"
+    }
+   ]
   },
   {
    "id": "T_POSTERGRID_02",
@@ -641,7 +1117,21 @@
    "sources": "HALO Pinterest catalog: POSTER/GRID board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 POSTER/GRID"
+   "kindLabel": "GENERAL \u00b7 POSTER/GRID",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026690442",
+     "url": "https://www.pinterest.com/pin/1137440449703690442/"
+    },
+    {
+     "label": "Pinterest pin \u2026698759",
+     "url": "https://www.pinterest.com/pin/1137440449703698759/"
+    },
+    {
+     "label": "Pinterest pin \u2026690491",
+     "url": "https://www.pinterest.com/pin/1137440449703690491/"
+    }
+   ]
   },
   {
    "id": "T_POURDRIP_02",
@@ -657,7 +1147,21 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "yay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 POUR/DRIP"
+   "kindLabel": "GENERAL \u00b7 POUR/DRIP",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin \u2026384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    },
+    {
+     "label": "Pinterest pin \u2026688279",
+     "url": "https://www.pinterest.com/pin/1137440449703688279/"
+    }
+   ]
   },
   {
    "id": "T_SIGNALNOISE_02",
@@ -672,7 +1176,21 @@
    "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE"
+   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384607",
+     "url": "https://www.pinterest.com/pin/1137440449702384607/"
+    },
+    {
+     "label": "Pinterest pin \u2026424072",
+     "url": "https://www.pinterest.com/pin/1137440449702424072/"
+    },
+    {
+     "label": "Pinterest pin \u2026688891",
+     "url": "https://www.pinterest.com/pin/1137440449703688891/"
+    }
+   ]
   },
   {
    "id": "T_MONOLITH_03",
@@ -687,7 +1205,21 @@
    "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 MONO/LITH"
+   "kindLabel": "GENERAL \u00b7 MONO/LITH",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
   },
   {
    "id": "T_DREAMCOLLAGE_03",
@@ -703,7 +1235,21 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE"
+   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899980",
+     "url": "https://www.pinterest.com/pin/1137440449703899980/"
+    },
+    {
+     "label": "Pinterest pin \u2026889191",
+     "url": "https://www.pinterest.com/pin/1137440449703889191/"
+    },
+    {
+     "label": "Pinterest pin \u2026882896",
+     "url": "https://www.pinterest.com/pin/1137440449703882896/"
+    }
+   ]
   },
   {
    "id": "T_HEADOPEN_03",
@@ -720,7 +1266,21 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 HEAD/OPEN"
+   "kindLabel": "GENERAL \u00b7 HEAD/OPEN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032971",
+     "url": "https://www.pinterest.com/pin/1137440449704032971/"
+    },
+    {
+     "label": "Pinterest pin \u2026899876",
+     "url": "https://www.pinterest.com/pin/1137440449703899876/"
+    },
+    {
+     "label": "Pinterest pin \u2026612695",
+     "url": "https://www.pinterest.com/pin/1137440449702612695/"
+    }
+   ]
   },
   {
    "id": "T_HIDESKIN_03",
@@ -736,7 +1296,21 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 HIDE/SKIN"
+   "kindLabel": "GENERAL \u00b7 HIDE/SKIN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026805862",
+     "url": "https://www.pinterest.com/pin/1137440449695805862/"
+    },
+    {
+     "label": "Pinterest pin \u2026805815",
+     "url": "https://www.pinterest.com/pin/1137440449695805815/"
+    },
+    {
+     "label": "Pinterest pin \u2026805812",
+     "url": "https://www.pinterest.com/pin/1137440449695805812/"
+    }
+   ]
   },
   {
    "id": "T_SMALLLIFE_03",
@@ -752,7 +1326,17 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SMALL/LIFE"
+   "kindLabel": "GENERAL \u00b7 SMALL/LIFE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026806130",
+     "url": "https://www.pinterest.com/pin/1137440449695806130/"
+    },
+    {
+     "label": "Pinterest pin \u2026423576",
+     "url": "https://www.pinterest.com/pin/1137440449702423576/"
+    }
+   ]
   },
   {
    "id": "T_MATTERTYPE_03",
@@ -768,7 +1352,21 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 MATTER/TYPE"
+   "kindLabel": "GENERAL \u00b7 MATTER/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237286",
+     "url": "https://www.pinterest.com/pin/1137440449696237286/"
+    },
+    {
+     "label": "Pinterest pin \u2026237417",
+     "url": "https://www.pinterest.com/pin/1137440449696237417/"
+    },
+    {
+     "label": "Pinterest pin \u2026237405",
+     "url": "https://www.pinterest.com/pin/1137440449696237405/"
+    }
+   ]
   },
   {
    "id": "T_BENTTYPE_03",
@@ -784,7 +1382,21 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 BENT/TYPE"
+   "kindLabel": "GENERAL \u00b7 BENT/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237572",
+     "url": "https://www.pinterest.com/pin/1137440449696237572/"
+    },
+    {
+     "label": "Pinterest pin \u2026237567",
+     "url": "https://www.pinterest.com/pin/1137440449696237567/"
+    },
+    {
+     "label": "Pinterest pin \u2026237472",
+     "url": "https://www.pinterest.com/pin/1137440449696237472/"
+    }
+   ]
   },
   {
    "id": "T_SIGNMARK_03",
@@ -800,7 +1412,17 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SIGN/MARK"
+   "kindLabel": "GENERAL \u00b7 SIGN/MARK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237981",
+     "url": "https://www.pinterest.com/pin/1137440449696237981/"
+    },
+    {
+     "label": "Pinterest pin \u2026237880",
+     "url": "https://www.pinterest.com/pin/1137440449696237880/"
+    }
+   ]
   },
   {
    "id": "T_BITECOLOR_03",
@@ -816,7 +1438,21 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 BITE/COLOR"
+   "kindLabel": "GENERAL \u00b7 BITE/COLOR",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026698731",
+     "url": "https://www.pinterest.com/pin/1137440449703698731/"
+    },
+    {
+     "label": "Pinterest pin \u2026238209",
+     "url": "https://www.pinterest.com/pin/1137440449696238209/"
+    },
+    {
+     "label": "Pinterest pin \u2026236968",
+     "url": "https://www.pinterest.com/pin/1137440449696236968/"
+    }
+   ]
   },
   {
    "id": "T_TAPEDECK_03",
@@ -833,7 +1469,21 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 TAPE/DECK"
+   "kindLabel": "GENERAL \u00b7 TAPE/DECK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384476",
+     "url": "https://www.pinterest.com/pin/1137440449702384476/"
+    },
+    {
+     "label": "Pinterest pin \u2026340159",
+     "url": "https://www.pinterest.com/pin/1137440449702340159/"
+    },
+    {
+     "label": "Pinterest pin \u2026384470",
+     "url": "https://www.pinterest.com/pin/1137440449702384470/"
+    }
+   ]
   },
   {
    "id": "T_TOYSMILE_03",
@@ -850,7 +1500,21 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 TOY/SMILE"
+   "kindLabel": "GENERAL \u00b7 TOY/SMILE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899879",
+     "url": "https://www.pinterest.com/pin/1137440449703899879/"
+    },
+    {
+     "label": "Pinterest pin \u2026567863",
+     "url": "https://www.pinterest.com/pin/1137440449703567863/"
+    },
+    {
+     "label": "Pinterest pin \u2026611813",
+     "url": "https://www.pinterest.com/pin/1137440449702611813/"
+    }
+   ]
   },
   {
    "id": "T_ACIDGRADIENT_03",
@@ -867,7 +1531,21 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 ACID/GRADIENT"
+   "kindLabel": "GENERAL \u00b7 ACID/GRADIENT",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384676",
+     "url": "https://www.pinterest.com/pin/1137440449702384676/"
+    },
+    {
+     "label": "Pinterest pin \u2026341243",
+     "url": "https://www.pinterest.com/pin/1137440449702341243/"
+    },
+    {
+     "label": "Pinterest pin \u2026341227",
+     "url": "https://www.pinterest.com/pin/1137440449702341227/"
+    }
+   ]
   },
   {
    "id": "T_POSTERGRID_03",
@@ -883,7 +1561,21 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 POSTER/GRID"
+   "kindLabel": "GENERAL \u00b7 POSTER/GRID",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026690442",
+     "url": "https://www.pinterest.com/pin/1137440449703690442/"
+    },
+    {
+     "label": "Pinterest pin \u2026698759",
+     "url": "https://www.pinterest.com/pin/1137440449703698759/"
+    },
+    {
+     "label": "Pinterest pin \u2026690491",
+     "url": "https://www.pinterest.com/pin/1137440449703690491/"
+    }
+   ]
   },
   {
    "id": "T_POURDRIP_03",
@@ -900,7 +1592,21 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 POUR/DRIP"
+   "kindLabel": "GENERAL \u00b7 POUR/DRIP",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin \u2026384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    },
+    {
+     "label": "Pinterest pin \u2026688279",
+     "url": "https://www.pinterest.com/pin/1137440449703688279/"
+    }
+   ]
   },
   {
    "id": "T_SIGNALNOISE_03",
@@ -917,7 +1623,21 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE"
+   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384607",
+     "url": "https://www.pinterest.com/pin/1137440449702384607/"
+    },
+    {
+     "label": "Pinterest pin \u2026424072",
+     "url": "https://www.pinterest.com/pin/1137440449702424072/"
+    },
+    {
+     "label": "Pinterest pin \u2026688891",
+     "url": "https://www.pinterest.com/pin/1137440449703688891/"
+    }
+   ]
   },
   {
    "id": "T_MONOLITH_04",
@@ -934,7 +1654,21 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 MONO/LITH"
+   "kindLabel": "GENERAL \u00b7 MONO/LITH",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
   },
   {
    "id": "T_DREAMCOLLAGE_04",
@@ -950,7 +1684,21 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE"
+   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899980",
+     "url": "https://www.pinterest.com/pin/1137440449703899980/"
+    },
+    {
+     "label": "Pinterest pin \u2026889191",
+     "url": "https://www.pinterest.com/pin/1137440449703889191/"
+    },
+    {
+     "label": "Pinterest pin \u2026882896",
+     "url": "https://www.pinterest.com/pin/1137440449703882896/"
+    }
+   ]
   },
   {
    "id": "T_HEADOPEN_04",
@@ -966,7 +1714,21 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "yay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 HEAD/OPEN"
+   "kindLabel": "GENERAL \u00b7 HEAD/OPEN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032971",
+     "url": "https://www.pinterest.com/pin/1137440449704032971/"
+    },
+    {
+     "label": "Pinterest pin \u2026899876",
+     "url": "https://www.pinterest.com/pin/1137440449703899876/"
+    },
+    {
+     "label": "Pinterest pin \u2026612695",
+     "url": "https://www.pinterest.com/pin/1137440449702612695/"
+    }
+   ]
   },
   {
    "id": "T_HIDESKIN_04",
@@ -982,7 +1744,21 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 HIDE/SKIN"
+   "kindLabel": "GENERAL \u00b7 HIDE/SKIN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026805862",
+     "url": "https://www.pinterest.com/pin/1137440449695805862/"
+    },
+    {
+     "label": "Pinterest pin \u2026805815",
+     "url": "https://www.pinterest.com/pin/1137440449695805815/"
+    },
+    {
+     "label": "Pinterest pin \u2026805812",
+     "url": "https://www.pinterest.com/pin/1137440449695805812/"
+    }
+   ]
   },
   {
    "id": "T_SMALLLIFE_04",
@@ -998,7 +1774,17 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SMALL/LIFE"
+   "kindLabel": "GENERAL \u00b7 SMALL/LIFE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026806130",
+     "url": "https://www.pinterest.com/pin/1137440449695806130/"
+    },
+    {
+     "label": "Pinterest pin \u2026423576",
+     "url": "https://www.pinterest.com/pin/1137440449702423576/"
+    }
+   ]
   },
   {
    "id": "T_MATTERTYPE_04",
@@ -1013,7 +1799,21 @@
    "sources": "HALO Pinterest catalog: MATTER/TYPE board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 MATTER/TYPE"
+   "kindLabel": "GENERAL \u00b7 MATTER/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237286",
+     "url": "https://www.pinterest.com/pin/1137440449696237286/"
+    },
+    {
+     "label": "Pinterest pin \u2026237417",
+     "url": "https://www.pinterest.com/pin/1137440449696237417/"
+    },
+    {
+     "label": "Pinterest pin \u2026237405",
+     "url": "https://www.pinterest.com/pin/1137440449696237405/"
+    }
+   ]
   },
   {
    "id": "T_BENTTYPE_04",
@@ -1028,7 +1828,21 @@
    "sources": "HALO Pinterest catalog: BENT/TYPE board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 BENT/TYPE"
+   "kindLabel": "GENERAL \u00b7 BENT/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237572",
+     "url": "https://www.pinterest.com/pin/1137440449696237572/"
+    },
+    {
+     "label": "Pinterest pin \u2026237567",
+     "url": "https://www.pinterest.com/pin/1137440449696237567/"
+    },
+    {
+     "label": "Pinterest pin \u2026237472",
+     "url": "https://www.pinterest.com/pin/1137440449696237472/"
+    }
+   ]
   },
   {
    "id": "T_SIGNMARK_04",
@@ -1043,7 +1857,17 @@
    "sources": "HALO Pinterest catalog: SIGN/MARK board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SIGN/MARK"
+   "kindLabel": "GENERAL \u00b7 SIGN/MARK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237981",
+     "url": "https://www.pinterest.com/pin/1137440449696237981/"
+    },
+    {
+     "label": "Pinterest pin \u2026237880",
+     "url": "https://www.pinterest.com/pin/1137440449696237880/"
+    }
+   ]
   },
   {
    "id": "T_BITECOLOR_04",
@@ -1058,7 +1882,21 @@
    "sources": "HALO Pinterest catalog: BITE/COLOR board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 BITE/COLOR"
+   "kindLabel": "GENERAL \u00b7 BITE/COLOR",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026698731",
+     "url": "https://www.pinterest.com/pin/1137440449703698731/"
+    },
+    {
+     "label": "Pinterest pin \u2026238209",
+     "url": "https://www.pinterest.com/pin/1137440449696238209/"
+    },
+    {
+     "label": "Pinterest pin \u2026236968",
+     "url": "https://www.pinterest.com/pin/1137440449696236968/"
+    }
+   ]
   },
   {
    "id": "T_TAPEDECK_04",
@@ -1073,7 +1911,21 @@
    "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 TAPE/DECK"
+   "kindLabel": "GENERAL \u00b7 TAPE/DECK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384476",
+     "url": "https://www.pinterest.com/pin/1137440449702384476/"
+    },
+    {
+     "label": "Pinterest pin \u2026340159",
+     "url": "https://www.pinterest.com/pin/1137440449702340159/"
+    },
+    {
+     "label": "Pinterest pin \u2026384470",
+     "url": "https://www.pinterest.com/pin/1137440449702384470/"
+    }
+   ]
   },
   {
    "id": "T_TOYSMILE_04",
@@ -1088,7 +1940,21 @@
    "sources": "HALO Pinterest catalog: TOY/SMILE board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 TOY/SMILE"
+   "kindLabel": "GENERAL \u00b7 TOY/SMILE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899879",
+     "url": "https://www.pinterest.com/pin/1137440449703899879/"
+    },
+    {
+     "label": "Pinterest pin \u2026567863",
+     "url": "https://www.pinterest.com/pin/1137440449703567863/"
+    },
+    {
+     "label": "Pinterest pin \u2026611813",
+     "url": "https://www.pinterest.com/pin/1137440449702611813/"
+    }
+   ]
   },
   {
    "id": "T_ACIDGRADIENT_04",
@@ -1103,7 +1969,21 @@
    "sources": "HALO Pinterest catalog: ACID/GRADIENT board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 ACID/GRADIENT"
+   "kindLabel": "GENERAL \u00b7 ACID/GRADIENT",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384676",
+     "url": "https://www.pinterest.com/pin/1137440449702384676/"
+    },
+    {
+     "label": "Pinterest pin \u2026341243",
+     "url": "https://www.pinterest.com/pin/1137440449702341243/"
+    },
+    {
+     "label": "Pinterest pin \u2026341227",
+     "url": "https://www.pinterest.com/pin/1137440449702341227/"
+    }
+   ]
   },
   {
    "id": "T_POSTERGRID_04",
@@ -1118,7 +1998,21 @@
    "sources": "HALO Pinterest catalog: POSTER/GRID board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:49:17Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 POSTER/GRID"
+   "kindLabel": "GENERAL \u00b7 POSTER/GRID",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026690442",
+     "url": "https://www.pinterest.com/pin/1137440449703690442/"
+    },
+    {
+     "label": "Pinterest pin \u2026698759",
+     "url": "https://www.pinterest.com/pin/1137440449703698759/"
+    },
+    {
+     "label": "Pinterest pin \u2026690491",
+     "url": "https://www.pinterest.com/pin/1137440449703690491/"
+    }
+   ]
   },
   {
    "id": "T_POURDRIP_04",
@@ -1134,7 +2028,21 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 POUR/DRIP"
+   "kindLabel": "GENERAL \u00b7 POUR/DRIP",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin \u2026384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    },
+    {
+     "label": "Pinterest pin \u2026688279",
+     "url": "https://www.pinterest.com/pin/1137440449703688279/"
+    }
+   ]
   },
   {
    "id": "T_SIGNALNOISE_04",
@@ -1150,7 +2058,21 @@
    "updated": "2026-10-12T01:49:17Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE"
+   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384607",
+     "url": "https://www.pinterest.com/pin/1137440449702384607/"
+    },
+    {
+     "label": "Pinterest pin \u2026424072",
+     "url": "https://www.pinterest.com/pin/1137440449702424072/"
+    },
+    {
+     "label": "Pinterest pin \u2026688891",
+     "url": "https://www.pinterest.com/pin/1137440449703688891/"
+    }
+   ]
   },
   {
    "id": "T_MONOLITH_05",
@@ -1166,7 +2088,21 @@
    "updated": "2026-10-12T01:51:57Z",
    "vote": "yay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 MONO/LITH"
+   "kindLabel": "GENERAL \u00b7 MONO/LITH",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026889468",
+     "url": "https://www.pinterest.com/pin/1137440449703889468/"
+    },
+    {
+     "label": "Pinterest pin \u2026889465",
+     "url": "https://www.pinterest.com/pin/1137440449703889465/"
+    }
+   ]
   },
   {
    "id": "T_DREAMCOLLAGE_05",
@@ -1181,7 +2117,21 @@
    "sources": "HALO Pinterest catalog: DREAM/COLLAGE board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:51:57Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE"
+   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899980",
+     "url": "https://www.pinterest.com/pin/1137440449703899980/"
+    },
+    {
+     "label": "Pinterest pin \u2026889191",
+     "url": "https://www.pinterest.com/pin/1137440449703889191/"
+    },
+    {
+     "label": "Pinterest pin \u2026882896",
+     "url": "https://www.pinterest.com/pin/1137440449703882896/"
+    }
+   ]
   },
   {
    "id": "T_HEADOPEN_05",
@@ -1196,7 +2146,21 @@
    "sources": "HALO Pinterest catalog: HEAD/OPEN board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:51:57Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 HEAD/OPEN"
+   "kindLabel": "GENERAL \u00b7 HEAD/OPEN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032971",
+     "url": "https://www.pinterest.com/pin/1137440449704032971/"
+    },
+    {
+     "label": "Pinterest pin \u2026899876",
+     "url": "https://www.pinterest.com/pin/1137440449703899876/"
+    },
+    {
+     "label": "Pinterest pin \u2026612695",
+     "url": "https://www.pinterest.com/pin/1137440449702612695/"
+    }
+   ]
   },
   {
    "id": "T_HIDESKIN_05",
@@ -1211,7 +2175,21 @@
    "sources": "HALO Pinterest catalog: HIDE/SKIN board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:51:57Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 HIDE/SKIN"
+   "kindLabel": "GENERAL \u00b7 HIDE/SKIN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026805862",
+     "url": "https://www.pinterest.com/pin/1137440449695805862/"
+    },
+    {
+     "label": "Pinterest pin \u2026805815",
+     "url": "https://www.pinterest.com/pin/1137440449695805815/"
+    },
+    {
+     "label": "Pinterest pin \u2026805812",
+     "url": "https://www.pinterest.com/pin/1137440449695805812/"
+    }
+   ]
   },
   {
    "id": "T_SMALLLIFE_05",
@@ -1227,7 +2205,17 @@
    "updated": "2026-10-12T01:51:57Z",
    "vote": "yay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SMALL/LIFE"
+   "kindLabel": "GENERAL \u00b7 SMALL/LIFE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026806130",
+     "url": "https://www.pinterest.com/pin/1137440449695806130/"
+    },
+    {
+     "label": "Pinterest pin \u2026423576",
+     "url": "https://www.pinterest.com/pin/1137440449702423576/"
+    }
+   ]
   },
   {
    "id": "T_MATTERTYPE_05",
@@ -1242,7 +2230,21 @@
    "sources": "HALO Pinterest catalog: MATTER/TYPE board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:51:57Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 MATTER/TYPE"
+   "kindLabel": "GENERAL \u00b7 MATTER/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237286",
+     "url": "https://www.pinterest.com/pin/1137440449696237286/"
+    },
+    {
+     "label": "Pinterest pin \u2026237417",
+     "url": "https://www.pinterest.com/pin/1137440449696237417/"
+    },
+    {
+     "label": "Pinterest pin \u2026237405",
+     "url": "https://www.pinterest.com/pin/1137440449696237405/"
+    }
+   ]
   },
   {
    "id": "T_BENTTYPE_05",
@@ -1257,7 +2259,21 @@
    "sources": "HALO Pinterest catalog: BENT/TYPE board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:51:57Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 BENT/TYPE"
+   "kindLabel": "GENERAL \u00b7 BENT/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237572",
+     "url": "https://www.pinterest.com/pin/1137440449696237572/"
+    },
+    {
+     "label": "Pinterest pin \u2026237567",
+     "url": "https://www.pinterest.com/pin/1137440449696237567/"
+    },
+    {
+     "label": "Pinterest pin \u2026237472",
+     "url": "https://www.pinterest.com/pin/1137440449696237472/"
+    }
+   ]
   },
   {
    "id": "T_SIGNMARK_05",
@@ -1272,7 +2288,17 @@
    "sources": "HALO Pinterest catalog: SIGN/MARK board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:51:57Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SIGN/MARK"
+   "kindLabel": "GENERAL \u00b7 SIGN/MARK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237981",
+     "url": "https://www.pinterest.com/pin/1137440449696237981/"
+    },
+    {
+     "label": "Pinterest pin \u2026237880",
+     "url": "https://www.pinterest.com/pin/1137440449696237880/"
+    }
+   ]
   },
   {
    "id": "T_BITECOLOR_05",
@@ -1288,7 +2314,21 @@
    "updated": "2026-10-12T01:51:57Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 BITE/COLOR"
+   "kindLabel": "GENERAL \u00b7 BITE/COLOR",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026698731",
+     "url": "https://www.pinterest.com/pin/1137440449703698731/"
+    },
+    {
+     "label": "Pinterest pin \u2026238209",
+     "url": "https://www.pinterest.com/pin/1137440449696238209/"
+    },
+    {
+     "label": "Pinterest pin \u2026236968",
+     "url": "https://www.pinterest.com/pin/1137440449696236968/"
+    }
+   ]
   },
   {
    "id": "T_TAPEDECK_05",
@@ -1304,7 +2344,21 @@
    "updated": "2026-10-12T01:51:57Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 TAPE/DECK"
+   "kindLabel": "GENERAL \u00b7 TAPE/DECK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384476",
+     "url": "https://www.pinterest.com/pin/1137440449702384476/"
+    },
+    {
+     "label": "Pinterest pin \u2026340159",
+     "url": "https://www.pinterest.com/pin/1137440449702340159/"
+    },
+    {
+     "label": "Pinterest pin \u2026384470",
+     "url": "https://www.pinterest.com/pin/1137440449702384470/"
+    }
+   ]
   },
   {
    "id": "T_TOYSMILE_05",
@@ -1320,7 +2374,21 @@
    "updated": "2026-10-12T01:51:57Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 TOY/SMILE"
+   "kindLabel": "GENERAL \u00b7 TOY/SMILE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899879",
+     "url": "https://www.pinterest.com/pin/1137440449703899879/"
+    },
+    {
+     "label": "Pinterest pin \u2026567863",
+     "url": "https://www.pinterest.com/pin/1137440449703567863/"
+    },
+    {
+     "label": "Pinterest pin \u2026611813",
+     "url": "https://www.pinterest.com/pin/1137440449702611813/"
+    }
+   ]
   },
   {
    "id": "T_ACIDGRADIENT_05",
@@ -1336,7 +2404,21 @@
    "updated": "2026-10-12T01:51:57Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 ACID/GRADIENT"
+   "kindLabel": "GENERAL \u00b7 ACID/GRADIENT",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384676",
+     "url": "https://www.pinterest.com/pin/1137440449702384676/"
+    },
+    {
+     "label": "Pinterest pin \u2026341243",
+     "url": "https://www.pinterest.com/pin/1137440449702341243/"
+    },
+    {
+     "label": "Pinterest pin \u2026341227",
+     "url": "https://www.pinterest.com/pin/1137440449702341227/"
+    }
+   ]
   },
   {
    "id": "T_POSTERGRID_05",
@@ -1351,7 +2433,21 @@
    "sources": "HALO Pinterest catalog: POSTER/GRID board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T01:51:57Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 POSTER/GRID"
+   "kindLabel": "GENERAL \u00b7 POSTER/GRID",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026690442",
+     "url": "https://www.pinterest.com/pin/1137440449703690442/"
+    },
+    {
+     "label": "Pinterest pin \u2026698759",
+     "url": "https://www.pinterest.com/pin/1137440449703698759/"
+    },
+    {
+     "label": "Pinterest pin \u2026690491",
+     "url": "https://www.pinterest.com/pin/1137440449703690491/"
+    }
+   ]
   },
   {
    "id": "T_POURDRIP_05",
@@ -1367,7 +2463,21 @@
    "updated": "2026-10-12T01:51:57Z",
    "vote": "nay",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 POUR/DRIP"
+   "kindLabel": "GENERAL \u00b7 POUR/DRIP",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin \u2026384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    },
+    {
+     "label": "Pinterest pin \u2026688279",
+     "url": "https://www.pinterest.com/pin/1137440449703688279/"
+    }
+   ]
   },
   {
    "id": "T_SIGNALNOISE_05",
@@ -1384,7 +2494,21 @@
    "vote": "build on",
    "flag": "build_on",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE"
+   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384607",
+     "url": "https://www.pinterest.com/pin/1137440449702384607/"
+    },
+    {
+     "label": "Pinterest pin \u2026424072",
+     "url": "https://www.pinterest.com/pin/1137440449702424072/"
+    },
+    {
+     "label": "Pinterest pin \u2026688891",
+     "url": "https://www.pinterest.com/pin/1137440449703688891/"
+    }
+   ]
   },
   {
    "id": "N_TIMESKA_02",
@@ -1400,7 +2524,13 @@
    "sources": "HALO Pinterest catalog: NIGHTS board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "event",
-   "kindLabel": "EVENT \u00b7 Time/Ska"
+   "kindLabel": "EVENT \u00b7 Time/Ska",
+   "refs": [
+    {
+     "label": "haloraves.com night: time-ska",
+     "url": "https://www.haloraves.com/nights/time-ska"
+    }
+   ]
   },
   {
    "id": "N_DEADPUNCH_02",
@@ -1416,7 +2546,13 @@
    "sources": "HALO Pinterest catalog: NIGHTS board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "event",
-   "kindLabel": "EVENT \u00b7 Dead/Punch"
+   "kindLabel": "EVENT \u00b7 Dead/Punch",
+   "refs": [
+    {
+     "label": "haloraves.com night: dead-punch",
+     "url": "https://www.haloraves.com/nights/dead-punch"
+    }
+   ]
   },
   {
    "id": "N_DISCOROLLER_02",
@@ -1432,7 +2568,13 @@
    "sources": "HALO Pinterest catalog: NIGHTS board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "event",
-   "kindLabel": "EVENT \u00b7 Disco/Roller"
+   "kindLabel": "EVENT \u00b7 Disco/Roller",
+   "refs": [
+    {
+     "label": "haloraves.com night: disco-roller",
+     "url": "https://www.haloraves.com/nights/disco-roller"
+    }
+   ]
   },
   {
    "id": "N_PIANOSANDS_02",
@@ -1448,7 +2590,13 @@
    "sources": "HALO Pinterest catalog: NIGHTS board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "event",
-   "kindLabel": "EVENT \u00b7 Game/Piano/Sands"
+   "kindLabel": "EVENT \u00b7 Game/Piano/Sands",
+   "refs": [
+    {
+     "label": "haloraves.com night: game-piano-sands",
+     "url": "https://www.haloraves.com/nights/game-piano-sands"
+    }
+   ]
   },
   {
    "id": "N_NINABREAK_02",
@@ -1464,7 +2612,13 @@
    "sources": "HALO Pinterest catalog: NIGHTS board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "event",
-   "kindLabel": "EVENT \u00b7 Nina/Break"
+   "kindLabel": "EVENT \u00b7 Nina/Break",
+   "refs": [
+    {
+     "label": "haloraves.com night: nina-break",
+     "url": "https://www.haloraves.com/nights/nina-break"
+    }
+   ]
   },
   {
    "id": "N_PEPPERJUNGLE_02",
@@ -1480,7 +2634,13 @@
    "sources": "HALO Pinterest catalog: NIGHTS board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "event",
-   "kindLabel": "EVENT \u00b7 Pepper/Jungle"
+   "kindLabel": "EVENT \u00b7 Pepper/Jungle",
+   "refs": [
+    {
+     "label": "haloraves.com night: pepper-jungle",
+     "url": "https://www.haloraves.com/nights/pepper-jungle"
+    }
+   ]
   },
   {
    "id": "N_PIGSFLY_02",
@@ -1496,7 +2656,13 @@
    "sources": "HALO Pinterest catalog: NIGHTS board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "event",
-   "kindLabel": "EVENT \u00b7 Pigs/Fly"
+   "kindLabel": "EVENT \u00b7 Pigs/Fly",
+   "refs": [
+    {
+     "label": "haloraves.com night: pigs-fly",
+     "url": "https://www.haloraves.com/nights/pigs-fly"
+    }
+   ]
   },
   {
    "id": "N_SPOREAMEN_02",
@@ -1512,7 +2678,13 @@
    "sources": "HALO Pinterest catalog: NIGHTS board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "event",
-   "kindLabel": "EVENT \u00b7 Spore/Amen"
+   "kindLabel": "EVENT \u00b7 Spore/Amen",
+   "refs": [
+    {
+     "label": "haloraves.com night: spore-amen",
+     "url": "https://www.haloraves.com/nights/spore-amen"
+    }
+   ]
   },
   {
    "id": "N_WATTSVOID_02",
@@ -1528,7 +2700,13 @@
    "sources": "HALO Pinterest catalog: NIGHTS board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "event",
-   "kindLabel": "EVENT \u00b7 Watts/Void/Bukem"
+   "kindLabel": "EVENT \u00b7 Watts/Void/Bukem",
+   "refs": [
+    {
+     "label": "haloraves.com night: watts-void-bukem",
+     "url": "https://www.haloraves.com/nights/watts-void-bukem"
+    }
+   ]
   },
   {
    "id": "N_WIZARDCOURT_02",
@@ -1544,7 +2722,13 @@
    "sources": "HALO Pinterest catalog: NIGHTS board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "event",
-   "kindLabel": "EVENT \u00b7 Wizard/Court"
+   "kindLabel": "EVENT \u00b7 Wizard/Court",
+   "refs": [
+    {
+     "label": "haloraves.com night: wizard-court",
+     "url": "https://www.haloraves.com/nights/wizard-court"
+    }
+   ]
   },
   {
    "id": "T_MONOLITH_B1",
@@ -1559,7 +2743,25 @@
    "sources": "HALO Pinterest catalog: MONO/LITH board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 MONO/LITH"
+   "kindLabel": "GENERAL \u00b7 MONO/LITH",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026889168",
+     "url": "https://www.pinterest.com/pin/1137440449703889168/"
+    },
+    {
+     "label": "Pinterest pin \u2026889430",
+     "url": "https://www.pinterest.com/pin/1137440449703889430/"
+    },
+    {
+     "label": "Pinterest pin \u2026900346",
+     "url": "https://www.pinterest.com/pin/1137440449703900346/"
+    },
+    {
+     "label": "Pinterest pin \u2026889784",
+     "url": "https://www.pinterest.com/pin/1137440449703889784/"
+    }
+   ]
   },
   {
    "id": "T_DREAMCOLLAGE_B1",
@@ -1574,7 +2776,25 @@
    "sources": "HALO Pinterest catalog: DREAM/COLLAGE board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE"
+   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899980",
+     "url": "https://www.pinterest.com/pin/1137440449703899980/"
+    },
+    {
+     "label": "Pinterest pin \u2026881010",
+     "url": "https://www.pinterest.com/pin/1137440449703881010/"
+    },
+    {
+     "label": "Pinterest pin \u2026889184",
+     "url": "https://www.pinterest.com/pin/1137440449703889184/"
+    },
+    {
+     "label": "Pinterest pin \u2026899885",
+     "url": "https://www.pinterest.com/pin/1137440449703899885/"
+    }
+   ]
   },
   {
    "id": "T_HEADOPEN_B1",
@@ -1589,7 +2809,25 @@
    "sources": "HALO Pinterest catalog: HEAD/OPEN board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 HEAD/OPEN"
+   "kindLabel": "GENERAL \u00b7 HEAD/OPEN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032971",
+     "url": "https://www.pinterest.com/pin/1137440449704032971/"
+    },
+    {
+     "label": "Pinterest pin \u2026899876",
+     "url": "https://www.pinterest.com/pin/1137440449703899876/"
+    },
+    {
+     "label": "Pinterest pin \u2026889523",
+     "url": "https://www.pinterest.com/pin/1137440449703889523/"
+    },
+    {
+     "label": "Pinterest pin \u2026901954",
+     "url": "https://www.pinterest.com/pin/1137440449703901954/"
+    }
+   ]
   },
   {
    "id": "T_HIDESKIN_B1",
@@ -1604,7 +2842,21 @@
    "sources": "HALO Pinterest catalog: HIDE/SKIN board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 HIDE/SKIN"
+   "kindLabel": "GENERAL \u00b7 HIDE/SKIN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026805862",
+     "url": "https://www.pinterest.com/pin/1137440449695805862/"
+    },
+    {
+     "label": "Pinterest pin \u2026805815",
+     "url": "https://www.pinterest.com/pin/1137440449695805815/"
+    },
+    {
+     "label": "Pinterest pin \u2026805812",
+     "url": "https://www.pinterest.com/pin/1137440449695805812/"
+    }
+   ]
   },
   {
    "id": "T_SMALLLIFE_B1",
@@ -1619,7 +2871,17 @@
    "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SMALL/LIFE"
+   "kindLabel": "GENERAL \u00b7 SMALL/LIFE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026806130",
+     "url": "https://www.pinterest.com/pin/1137440449695806130/"
+    },
+    {
+     "label": "Pinterest pin \u2026423576",
+     "url": "https://www.pinterest.com/pin/1137440449702423576/"
+    }
+   ]
   },
   {
    "id": "T_MATTERTYPE_B1",
@@ -1634,7 +2896,25 @@
    "sources": "HALO Pinterest catalog: MATTER/TYPE board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 MATTER/TYPE"
+   "kindLabel": "GENERAL \u00b7 MATTER/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237286",
+     "url": "https://www.pinterest.com/pin/1137440449696237286/"
+    },
+    {
+     "label": "Pinterest pin \u2026237417",
+     "url": "https://www.pinterest.com/pin/1137440449696237417/"
+    },
+    {
+     "label": "Pinterest pin \u2026237405",
+     "url": "https://www.pinterest.com/pin/1137440449696237405/"
+    },
+    {
+     "label": "Pinterest pin \u2026236779",
+     "url": "https://www.pinterest.com/pin/1137440449696236779/"
+    }
+   ]
   },
   {
    "id": "T_BENTTYPE_B1",
@@ -1649,7 +2929,25 @@
    "sources": "HALO Pinterest catalog: BENT/TYPE board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 BENT/TYPE"
+   "kindLabel": "GENERAL \u00b7 BENT/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026423540",
+     "url": "https://www.pinterest.com/pin/1137440449702423540/"
+    },
+    {
+     "label": "Pinterest pin \u2026237572",
+     "url": "https://www.pinterest.com/pin/1137440449696237572/"
+    },
+    {
+     "label": "Pinterest pin \u2026237567",
+     "url": "https://www.pinterest.com/pin/1137440449696237567/"
+    },
+    {
+     "label": "Pinterest pin \u2026237472",
+     "url": "https://www.pinterest.com/pin/1137440449696237472/"
+    }
+   ]
   },
   {
    "id": "T_SIGNMARK_B1",
@@ -1664,7 +2962,17 @@
    "sources": "HALO Pinterest catalog: SIGN/MARK board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SIGN/MARK"
+   "kindLabel": "GENERAL \u00b7 SIGN/MARK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237981",
+     "url": "https://www.pinterest.com/pin/1137440449696237981/"
+    },
+    {
+     "label": "Pinterest pin \u2026237880",
+     "url": "https://www.pinterest.com/pin/1137440449696237880/"
+    }
+   ]
   },
   {
    "id": "T_BITECOLOR_B1",
@@ -1679,7 +2987,25 @@
    "sources": "HALO Pinterest catalog: BITE/COLOR board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 BITE/COLOR"
+   "kindLabel": "GENERAL \u00b7 BITE/COLOR",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236968",
+     "url": "https://www.pinterest.com/pin/1137440449696236968/"
+    },
+    {
+     "label": "Pinterest pin \u2026698731",
+     "url": "https://www.pinterest.com/pin/1137440449703698731/"
+    },
+    {
+     "label": "Pinterest pin \u2026238209",
+     "url": "https://www.pinterest.com/pin/1137440449696238209/"
+    },
+    {
+     "label": "Pinterest pin \u2026238200",
+     "url": "https://www.pinterest.com/pin/1137440449696238200/"
+    }
+   ]
   },
   {
    "id": "T_TAPEDECK_B1",
@@ -1694,7 +3020,21 @@
    "sources": "HALO Pinterest catalog: TAPE/DECK board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 TAPE/DECK"
+   "kindLabel": "GENERAL \u00b7 TAPE/DECK",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384470",
+     "url": "https://www.pinterest.com/pin/1137440449702384470/"
+    },
+    {
+     "label": "Pinterest pin \u2026384476",
+     "url": "https://www.pinterest.com/pin/1137440449702384476/"
+    },
+    {
+     "label": "Pinterest pin \u2026340159",
+     "url": "https://www.pinterest.com/pin/1137440449702340159/"
+    }
+   ]
   },
   {
    "id": "T_TOYSMILE_B1",
@@ -1709,7 +3049,25 @@
    "sources": "HALO Pinterest catalog: TOY/SMILE board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 TOY/SMILE"
+   "kindLabel": "GENERAL \u00b7 TOY/SMILE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899879",
+     "url": "https://www.pinterest.com/pin/1137440449703899879/"
+    },
+    {
+     "label": "Pinterest pin \u2026690629",
+     "url": "https://www.pinterest.com/pin/1137440449703690629/"
+    },
+    {
+     "label": "Pinterest pin \u2026612076",
+     "url": "https://www.pinterest.com/pin/1137440449702612076/"
+    },
+    {
+     "label": "Pinterest pin \u2026567863",
+     "url": "https://www.pinterest.com/pin/1137440449703567863/"
+    }
+   ]
   },
   {
    "id": "T_ACIDGRADIENT_B1",
@@ -1724,7 +3082,25 @@
    "sources": "HALO Pinterest catalog: ACID/GRADIENT board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 ACID/GRADIENT"
+   "kindLabel": "GENERAL \u00b7 ACID/GRADIENT",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384632",
+     "url": "https://www.pinterest.com/pin/1137440449702384632/"
+    },
+    {
+     "label": "Pinterest pin \u2026384676",
+     "url": "https://www.pinterest.com/pin/1137440449702384676/"
+    },
+    {
+     "label": "Pinterest pin \u2026567706",
+     "url": "https://www.pinterest.com/pin/1137440449703567706/"
+    },
+    {
+     "label": "Pinterest pin \u2026384625",
+     "url": "https://www.pinterest.com/pin/1137440449702384625/"
+    }
+   ]
   },
   {
    "id": "T_POSTERGRID_B1",
@@ -1739,7 +3115,25 @@
    "sources": "HALO Pinterest catalog: POSTER/GRID board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 POSTER/GRID"
+   "kindLabel": "GENERAL \u00b7 POSTER/GRID",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026690405",
+     "url": "https://www.pinterest.com/pin/1137440449703690405/"
+    },
+    {
+     "label": "Pinterest pin \u2026690392",
+     "url": "https://www.pinterest.com/pin/1137440449703690392/"
+    },
+    {
+     "label": "Pinterest pin \u2026889385",
+     "url": "https://www.pinterest.com/pin/1137440449703889385/"
+    },
+    {
+     "label": "Pinterest pin \u2026613680",
+     "url": "https://www.pinterest.com/pin/1137440449702613680/"
+    }
+   ]
   },
   {
    "id": "T_POURDRIP_B1",
@@ -1754,7 +3148,25 @@
    "sources": "HALO Pinterest catalog: POUR/DRIP board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 POUR/DRIP"
+   "kindLabel": "GENERAL \u00b7 POUR/DRIP",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026375546",
+     "url": "https://www.pinterest.com/pin/1137440449702375546/"
+    },
+    {
+     "label": "Pinterest pin \u2026582717",
+     "url": "https://www.pinterest.com/pin/905575437605582717/"
+    },
+    {
+     "label": "Pinterest pin \u2026236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin \u2026384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    }
+   ]
   },
   {
    "id": "T_SIGNALNOISE_B1",
@@ -1769,7 +3181,25 @@
    "sources": "HALO Pinterest catalog: SIGNAL/NOISE board (weight 0.7), HALO brand look (0.3)",
    "updated": "2026-10-12T02:27:30Z",
    "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE"
+   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384607",
+     "url": "https://www.pinterest.com/pin/1137440449702384607/"
+    },
+    {
+     "label": "Pinterest pin \u2026688891",
+     "url": "https://www.pinterest.com/pin/1137440449703688891/"
+    },
+    {
+     "label": "Pinterest pin \u2026424072",
+     "url": "https://www.pinterest.com/pin/1137440449702424072/"
+    },
+    {
+     "label": "Pinterest pin \u2026424178",
+     "url": "https://www.pinterest.com/pin/1137440449702424178/"
+    }
+   ]
   }
  ],
  "updates": [
@@ -1788,7 +3218,25 @@
     "clients:Cannonball Creek"
    ],
    "kind": "client",
-   "kindLabel": "CLIENT \u00b7 Cannonball Creek"
+   "kindLabel": "CLIENT \u00b7 Cannonball Creek",
+   "refs": [
+    {
+     "label": "Client page: Cannonball Creek",
+     "url": "https://www.visitgolden.com/listing/cannonball-creek-brewery/"
+    },
+    {
+     "label": "Pinterest pin \u2026237286",
+     "url": "https://www.pinterest.com/pin/1137440449696237286/"
+    },
+    {
+     "label": "Pinterest pin \u2026237417",
+     "url": "https://www.pinterest.com/pin/1137440449696237417/"
+    },
+    {
+     "label": "Pinterest pin \u2026237405",
+     "url": "https://www.pinterest.com/pin/1137440449696237405/"
+    }
+   ]
   },
   {
    "id": "cannonball_v4",
@@ -1806,7 +3254,25 @@
    ],
    "vote": "yay",
    "kind": "client",
-   "kindLabel": "CLIENT \u00b7 Cannonball Creek"
+   "kindLabel": "CLIENT \u00b7 Cannonball Creek",
+   "refs": [
+    {
+     "label": "Client page: Cannonball Creek",
+     "url": "https://www.visitgolden.com/listing/cannonball-creek-brewery/"
+    },
+    {
+     "label": "Pinterest pin \u2026237286",
+     "url": "https://www.pinterest.com/pin/1137440449696237286/"
+    },
+    {
+     "label": "Pinterest pin \u2026237417",
+     "url": "https://www.pinterest.com/pin/1137440449696237417/"
+    },
+    {
+     "label": "Pinterest pin \u2026237405",
+     "url": "https://www.pinterest.com/pin/1137440449696237405/"
+    }
+   ]
   },
   {
    "id": "cannonball_v5",
@@ -1823,7 +3289,25 @@
     "clients:Cannonball Creek"
    ],
    "kind": "client",
-   "kindLabel": "CLIENT \u00b7 Cannonball Creek"
+   "kindLabel": "CLIENT \u00b7 Cannonball Creek",
+   "refs": [
+    {
+     "label": "Client page: Cannonball Creek",
+     "url": "https://www.visitgolden.com/listing/cannonball-creek-brewery/"
+    },
+    {
+     "label": "Pinterest pin \u2026237286",
+     "url": "https://www.pinterest.com/pin/1137440449696237286/"
+    },
+    {
+     "label": "Pinterest pin \u2026237417",
+     "url": "https://www.pinterest.com/pin/1137440449696237417/"
+    },
+    {
+     "label": "Pinterest pin \u2026237405",
+     "url": "https://www.pinterest.com/pin/1137440449696237405/"
+    }
+   ]
   },
   {
    "id": "T_MONOLITH_03_E1",
@@ -1839,7 +3323,25 @@
     "MONO/LITH"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026889168",
+     "url": "https://www.pinterest.com/pin/1137440449703889168/"
+    },
+    {
+     "label": "Pinterest pin \u2026889430",
+     "url": "https://www.pinterest.com/pin/1137440449703889430/"
+    },
+    {
+     "label": "Pinterest pin \u2026900346",
+     "url": "https://www.pinterest.com/pin/1137440449703900346/"
+    },
+    {
+     "label": "Pinterest pin \u2026889784",
+     "url": "https://www.pinterest.com/pin/1137440449703889784/"
+    }
+   ]
   },
   {
    "id": "dream_collage_01_E1",
@@ -1855,7 +3357,25 @@
     "DREAM/COLLAGE"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899980",
+     "url": "https://www.pinterest.com/pin/1137440449703899980/"
+    },
+    {
+     "label": "Pinterest pin \u2026881010",
+     "url": "https://www.pinterest.com/pin/1137440449703881010/"
+    },
+    {
+     "label": "Pinterest pin \u2026889184",
+     "url": "https://www.pinterest.com/pin/1137440449703889184/"
+    },
+    {
+     "label": "Pinterest pin \u2026899885",
+     "url": "https://www.pinterest.com/pin/1137440449703899885/"
+    }
+   ]
   },
   {
    "id": "T_HEADOPEN_01_E1",
@@ -1871,7 +3391,25 @@
     "HEAD/OPEN"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032971",
+     "url": "https://www.pinterest.com/pin/1137440449704032971/"
+    },
+    {
+     "label": "Pinterest pin \u2026899876",
+     "url": "https://www.pinterest.com/pin/1137440449703899876/"
+    },
+    {
+     "label": "Pinterest pin \u2026889523",
+     "url": "https://www.pinterest.com/pin/1137440449703889523/"
+    },
+    {
+     "label": "Pinterest pin \u2026901954",
+     "url": "https://www.pinterest.com/pin/1137440449703901954/"
+    }
+   ]
   },
   {
    "id": "T_HIDESKIN_03_E1",
@@ -1887,7 +3425,21 @@
     "HIDE/SKIN"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026805862",
+     "url": "https://www.pinterest.com/pin/1137440449695805862/"
+    },
+    {
+     "label": "Pinterest pin \u2026805815",
+     "url": "https://www.pinterest.com/pin/1137440449695805815/"
+    },
+    {
+     "label": "Pinterest pin \u2026805812",
+     "url": "https://www.pinterest.com/pin/1137440449695805812/"
+    }
+   ]
   },
   {
    "id": "T_SMALLLIFE_03_E1",
@@ -1903,7 +3455,17 @@
     "SMALL/LIFE"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026806130",
+     "url": "https://www.pinterest.com/pin/1137440449695806130/"
+    },
+    {
+     "label": "Pinterest pin \u2026423576",
+     "url": "https://www.pinterest.com/pin/1137440449702423576/"
+    }
+   ]
   },
   {
    "id": "T_MATTERTYPE_05_E1",
@@ -1919,7 +3481,25 @@
     "MATTER/TYPE"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237286",
+     "url": "https://www.pinterest.com/pin/1137440449696237286/"
+    },
+    {
+     "label": "Pinterest pin \u2026237417",
+     "url": "https://www.pinterest.com/pin/1137440449696237417/"
+    },
+    {
+     "label": "Pinterest pin \u2026237405",
+     "url": "https://www.pinterest.com/pin/1137440449696237405/"
+    },
+    {
+     "label": "Pinterest pin \u2026236779",
+     "url": "https://www.pinterest.com/pin/1137440449696236779/"
+    }
+   ]
   },
   {
    "id": "T_BENTTYPE_05_E1",
@@ -1935,7 +3515,25 @@
     "BENT/TYPE"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026423540",
+     "url": "https://www.pinterest.com/pin/1137440449702423540/"
+    },
+    {
+     "label": "Pinterest pin \u2026237572",
+     "url": "https://www.pinterest.com/pin/1137440449696237572/"
+    },
+    {
+     "label": "Pinterest pin \u2026237567",
+     "url": "https://www.pinterest.com/pin/1137440449696237567/"
+    },
+    {
+     "label": "Pinterest pin \u2026237472",
+     "url": "https://www.pinterest.com/pin/1137440449696237472/"
+    }
+   ]
   },
   {
    "id": "T_SIGNMARK_01_E1",
@@ -1951,7 +3549,17 @@
     "SIGN/MARK"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237981",
+     "url": "https://www.pinterest.com/pin/1137440449696237981/"
+    },
+    {
+     "label": "Pinterest pin \u2026237880",
+     "url": "https://www.pinterest.com/pin/1137440449696237880/"
+    }
+   ]
   },
   {
    "id": "T_BITECOLOR_01_E1",
@@ -1967,7 +3575,25 @@
     "BITE/COLOR"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236968",
+     "url": "https://www.pinterest.com/pin/1137440449696236968/"
+    },
+    {
+     "label": "Pinterest pin \u2026698731",
+     "url": "https://www.pinterest.com/pin/1137440449703698731/"
+    },
+    {
+     "label": "Pinterest pin \u2026238209",
+     "url": "https://www.pinterest.com/pin/1137440449696238209/"
+    },
+    {
+     "label": "Pinterest pin \u2026238200",
+     "url": "https://www.pinterest.com/pin/1137440449696238200/"
+    }
+   ]
   },
   {
    "id": "T_TAPEDECK_01_E1",
@@ -1983,7 +3609,21 @@
     "TAPE/DECK"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384470",
+     "url": "https://www.pinterest.com/pin/1137440449702384470/"
+    },
+    {
+     "label": "Pinterest pin \u2026384476",
+     "url": "https://www.pinterest.com/pin/1137440449702384476/"
+    },
+    {
+     "label": "Pinterest pin \u2026340159",
+     "url": "https://www.pinterest.com/pin/1137440449702340159/"
+    }
+   ]
   },
   {
    "id": "T_TOYSMILE_01_E1",
@@ -1999,7 +3639,25 @@
     "TOY/SMILE"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899879",
+     "url": "https://www.pinterest.com/pin/1137440449703899879/"
+    },
+    {
+     "label": "Pinterest pin \u2026690629",
+     "url": "https://www.pinterest.com/pin/1137440449703690629/"
+    },
+    {
+     "label": "Pinterest pin \u2026612076",
+     "url": "https://www.pinterest.com/pin/1137440449702612076/"
+    },
+    {
+     "label": "Pinterest pin \u2026567863",
+     "url": "https://www.pinterest.com/pin/1137440449703567863/"
+    }
+   ]
   },
   {
    "id": "T_ACIDGRADIENT_05_E1",
@@ -2015,7 +3673,25 @@
     "ACID/GRADIENT"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384632",
+     "url": "https://www.pinterest.com/pin/1137440449702384632/"
+    },
+    {
+     "label": "Pinterest pin \u2026384676",
+     "url": "https://www.pinterest.com/pin/1137440449702384676/"
+    },
+    {
+     "label": "Pinterest pin \u2026567706",
+     "url": "https://www.pinterest.com/pin/1137440449703567706/"
+    },
+    {
+     "label": "Pinterest pin \u2026384625",
+     "url": "https://www.pinterest.com/pin/1137440449702384625/"
+    }
+   ]
   },
   {
    "id": "T_POSTERGRID_01_E1",
@@ -2031,7 +3707,25 @@
     "POSTER/GRID"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026690405",
+     "url": "https://www.pinterest.com/pin/1137440449703690405/"
+    },
+    {
+     "label": "Pinterest pin \u2026690392",
+     "url": "https://www.pinterest.com/pin/1137440449703690392/"
+    },
+    {
+     "label": "Pinterest pin \u2026889385",
+     "url": "https://www.pinterest.com/pin/1137440449703889385/"
+    },
+    {
+     "label": "Pinterest pin \u2026613680",
+     "url": "https://www.pinterest.com/pin/1137440449702613680/"
+    }
+   ]
   },
   {
    "id": "T_POURDRIP_01_E1",
@@ -2047,7 +3741,25 @@
     "POUR/DRIP"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026375546",
+     "url": "https://www.pinterest.com/pin/1137440449702375546/"
+    },
+    {
+     "label": "Pinterest pin \u2026582717",
+     "url": "https://www.pinterest.com/pin/905575437605582717/"
+    },
+    {
+     "label": "Pinterest pin \u2026236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin \u2026384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    }
+   ]
   },
   {
    "id": "T_SIGNALNOISE_01_E1",
@@ -2063,7 +3775,25 @@
     "SIGNAL/NOISE"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384607",
+     "url": "https://www.pinterest.com/pin/1137440449702384607/"
+    },
+    {
+     "label": "Pinterest pin \u2026688891",
+     "url": "https://www.pinterest.com/pin/1137440449703688891/"
+    },
+    {
+     "label": "Pinterest pin \u2026424072",
+     "url": "https://www.pinterest.com/pin/1137440449702424072/"
+    },
+    {
+     "label": "Pinterest pin \u2026424178",
+     "url": "https://www.pinterest.com/pin/1137440449702424178/"
+    }
+   ]
   },
   {
    "id": "T_MATTERTYPE_05_E2",
@@ -2079,7 +3809,21 @@
     "MATTER/TYPE"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026237286",
+     "url": "https://www.pinterest.com/pin/1137440449696237286/"
+    },
+    {
+     "label": "Pinterest pin \u2026237417",
+     "url": "https://www.pinterest.com/pin/1137440449696237417/"
+    },
+    {
+     "label": "Pinterest pin \u2026237405",
+     "url": "https://www.pinterest.com/pin/1137440449696237405/"
+    }
+   ]
   },
   {
    "id": "T_HEADOPEN_01_E2",
@@ -2095,7 +3839,21 @@
     "HEAD/OPEN"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032971",
+     "url": "https://www.pinterest.com/pin/1137440449704032971/"
+    },
+    {
+     "label": "Pinterest pin \u2026899876",
+     "url": "https://www.pinterest.com/pin/1137440449703899876/"
+    },
+    {
+     "label": "Pinterest pin \u2026612695",
+     "url": "https://www.pinterest.com/pin/1137440449702612695/"
+    }
+   ]
   },
   {
    "id": "dream_collage_01_E2",
@@ -2111,7 +3869,25 @@
     "DREAM/COLLAGE"
    ],
    "kind": "general",
-   "kindLabel": "GENERAL"
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026036540",
+     "url": "https://www.pinterest.com/pin/1137440449704036540/"
+    },
+    {
+     "label": "Pinterest pin \u2026036429",
+     "url": "https://www.pinterest.com/pin/1137440449704036429/"
+    },
+    {
+     "label": "Pinterest pin \u2026036304",
+     "url": "https://www.pinterest.com/pin/1137440449704036304/"
+    },
+    {
+     "label": "Pinterest pin \u2026036267",
+     "url": "https://www.pinterest.com/pin/1137440449704036267/"
+    }
+   ]
   }
  ]
 }

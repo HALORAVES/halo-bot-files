@@ -34,13 +34,13 @@ button:hover,button.on{background:var(--y);color:#000}button.keep{border-color:v
 .row{display:flex;gap:6px;flex-wrap:wrap;align-items:center}.sw{width:26px;height:26px;padding:0}#drop{border:1px dashed #666;padding:10px;text-align:center;color:#888;font-size:12px}
 #refs img{height:56px;margin:4px 4px 0 0;border:1px solid #444}#close{position:fixed;top:10px;right:14px;z-index:51}#send{width:100%;margin-top:12px;padding:12px;font-size:13px;background:#ff0;color:#000}
 #fbmsg{font-size:12px;margin-top:6px;color:#aaa}#fbmsg a{color:#ff0}
-.kp{display:inline-block;font:800 9px Arial;letter-spacing:.08em;padding:2px 7px;border-radius:9px;margin:0 0 5px;color:#000}.kp.client{background:#ff3fa4}.kp.general{background:#9ad7ff}.kp.event{background:#ffb000}.kf{display:flex;gap:4px;flex-wrap:wrap;margin:0 0 8px}.kf button{font:800 10px Arial;padding:3px 7px}#lbk{position:absolute;top:12px;left:12px;z-index:5}</style></head><body>
+.kp{display:inline-block;font:800 9px Arial;letter-spacing:.08em;padding:2px 7px;border-radius:9px;margin:0 0 5px;color:#000}.kp.client{background:#ff3fa4}.kp.general{background:#9ad7ff}.kp.event{background:#ffb000}.kf{display:flex;gap:4px;flex-wrap:wrap;margin:0 0 8px}.kf button{font:800 10px Arial;padding:3px 7px}#lbk{position:absolute;top:12px;left:12px;z-index:5}.rf{font:10px Arial;margin:4px 0;line-height:1.5}.rf a{color:#9ad7ff;margin-right:8px;text-decoration:underline}#lbr{margin:6px 0}</style></head><body>
 <div id="top"><div><div id="wm">HALO STILLS — LIVE</div><div id="count">0 / 150 KEPT</div></div>
 <div id="prog"><div id="bar"><div id="fill"></div></div><div id="upd">loading…</div></div>
 <button id="pend">SEND ALL PENDING (0)</button><button id="exp">EXPORT VOTES</button></div>
 <div id="wrap"><nav id="nav"></nav><main id="main"><div class="head" id="head"></div><div id="grid"></div></main></div>
 <div id="lb"><button id="close">✕ CLOSE</button><div id="stage"><span id="lbk"></span><img id="lbimg"><canvas id="cv"></canvas></div>
-<div id="fb"><h3 id="fbt">FEEDBACK</h3><label>WHAT TO BUILD ON</label><textarea id="note" placeholder="more chrome, bigger halo…"></textarea>
+<div id="fb"><h3 id="fbt">FEEDBACK</h3><div id="lbr"></div><label>WHAT TO BUILD ON</label><textarea id="note" placeholder="more chrome, bigger halo…"></textarea>
 <label>DRAW ON IT</label><div class="row"><button class="sw" data-c="#ffff00" style="background:#ff0"></button><button class="sw" data-c="#ff00ff" style="background:#f0f"></button><button class="sw" data-c="#ffffff" style="background:#fff"></button>
 <input id="bs" type="range" min="2" max="40" value="8"><button id="undo">UNDO</button><button id="clr">CLEAR</button></div>
 <label>REFERENCE PHOTOS</label><div id="drop">tap to add · paste · drag images here<input id="file" type="file" accept="image/*" multiple style="display:none"></div><div id="refs"></div>
@@ -55,6 +55,7 @@ const gh=(t,b)=>`https://github.com/${REPO}/issues/new?title=${encodeURIComponen
 function issue(id,v){return gh('vote: '+id+' '+v)}
 const save=()=>{localStorage.setItem(K,JSON.stringify(votes));localStorage.setItem(KK,JSON.stringify(keeps));localStorage.setItem(PK,JSON.stringify(pend))};
 const kof=it=>{if(it.kind)return[it.kind,it.kindLabel||it.kind.toUpperCase()];const r=it.rooms||[];const n=r.find(q=>/^(nights|events?):/.test(q));if(n||/^N_/.test(it.id)||it.theme==='NIGHTS')return['event','EVENT'+(n?' · '+n.split(':')[1]:'')];const c=r.find(q=>/^(clients?|prospects?):/.test(q));if(c)return['client','CLIENT · '+c.split(':')[1]];return['general','GENERAL']};
+const refsH=it=>(it.refs&&it.refs.length)?`<div class="rf">REF: ${it.refs.map(r=>`<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.label)}</a>`).join('')}</div>`:'';
 const pill=it=>{const[k,l]=kof(it);return`<span class="kp ${k}">${esc(l)}</span>`};
 let kindF=localStorage.getItem('halo_kindf')||'all';
 function all(){return M?[...M.items.map(x=>({...x})),...(M.updates||[]).map(x=>({...x,upd:1}))].filter(x=>kindF==='all'||kof(x)[0]===kindF):[]}
@@ -82,7 +83,7 @@ function tile(it){const v=votes[it.id],st=stat(it),d=document.createElement('div
  const pic=`<img class="main" alt="${esc(it.title||it.id)}">`;
  d.innerHTML=(it.upd?`<div class="ba"><figure><figcaption>BEFORE</figcaption><img class="bef"></figure><figure><figcaption>AFTER</figcaption>${pic}</figure></div>`:pic)+
  `<div class="i"><span class="st ${st}">${st.toUpperCase()}</span>${pill(it)}<div class="th">${it.upd?`<span class="vt">${esc(it.version)}</span>UPDATE OF ${esc(it.of)}`:esc(it.theme||rms(it).filter(r=>!r.includes(':')).join(' · '))}</div><div class="ti">${esc(it.title||it.id)}</div>${it.note?`<div class="nt">${it.upd?'FEEDBACK: ':''}${esc(it.note)}</div>`:''}
- <div class="v"><button class="keep${keeps[it.id]?' on':''}" data-x="keep">KEEP</button>${['yay','nay','build on'].map(x=>`<button data-x="${x}" class="${v===x?'on':''}">${x.toUpperCase()}</button>`).join('')}<button data-x="fb">✎ FEEDBACK</button></div>${v?`<a class="s" target="_blank" href="${issue(it.id,v)}">→ send “${v}” to the bot</a>`:''}</div>`;
+ ${refsH(it)}<div class="v"><button class="keep${keeps[it.id]?' on':''}" data-x="keep">KEEP</button>${['yay','nay','build on'].map(x=>`<button data-x="${x}" class="${v===x?'on':''}">${x.toUpperCase()}</button>`).join('')}<button data-x="fb">✎ FEEDBACK</button></div>${v?`<a class="s" target="_blank" href="${issue(it.id,v)}">→ send “${v}” to the bot</a>`:''}</div>`;
  const im=d.querySelector('img.main');im.onclick=()=>openLB(it);b64img(im,it.file,it);
  if(it.upd){const be=d.querySelector('img.bef');if(bef){b64img(be,bef.file);be.style.cursor='zoom-in';be.onclick=()=>openLB(bef)}}
  d.querySelectorAll('.v button').forEach(b=>b.onclick=()=>b.dataset.x==='fb'?openLB(it):act(it,b.dataset.x));return d}
@@ -101,7 +102,7 @@ document.getElementById('pend').onclick=()=>{if(!pend.length){alert('Nothing pen
 const FK='halo_live_fb';let fb=JSON.parse(localStorage.getItem(FK)||'{}'),cur=null,col='#ffff00',strokes=[],refs=[];
 const $=id=>document.getElementById(id),cv=$('cv'),cx=cv.getContext('2d');
 function saveFB(){if(!cur)return;fb[cur.id]={note:$('note').value,strokes,refs};if(typeof draw==='function')setTimeout(draw,0);try{localStorage.setItem(FK,JSON.stringify(fb))}catch(e){$('fbmsg').textContent='storage full: reference photos not saved'}}
-function openLB(it){cur=it;const f=fb[it.id]||{};strokes=f.strokes||[];refs=f.refs||[];$('note').value=f.note||'';$('fbt').textContent='FEEDBACK · '+(it.title||it.id);$('lbk').innerHTML=pill(it);$('fbmsg').textContent='';
+function openLB(it){cur=it;const f=fb[it.id]||{};strokes=f.strokes||[];refs=f.refs||[];$('note').value=f.note||'';$('fbt').textContent='FEEDBACK · '+(it.title||it.id);$('lbk').innerHTML=pill(it);$('lbr').innerHTML=refsH(it);$('fbmsg').textContent='';
  const im=$('lbimg');im.onload=()=>{cv.width=im.naturalWidth;cv.height=im.naturalHeight;redraw()};if(it._src)im.src=it._src;else b64img(im,it.file,it);showRefs();$('lb').style.display='flex'}
 $('close').onclick=()=>{saveFB();$('lb').style.display='none'};
 function redraw(){cx.clearRect(0,0,cv.width,cv.height);cx.lineCap=cx.lineJoin='round';strokes.forEach(s=>{cx.strokeStyle=s.c;cx.lineWidth=s.w;cx.beginPath();s.p.forEach((p,i)=>i?cx.lineTo(p[0],p[1]):cx.moveTo(p[0],p[1]));if(s.p.length==1)cx.lineTo(s.p[0][0]+.1,s.p[0][1]);cx.stroke()})}
