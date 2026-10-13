@@ -17,7 +17,7 @@ button:hover,button.on{background:var(--y);color:#000}button.keep{border-color:v
 #grid{columns:4 260px;column-gap:14px;margin-top:16px}#grid.ups{columns:1}
 .t{break-inside:avoid;margin:0 0 14px;border:1px solid #2a2a2a;border-top:2px solid var(--g);background:#070707;max-width:1000px}
 .t img{width:100%;display:block}.t img.main{cursor:zoom-in}.i{padding:9px}.ti{font-weight:800;color:#fff;font-size:16px}.th{color:var(--g);font-size:11px;letter-spacing:.15em;text-transform:uppercase}
-.st{float:right;font:800 10px Arial;padding:2px 6px;border:1px solid var(--m);color:var(--m);letter-spacing:.1em}.st.build{border-color:#0ff;color:#0ff}.st.keep{background:var(--g);color:#000;border-color:var(--g)}.st.nay{border-color:#f0f;color:#f0f}
+.st{float:right;font:800 10px Arial;padding:2px 6px;border:1px solid var(--m);color:var(--m);letter-spacing:.1em}.st.build{border-color:#0ff;color:#0ff}.st.keep{background:var(--g);color:#000;border-color:var(--g)}.st.nay{border-color:#f0f;color:#f0f}.st.archive{border-color:#888;color:#888}.t.ar{opacity:.85}
 .v{display:flex;gap:5px;margin-top:8px;flex-wrap:wrap}.s{display:block;margin-top:6px;color:var(--y);font-size:13px}
 .ba{display:grid;grid-template-columns:1fr 1fr;gap:4px}.ba figure{margin:0;position:relative}
 .ba figcaption{z-index:2;position:absolute;top:6px;left:6px;background:#000;color:var(--y);font:800 11px Arial;letter-spacing:.2em;padding:3px 6px;border:1px solid var(--y)}
@@ -111,15 +111,20 @@ function rooms(){const P=all(),live=P.filter(x=>stat(x)!=='nay'),R=[];
  NIGHTS.forEach(n=>R.push({g:'NIGHTS',id:'nights:'+n,name:n.replace(/-/g,' '),law:'haloraves.com/nights/'+n,f:x=>stat(x)!=='nay'&&rms(x).includes('nights:'+n)}));
  const other=new Set();P.forEach(x=>rms(x).forEach(r=>{if(r.includes(':')&&!r.startsWith('nights:'))other.add(r)}));
  [...other].sort().forEach(r=>{const[g,...n]=r.split(':');R.push({g:g.toUpperCase(),id:r,name:n.join(':'),law:'',f:x=>stat(x)!=='nay'&&rms(x).includes(r)})});
- R.forEach(r=>r.items=(r.id==='UPDATES'?P:live.concat(r.id==='IN REVIEW'||r.id==='KEEPERS'?[]:[])).filter(r.f));const KR=R.find(r=>r.id==='KEEPERS');if(KR)KR.items=keepFinal(P);return R}
-function nav(R){const n=document.getElementById('nav');let g='',h='';R.forEach(r=>{if(r.g!==g){g=r.g;h+=`<h4>${esc(g)}</h4>`}h+=`<div class="b${r.id===room?' act':''}" data-r="${esc(r.id)}">${esc(r.name)}<span class="n">${r.items.length}</span></div>`});
- h=`<div class="kf">${['all','client','general','event','promo','product','request'].map(k=>`<button data-k="${k}" class="${kindF===k?'on':''}">${k.toUpperCase()}</button>`).join('')}</div>`+h;n.innerHTML=h;n.querySelectorAll('.kf button').forEach(b=>b.onclick=()=>{kindF=b.dataset.k;localStorage.setItem('halo_kindf',kindF);draw()});n.querySelectorAll('.b').forEach(b=>b.onclick=()=>go(b.dataset.r));const a=n.querySelector('.act');if(a&&innerWidth<=760)a.scrollIntoView({inline:'center',block:'nearest'})}
+ R.forEach(r=>r.items=(r.id==='UPDATES'?P:live.concat(r.id==='IN REVIEW'||r.id==='KEEPERS'?[]:[])).filter(r.f));const KR=R.find(r=>r.id==='KEEPERS');if(KR)KR.items=keepFinal(P);
+ R.push({g:'ARCHIVE',id:'ARCHIVE',name:'ARCHIVE',law:'Stored, not on the wall: older versions of keepers and pieces taken down in cleanup. No voting here.',items:arch()});return R}
+function arch(){return M&&M.archive?M.archive.map(x=>({...x})).filter(x=>(kindF==='all'||kof(x)[0]===kindF)&&(arF==='all'||x.archive_reason===arF)):[]}
+let arF='all',arOpen=localStorage.getItem('halo_aropen')==='1';
+const AR={'all':'ALL','older-version':'OLDER VERSIONS','nay':'NAY','superseded':'SUPERSEDED'};
+function atile(it){const d=document.createElement('div');d.className='t ar';d.innerHTML=`<img class="main" alt="${esc(it.title||it.id)}"><div class="i"><span class="st archive">ARCHIVE</span>${pill(it)}<div class="th">${esc(AR[it.archive_reason]||it.archive_reason||'')}${it.archive_of?' · latest: '+esc(it.archive_of):''}</div><div class="ti">${esc(it.title||it.id)}</div><div class="th">${esc(it.id)}${it.prev_status?' · was '+esc(it.prev_status.toUpperCase()):''}</div>${it.note?`<div class="nt">${esc(it.note)}</div>`:''}${srcH(it)}${refsH(it)}<div class="ka"><button data-a="dl">⬇ DOWNLOAD</button></div></div>`;const im=d.querySelector('img');b64img(im,it.file,it);im.onclick=()=>full(im.src);d.querySelector('[data-a=dl]').onclick=()=>dlOne(it);fillTh(d);return d}
+function nav(R){const n=document.getElementById('nav');let g='',h='';R.forEach(r=>{if(r.g!==g){g=r.g;h+=r.g==='ARCHIVE'?`<h4 class="arh" style="cursor:pointer">${arOpen?'▾':'▸'} ARCHIVE</h4>`:`<h4>${esc(g)}</h4>`}if(r.g==='ARCHIVE'&&!arOpen&&room!=='ARCHIVE')return;h+=`<div class="b${r.id===room?' act':''}" data-r="${esc(r.id)}">${esc(r.name)}<span class="n">${r.items.length}</span></div>`});
+ h=`<div class="kf">${['all','client','general','event','promo','product','request'].map(k=>`<button data-k="${k}" class="${kindF===k?'on':''}">${k.toUpperCase()}</button>`).join('')}</div>`+h;n.innerHTML=h;n.querySelectorAll('.kf button').forEach(b=>b.onclick=()=>{kindF=b.dataset.k;localStorage.setItem('halo_kindf',kindF);draw()});{const ah=n.querySelector('.arh');if(ah)ah.onclick=()=>{arOpen=!arOpen;localStorage.setItem('halo_aropen',arOpen?'1':'0');draw()}}n.querySelectorAll('.b').forEach(b=>b.onclick=()=>go(b.dataset.r));const a=n.querySelector('.act');if(a&&innerWidth<=760)a.scrollIntoView({inline:'center',block:'nearest'})}
 function go(r){room=r;history.replaceState(null,'','#'+encodeURIComponent(r));const mn=document.getElementById('main');mn.classList.add('fade');setTimeout(()=>{draw();mn.classList.remove('fade');scrollTo({top:0})},180)}
 function b64img(im,f,it){if(!f)return;if(/\.b64$/.test(f)){fetch(f+'?v='+encodeURIComponent(M.updated)).then(r=>r.text()).then(t=>{im.src='data:image/jpeg;base64,'+t.trim();if(it)it._src=im.src})}else im.src=f}
 function act(it,a){if(a==='keep'){if(keeps[it.id]){delete keeps[it.id];pend=pend.filter(p=>p!=='keep: '+it.id)}else{keeps[it.id]=1;pend.push('keep: '+it.id);open(gh('keep: '+it.id),'_blank')}}
  else{votes[it.id]=votes[it.id]===a?undefined:a;if(!votes[it.id])delete votes[it.id];else pend.push('vote: '+it.id+' '+a)}save();draw()}
 function tile(it){const v=votes[it.id],st=stat(it),d=document.createElement('div');d.className='t';
- const bef=it.upd?all().find(x=>x.id===it.before_file):null;
+ const bef=it.upd?(all().find(x=>x.id===it.before_file)||(M.archive||[]).find(x=>x.id===it.before_file)):null;
  const pic=`<img class="main" alt="${esc(it.title||it.id)}">`;
  d.innerHTML=(it.upd?`<div class="ba"><figure><figcaption>BEFORE</figcaption><img class="bef"></figure><figure><figcaption>AFTER</figcaption>${pic}</figure></div>`:pic)+
  `<div class="i"><span class="st ${st}">${st.toUpperCase()}</span>${pill(it)}<div class="th">${it.upd?`<span class="vt">${esc(it.version)}</span>UPDATE OF ${esc(it.of)}`:esc(it.theme||rms(it).filter(r=>!r.includes(':')).join(' · '))}</div><div class="ti">${esc(it.title||it.id)}</div>${it.note?`<div class="nt">${it.upd?'FEEDBACK: ':''}${esc(it.note)}</div>`:''}
@@ -133,8 +138,9 @@ function draw(){if(!M)return;const R=rooms();let r=R.find(x=>x.id===room);if(!r)
  document.getElementById('pend').textContent=`SEND ALL PENDING (${pend.length})`;
  document.getElementById('head').innerHTML=`<h1>${esc(r.name)}</h1><div class="law">${esc(r.law)}</div><div class="sub">${r.items.length} piece${r.items.length==1?'':'s'}</div>`;
  const g=document.getElementById('grid');g.className=r.id==='UPDATES'?'ups':r.id==='KEEPERS'?'kg':r.id==='PROMO PRINTS'?'pg':'';g.innerHTML='';
+ if(r.id==='ARCHIVE'){const fb=document.createElement('div');fb.className='kf';fb.style.gridColumn='1/-1';fb.innerHTML=Object.entries(AR).map(([k,l])=>`<button data-f="${k}" class="${arF===k?'on':''}">${l}</button>`).join('');fb.querySelectorAll('button').forEach(b=>b.onclick=()=>{arF=b.dataset.f;draw()});g.appendChild(fb)}
  const L=[...r.items].sort((a,b)=>String(b.updated||'').localeCompare(String(a.updated||'')));
- if(!L.length)g.innerHTML='<div class="empty">Nothing in this room yet. New pieces land here as they are made.</div>';L.forEach(it=>g.appendChild(kof(it)[0]==='promo'?ptile(it):r.id==='KEEPERS'?ktile(it):tile(it)))}
+ if(!L.length)g.innerHTML+='<div class="empty">Nothing in this room yet. New pieces land here as they are made.</div>';L.forEach(it=>g.appendChild(r.id==='ARCHIVE'?atile(it):kof(it)[0]==='promo'?ptile(it):r.id==='KEEPERS'?ktile(it):tile(it)))}
 async function load(){try{const m=await(await fetch('manifest.json?t='+Date.now(),{cache:'no-store'})).json();
  document.getElementById('upd').textContent='last updated '+new Date(m.updated).toLocaleString()+' · auto-refresh 30s';
  const s=JSON.stringify(m);if(s!==sig){sig=s;M=m;draw()}}catch(e){document.getElementById('upd').textContent='refresh failed, retrying…'}}

@@ -1,7 +1,7 @@
 {
- "total": 127,
- "done": 127,
- "updated": "2026-10-13T01:55:40Z",
+ "total": 154,
+ "done": 154,
+ "updated": "2026-10-13T02:00:00Z",
  "items": [
   {
    "id": "mono_lith_01",
@@ -224,32 +224,6 @@
    ]
   },
   {
-   "id": "T_SMALLLIFE_05",
-   "file": "img/T_SMALLLIFE_05.b64",
-   "title": "Stylus Firefly",
-   "theme": "SMALL/LIFE",
-   "note": "",
-   "status": "keep",
-   "rooms": [
-    "SMALL/LIFE"
-   ],
-   "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3)",
-   "updated": "2026-10-12T01:51:57Z",
-   "vote": "yay",
-   "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SMALL/LIFE",
-   "refs": [
-    {
-     "label": "Pinterest pin \u2026806130",
-     "url": "https://www.pinterest.com/pin/1137440449695806130/"
-    },
-    {
-     "label": "Pinterest pin \u2026423576",
-     "url": "https://www.pinterest.com/pin/1137440449702423576/"
-    }
-   ]
-  },
-  {
    "id": "cannonball_v4_E2",
    "file": "img/cannonball_v4_E2.b64",
    "title": "cannonball_v4_E2",
@@ -351,100 +325,6 @@
     }
    ],
    "look": "Desaturated cool-grey photoreal landscapes: one huge geometric solid (cube, sphere, inverted pyramid) hangs silently over icy sea or barren ground under flat overcast light, centered, minimal, with a tiny lone figure for scale; quiet, cold, eerie.",
-   "updated": "2026-10-12T15:55:05Z"
-  },
-  {
-   "id": "P_DREAMCOLLAGE_01",
-   "file": "img/P_DREAMCOLLAGE_01.b64",
-   "title": "DREAM/COLLAGE \u00b7 pin-led 01",
-   "theme": "DREAM/COLLAGE",
-   "note": "",
-   "status": "keep",
-   "rooms": [
-    "DREAM/COLLAGE"
-   ],
-   "sources": "Rendered from 3 DREAM/COLLAGE pins as reference images (strong weight), light HALO touch",
-   "source_pins": [
-    {
-     "url": "https://www.pinterest.com/pin/1137440449703899980/",
-     "thumb": "1137440449703899980",
-     "label": "pin \u2026899980"
-    },
-    {
-     "url": "https://www.pinterest.com/pin/1137440449703889184/",
-     "thumb": "1137440449703889184",
-     "label": "pin \u2026889184"
-    },
-    {
-     "url": "https://www.pinterest.com/pin/1137440449703881010/",
-     "thumb": "1137440449703881010",
-     "label": "pin \u2026881010"
-    }
-   ],
-   "kind": "general",
-   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE",
-   "refs": [
-    {
-     "label": "Pinterest pin \u2026899980",
-     "url": "https://www.pinterest.com/pin/1137440449703899980/"
-    },
-    {
-     "label": "Pinterest pin \u2026889184",
-     "url": "https://www.pinterest.com/pin/1137440449703889184/"
-    },
-    {
-     "label": "Pinterest pin \u2026881010",
-     "url": "https://www.pinterest.com/pin/1137440449703881010/"
-    }
-   ],
-   "look": "Muted, misty photo-manipulations where an out-of-place creature (giant koi, falling dinosaur, unicorn silhouettes) is dropped into an ordinary foggy road or sky; soft grey-green palette, natural overcast light, deadpan and dreamlike.",
-   "updated": "2026-10-12T15:55:05Z"
-  },
-  {
-   "id": "P_HEADOPEN_01",
-   "file": "img/P_HEADOPEN_01.b64",
-   "title": "HEAD/OPEN \u00b7 pin-led 01",
-   "theme": "HEAD/OPEN",
-   "note": "",
-   "status": "keep",
-   "rooms": [
-    "HEAD/OPEN"
-   ],
-   "sources": "Rendered from 3 HEAD/OPEN pins as reference images (strong weight), light HALO touch",
-   "source_pins": [
-    {
-     "url": "https://www.pinterest.com/pin/1137440449704032971/",
-     "thumb": "1137440449704032971",
-     "label": "pin \u2026032971"
-    },
-    {
-     "url": "https://www.pinterest.com/pin/1137440449703889523/",
-     "thumb": "1137440449703889523",
-     "label": "pin \u2026889523"
-    },
-    {
-     "url": "https://www.pinterest.com/pin/1137440449704033704/",
-     "thumb": "1137440449704033704",
-     "label": "pin \u2026033704"
-    }
-   ],
-   "kind": "general",
-   "kindLabel": "GENERAL \u00b7 HEAD/OPEN",
-   "refs": [
-    {
-     "label": "Pinterest pin \u2026032971",
-     "url": "https://www.pinterest.com/pin/1137440449704032971/"
-    },
-    {
-     "label": "Pinterest pin \u2026889523",
-     "url": "https://www.pinterest.com/pin/1137440449703889523/"
-    },
-    {
-     "label": "Pinterest pin \u2026033704",
-     "url": "https://www.pinterest.com/pin/1137440449704033704/"
-    }
-   ],
-   "look": "Studio product-shot classical marble busts on plain grey/blue backdrops, the head cracked open and filled with a material \u2014 geode crystals, ocean water, red quartz; soft even studio light, monochrome stone against one material color, sculptural and calm.",
    "updated": "2026-10-12T15:55:05Z"
   },
   {
@@ -633,53 +513,6 @@
     }
    ],
    "look": "Glossy 3D renders of a sculpted head or lips with thick liquid (neon green slime, chrome-mirror tiles) pouring and dripping down, on smooth light grey studio backdrops, soft studio light, sleek and surreal.",
-   "updated": "2026-10-12T15:55:05Z"
-  },
-  {
-   "id": "P_SIGNALNOISE_01",
-   "file": "img/P_SIGNALNOISE_01.b64",
-   "title": "SIGNAL/NOISE \u00b7 pin-led 01",
-   "theme": "SIGNAL/NOISE",
-   "note": "",
-   "status": "keep",
-   "rooms": [
-    "SIGNAL/NOISE"
-   ],
-   "sources": "Rendered from 3 SIGNAL/NOISE pins as reference images (strong weight), light HALO touch",
-   "source_pins": [
-    {
-     "url": "https://www.pinterest.com/pin/1137440449703688891/",
-     "thumb": "1137440449703688891",
-     "label": "pin \u2026688891"
-    },
-    {
-     "url": "https://www.pinterest.com/pin/1137440449702384702/",
-     "thumb": "1137440449702384702",
-     "label": "pin \u2026384702"
-    },
-    {
-     "url": "https://www.pinterest.com/pin/1137440449702341796/",
-     "thumb": "1137440449702341796",
-     "label": "pin \u2026341796"
-    }
-   ],
-   "kind": "general",
-   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE",
-   "refs": [
-    {
-     "label": "Pinterest pin \u2026688891",
-     "url": "https://www.pinterest.com/pin/1137440449703688891/"
-    },
-    {
-     "label": "Pinterest pin \u2026384702",
-     "url": "https://www.pinterest.com/pin/1137440449702384702/"
-    },
-    {
-     "label": "Pinterest pin \u2026341796",
-     "url": "https://www.pinterest.com/pin/1137440449702341796/"
-    }
-   ],
-   "look": "Photographic portraits or objects disrupted by digital interference \u2014 pixel blocks, RGB glitch slices, TV test-bar colors over the face \u2014 against plain grey/black, with small editorial type; graphic, cool, glitch-pop.",
    "updated": "2026-10-12T15:55:05Z"
   },
   {
@@ -5663,77 +5496,6 @@
  ],
  "updates": [
   {
-   "id": "cannonball_v3",
-   "of": "cannonball_v2",
-   "version": "v3",
-   "file": "img/cannonball_v3.b64",
-   "before_file": "cannonball_v2",
-   "title": "Cannonball Creek v3",
-   "note": "have the yellow be a reference for a halo to wrap around it, in the style of the photo. Then have what could look like a river running through the clear creek canyon. not some dusty looking place. So more like Sci-fi scenic and make this cannon ball look like it has like graffiti and cyberpunk",
-   "updated": "2026-10-11T23:59:07Z",
-   "status": "keep",
-   "rooms": [
-    "MATTER/TYPE",
-    "clients:Cannonball Creek"
-   ],
-   "kind": "client",
-   "kindLabel": "CLIENT \u00b7 Cannonball Creek",
-   "refs": [
-    {
-     "label": "Client page: Cannonball Creek",
-     "url": "https://www.visitgolden.com/listing/cannonball-creek-brewery/"
-    },
-    {
-     "label": "Pinterest pin \u2026237286",
-     "url": "https://www.pinterest.com/pin/1137440449696237286/"
-    },
-    {
-     "label": "Pinterest pin \u2026237417",
-     "url": "https://www.pinterest.com/pin/1137440449696237417/"
-    },
-    {
-     "label": "Pinterest pin \u2026237405",
-     "url": "https://www.pinterest.com/pin/1137440449696237405/"
-    }
-   ]
-  },
-  {
-   "id": "cannonball_v4",
-   "of": "cannonball_v3",
-   "version": "v4",
-   "file": "img/cannonball_v4.b64",
-   "before_file": "cannonball_v3",
-   "title": "cannonball_v3 \u2192 v4",
-   "note": "more like the pokeball reference in one of the pins type of graffiti",
-   "updated": "2026-10-12T00:00:26Z",
-   "status": "keep",
-   "rooms": [
-    "MATTER/TYPE",
-    "clients:Cannonball Creek"
-   ],
-   "vote": "yay",
-   "kind": "client",
-   "kindLabel": "CLIENT \u00b7 Cannonball Creek",
-   "refs": [
-    {
-     "label": "Client page: Cannonball Creek",
-     "url": "https://www.visitgolden.com/listing/cannonball-creek-brewery/"
-    },
-    {
-     "label": "Pinterest pin \u2026237286",
-     "url": "https://www.pinterest.com/pin/1137440449696237286/"
-    },
-    {
-     "label": "Pinterest pin \u2026237417",
-     "url": "https://www.pinterest.com/pin/1137440449696237417/"
-    },
-    {
-     "label": "Pinterest pin \u2026237405",
-     "url": "https://www.pinterest.com/pin/1137440449696237405/"
-    }
-   ]
-  },
-  {
    "id": "cannonball_v5",
    "of": "cannonball_v4",
    "version": "v5",
@@ -6025,40 +5787,6 @@
     {
      "label": "Pinterest pin \u2026384753",
      "url": "https://www.pinterest.com/pin/1137440449702384753/"
-    }
-   ]
-  },
-  {
-   "id": "T_SIGNALNOISE_01_E1",
-   "of": "T_SIGNALNOISE_01",
-   "version": "E1",
-   "file": "img/T_SIGNALNOISE_01_E1.b64",
-   "before_file": "T_SIGNALNOISE_01",
-   "title": "T_SIGNALNOISE_01 \u2192 E1",
-   "note": "",
-   "updated": "2026-10-12T02:27:47Z",
-   "status": "keep",
-   "rooms": [
-    "SIGNAL/NOISE"
-   ],
-   "kind": "general",
-   "kindLabel": "GENERAL",
-   "refs": [
-    {
-     "label": "Pinterest pin \u2026384607",
-     "url": "https://www.pinterest.com/pin/1137440449702384607/"
-    },
-    {
-     "label": "Pinterest pin \u2026688891",
-     "url": "https://www.pinterest.com/pin/1137440449703688891/"
-    },
-    {
-     "label": "Pinterest pin \u2026424072",
-     "url": "https://www.pinterest.com/pin/1137440449702424072/"
-    },
-    {
-     "label": "Pinterest pin \u2026424178",
-     "url": "https://www.pinterest.com/pin/1137440449702424178/"
     }
    ]
   },
@@ -6809,5 +6537,1572 @@
    "fields": "request, project, use, rules, status_label, version, v1_id (v2+), date, full{path,name,type}",
    "howto": "/workspace/halo-output/kb/request_board.md"
   }
- }
+ },
+ "archive": [
+  {
+   "id": "T_SMALLLIFE_05",
+   "file": "img/T_SMALLLIFE_05.b64",
+   "title": "Stylus Firefly",
+   "theme": "SMALL/LIFE",
+   "note": "",
+   "status": "archive",
+   "rooms": [
+    "SMALL/LIFE"
+   ],
+   "sources": "HALO Pinterest catalog: SMALL/LIFE board (weight 0.7), HALO brand look (0.3)",
+   "updated": "2026-10-12T01:51:57Z",
+   "vote": "yay",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SMALL/LIFE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026806130",
+     "url": "https://www.pinterest.com/pin/1137440449695806130/"
+    },
+    {
+     "label": "Pinterest pin \u2026423576",
+     "url": "https://www.pinterest.com/pin/1137440449702423576/"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "older-version",
+   "archived": "2026-10-13",
+   "archive_of": "T_SMALLLIFE_05_E2"
+  },
+  {
+   "id": "P_DREAMCOLLAGE_01",
+   "file": "img/P_DREAMCOLLAGE_01.b64",
+   "title": "DREAM/COLLAGE \u00b7 pin-led 01",
+   "theme": "DREAM/COLLAGE",
+   "note": "",
+   "status": "archive",
+   "rooms": [
+    "DREAM/COLLAGE"
+   ],
+   "sources": "Rendered from 3 DREAM/COLLAGE pins as reference images (strong weight), light HALO touch",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703899980/",
+     "thumb": "1137440449703899980",
+     "label": "pin \u2026899980"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889184/",
+     "thumb": "1137440449703889184",
+     "label": "pin \u2026889184"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703881010/",
+     "thumb": "1137440449703881010",
+     "label": "pin \u2026881010"
+    }
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026899980",
+     "url": "https://www.pinterest.com/pin/1137440449703899980/"
+    },
+    {
+     "label": "Pinterest pin \u2026889184",
+     "url": "https://www.pinterest.com/pin/1137440449703889184/"
+    },
+    {
+     "label": "Pinterest pin \u2026881010",
+     "url": "https://www.pinterest.com/pin/1137440449703881010/"
+    }
+   ],
+   "look": "Muted, misty photo-manipulations where an out-of-place creature (giant koi, falling dinosaur, unicorn silhouettes) is dropped into an ordinary foggy road or sky; soft grey-green palette, natural overcast light, deadpan and dreamlike.",
+   "updated": "2026-10-12T15:55:05Z",
+   "prev_status": "keep",
+   "archive_reason": "older-version",
+   "archived": "2026-10-13",
+   "archive_of": "P_DREAMCOLLAGE_V2_UFO"
+  },
+  {
+   "id": "P_HEADOPEN_01",
+   "file": "img/P_HEADOPEN_01.b64",
+   "title": "HEAD/OPEN \u00b7 pin-led 01",
+   "theme": "HEAD/OPEN",
+   "note": "",
+   "status": "archive",
+   "rooms": [
+    "HEAD/OPEN"
+   ],
+   "sources": "Rendered from 3 HEAD/OPEN pins as reference images (strong weight), light HALO touch",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704032971/",
+     "thumb": "1137440449704032971",
+     "label": "pin \u2026032971"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889523/",
+     "thumb": "1137440449703889523",
+     "label": "pin \u2026889523"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704033704/",
+     "thumb": "1137440449704033704",
+     "label": "pin \u2026033704"
+    }
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 HEAD/OPEN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026032971",
+     "url": "https://www.pinterest.com/pin/1137440449704032971/"
+    },
+    {
+     "label": "Pinterest pin \u2026889523",
+     "url": "https://www.pinterest.com/pin/1137440449703889523/"
+    },
+    {
+     "label": "Pinterest pin \u2026033704",
+     "url": "https://www.pinterest.com/pin/1137440449704033704/"
+    }
+   ],
+   "look": "Studio product-shot classical marble busts on plain grey/blue backdrops, the head cracked open and filled with a material \u2014 geode crystals, ocean water, red quartz; soft even studio light, monochrome stone against one material color, sculptural and calm.",
+   "updated": "2026-10-12T15:55:05Z",
+   "prev_status": "keep",
+   "archive_reason": "older-version",
+   "archived": "2026-10-13",
+   "archive_of": "P_HEADOPEN_V2"
+  },
+  {
+   "id": "P_SIGNALNOISE_01",
+   "file": "img/P_SIGNALNOISE_01.b64",
+   "title": "SIGNAL/NOISE \u00b7 pin-led 01",
+   "theme": "SIGNAL/NOISE",
+   "note": "",
+   "status": "archive",
+   "rooms": [
+    "SIGNAL/NOISE"
+   ],
+   "sources": "Rendered from 3 SIGNAL/NOISE pins as reference images (strong weight), light HALO touch",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703688891/",
+     "thumb": "1137440449703688891",
+     "label": "pin \u2026688891"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702384702/",
+     "thumb": "1137440449702384702",
+     "label": "pin \u2026384702"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702341796/",
+     "thumb": "1137440449702341796",
+     "label": "pin \u2026341796"
+    }
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 SIGNAL/NOISE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026688891",
+     "url": "https://www.pinterest.com/pin/1137440449703688891/"
+    },
+    {
+     "label": "Pinterest pin \u2026384702",
+     "url": "https://www.pinterest.com/pin/1137440449702384702/"
+    },
+    {
+     "label": "Pinterest pin \u2026341796",
+     "url": "https://www.pinterest.com/pin/1137440449702341796/"
+    }
+   ],
+   "look": "Photographic portraits or objects disrupted by digital interference \u2014 pixel blocks, RGB glitch slices, TV test-bar colors over the face \u2014 against plain grey/black, with small editorial type; graphic, cool, glitch-pop.",
+   "updated": "2026-10-12T15:55:05Z",
+   "prev_status": "keep",
+   "archive_reason": "older-version",
+   "archived": "2026-10-13",
+   "archive_of": "P_SIGNALNOISE_V2"
+  },
+  {
+   "id": "cannonball_v3",
+   "of": "cannonball_v2",
+   "version": "v3",
+   "file": "img/cannonball_v3.b64",
+   "before_file": "cannonball_v2",
+   "title": "Cannonball Creek v3",
+   "note": "have the yellow be a reference for a halo to wrap around it, in the style of the photo. Then have what could look like a river running through the clear creek canyon. not some dusty looking place. So more like Sci-fi scenic and make this cannon ball look like it has like graffiti and cyberpunk",
+   "updated": "2026-10-11T23:59:07Z",
+   "status": "archive",
+   "rooms": [
+    "MATTER/TYPE",
+    "clients:Cannonball Creek"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Cannonball Creek",
+   "refs": [
+    {
+     "label": "Client page: Cannonball Creek",
+     "url": "https://www.visitgolden.com/listing/cannonball-creek-brewery/"
+    },
+    {
+     "label": "Pinterest pin \u2026237286",
+     "url": "https://www.pinterest.com/pin/1137440449696237286/"
+    },
+    {
+     "label": "Pinterest pin \u2026237417",
+     "url": "https://www.pinterest.com/pin/1137440449696237417/"
+    },
+    {
+     "label": "Pinterest pin \u2026237405",
+     "url": "https://www.pinterest.com/pin/1137440449696237405/"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "older-version",
+   "archived": "2026-10-13",
+   "archive_of": "cannonball_v5"
+  },
+  {
+   "id": "cannonball_v4",
+   "of": "cannonball_v3",
+   "version": "v4",
+   "file": "img/cannonball_v4.b64",
+   "before_file": "cannonball_v3",
+   "title": "cannonball_v3 \u2192 v4",
+   "note": "more like the pokeball reference in one of the pins type of graffiti",
+   "updated": "2026-10-12T00:00:26Z",
+   "status": "archive",
+   "rooms": [
+    "MATTER/TYPE",
+    "clients:Cannonball Creek"
+   ],
+   "vote": "yay",
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Cannonball Creek",
+   "refs": [
+    {
+     "label": "Client page: Cannonball Creek",
+     "url": "https://www.visitgolden.com/listing/cannonball-creek-brewery/"
+    },
+    {
+     "label": "Pinterest pin \u2026237286",
+     "url": "https://www.pinterest.com/pin/1137440449696237286/"
+    },
+    {
+     "label": "Pinterest pin \u2026237417",
+     "url": "https://www.pinterest.com/pin/1137440449696237417/"
+    },
+    {
+     "label": "Pinterest pin \u2026237405",
+     "url": "https://www.pinterest.com/pin/1137440449696237405/"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "older-version",
+   "archived": "2026-10-13",
+   "archive_of": "cannonball_v5"
+  },
+  {
+   "id": "T_SIGNALNOISE_01_E1",
+   "of": "T_SIGNALNOISE_01",
+   "version": "E1",
+   "file": "img/T_SIGNALNOISE_01_E1.b64",
+   "before_file": "T_SIGNALNOISE_01",
+   "title": "T_SIGNALNOISE_01 \u2192 E1",
+   "note": "",
+   "updated": "2026-10-12T02:27:47Z",
+   "status": "archive",
+   "rooms": [
+    "SIGNAL/NOISE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384607",
+     "url": "https://www.pinterest.com/pin/1137440449702384607/"
+    },
+    {
+     "label": "Pinterest pin \u2026688891",
+     "url": "https://www.pinterest.com/pin/1137440449703688891/"
+    },
+    {
+     "label": "Pinterest pin \u2026424072",
+     "url": "https://www.pinterest.com/pin/1137440449702424072/"
+    },
+    {
+     "label": "Pinterest pin \u2026424178",
+     "url": "https://www.pinterest.com/pin/1137440449702424178/"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "older-version",
+   "archived": "2026-10-13",
+   "archive_of": "T_SIGNALNOISE_01_E2"
+  },
+  {
+   "id": "IBP_24",
+   "file": "img/IBP_24.b64",
+   "title": "Leopard Cassette \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "single_pin": true,
+   "note": "",
+   "status": "archive",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-12T20:56:13Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449694016977/",
+     "thumb": "1137440449694016977",
+     "label": "pin \u2026016977"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026016977",
+     "url": "https://www.pinterest.com/pin/1137440449694016977/"
+    },
+    {
+     "label": "Trend: Liquid chrome / Acid Y2K revival",
+     "url": "https://www.omoro.io/styles/acid-y2k"
+    }
+   ],
+   "trend": "Liquid chrome / Acid Y2K revival",
+   "prev_status": "nay",
+   "archive_reason": "nay",
+   "archived": "2026-10-13"
+  },
+  {
+   "id": "IBP_31",
+   "file": "img/IBP_31.b64",
+   "title": "Black Apple Pink Drip \u00b7 Inspired by Pinterest",
+   "theme": "INSPIRED BY PINTEREST",
+   "single_pin": false,
+   "note": "",
+   "status": "archive",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-12T20:56:13Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704125691/",
+     "thumb": "1137440449704125691",
+     "label": "pin \u2026125691"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704124195/",
+     "thumb": "1137440449704124195",
+     "label": "pin \u2026124195"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026125691",
+     "url": "https://www.pinterest.com/pin/1137440449704125691/"
+    },
+    {
+     "label": "Pinterest pin \u2026124195",
+     "url": "https://www.pinterest.com/pin/1137440449704124195/"
+    },
+    {
+     "label": "Trend: Multi-dimensional depth: one strong 3D element + 2D type",
+     "url": "https://www.youtube.com/watch?v=yHs9-RVTwsA"
+    }
+   ],
+   "trend": "Multi-dimensional depth: one strong 3D element + 2D type",
+   "prev_status": "nay",
+   "archive_reason": "nay",
+   "archived": "2026-10-13"
+  },
+  {
+   "id": "P4_C09",
+   "file": "img/P4_C09.b64",
+   "note": "",
+   "status": "archive",
+   "updated": "2026-10-12T18:55:45Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702341594/",
+     "thumb": "1137440449702341594",
+     "label": "pin \u2026341594"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703883422/",
+     "thumb": "1137440449703883422",
+     "label": "pin \u2026883422"
+    }
+   ],
+   "title": "Movement Englewood \u00b7 pin-led",
+   "theme": "CLIENT",
+   "rooms": [
+    "clients:Movement Englewood"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Movement Englewood",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026341594",
+     "url": "https://www.pinterest.com/pin/1137440449702341594/"
+    },
+    {
+     "label": "Pinterest pin \u2026883422",
+     "url": "https://www.pinterest.com/pin/1137440449703883422/"
+    }
+   ],
+   "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
+   "prev_status": "nay",
+   "archive_reason": "nay",
+   "archived": "2026-10-13"
+  },
+  {
+   "id": "P4_C11",
+   "file": "img/P4_C11.b64",
+   "note": "",
+   "status": "archive",
+   "updated": "2026-10-12T18:55:45Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889168/",
+     "thumb": "1137440449703889168",
+     "label": "pin \u2026889168"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703883427/",
+     "thumb": "1137440449703883427",
+     "label": "pin \u2026883427"
+    }
+   ],
+   "title": "Hotel Jerome \u00b7 pin-led",
+   "theme": "CLIENT",
+   "rooms": [
+    "clients:Hotel Jerome"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Hotel Jerome",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026889168",
+     "url": "https://www.pinterest.com/pin/1137440449703889168/"
+    },
+    {
+     "label": "Pinterest pin \u2026883427",
+     "url": "https://www.pinterest.com/pin/1137440449703883427/"
+    }
+   ],
+   "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
+   "prev_status": "nay",
+   "archive_reason": "nay",
+   "archived": "2026-10-13"
+  },
+  {
+   "id": "P4_C12",
+   "file": "img/P4_C12.b64",
+   "note": "",
+   "status": "archive",
+   "updated": "2026-10-12T18:55:45Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703690629/",
+     "thumb": "1137440449703690629",
+     "label": "pin \u2026690629"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702611827/",
+     "thumb": "1137440449702611827",
+     "label": "pin \u2026611827"
+    }
+   ],
+   "title": "Grizzly Rose \u00b7 pin-led",
+   "theme": "CLIENT",
+   "rooms": [
+    "clients:Grizzly Rose"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT \u00b7 Grizzly Rose",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026690629",
+     "url": "https://www.pinterest.com/pin/1137440449703690629/"
+    },
+    {
+     "label": "Pinterest pin \u2026611827",
+     "url": "https://www.pinterest.com/pin/1137440449702611827/"
+    }
+   ],
+   "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
+   "prev_status": "nay",
+   "archive_reason": "nay",
+   "archived": "2026-10-13"
+  },
+  {
+   "id": "P4_E03",
+   "file": "img/P4_E03.b64",
+   "note": "",
+   "status": "archive",
+   "updated": "2026-10-12T18:55:45Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449694017090/",
+     "thumb": "1137440449694017090",
+     "label": "pin \u2026017090"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889184/",
+     "thumb": "1137440449703889184",
+     "label": "pin \u2026889184"
+    }
+   ],
+   "title": "Game / Piano / Sands \u00b7 pin-led",
+   "theme": "NIGHTS",
+   "rooms": [
+    "NIGHTS",
+    "nights:game-piano-sands"
+   ],
+   "kind": "event",
+   "kindLabel": "EVENT \u00b7 Game / Piano / Sands",
+   "refs": [
+    {
+     "label": "haloraves.com night: game-piano-sands",
+     "url": "https://www.haloraves.com/nights/game-piano-sands"
+    },
+    {
+     "label": "Pinterest pin \u2026017090",
+     "url": "https://www.pinterest.com/pin/1137440449694017090/"
+    },
+    {
+     "label": "Pinterest pin \u2026889184",
+     "url": "https://www.pinterest.com/pin/1137440449703889184/"
+    }
+   ],
+   "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
+   "prev_status": "nay",
+   "archive_reason": "nay",
+   "archived": "2026-10-13"
+  },
+  {
+   "id": "P4_G08",
+   "file": "img/P4_G08.b64",
+   "note": "",
+   "status": "archive",
+   "updated": "2026-10-12T18:55:45Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449694017090/",
+     "thumb": "1137440449694017090",
+     "label": "pin \u2026017090"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449694017078/",
+     "thumb": "1137440449694017078",
+     "label": "pin \u2026017078"
+    }
+   ],
+   "title": "DREAM/COLLAGE \u00b7 pin-led 07",
+   "theme": "DREAM/COLLAGE",
+   "rooms": [
+    "DREAM/COLLAGE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026017090",
+     "url": "https://www.pinterest.com/pin/1137440449694017090/"
+    },
+    {
+     "label": "Pinterest pin \u2026017078",
+     "url": "https://www.pinterest.com/pin/1137440449694017078/"
+    }
+   ],
+   "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
+   "prev_status": "nay",
+   "archive_reason": "nay",
+   "archived": "2026-10-13"
+  },
+  {
+   "id": "P5_EV_02",
+   "file": "img/P5_EV_02.b64",
+   "title": "Pigs / Fly \u00b7 Glass-Wing Pig \u00b7 poster-style concept",
+   "theme": "NIGHTS",
+   "note": "",
+   "status": "archive",
+   "rooms": [
+    "NIGHTS",
+    "nights:pigs-fly"
+   ],
+   "updated": "2026-10-12T20:56:13Z",
+   "kind": "event",
+   "kindLabel": "EVENT \u00b7 Pigs / Fly",
+   "refs": [
+    {
+     "label": "Source poster: haloraves.com/nights/pigs-fly",
+     "url": "https://www.haloraves.com/nights/pigs-fly"
+    }
+   ],
+   "prev_status": "nay",
+   "archive_reason": "nay",
+   "archived": "2026-10-13"
+  },
+  {
+   "id": "P_BITECOLOR_V2",
+   "file": "img/P_BITECOLOR_V2.b64",
+   "title": "BITE/COLOR \u00b7 V2 pin-led",
+   "theme": "BITE/COLOR",
+   "note": "",
+   "status": "archive",
+   "rooms": [
+    "BITE/COLOR"
+   ],
+   "updated": "2026-10-12T19:09:17Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702339902/",
+     "thumb": "1137440449702339902",
+     "label": "pin \u2026339902"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696238209/",
+     "thumb": "1137440449696238209",
+     "label": "pin \u2026238209"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696238177/",
+     "thumb": "1137440449696238177",
+     "label": "pin \u2026238177"
+    }
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 BITE/COLOR",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026339902",
+     "url": "https://www.pinterest.com/pin/1137440449702339902/"
+    },
+    {
+     "label": "Pinterest pin \u2026238209",
+     "url": "https://www.pinterest.com/pin/1137440449696238209/"
+    },
+    {
+     "label": "Pinterest pin \u2026238177",
+     "url": "https://www.pinterest.com/pin/1137440449696238177/"
+    }
+   ],
+   "prev_status": "nay",
+   "archive_reason": "nay",
+   "archived": "2026-10-13"
+  },
+  {
+   "id": "P_DREAMCOLLAGE_V2",
+   "file": "img/P_DREAMCOLLAGE_V2.b64",
+   "title": "DREAM/COLLAGE \u00b7 V2 pin-led",
+   "theme": "DREAM/COLLAGE",
+   "note": "",
+   "status": "archive",
+   "rooms": [
+    "DREAM/COLLAGE"
+   ],
+   "updated": "2026-10-12T19:09:17Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703881010/",
+     "thumb": "1137440449703881010",
+     "label": "pin \u2026881010"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703899980/",
+     "thumb": "1137440449703899980",
+     "label": "pin \u2026899980"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889184/",
+     "thumb": "1137440449703889184",
+     "label": "pin \u2026889184"
+    }
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 DREAM/COLLAGE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026881010",
+     "url": "https://www.pinterest.com/pin/1137440449703881010/"
+    },
+    {
+     "label": "Pinterest pin \u2026899980",
+     "url": "https://www.pinterest.com/pin/1137440449703899980/"
+    },
+    {
+     "label": "Pinterest pin \u2026889184",
+     "url": "https://www.pinterest.com/pin/1137440449703889184/"
+    }
+   ],
+   "prev_status": "nay",
+   "archive_reason": "nay",
+   "archived": "2026-10-13"
+  },
+  {
+   "id": "P_HIDESKIN_V2",
+   "file": "img/P_HIDESKIN_V2.b64",
+   "title": "HIDE/SKIN \u00b7 V2 pin-led",
+   "theme": "HIDE/SKIN",
+   "note": "",
+   "status": "archive",
+   "rooms": [
+    "HIDE/SKIN"
+   ],
+   "updated": "2026-10-12T19:09:17Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695805832/",
+     "thumb": "1137440449695805832",
+     "label": "pin \u2026805832"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695805799/",
+     "thumb": "1137440449695805799",
+     "label": "pin \u2026805799"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449695805795/",
+     "thumb": "1137440449695805795",
+     "label": "pin \u2026805795"
+    }
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 HIDE/SKIN",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026805832",
+     "url": "https://www.pinterest.com/pin/1137440449695805832/"
+    },
+    {
+     "label": "Pinterest pin \u2026805799",
+     "url": "https://www.pinterest.com/pin/1137440449695805799/"
+    },
+    {
+     "label": "Pinterest pin \u2026805795",
+     "url": "https://www.pinterest.com/pin/1137440449695805795/"
+    }
+   ],
+   "prev_status": "nay",
+   "archive_reason": "nay",
+   "archived": "2026-10-13"
+  },
+  {
+   "id": "P_MATTERTYPE_V2",
+   "file": "img/P_MATTERTYPE_V2.b64",
+   "title": "MATTER/TYPE \u00b7 V2 pin-led",
+   "theme": "MATTER/TYPE",
+   "note": "",
+   "status": "archive",
+   "rooms": [
+    "MATTER/TYPE"
+   ],
+   "updated": "2026-10-12T19:09:17Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696236717/",
+     "thumb": "1137440449696236717",
+     "label": "pin \u2026236717"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696237255/",
+     "thumb": "1137440449696237255",
+     "label": "pin \u2026237255"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696236779/",
+     "thumb": "1137440449696236779",
+     "label": "pin \u2026236779"
+    }
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 MATTER/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026236717",
+     "url": "https://www.pinterest.com/pin/1137440449696236717/"
+    },
+    {
+     "label": "Pinterest pin \u2026237255",
+     "url": "https://www.pinterest.com/pin/1137440449696237255/"
+    },
+    {
+     "label": "Pinterest pin \u2026236779",
+     "url": "https://www.pinterest.com/pin/1137440449696236779/"
+    }
+   ],
+   "prev_status": "nay",
+   "archive_reason": "nay",
+   "archived": "2026-10-13"
+  },
+  {
+   "id": "P_TOYSMILE_V2",
+   "file": "img/P_TOYSMILE_V2.b64",
+   "title": "TOY/SMILE \u00b7 V2 pin-led",
+   "theme": "TOY/SMILE",
+   "note": "",
+   "status": "archive",
+   "rooms": [
+    "TOY/SMILE"
+   ],
+   "updated": "2026-10-12T19:09:17Z",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703688832/",
+     "thumb": "1137440449703688832",
+     "label": "pin \u2026688832"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612081/",
+     "thumb": "1137440449702612081",
+     "label": "pin \u2026612081"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703690629/",
+     "thumb": "1137440449703690629",
+     "label": "pin \u2026690629"
+    }
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 TOY/SMILE",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026688832",
+     "url": "https://www.pinterest.com/pin/1137440449703688832/"
+    },
+    {
+     "label": "Pinterest pin \u2026612081",
+     "url": "https://www.pinterest.com/pin/1137440449702612081/"
+    },
+    {
+     "label": "Pinterest pin \u2026690629",
+     "url": "https://www.pinterest.com/pin/1137440449703690629/"
+    }
+   ],
+   "prev_status": "nay",
+   "archive_reason": "nay",
+   "archived": "2026-10-13"
+  },
+  {
+   "id": "PP_01",
+   "title": "HALO \u00b7 Studio Hero \u00b7 Prism",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 Get Your HALO",
+   "status": "archive",
+   "cta": "Get Your HALO",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-night-prism",
+     "url": "https://www.haloraves.com/brand/halo-night-prism.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026124195",
+     "url": "https://www.pinterest.com/pin/1137440449704124195/"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_01_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_01_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_01_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_01_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_01.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T21:49:49Z",
+   "prev_status": "nay",
+   "archive_reason": "superseded",
+   "archived": "2026-10-13",
+   "archive_of": "PP_17-23 (real product)"
+  },
+  {
+   "id": "PP_02",
+   "title": "HALO \u00b7 Honeycomb Macro",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 Transmitter Zone",
+   "status": "archive",
+   "cta": "Transmitter Zone",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-night-ember",
+     "url": "https://www.haloraves.com/brand/halo-night-ember.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026124255",
+     "url": "https://www.pinterest.com/pin/1137440449704124255/"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_02_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_02_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_02_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_02_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_02.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T21:50:18Z",
+   "prev_status": "nay",
+   "archive_reason": "superseded",
+   "archived": "2026-10-13",
+   "archive_of": "PP_17-23 (real product)"
+  },
+  {
+   "id": "PP_03",
+   "title": "HALO \u00b7 Levitation \u00b7 Tide",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 Get Your HALO",
+   "status": "archive",
+   "cta": "Get Your HALO",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-night-tide",
+     "url": "https://www.haloraves.com/brand/halo-night-tide.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026125761",
+     "url": "https://www.pinterest.com/pin/1137440449704125761/"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_03_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_03_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_03_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_03_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_03.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T21:50:46Z",
+   "prev_status": "nay",
+   "archive_reason": "superseded",
+   "archived": "2026-10-13",
+   "archive_of": "PP_17-23 (real product)"
+  },
+  {
+   "id": "PP_04",
+   "title": "HALO \u00b7 Chrome Pool",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 PRIVATE RAVE",
+   "status": "archive",
+   "cta": "PRIVATE RAVE",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot look-acid",
+     "url": "https://www.haloraves.com/brand/look-acid.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026125691",
+     "url": "https://www.pinterest.com/pin/1137440449704125691/"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_04_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_04_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_04_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_04_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_04.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T21:51:15Z",
+   "prev_status": "nay",
+   "archive_reason": "superseded",
+   "archived": "2026-10-13",
+   "archive_of": "PP_17-23 (real product)"
+  },
+  {
+   "id": "PP_05",
+   "title": "HALO \u00b7 Crystal Altar",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 Get Your HALO",
+   "status": "archive",
+   "cta": "Get Your HALO",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot look-crystal",
+     "url": "https://www.haloraves.com/brand/look-crystal.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026124307",
+     "url": "https://www.pinterest.com/pin/1137440449704124307/"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_05_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_05_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_05_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_05_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_05.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T21:51:43Z",
+   "prev_status": "nay",
+   "archive_reason": "superseded",
+   "archived": "2026-10-13",
+   "archive_of": "PP_17-23 (real product)"
+  },
+  {
+   "id": "PP_06",
+   "title": "HALO \u00b7 Halo Above",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 Get Your HALO",
+   "status": "archive",
+   "cta": "Get Your HALO",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-aura",
+     "url": "https://www.haloraves.com/brand/halo-aura.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026129896",
+     "url": "https://www.pinterest.com/pin/1137440449704129896/"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_06_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_06_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_06_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_06_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_06.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T21:52:18Z",
+   "prev_status": "nay",
+   "archive_reason": "superseded",
+   "archived": "2026-10-13",
+   "archive_of": "PP_17-23 (real product)"
+  },
+  {
+   "id": "PP_07",
+   "title": "HALO \u00b7 Riverside Night",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 RSVP",
+   "status": "archive",
+   "cta": "RSVP",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-rave",
+     "url": "https://www.haloraves.com/brand/halo-rave.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026120235",
+     "url": "https://www.pinterest.com/pin/1137440449704120235/"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_07_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_07_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_07_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_07_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_07.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T21:52:49Z",
+   "prev_status": "build",
+   "archive_reason": "superseded",
+   "archived": "2026-10-13",
+   "archive_of": "PP_17-23 (real product)"
+  },
+  {
+   "id": "PP_08",
+   "title": "HALO \u00b7 Gallery Plinth \u00b7 Cloud Dancer",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 Get Your HALO",
+   "status": "archive",
+   "cta": "Get Your HALO",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-hero",
+     "url": "https://www.haloraves.com/brand/halo-hero.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026129847",
+     "url": "https://www.pinterest.com/pin/1137440449704129847/"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_08_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_08_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_08_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_08_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_08.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T21:53:17Z",
+   "prev_status": "nay",
+   "archive_reason": "superseded",
+   "archived": "2026-10-13",
+   "archive_of": "PP_17-23 (real product)"
+  },
+  {
+   "id": "PP_09",
+   "title": "HALO \u00b7 The Line-Up",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 Get Your HALO",
+   "status": "archive",
+   "cta": "Get Your HALO",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-line",
+     "url": "https://www.haloraves.com/brand/halo-line.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026129894",
+     "url": "https://www.pinterest.com/pin/1137440449704129894/"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_09_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_09_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_09_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_09_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_09.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T21:53:44Z",
+   "prev_status": "nay",
+   "archive_reason": "superseded",
+   "archived": "2026-10-13",
+   "archive_of": "PP_17-23 (real product)"
+  },
+  {
+   "id": "PP_11",
+   "title": "HALO \u00b7 Acid Op-Art Stage",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 Transmitter Zone",
+   "status": "archive",
+   "cta": "Transmitter Zone",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-night-prism",
+     "url": "https://www.haloraves.com/brand/halo-night-prism.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026124242",
+     "url": "https://www.pinterest.com/pin/1137440449704124242/"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_11_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_11_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_11_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_11_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_11.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T21:54:12Z",
+   "prev_status": "nay",
+   "archive_reason": "superseded",
+   "archived": "2026-10-13",
+   "archive_of": "PP_17-23 (real product)"
+  },
+  {
+   "id": "PP_12",
+   "title": "HALO \u00b7 Monument Fog",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 RSVP",
+   "status": "archive",
+   "cta": "RSVP",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-night-tide",
+     "url": "https://www.haloraves.com/brand/halo-night-tide.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026341594",
+     "url": "https://www.pinterest.com/pin/1137440449702341594/"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_12_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_12_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_12_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_12_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_12.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T21:54:41Z",
+   "prev_status": "nay",
+   "archive_reason": "superseded",
+   "archived": "2026-10-13",
+   "archive_of": "PP_17-23 (real product)"
+  },
+  {
+   "id": "PP_13",
+   "title": "HALO \u00b7 Flat Lay \u00b7 After Hours",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 RSVP",
+   "status": "archive",
+   "cta": "RSVP",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-still",
+     "url": "https://www.haloraves.com/brand/halo-still.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026129886",
+     "url": "https://www.pinterest.com/pin/1137440449704129886/"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_13_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_13_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_13_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_13_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_13.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T21:55:14Z",
+   "prev_status": "nay",
+   "archive_reason": "superseded",
+   "archived": "2026-10-13",
+   "archive_of": "PP_17-23 (real product)"
+  },
+  {
+   "id": "PP_14",
+   "title": "HALO \u00b7 Cup Detail \u00b7 Glow Line",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 Transmitter Zone",
+   "status": "archive",
+   "cta": "Transmitter Zone",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-sticker",
+     "url": "https://www.haloraves.com/brand/halo-sticker.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026129882",
+     "url": "https://www.pinterest.com/pin/1137440449704129882/"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_14_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_14_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_14_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_14_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_14.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T21:55:43Z",
+   "prev_status": "nay",
+   "archive_reason": "superseded",
+   "archived": "2026-10-13",
+   "archive_of": "PP_17-23 (real product)"
+  },
+  {
+   "id": "PP_15",
+   "title": "HALO \u00b7 Twin Glow",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 PRIVATE RAVE",
+   "status": "archive",
+   "cta": "PRIVATE RAVE",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot halo-close",
+     "url": "https://www.haloraves.com/brand/halo-close.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026340956",
+     "url": "https://www.pinterest.com/pin/1137440449702340956/"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_15_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_15_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_15_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_15_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_15.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T21:56:13Z",
+   "prev_status": "nay",
+   "archive_reason": "superseded",
+   "archived": "2026-10-13",
+   "archive_of": "PP_17-23 (real product)"
+  },
+  {
+   "id": "PP_16",
+   "title": "HALO \u00b7 Soft Lilac Float",
+   "kind": "product",
+   "kindLabel": "PRODUCT \u00b7 Get Your HALO",
+   "status": "archive",
+   "cta": "Get Your HALO",
+   "rooms": [],
+   "refs": [
+    {
+     "label": "haloraves.com/halo",
+     "url": "https://www.haloraves.com/halo"
+    },
+    {
+     "label": "Product shot own-halo",
+     "url": "https://www.haloraves.com/brand/own-halo.jpg"
+    },
+    {
+     "label": "Pinterest pin \u2026341541",
+     "url": "https://www.pinterest.com/pin/1137440449702341541/"
+    }
+   ],
+   "prints": [
+    {
+     "label": "Letter 8.5\u00d711",
+     "pdf": "promo/PP_16_letter.pdf.b64",
+     "name": "HALO_PRODUCT_PP_16_letter.pdf"
+    },
+    {
+     "label": "11\u00d717",
+     "pdf": "promo/PP_16_tabloid.pdf.b64",
+     "name": "HALO_PRODUCT_PP_16_tabloid.pdf"
+    }
+   ],
+   "file": "img/PP_16.b64",
+   "theme": "PRODUCT POSTERS",
+   "note": "",
+   "updated": "2026-10-12T21:56:42Z",
+   "prev_status": "nay",
+   "archive_reason": "superseded",
+   "archived": "2026-10-13",
+   "archive_of": "PP_17-23 (real product)"
+  },
+  {
+   "kind": "request",
+   "kindLabel": "REQUEST \u00b7 Chief of Staff",
+   "theme": "CHIEF OF STAFF REQUESTS",
+   "rooms": [],
+   "note": "",
+   "requested_by": "HALO Chief of Staff",
+   "rules": "No price, date, coin or health claim; shown in place; one idea; works in B/W; plain HALO RAVES wordmark.",
+   "status_label": "Awaiting Spirit's approval",
+   "date": "2026-10-13",
+   "request": "Still B for the line \"Thirty people. The park stays quiet.\", shown on a wall or phone.",
+   "project": "Still for the line \"Thirty people. The park stays quiet.\"",
+   "use": "Paired with the line \"Thirty people. The park stays quiet.\" in Chief of Staff outreach, shown on a wall or phone",
+   "id": "REQ_PARK_B_v1",
+   "version": "v1",
+   "title": "\"Thirty people. The park stays quiet.\" \u00b7 Still B \u00b7 v1",
+   "refs": [
+    {
+     "label": "haloraves.com",
+     "url": "https://www.haloraves.com"
+    }
+   ],
+   "file": "img/REQ_PARK_B_v1.b64",
+   "full": {
+    "path": "full/REQ_PARK_B_v1.png.b64",
+    "name": "HALO_still_B_park-stays-quiet_2026-10-13.png",
+    "type": "image/png"
+   },
+   "status": "archive",
+   "updated": "2026-10-12T22:59:36Z",
+   "prev_status": "review",
+   "archive_reason": "superseded",
+   "archived": "2026-10-13",
+   "archive_of": "REQ_PARK_B_v2"
+  },
+  {
+   "kind": "request",
+   "kindLabel": "REQUEST \u00b7 Chief of Staff",
+   "theme": "CHIEF OF STAFF REQUESTS",
+   "rooms": [],
+   "note": "",
+   "requested_by": "HALO Chief of Staff",
+   "rules": "No price, date, coin or health claim; shown in place; one idea; works in B/W; plain HALO RAVES wordmark.",
+   "status_label": "Awaiting Spirit's approval",
+   "date": "2026-10-13",
+   "request": "Still A for an email to Rise Yoga & Wellness, Golden: a listening hour in a yoga studio after class, mats down, thirty headphones, no speaker, shown on a phone.",
+   "project": "Email to Rise Yoga & Wellness, Golden",
+   "use": "Image in the outreach email to Rise Yoga & Wellness (Golden), shown on a phone",
+   "id": "REQ_RISEYOGA_A_v1",
+   "version": "v1",
+   "title": "Rise Yoga \u00b7 Still A \u00b7 listening hour on a phone \u00b7 v1",
+   "refs": [
+    {
+     "label": "haloraves.com",
+     "url": "https://www.haloraves.com"
+    }
+   ],
+   "file": "img/REQ_RISEYOGA_A_v1.b64",
+   "full": {
+    "path": "full/REQ_RISEYOGA_A_v1.png.b64",
+    "name": "HALO_still_A_rise-yoga_2026-10-13.png",
+    "type": "image/png"
+   },
+   "status": "archive",
+   "updated": "2026-10-12T22:59:36Z",
+   "prev_status": "review",
+   "archive_reason": "superseded",
+   "archived": "2026-10-13",
+   "archive_of": "REQ_RISEYOGA_A_v2"
+  }
+ ]
 }
