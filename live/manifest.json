@@ -1,7 +1,7 @@
 {
  "total": 127,
  "done": 127,
- "updated": "2026-10-13T01:21:00Z",
+ "updated": "2026-10-13T01:55:40Z",
  "items": [
   {
    "id": "mono_lith_01",
@@ -4618,6 +4618,1047 @@
    },
    "status": "review",
    "updated": "2026-10-12T22:59:36Z"
+  },
+  {
+   "id": "IBP_43",
+   "file": "img/IBP_43.b64",
+   "title": "Chrome Loop Hall \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145818/",
+     "thumb": "1137440449704145818",
+     "label": "pin \u2026145818"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145818",
+     "url": "https://www.pinterest.com/pin/1137440449704145818/"
+    },
+    {
+     "label": "Trend: Liquid chrome / Acid Y2K revival",
+     "url": "https://www.omoro.io/styles/acid-y2k"
+    }
+   ],
+   "trend": "Liquid chrome / Acid Y2K revival"
+  },
+  {
+   "id": "IBP_45",
+   "file": "img/IBP_45.b64",
+   "title": "Goldfish in Cobalt Candy \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145798/",
+     "thumb": "1137440449704145798",
+     "label": "pin \u2026145798"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145798",
+     "url": "https://www.pinterest.com/pin/1137440449704145798/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)"
+  },
+  {
+   "id": "IBP_46",
+   "file": "img/IBP_46.b64",
+   "title": "Storm in an Ice Candy \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145812/",
+     "thumb": "1137440449704145812",
+     "label": "pin \u2026145812"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145812",
+     "url": "https://www.pinterest.com/pin/1137440449704145812/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)"
+  },
+  {
+   "id": "IBP_47",
+   "file": "img/IBP_47.b64",
+   "title": "Lace Egg \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145933/",
+     "thumb": "1137440449704145933",
+     "label": "pin \u2026145933"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145933",
+     "url": "https://www.pinterest.com/pin/1137440449704145933/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)"
+  },
+  {
+   "id": "IBP_48",
+   "file": "img/IBP_48.b64",
+   "title": "Goldfish in Emerald Candy \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145940/",
+     "thumb": "1137440449704145940",
+     "label": "pin \u2026145940"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145940",
+     "url": "https://www.pinterest.com/pin/1137440449704145940/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)"
+  },
+  {
+   "id": "IBP_49",
+   "file": "img/IBP_49.b64",
+   "title": "Forest Capsule \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145836/",
+     "thumb": "1137440449704145836",
+     "label": "pin \u2026145836"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145836",
+     "url": "https://www.pinterest.com/pin/1137440449704145836/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)"
+  },
+  {
+   "id": "IBP_50",
+   "file": "img/IBP_50.b64",
+   "title": "Bottle-Cap Pisa \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145837/",
+     "thumb": "1137440449704145837",
+     "label": "pin \u2026145837"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145837",
+     "url": "https://www.pinterest.com/pin/1137440449704145837/"
+    }
+   ],
+   "trend": null
+  },
+  {
+   "id": "IBP_52",
+   "file": "img/IBP_52.b64",
+   "title": "Apple Pool \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145815/",
+     "thumb": "1137440449704145815",
+     "label": "pin \u2026145815"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145815",
+     "url": "https://www.pinterest.com/pin/1137440449704145815/"
+    }
+   ],
+   "trend": null
+  },
+  {
+   "id": "IBP_53",
+   "file": "img/IBP_53.b64",
+   "title": "Sleepy Pink Cloud \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145825/",
+     "thumb": "1137440449704145825",
+     "label": "pin \u2026145825"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145825",
+     "url": "https://www.pinterest.com/pin/1137440449704145825/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)"
+  },
+  {
+   "id": "IBP_55",
+   "file": "img/IBP_55.b64",
+   "title": "Cloud-Head Walker \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145802/",
+     "thumb": "1137440449704145802",
+     "label": "pin \u2026145802"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145802",
+     "url": "https://www.pinterest.com/pin/1137440449704145802/"
+    },
+    {
+     "label": "Trend: Cloud Dancer white (Pantone Color of the Year 2026)",
+     "url": "https://www.pantone.com/articles/press-releases/pantone-announces-color-of-the-year-2026-cloud-dancer"
+    }
+   ],
+   "trend": "Cloud Dancer white (Pantone Color of the Year 2026)"
+  },
+  {
+   "id": "IBP_56",
+   "file": "img/IBP_56.b64",
+   "title": "Balloon Chair \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145922/",
+     "thumb": "1137440449704145922",
+     "label": "pin \u2026145922"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145922",
+     "url": "https://www.pinterest.com/pin/1137440449704145922/"
+    },
+    {
+     "label": "Trend: Cloud Dancer white (Pantone Color of the Year 2026)",
+     "url": "https://www.pantone.com/articles/press-releases/pantone-announces-color-of-the-year-2026-cloud-dancer"
+    }
+   ],
+   "trend": "Cloud Dancer white (Pantone Color of the Year 2026)"
+  },
+  {
+   "id": "IBP_57",
+   "file": "img/IBP_57.b64",
+   "title": "Gate Above the Clouds \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145830/",
+     "thumb": "1137440449704145830",
+     "label": "pin \u2026145830"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145830",
+     "url": "https://www.pinterest.com/pin/1137440449704145830/"
+    }
+   ],
+   "trend": null
+  },
+  {
+   "id": "IBP_58",
+   "file": "img/IBP_58.b64",
+   "title": "TV Bouquet \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145827/",
+     "thumb": "1137440449704145827",
+     "label": "pin \u2026145827"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145827",
+     "url": "https://www.pinterest.com/pin/1137440449704145827/"
+    }
+   ],
+   "trend": null
+  },
+  {
+   "id": "IBP_59",
+   "file": "img/IBP_59.b64",
+   "title": "Bubble Helmet \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145808/",
+     "thumb": "1137440449704145808",
+     "label": "pin \u2026145808"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145808",
+     "url": "https://www.pinterest.com/pin/1137440449704145808/"
+    },
+    {
+     "label": "Trend: Glitchy Glam + Extra Celestial (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "trend": "Glitchy Glam + Extra Celestial (Pinterest Predicts 2026)"
+  },
+  {
+   "id": "IBP_60",
+   "file": "img/IBP_60.b64",
+   "title": "Mandarin Egg \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145919/",
+     "thumb": "1137440449704145919",
+     "label": "pin \u2026145919"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145919",
+     "url": "https://www.pinterest.com/pin/1137440449704145919/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)"
+  },
+  {
+   "id": "IBP_61",
+   "file": "img/IBP_61.b64",
+   "title": "Chrome Grasshopper \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145913/",
+     "thumb": "1137440449704145913",
+     "label": "pin \u2026145913"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145913",
+     "url": "https://www.pinterest.com/pin/1137440449704145913/"
+    }
+   ],
+   "trend": null
+  },
+  {
+   "id": "IBP_62",
+   "file": "img/IBP_62.b64",
+   "title": "Oil-Slick Pour \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145859/",
+     "thumb": "1137440449704145859",
+     "label": "pin \u2026145859"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145859",
+     "url": "https://www.pinterest.com/pin/1137440449704145859/"
+    },
+    {
+     "label": "Trend: Glitchy Glam + Extra Celestial (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "trend": "Glitchy Glam + Extra Celestial (Pinterest Predicts 2026)"
+  },
+  {
+   "id": "IBP_63",
+   "file": "img/IBP_63.b64",
+   "title": "Marble Eye \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145931/",
+     "thumb": "1137440449704145931",
+     "label": "pin \u2026145931"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145931",
+     "url": "https://www.pinterest.com/pin/1137440449704145931/"
+    },
+    {
+     "label": "Trend: Glitchy Glam + Extra Celestial (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "trend": "Glitchy Glam + Extra Celestial (Pinterest Predicts 2026)"
+  },
+  {
+   "id": "IBP_64",
+   "file": "img/IBP_64.b64",
+   "title": "Toy Ray Gun \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145908/",
+     "thumb": "1137440449704145908",
+     "label": "pin \u2026145908"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145908",
+     "url": "https://www.pinterest.com/pin/1137440449704145908/"
+    }
+   ],
+   "trend": null
+  },
+  {
+   "id": "IBP_65",
+   "file": "img/IBP_65.b64",
+   "title": "Aubergine Ribbon \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145945/",
+     "thumb": "1137440449704145945",
+     "label": "pin \u2026145945"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145945",
+     "url": "https://www.pinterest.com/pin/1137440449704145945/"
+    },
+    {
+     "label": "Trend: Liquid chrome / Acid Y2K revival",
+     "url": "https://www.omoro.io/styles/acid-y2k"
+    }
+   ],
+   "trend": "Liquid chrome / Acid Y2K revival"
+  },
+  {
+   "id": "IBP_66",
+   "file": "img/IBP_66.b64",
+   "title": "Think Louder \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145807/",
+     "thumb": "1137440449704145807",
+     "label": "pin \u2026145807"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145807",
+     "url": "https://www.pinterest.com/pin/1137440449704145807/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "trend": "Type collage / pick-and-mix lettering",
+   "line": "THINK LOUDER"
+  },
+  {
+   "id": "IBP_67",
+   "file": "img/IBP_67.b64",
+   "title": "Signal Over Noise \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145833/",
+     "thumb": "1137440449704145833",
+     "label": "pin \u2026145833"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145833",
+     "url": "https://www.pinterest.com/pin/1137440449704145833/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "trend": "Type collage / pick-and-mix lettering",
+   "line": "SIGNAL OVER NOISE"
+  },
+  {
+   "id": "IBP_68",
+   "file": "img/IBP_68.b64",
+   "title": "Turn It Up. Nobody Hears. \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145849/",
+     "thumb": "1137440449704145849",
+     "label": "pin \u2026145849"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145849",
+     "url": "https://www.pinterest.com/pin/1137440449704145849/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "trend": "Type collage / pick-and-mix lettering",
+   "line": "TURN IT UP. NOBODY HEARS."
+  },
+  {
+   "id": "IBP_69",
+   "file": "img/IBP_69.b64",
+   "title": "The Drop Is Private \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145855/",
+     "thumb": "1137440449704145855",
+     "label": "pin \u2026145855"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145855",
+     "url": "https://www.pinterest.com/pin/1137440449704145855/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "trend": "Type collage / pick-and-mix lettering",
+   "line": "THE DROP IS PRIVATE"
+  },
+  {
+   "id": "IBP_70",
+   "file": "img/IBP_70.b64",
+   "title": "I Believe in the Drop \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145861/",
+     "thumb": "1137440449704145861",
+     "label": "pin \u2026145861"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145861",
+     "url": "https://www.pinterest.com/pin/1137440449704145861/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "trend": "Type collage / pick-and-mix lettering",
+   "line": "I BELIEVE IN THE DROP"
+  },
+  {
+   "id": "IBP_71",
+   "file": "img/IBP_71.b64",
+   "title": "Eyes Closed. Ears Open. \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145899/",
+     "thumb": "1137440449704145899",
+     "label": "pin \u2026145899"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145899",
+     "url": "https://www.pinterest.com/pin/1137440449704145899/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "trend": "Type collage / pick-and-mix lettering",
+   "line": "EYES CLOSED. EARS OPEN."
+  },
+  {
+   "id": "IBP_72",
+   "file": "img/IBP_72.b64",
+   "title": "What Is This Feeling \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145917/",
+     "thumb": "1137440449704145917",
+     "label": "pin \u2026145917"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145917",
+     "url": "https://www.pinterest.com/pin/1137440449704145917/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "trend": "Type collage / pick-and-mix lettering",
+   "line": "WHAT IS THIS FEELING"
+  },
+  {
+   "id": "IBP_73",
+   "file": "img/IBP_73.b64",
+   "title": "Thirty Heads. One Signal. \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145929/",
+     "thumb": "1137440449704145929",
+     "label": "pin \u2026145929"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145929",
+     "url": "https://www.pinterest.com/pin/1137440449704145929/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "trend": "Type collage / pick-and-mix lettering",
+   "line": "THIRTY HEADS. ONE SIGNAL."
+  },
+  {
+   "id": "IBP_74",
+   "file": "img/IBP_74.b64",
+   "title": "Listen \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145931/",
+     "thumb": "1137440449704145931",
+     "label": "pin \u2026145931"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145931",
+     "url": "https://www.pinterest.com/pin/1137440449704145931/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "trend": "Type collage / pick-and-mix lettering",
+   "line": "LISTEN"
+  },
+  {
+   "id": "IBP_75",
+   "file": "img/IBP_75.b64",
+   "title": "Loud on the Inside \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145951/",
+     "thumb": "1137440449704145951",
+     "label": "pin \u2026145951"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145951",
+     "url": "https://www.pinterest.com/pin/1137440449704145951/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "trend": "Type collage / pick-and-mix lettering",
+   "line": "LOUD ON THE INSIDE"
+  },
+  {
+   "id": "IBP_76",
+   "file": "img/IBP_76.b64",
+   "title": "Para/Dise Is a Sound \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T01:55:40Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145955/",
+     "thumb": "1137440449704145955",
+     "label": "pin \u2026145955"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145955",
+     "url": "https://www.pinterest.com/pin/1137440449704145955/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "trend": "Type collage / pick-and-mix lettering",
+   "line": "PARA/DISE IS A SOUND"
   }
  ],
  "updates": [
