@@ -1,7 +1,7 @@
 {
- "total": 154,
- "done": 154,
- "updated": "2026-10-13T06:16:22Z",
+ "total": 163,
+ "done": 163,
+ "updated": "2026-10-13T07:06:22Z",
  "items": [
   {
    "id": "mono_lith_01",
@@ -5540,6 +5540,320 @@
    "trend": "Type collage / pick-and-mix lettering",
    "line": "PARA/DISE IS A SOUND",
    "vote": "yay"
+  },
+  {
+   "id": "IBP_77",
+   "file": "img/IBP_77.b64",
+   "title": "Come Hear Nothing \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T07:06:22Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704129938/",
+     "thumb": "1137440449704129938",
+     "label": "pin \u2026129938"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026129938",
+     "url": "https://www.pinterest.com/pin/1137440449704129938/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "trend": "Type collage / pick-and-mix lettering",
+   "line": "COME HEAR NOTHING."
+  },
+  {
+   "id": "IBP_78",
+   "file": "img/IBP_78.b64",
+   "title": "Volume Lives Here \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T07:06:22Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704129896/",
+     "thumb": "1137440449704129896",
+     "label": "pin \u2026129896"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026129896",
+     "url": "https://www.pinterest.com/pin/1137440449704129896/"
+    },
+    {
+     "label": "Trend: Analog / human-made texture (grain, letterpress, photocopy)",
+     "url": "https://www.adobe.com/express/learn/blog/design-trends-2026"
+    }
+   ],
+   "trend": "Analog / human-made texture (grain, letterpress, photocopy)",
+   "line": "VOLUME LIVES HERE."
+  },
+  {
+   "id": "IBP_79",
+   "file": "img/IBP_79.b64",
+   "title": "Borrow the Night \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T07:06:22Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145804/",
+     "thumb": "1137440449704145804",
+     "label": "pin \u2026145804"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145804",
+     "url": "https://www.pinterest.com/pin/1137440449704145804/"
+    },
+    {
+     "label": "Trend: Liquid chrome / Acid Y2K revival",
+     "url": "https://www.omoro.io/styles/acid-y2k"
+    }
+   ],
+   "trend": "Liquid chrome / Acid Y2K revival",
+   "line": "BORROW THE NIGHT."
+  },
+  {
+   "id": "IBP_80",
+   "file": "img/IBP_80.b64",
+   "title": "Quiet Room. Loud Heart. \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T07:06:22Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704125710/",
+     "thumb": "1137440449704125710",
+     "label": "pin \u2026125710"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026125710",
+     "url": "https://www.pinterest.com/pin/1137440449704125710/"
+    },
+    {
+     "label": "Trend: Future Medieval / cyber-gothic blackletter",
+     "url": "https://www.kittl.com/blogs/future-medieval-design-stl/"
+    }
+   ],
+   "trend": "Future Medieval / cyber-gothic blackletter",
+   "line": "QUIET ROOM. LOUD HEART."
+  },
+  {
+   "id": "IBP_81",
+   "file": "img/IBP_81.b64",
+   "title": "Put Them On \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T07:06:22Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704124242/",
+     "thumb": "1137440449704124242",
+     "label": "pin \u2026124242"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026124242",
+     "url": "https://www.pinterest.com/pin/1137440449704124242/"
+    },
+    {
+     "label": "Trend: Liquid chrome / Acid Y2K revival",
+     "url": "https://www.omoro.io/styles/acid-y2k"
+    }
+   ],
+   "trend": "Liquid chrome / Acid Y2K revival",
+   "line": "PUT THEM ON."
+  },
+  {
+   "id": "IBP_82",
+   "file": "img/IBP_82.b64",
+   "title": "Take a Seat in the Signal \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T07:06:22Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145833/",
+     "thumb": "1137440449704145833",
+     "label": "pin \u2026145833"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145833",
+     "url": "https://www.pinterest.com/pin/1137440449704145833/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "trend": "Type collage / pick-and-mix lettering",
+   "line": "TAKE A SEAT IN THE SIGNAL."
+  },
+  {
+   "id": "IBP_83",
+   "file": "img/IBP_83.b64",
+   "title": "The Room Stays Quiet. You Don't. \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T07:06:22Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145917/",
+     "thumb": "1137440449704145917",
+     "label": "pin \u2026145917"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145917",
+     "url": "https://www.pinterest.com/pin/1137440449704145917/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "trend": "Type collage / pick-and-mix lettering",
+   "line": "THE ROOM STAYS QUIET. YOU DON'T."
+  },
+  {
+   "id": "IBP_84",
+   "file": "img/IBP_84.b64",
+   "title": "Step Inside the Quiet \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T07:06:22Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145929/",
+     "thumb": "1137440449704145929",
+     "label": "pin \u2026145929"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145929",
+     "url": "https://www.pinterest.com/pin/1137440449704145929/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "trend": "Type collage / pick-and-mix lettering",
+   "line": "STEP INSIDE THE QUIET."
+  },
+  {
+   "id": "IBP_85",
+   "file": "img/IBP_85.b64",
+   "title": "Saffron Turing Drop \u00b7 Inspired by Pinterest \u00b7 single pin",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T07:06:22Z",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704133621/",
+     "thumb": "1137440449704133621",
+     "label": "pin \u2026133621"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026133621",
+     "url": "https://www.pinterest.com/pin/1137440449704133621/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)"
   }
  ],
  "updates": [
@@ -6605,6 +6919,177 @@
     }
    ],
    "vote": "yay"
+  },
+  {
+   "id": "IBP_10_B2",
+   "of": "IBP_10_B1",
+   "version": "B2",
+   "file": "img/IBP_10_B2.b64",
+   "before_file": "IBP_10_B1",
+   "title": "IBP_10_B1 \u2192 B2 \u00b7 Black Swan on Pink \u00b7 gold",
+   "note": "Build-on B2 (one change): the swan is now polished gold, per Spirit's note 'have it be gold'. Pink set, pose and plain HALO RAVES wordmark unchanged.",
+   "updated": "2026-10-13T07:06:22Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026124269",
+     "url": "https://www.pinterest.com/pin/1137440449704124269/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704124269/",
+     "thumb": "1137440449704124269",
+     "label": "pin \u2026124269"
+    }
+   ]
+  },
+  {
+   "id": "IBP_12_B2",
+   "of": "IBP_12_B1",
+   "version": "B2",
+   "file": "img/IBP_12_B2.b64",
+   "before_file": "IBP_12_B1",
+   "title": "IBP_12_B1 \u2192 B2 \u00b7 Chrome Heart \u00b7 yellow HALO",
+   "note": "Build-on B2 (one change): yellow HALO palette, per Spirit's note 'maybe HALO is in a yellow color palette'. HALO letters retypeset in acid yellow and the chrome heart picks up a warm lemon reflection; layout and holo stickers unchanged.",
+   "updated": "2026-10-13T07:06:22Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026124307",
+     "url": "https://www.pinterest.com/pin/1137440449704124307/"
+    },
+    {
+     "label": "Trend: Multi-dimensional depth: one strong 3D element + 2D type",
+     "url": "https://www.youtube.com/watch?v=yHs9-RVTwsA"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704124307/",
+     "thumb": "1137440449704124307",
+     "label": "pin \u2026124307"
+    }
+   ]
+  },
+  {
+   "id": "IBP_25_B2",
+   "of": "IBP_25_B1",
+   "version": "B2",
+   "file": "img/IBP_25_B2.b64",
+   "before_file": "IBP_25_B1",
+   "title": "IBP_25_B1 \u2192 B2 \u00b7 Vacuum Heart \u00b7 POWER UP",
+   "note": "Build-on B2 (one change): pixel-game labels added, per Spirit's note. 'POWER UP' and 'EXTRA LIFE' are printed on the shrink film in a pixel font, and a red wax seal embossed with the HALO emblem sits on the corner. The heart is unchanged.",
+   "updated": "2026-10-13T07:06:22Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026341541",
+     "url": "https://www.pinterest.com/pin/1137440449702341541/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702341541/",
+     "thumb": "1137440449702341541",
+     "label": "pin \u2026341541"
+    }
+   ]
+  },
+  {
+   "id": "IBP_41_B2",
+   "of": "IBP_41_B1",
+   "version": "B2",
+   "file": "img/IBP_41_B2.b64",
+   "before_file": "IBP_41_B1",
+   "title": "IBP_41_B1 \u2192 B2 \u00b7 RAVE Drip \u00b7 HALO RAVES logo",
+   "note": "Build-on B2 (one change): the plain HALO RAVES wordmark is added under the drip lettering, per Spirit's note. Nothing else changed.",
+   "updated": "2026-10-13T07:06:22Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026129933",
+     "url": "https://www.pinterest.com/pin/1137440449704129933/"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704129933/",
+     "thumb": "1137440449704129933",
+     "label": "pin \u2026129933"
+    }
+   ]
+  },
+  {
+   "id": "IBP_66_R1",
+   "of": "IBP_66",
+   "version": "R1",
+   "file": "img/IBP_66_R1.b64",
+   "before_file": "IBP_66",
+   "title": "IBP_66 \u2192 R1 \u00b7 Think Louder \u00b7 URL placement",
+   "note": "Rework R1 (text-only, typeset in code): haloraves.com moved off the art to a clean centred strip at the bottom of the left column, per Spirit's note. The art and line THINK LOUDER are unchanged.",
+   "updated": "2026-10-13T07:06:22Z",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026145807",
+     "url": "https://www.pinterest.com/pin/1137440449704145807/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145807/",
+     "thumb": "1137440449704145807",
+     "label": "pin \u2026145807"
+    }
+   ]
   }
  ],
  "kinds": {
