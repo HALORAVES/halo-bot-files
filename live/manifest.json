@@ -1,7 +1,7 @@
 {
  "total": 12,
  "done": 0,
- "updated": "2026-10-13T22:43:43Z",
+ "updated": "2026-10-13T23:00:24Z",
  "items": [
   {
    "id": "IBP_88",
@@ -688,6 +688,10 @@
     {
      "label": "Source poster IBP_78_B1",
      "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/IBP_78_B1.b64"
+    },
+    {
+     "label": "Final files",
+     "url": "https://github.com/HALORAVES/halo-bot-files/tree/master/live/finals/G_IBP_78_B1"
     }
    ],
    "full": {
@@ -695,7 +699,7 @@
     "name": "HALO_G_IBP_78_B1_back_print_300dpi.png",
     "type": "image/png"
    },
-   "updated": "2026-10-13T22:43:43Z",
+   "updated": "2026-10-13T23:00:24Z",
    "tags": [
     "F7",
     "-",
@@ -711,9 +715,30 @@
    "archive_reason": "voted",
    "archived": "2026-10-13T22:43:43Z",
    "finals": {
-    "status": "in_progress",
-    "note": "Keep -> finals started 4:34 PM MT: 4x Real-ESRGAN of the cross art running on the box; DTF back print to be rebuilt at the 4200x4500 full-back area with font type, plus a left-chest front (4x4 in, 1200x1200) per Spirit note #85. Next firing finishes it."
-   }
+    "status": "done (v1), upgrade in progress",
+    "effective_dpi": 300,
+    "made": "2026-10-13T23:00:24Z",
+    "box_dir": "/workspace/halo-output/finals/G_IBP_78_B1",
+    "files": [
+     "G_IBP_78_B1_back_DTF_full-back_14x15in_300dpi.png",
+     "G_IBP_78_B1_front_DTF_left-chest_4x4in_300dpi.png"
+    ],
+    "note": "Back: transparent DTF PNG 4200x4500 (Tapstitch full-back 14x15 in), hard alpha; the design is 7.1 x 10.4 in at true 300 dpi from one 4x Real-ESRGAN pass, halo ring and all type rebuilt at full size. Front: 4x4 in left-chest cross + halo for the heart spot you circled (#85). A chained second 4x pass is queued so the back can fill the full 15 in height; it rebuilds automatically."
+   },
+   "prints": [
+    {
+     "label": "FINAL DTF back PNG 14x15 in area, 300 dpi",
+     "pdf": "finals/G_IBP_78_B1/G_IBP_78_B1_back_DTF_full-back_14x15in_300dpi.png.b64",
+     "name": "HALO_G_IBP_78_B1_FINAL_back_DTF_300dpi.png",
+     "final": true
+    },
+    {
+     "label": "FINAL DTF left-chest PNG 4x4 in, 300 dpi",
+     "pdf": "finals/G_IBP_78_B1/G_IBP_78_B1_front_DTF_left-chest_4x4in_300dpi.png.b64",
+     "name": "HALO_G_IBP_78_B1_FINAL_front_left-chest_DTF_300dpi.png",
+     "final": true
+    }
+   ]
   },
   {
    "id": "T_SMALLLIFE_05",
@@ -12920,6 +12945,10 @@
   {
    "date": "2026-10-13T22:43:43Z",
    "text": "Keep -> finals (4:31 PM MT run): IBP_79 Borrow the Night, IBP_80 Quiet Room / Loud Heart, IBP_81 Put Them On, IBP_82 Take a Seat in the Signal now have FINAL print PDFs (Letter + 11x17 landscape, 0.125 in bleed, true 300 dpi vector re-render) - download buttons and a Final files link on each archived card. G_IBP_78_B1 keep (#84) and front-heart note (#85) moved to Archive; its finals plus IBP_41_B2, IBP_66_R1, IBP_85, IBP_78_B1, IBP_12_B2 are upscaling in the background."
+  },
+  {
+   "date": "2026-10-13T23:00:24Z",
+   "text": "Keep -> finals: G_IBP_78_B1 Volume / Faith hoodie - FINAL DTF back PNG (4200x4500, 300 dpi, design 7.1x10.4 in) and a new left-chest front PNG (4x4 in) for the heart spot in Spirit's note #85; download buttons + Final files link on the archived card. A second upscale pass is queued to grow the back to full height."
   }
  ]
 }
