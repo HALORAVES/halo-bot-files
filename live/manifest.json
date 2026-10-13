@@ -4391,7 +4391,7 @@
    "theme": "CHIEF OF STAFF REQUESTS",
    "rooms": [],
    "note": "",
-   "requested_by": "HALO Chief of Staff",
+   "requested_by": "Chief of Staff",
    "rules": "No price, date, coin or health claim; shown in place; one idea; works in B/W; plain HALO RAVES wordmark.",
    "status_label": "Awaiting Spirit's approval",
    "date": "2026-10-13",
@@ -4416,7 +4416,9 @@
     "type": "image/png"
    },
    "status": "review",
-   "updated": "2026-10-12T22:59:36Z"
+   "updated": "2026-10-12T22:59:36Z",
+   "client": "Rise Yoga & Wellness, Golden (prospect, not yet booked)",
+   "for": "The one image attached to the draft outreach email \"One listening hour at Rise\" to rise@riseyogacolorado.com, pitching a one-hour listening session after class. Shown on a phone. Email not sent; it needs Spirit's yes."
   },
   {
    "kind": "request",
@@ -4425,7 +4427,7 @@
    "theme": "CHIEF OF STAFF REQUESTS",
    "rooms": [],
    "note": "",
-   "requested_by": "HALO Chief of Staff",
+   "requested_by": "Chief of Staff",
    "rules": "No price, date, coin or health claim; shown in place; one idea; works in B/W; plain HALO RAVES wordmark.",
    "status_label": "Awaiting Spirit's approval",
    "date": "2026-10-13",
@@ -4450,7 +4452,9 @@
     "type": "image/png"
    },
    "status": "review",
-   "updated": "2026-10-12T22:59:36Z"
+   "updated": "2026-10-12T22:59:36Z",
+   "client": "None. HALO, internal campaign",
+   "for": "HALO campaign still for the line \"Thirty people. The park stays quiet.\", used in general outreach on a wall or phone. No named venue or recipient in the request."
   },
   {
    "id": "IBP_43",
@@ -6534,7 +6538,7 @@
   },
   "request": {
    "room": "CHIEF OF STAFF REQUESTS",
-   "fields": "request, project, use, rules, status_label, version, v1_id (v2+), date, full{path,name,type}",
+   "fields": "requested_by, client, for (all required), request, project, use, rules, status_label, version, v1_id (v2+), date, full{path,name,type}",
    "howto": "/workspace/halo-output/kb/request_board.md"
   }
  },
@@ -8040,7 +8044,7 @@
    "theme": "CHIEF OF STAFF REQUESTS",
    "rooms": [],
    "note": "",
-   "requested_by": "HALO Chief of Staff",
+   "requested_by": "Chief of Staff",
    "rules": "No price, date, coin or health claim; shown in place; one idea; works in B/W; plain HALO RAVES wordmark.",
    "status_label": "Awaiting Spirit's approval",
    "date": "2026-10-13",
@@ -8067,7 +8071,9 @@
    "prev_status": "review",
    "archive_reason": "superseded",
    "archived": "2026-10-13",
-   "archive_of": "REQ_PARK_B_v2"
+   "archive_of": "REQ_PARK_B_v2",
+   "client": "None. HALO, internal campaign",
+   "for": "HALO campaign still for the line \"Thirty people. The park stays quiet.\", used in general outreach on a wall or phone. No named venue or recipient in the request."
   },
   {
    "kind": "request",
@@ -8075,7 +8081,7 @@
    "theme": "CHIEF OF STAFF REQUESTS",
    "rooms": [],
    "note": "",
-   "requested_by": "HALO Chief of Staff",
+   "requested_by": "Chief of Staff",
    "rules": "No price, date, coin or health claim; shown in place; one idea; works in B/W; plain HALO RAVES wordmark.",
    "status_label": "Awaiting Spirit's approval",
    "date": "2026-10-13",
@@ -8102,7 +8108,9 @@
    "prev_status": "review",
    "archive_reason": "superseded",
    "archived": "2026-10-13",
-   "archive_of": "REQ_RISEYOGA_A_v2"
+   "archive_of": "REQ_RISEYOGA_A_v2",
+   "client": "Rise Yoga & Wellness, Golden (prospect, not yet booked)",
+   "for": "The one image attached to the draft outreach email \"One listening hour at Rise\" to rise@riseyogacolorado.com, pitching a one-hour listening session after class. Shown on a phone. Email not sent; it needs Spirit's yes."
   }
  ]
 }
