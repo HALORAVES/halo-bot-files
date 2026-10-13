@@ -1,7 +1,7 @@
 {
- "total": 1,
+ "total": 12,
  "done": 0,
- "updated": "2026-10-13T17:22:57Z",
+ "updated": "2026-10-13T21:52:55Z",
  "items": [
   {
    "id": "IBP_88",
@@ -38,6 +38,650 @@
     "none",
     "wall_3x4"
    ]
+  },
+  {
+   "id": "B3_01_B1",
+   "file": "img/B3_01_B1.b64",
+   "title": "Monolith Party Hat · GLOW · 8.5 popsicle",
+   "theme": "Board Designs",
+   "section": "Board Designs",
+   "kind": "board",
+   "kindLabel": "BOARD · GLOW",
+   "status": "review",
+   "rooms": [
+    "BOARD DESIGNS"
+   ],
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704210428/",
+     "thumb": "1137440449704210428",
+     "label": "pin …210428"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin …210428",
+     "url": "https://www.pinterest.com/pin/1137440449704210428/"
+    },
+    {
+     "label": "Article idea · A12 pointillism/stipple monument",
+     "url": "https://www.artistichaven.com/skateboard-design-ideas/"
+    },
+    {
+     "label": "Source keeper mono_lith_01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/mono_lith_01.b64"
+    },
+    {
+     "label": "Source keeper PROMO_mono_lith_01_get-your-halo",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/PROMO_mono_lith_01_get-your-halo.b64"
+    }
+   ],
+   "source_keepers": [
+    "mono_lith_01",
+    "PROMO_mono_lith_01_get-your-halo"
+   ],
+   "finish": "glow",
+   "shape": "8.5 popsicle",
+   "board_ref": {
+    "shape": "8.5in popsicle",
+    "template": "popsicle-9",
+    "template_url": "https://www.boardpusher.com/decktemplates/BoardPusher-Template-9-Inch-Popsicle.png",
+    "thumb": "bp_popsicle-9",
+    "designer": "https://www.boardpusher.com/custom-skateboards/shapes"
+   },
+   "blend": {
+    "pin": "1137440449704210428",
+    "pin_url": "https://www.pinterest.com/pin/1137440449704210428/",
+    "pin_trait": "pure black/white parallel stripes warped into a bulge at the deck centre",
+    "article_idea": "A12 pointillism/stipple monument",
+    "article_source": "https://www.artistichaven.com/skateboard-design-ideas/",
+    "keeper": "keeper mono_lith_01 + PROMO 'Get Your HALO' / F1 MONO/LITH"
+   },
+   "humor": "Even a mountain gets a halo for the afterparty.",
+   "halo_form": "dripping",
+   "note": "“Even a mountain gets a halo for the afterparty.” Grip = before: the bare monolith lying on calm straight op-art stripes, a striped hat-box at its foot with a hint of acid-yellow chrome inside. Flip = after: the monolith wears the dripping acid-yellow chrome halo like a too-small party hat and the stripes bulge around it. Glow window on the halo highlights, so the hat lights up at night. Card = deck daylight / night glow sim / grip. 300 dpi print PNGs on the box: /workspace/halo-output/catalog/build/B3_01_B1/B3_01_B1_deck_print.png and _grip_print.png (art upscaled from a 1280px render, about 45 dpi effective; hi-res re-render before any order).",
+   "prints_box": [
+    "/workspace/halo-output/catalog/build/B3_01_B1/B3_01_B1_deck_print.png",
+    "/workspace/halo-output/catalog/build/B3_01_B1/B3_01_B1_grip_print.png"
+   ],
+   "updated": "2026-10-13T21:50:52Z",
+   "tags": [
+    "F1",
+    "-",
+    "deck",
+    "glow",
+    "deck_grip_reveal"
+   ],
+   "of": "B3_01",
+   "builds_on": "B3_01",
+   "catalog": "catalog_v1"
+  },
+  {
+   "id": "B3_03_B1",
+   "file": "img/B3_03_B1.b64",
+   "title": "Toasted Enlightenment · GLOW · 8.5 popsicle",
+   "theme": "Board Designs",
+   "section": "Board Designs",
+   "kind": "board",
+   "kindLabel": "BOARD · GLOW",
+   "status": "review",
+   "rooms": [
+    "BOARD DESIGNS"
+   ],
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704210551/",
+     "thumb": "1137440449704210551",
+     "label": "pin …210551"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin …210551",
+     "url": "https://www.pinterest.com/pin/1137440449704210551/"
+    },
+    {
+     "label": "Article idea · A4 surrealist dreamscape",
+     "url": "https://www.artistichaven.com/skateboard-design-ideas/"
+    },
+    {
+     "label": "Source keeper T_HEADOPEN_04",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/T_HEADOPEN_04.b64"
+    }
+   ],
+   "source_keepers": [
+    "T_HEADOPEN_04"
+   ],
+   "finish": "glow",
+   "shape": "8.5 popsicle",
+   "board_ref": {
+    "shape": "8.5in popsicle",
+    "template": "popsicle-9",
+    "template_url": "https://www.boardpusher.com/decktemplates/BoardPusher-Template-9-Inch-Popsicle.png",
+    "thumb": "bp_popsicle-9",
+    "designer": "https://www.boardpusher.com/custom-skateboards/shapes"
+   },
+   "blend": {
+    "pin": "1137440449704210551",
+    "pin_url": "https://www.pinterest.com/pin/1137440449704210551/",
+    "pin_trait": "electric-blue marble statue against flat hot pink, hard studio light",
+    "article_idea": "A4 surrealist dreamscape",
+    "article_source": "https://www.artistichaven.com/skateboard-design-ideas/",
+    "keeper": "keeper T_HEADOPEN_04 / F HEAD/OPEN"
+   },
+   "humor": "Enlightenment, lightly toasted.",
+   "halo_form": "variant: toast-ring",
+   "note": "“Enlightenment, lightly toasted.” Grip = before: the blue marble head lies asleep on hot pink, a chrome toaster lever pushed down, a gold seam glinting. Flip = after: the lid springs open and a clean acid-yellow chrome halo pops up like toast, steaming. Glow window on the halo highlights. Card = deck daylight / night glow sim / grip. 300 dpi print PNGs on the box: /workspace/halo-output/catalog/build/B3_03_B1/B3_03_B1_deck_print.png and _grip_print.png (art upscaled from a 1280px render, about 45 dpi effective; hi-res re-render before any order).",
+   "prints_box": [
+    "/workspace/halo-output/catalog/build/B3_03_B1/B3_03_B1_deck_print.png",
+    "/workspace/halo-output/catalog/build/B3_03_B1/B3_03_B1_grip_print.png"
+   ],
+   "updated": "2026-10-13T21:50:52Z",
+   "tags": [
+    "F2",
+    "-",
+    "deck",
+    "glow",
+    "deck_grip_reveal"
+   ],
+   "of": "B3_03",
+   "builds_on": "B3_03",
+   "catalog": "catalog_v1"
+  },
+  {
+   "id": "B3_09_B1",
+   "file": "img/B3_09_B1.b64",
+   "title": "Signal Snack · GLOW · 8.5 popsicle",
+   "theme": "Board Designs",
+   "section": "Board Designs",
+   "kind": "board",
+   "kindLabel": "BOARD · GLOW",
+   "status": "review",
+   "rooms": [
+    "BOARD DESIGNS"
+   ],
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704210406/",
+     "thumb": "1137440449704210406",
+     "label": "pin …210406"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin …210406",
+     "url": "https://www.pinterest.com/pin/1137440449704210406/"
+    },
+    {
+     "label": "Article idea · A5 cyberpunk glitch (pixel sort, scanlines)",
+     "url": "https://www.artistichaven.com/skateboard-design-ideas/"
+    },
+    {
+     "label": "Source keeper P_SIGNALNOISE_V2",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/P_SIGNALNOISE_V2.b64"
+    }
+   ],
+   "source_keepers": [
+    "P_SIGNALNOISE_V2"
+   ],
+   "finish": "glow",
+   "shape": "8.5 popsicle",
+   "board_ref": {
+    "shape": "8.5in popsicle",
+    "template": "popsicle-9",
+    "template_url": "https://www.boardpusher.com/decktemplates/BoardPusher-Template-9-Inch-Popsicle.png",
+    "thumb": "bp_popsicle-9",
+    "designer": "https://www.boardpusher.com/custom-skateboards/shapes"
+   },
+   "blend": {
+    "pin": "1137440449704210406",
+    "pin_url": "https://www.pinterest.com/pin/1137440449704210406/",
+    "pin_trait": "horizontal glitch stripe bands, RGB-split colour bars on black",
+    "article_idea": "A5 cyberpunk glitch (pixel sort, scanlines)",
+    "article_source": "https://www.artistichaven.com/skateboard-design-ideas/",
+    "keeper": "keeper P_SIGNALNOISE_V2 / F SIGNAL/NOISE"
+   },
+   "humor": "Signal received. Snack too.",
+   "halo_form": "clean chrome",
+   "note": "“Signal received. Snack too.” Grip = before: static and an empty horizon, one pigeon waiting, a tiny yellow dot far off. Flip = after: a radio tower sends three clean acid-yellow chrome halo rings up into the dark; the top one has glitched into a pixel donut and the pigeon is eating it. Glow window on the ring highlights, so the rings wake at night. Card = deck daylight / night glow sim / grip. 300 dpi print PNGs on the box: /workspace/halo-output/catalog/build/B3_09_B1/B3_09_B1_deck_print.png and _grip_print.png (art upscaled from a 1280px render, about 45 dpi effective; hi-res re-render before any order).",
+   "prints_box": [
+    "/workspace/halo-output/catalog/build/B3_09_B1/B3_09_B1_deck_print.png",
+    "/workspace/halo-output/catalog/build/B3_09_B1/B3_09_B1_grip_print.png"
+   ],
+   "updated": "2026-10-13T21:50:52Z",
+   "tags": [
+    "F6",
+    "-",
+    "deck",
+    "glow",
+    "deck_grip_reveal"
+   ],
+   "of": "B3_09",
+   "builds_on": "B3_09",
+   "catalog": "catalog_v1"
+  },
+  {
+   "id": "B3_11",
+   "file": "img/B3_11.b64",
+   "title": "Breakfast of the Enlightened · HOLO · 8.25 popsicle",
+   "theme": "Board Designs",
+   "section": "Board Designs",
+   "kind": "board",
+   "kindLabel": "BOARD · HOLO",
+   "status": "review",
+   "rooms": [
+    "BOARD DESIGNS"
+   ],
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704210419/",
+     "thumb": "1137440449704210419",
+     "label": "pin …210419"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704125730/",
+     "thumb": "1137440449704125730",
+     "label": "pin …125730"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin …210419",
+     "url": "https://www.pinterest.com/pin/1137440449704210419/"
+    },
+    {
+     "label": "Pinterest pin …125730",
+     "url": "https://www.pinterest.com/pin/1137440449704125730/"
+    },
+    {
+     "label": "Article idea · A11 drip / luxury drip on white",
+     "url": "https://www.artistichaven.com/skateboard-design-ideas/"
+    },
+    {
+     "label": "Source keeper IBP_99",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/IBP_99.b64"
+    }
+   ],
+   "source_keepers": [
+    "IBP_99"
+   ],
+   "finish": "holo",
+   "shape": "8.25 popsicle",
+   "board_ref": {
+    "shape": "8.25in popsicle",
+    "template": "popsicle-8",
+    "template_url": "https://www.boardpusher.com/decktemplates/BoardPusher-Template-825-Popsicle.png",
+    "thumb": "bp_popsicle-8",
+    "designer": "https://www.boardpusher.com/custom-skateboards/shapes"
+   },
+   "blend": {
+    "pin": "1137440449704210419",
+    "pin_url": "https://www.pinterest.com/pin/1137440449704210419/",
+    "pin_trait": "white deck, single luxury mark top third, glossy black drip falling down the length",
+    "article_idea": "A11 drip / luxury drip on white",
+    "article_source": "https://www.artistichaven.com/skateboard-design-ideas/",
+    "keeper": "IBP_99"
+   },
+   "humor": "Breakfast of the enlightened.",
+   "halo_form": "dripping",
+   "note": "“Breakfast of the enlightened.” Grip = before: a whole egg sitting in the acid-yellow chrome halo like an egg cup, on cream. Flip = after: the egg has cracked into the halo like a frying pan, the yolk is a glossy little skull, and one luxury drip runs down the white deck. Holo window on the chrome highlights. Card = deck daylight / holo sim / grip. 300 dpi print PNGs on the box: /workspace/halo-output/catalog/build/B3_11/B3_11_deck_print.png and _grip_print.png (art upscaled from a 1280px render, about 45 dpi effective; hi-res re-render before any order).",
+   "prints_box": [
+    "/workspace/halo-output/catalog/build/B3_11/B3_11_deck_print.png",
+    "/workspace/halo-output/catalog/build/B3_11/B3_11_grip_print.png"
+   ],
+   "updated": "2026-10-13T21:50:52Z",
+   "tags": [
+    "F10",
+    "-",
+    "deck",
+    "holo",
+    "deck_grip_reveal"
+   ],
+   "of": "IBP_99",
+   "builds_on": "IBP_99",
+   "catalog": "catalog_v1",
+   "spirit_note": "make it a skateboard (#80)"
+  },
+  {
+   "id": "IBP_90_B1",
+   "file": "img/IBP_90_B1.b64",
+   "title": "Stone Ring of Clouds · Inspired by Pinterest · single pin · B1",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "Build-on of IBP_90: same composition re-rendered sharper with richer light, one small acid-yellow ring accent, plain HALO RAVES wordmark + haloraves.com typeset in a clean corner. 300 dpi 8.5x11.3 in PNG on the box: /workspace/halo-output/catalog/full/IBP_90_B1.png",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T21:50:52Z",
+   "kind": "general",
+   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704136126/",
+     "thumb": "1137440449704136126",
+     "label": "pin …136126"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin …136126",
+     "url": "https://www.pinterest.com/pin/1137440449704136126/"
+    },
+    {
+     "label": "Built on IBP_90",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/IBP_90.b64"
+    }
+   ],
+   "of": "IBP_90",
+   "builds_on": "IBP_90",
+   "tags": [
+    "F11",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ],
+   "catalog": "catalog_v1"
+  },
+  {
+   "id": "IBP_91_B1",
+   "file": "img/IBP_91_B1.b64",
+   "title": "Edge of the Sea · Inspired by Pinterest · single pin · B1",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "Build-on of IBP_91: same composition re-rendered sharper with richer light, one small acid-yellow ring accent, plain HALO RAVES wordmark + haloraves.com typeset in a clean corner. 300 dpi 8.5x11.3 in PNG on the box: /workspace/halo-output/catalog/full/IBP_91_B1.png",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T21:50:52Z",
+   "kind": "general",
+   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704136135/",
+     "thumb": "1137440449704136135",
+     "label": "pin …136135"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin …136135",
+     "url": "https://www.pinterest.com/pin/1137440449704136135/"
+    },
+    {
+     "label": "Built on IBP_91",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/IBP_91.b64"
+    }
+   ],
+   "of": "IBP_91",
+   "builds_on": "IBP_91",
+   "tags": [
+    "F11",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ],
+   "catalog": "catalog_v1"
+  },
+  {
+   "id": "IBP_92_B1",
+   "file": "img/IBP_92_B1.b64",
+   "title": "Cube Island · Inspired by Pinterest · single pin · B1",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "Inspired by Pinterest",
+   "single_pin": true,
+   "note": "Build-on of IBP_92: same composition re-rendered sharper with richer light, one small acid-yellow ring accent, plain HALO RAVES wordmark + haloraves.com typeset in a clean corner. 300 dpi 8.5x11.3 in PNG on the box: /workspace/halo-output/catalog/full/IBP_92_B1.png",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "updated": "2026-10-13T21:50:52Z",
+   "kind": "general",
+   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704136055/",
+     "thumb": "1137440449704136055",
+     "label": "pin …136055"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin …136055",
+     "url": "https://www.pinterest.com/pin/1137440449704136055/"
+    },
+    {
+     "label": "Built on IBP_92",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/IBP_92.b64"
+    }
+   ],
+   "of": "IBP_92",
+   "builds_on": "IBP_92",
+   "tags": [
+    "F11",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ],
+   "catalog": "catalog_v1"
+  },
+  {
+   "kind": "request",
+   "kindLabel": "REQUEST · Chief of Staff",
+   "section": "Chief of Staff Requests",
+   "theme": "CHIEF OF STAFF REQUESTS",
+   "rooms": [],
+   "note": "Built on v3 with Spirit's note: neobrutal frame (thick black borders, flat acid-yellow and lilac blocks, hard offset shadows), on-brand colour, follows the ref pin's grainy B/W forest yogi with the golden-ratio overlay, no headphones anywhere. Type: RISE YOGA × HALO RAVES, ONE LISTENING HOUR., plain HALO RAVES wordmark + haloraves.com. No date, price or health claim.",
+   "requested_by": "Chief of Staff",
+   "rules": "No price, date, coin or health claim; shown in place; one idea; works in B/W; plain HALO RAVES wordmark.",
+   "status_label": "Awaiting Spirit's approval",
+   "date": "2026-10-13",
+   "request": "Still A for an email to Rise Yoga & Wellness, Golden: a listening hour in a yoga studio after class, mats down, thirty headphones, no speaker, shown on a phone.",
+   "project": "Email to Rise Yoga & Wellness, Golden",
+   "use": "Image in the outreach email to Rise Yoga & Wellness (Golden), shown on a phone",
+   "id": "REQ_RISEYOGA_A_v4",
+   "version": "v4",
+   "title": "Rise Yoga · Still A v4 · neobrutal",
+   "refs": [
+    {
+     "label": "haloraves.com",
+     "url": "https://www.haloraves.com"
+    },
+    {
+     "label": "Pinterest pin …441924",
+     "url": "https://www.pinterest.com/pin/25121710419441924/"
+    }
+   ],
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/25121710419441924/",
+     "thumb": "25121710419441924",
+     "label": "pin …441924 (ref)"
+    }
+   ],
+   "v1_id": "REQ_RISEYOGA_A_v1",
+   "of": "REQ_RISEYOGA_A_v3",
+   "file": "img/REQ_RISEYOGA_A_v4.b64",
+   "full": {
+    "path": "full/REQ_RISEYOGA_A_v4.jpg.b64",
+    "name": "HALO_still_A_rise-yoga_v4_2026-10-13.jpg",
+    "type": "image/jpeg"
+   },
+   "status": "review",
+   "updated": "2026-10-13T21:50:52Z",
+   "client": "Rise Yoga & Wellness, Golden (prospect, not yet booked)",
+   "spirit_note": "more neobrutal, on-brand color, follow ref https://pin.it/7zelcwlbT, no headphones in photo (#82)",
+   "tags": [
+    "F7",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ],
+   "catalog": "catalog_v1",
+   "for": "The one image attached to the draft outreach email \"One listening hour at Rise\" to rise@riseyogacolorado.com, pitching a one-hour listening session after class. Shown on a phone. Email not sent; outbound is on hold and it needs Spirit's yes."
+  },
+  {
+   "id": "G_IBP_77",
+   "file": "img/G_IBP_77.b64",
+   "title": "Come Hear Nothing · Unisex Heavyweight Boxy T-Shirt · Black · back print",
+   "theme": "MERCH · TEE",
+   "section": "Inspired by Pinterest",
+   "kind": "general",
+   "kindLabel": "MERCH · TEE · DTF",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST",
+    "MERCH"
+   ],
+   "blank": {
+    "code": "UT0125",
+    "name": "Unisex Heavyweight Boxy T-Shirt",
+    "gsm": 420,
+    "material": "100% cotton",
+    "fit": "oversized boxy",
+    "colour": "Black",
+    "url": "https://www.tapstitch.com/custom/ut0125-unisex-heavyweight-boxy-t-shirt",
+    "thumb": "ts_UT0125_Black"
+   },
+   "of": "IBP_77",
+   "builds_on": "IBP_77",
+   "spirit_note": "turn into a shirt (#81)",
+   "note": "From IBP_77 (turn into a shirt (#81)). Acid-yellow type stack rebuilt as vector type (Archivo Black + Space Mono) with a halftone band behind HEAR, info box and haloraves.com. Hard 1-bit alpha for DTF, no black ink on the black blank. Card = lifestyle shot (print composited at true scale) / real Tapstitch UT0125 back photo with the print placed by make_merch v2 (size M chart, 3 in below collar, folds and shading) / the print. Back print ~12 x 10.4 in, DTF.",
+   "refs": [
+    {
+     "label": "Tapstitch blank UT0125 · Unisex Heavyweight Boxy T-Shirt",
+     "url": "https://www.tapstitch.com/custom/ut0125-unisex-heavyweight-boxy-t-shirt"
+    },
+    {
+     "label": "Source poster IBP_77",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/IBP_77.b64"
+    }
+   ],
+   "full": {
+    "path": "full/G_IBP_77_print.png.b64",
+    "name": "HALO_G_IBP_77_back_print_300dpi.png",
+    "type": "image/png"
+   },
+   "updated": "2026-10-13T21:50:52Z",
+   "tags": [
+    "F7",
+    "-",
+    "tee",
+    "dtf",
+    "back_big"
+   ],
+   "catalog": "catalog_v1"
+  },
+  {
+   "id": "G_IBP_78_B1",
+   "file": "img/G_IBP_78_B1.b64",
+   "title": "Volume / Faith · Boxy Oversized Hoodie · Black · back print",
+   "theme": "MERCH · HOODIE",
+   "section": "Inspired by Pinterest",
+   "kind": "general",
+   "kindLabel": "MERCH · HOODIE · DTF",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST",
+    "MERCH"
+   ],
+   "blank": {
+    "code": "RU0113",
+    "name": "Boxy Oversized Hoodie",
+    "gsm": 420,
+    "material": "100% cotton",
+    "fit": "boxy cropped",
+    "colour": "Black",
+    "url": "https://www.tapstitch.com/custom/ru0113-boxy-oversized-hoodie",
+    "thumb": "ts_RU0113_Black"
+   },
+   "of": "IBP_78_B1",
+   "builds_on": "IBP_78_B1",
+   "spirit_note": "turn into a shirt (#77)",
+   "note": "From IBP_78_B1 (turn into a shirt (#77)). Purple taped cross re-rendered as an isolated graphic with an acid-yellow ring halo above it; VOLUME (struck) LIVES HERE. / FAITH typeset in bone. Hard alpha for DTF. Tape art upscaled from a 1280px render; type is full-res. Card = lifestyle shot (print composited at true scale) / real Tapstitch RU0113 back photo with the print placed by make_merch v2 (size M chart, 3 in below collar, below hood point, folds and shading) / the print. Back print ~9.6 x 14.2 in, DTF. Wall download is a 255-colour PNG to fit the repo; the full-colour 300 dpi master is on the box at /workspace/halo-output/catalog/full/G_IBP_78_B1_print.png.",
+   "refs": [
+    {
+     "label": "Tapstitch blank RU0113 · Boxy Oversized Hoodie",
+     "url": "https://www.tapstitch.com/custom/ru0113-boxy-oversized-hoodie"
+    },
+    {
+     "label": "Source poster IBP_78_B1",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/IBP_78_B1.b64"
+    }
+   ],
+   "full": {
+    "path": "full/G_IBP_78_B1_print.png.b64",
+    "name": "HALO_G_IBP_78_B1_back_print_300dpi.png",
+    "type": "image/png"
+   },
+   "updated": "2026-10-13T21:50:52Z",
+   "tags": [
+    "F7",
+    "-",
+    "hoodie",
+    "dtf",
+    "back_big"
+   ],
+   "catalog": "catalog_v1"
+  },
+  {
+   "id": "G_IBP_80",
+   "file": "img/G_IBP_80.b64",
+   "title": "Quiet Room / Loud Heart · Boxy Oversized T-Shirt · White · back print",
+   "theme": "MERCH · TEE",
+   "section": "Inspired by Pinterest",
+   "kind": "general",
+   "kindLabel": "MERCH · TEE · DTF",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST",
+    "MERCH"
+   ],
+   "blank": {
+    "code": "RT0080",
+    "name": "Boxy Oversized T-Shirt",
+    "gsm": 400,
+    "material": "100% cotton",
+    "fit": "boxy H-line, drop shoulder",
+    "colour": "White",
+    "url": "https://www.tapstitch.com/custom/rt0080-boxy-oversized-t-shirt",
+    "thumb": "ts_RT0080_White"
+   },
+   "of": "IBP_80",
+   "builds_on": "IBP_80",
+   "spirit_note": "turn into a shirt or hoodie (#79)",
+   "note": "From IBP_80 (turn into a shirt or hoodie (#79)). Blackletter Quiet Room (UnifrakturMaguntia, dark grey) around an iridescent LOUD HEART. (Archivo Black, pastel holo gradient), small top line and HALO RAVES · haloraves.com. Hard alpha for DTF on the white blank. Card = lifestyle shot (print composited at true scale) / real Tapstitch RT0080 back photo with the print placed by make_merch v2 (size M chart, 3 in below collar, folds and shading) / the print. Back print ~12 x 7.9 in, DTF.",
+   "refs": [
+    {
+     "label": "Tapstitch blank RT0080 · Boxy Oversized T-Shirt",
+     "url": "https://www.tapstitch.com/custom/rt0080-boxy-oversized-t-shirt"
+    },
+    {
+     "label": "Source poster IBP_80",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/IBP_80.b64"
+    }
+   ],
+   "full": {
+    "path": "full/G_IBP_80_print.png.b64",
+    "name": "HALO_G_IBP_80_back_print_300dpi.png",
+    "type": "image/png"
+   },
+   "updated": "2026-10-13T21:50:52Z",
+   "tags": [
+    "F7",
+    "-",
+    "tee",
+    "dtf",
+    "back_big"
+   ],
+   "catalog": "catalog_v1"
   }
  ],
  "updates": [],
@@ -12118,6 +12762,10 @@
   {
    "date": "2026-10-13T19:48Z",
    "text": "Wall cleanup: every voted/noted piece (items + update cards) moved to Archive, reason 'voted'. Only fresh unvoted pieces remain In Review. Cards show tags, Tapstitch blank refs and Boardpusher template refs."
+  },
+  {
+   "date": "2026-10-13T21:52:55Z",
+   "text": "catalog_v1 run 1 (3:33 PM MT): 11 required items published to In Review - decks B3_01_B1 Monolith Party Hat, B3_03_B1 Toasted Enlightenment, B3_09_B1 Signal Snack, B3_11 Breakfast of the Enlightened (Board Designs, blend pin/article/keeper on card); posters IBP_90_B1, IBP_91_B1, IBP_92_B1; REQ_RISEYOGA_A_v4 neobrutal; garments G_IBP_77, G_IBP_78_B1, G_IBP_80 on real Tapstitch blanks with lifestyle, product and print. Tags on every card."
   }
  ]
 }
