@@ -1,7 +1,7 @@
 {
  "total": 154,
  "done": 154,
- "updated": "2026-10-13T02:00:00Z",
+ "updated": "2026-10-13T06:16:22Z",
  "items": [
   {
    "id": "mono_lith_01",
@@ -4118,7 +4118,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 RSVP",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "RSVP",
    "rooms": [],
    "refs": [
@@ -4146,9 +4146,10 @@
    "file": "img/PP_17.b64",
    "theme": "PRODUCT POSTERS",
    "note": "Built on PP_07 Riverside Night with the real product photo composited in",
-   "updated": "2026-10-12T22:54:50Z",
+   "updated": "2026-10-13T06:16:22Z",
    "product_method": "real product photo cut out and composited into a generated scene",
-   "builds_on": "PP_07"
+   "builds_on": "PP_07",
+   "vote": "nay"
   },
   {
    "id": "PP_18",
@@ -4156,7 +4157,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 Get Your HALO",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "Get Your HALO",
    "rooms": [],
    "refs": [
@@ -4184,8 +4185,9 @@
    "file": "img/PP_18.b64",
    "theme": "PRODUCT POSTERS",
    "note": "",
-   "updated": "2026-10-12T22:54:50Z",
-   "product_method": "real product photo cut out and composited into a generated scene"
+   "updated": "2026-10-13T06:16:22Z",
+   "product_method": "real product photo cut out and composited into a generated scene",
+   "vote": "nay"
   },
   {
    "id": "PP_19",
@@ -4193,7 +4195,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 Transmitter Zone",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "Transmitter Zone",
    "rooms": [],
    "refs": [
@@ -4225,8 +4227,9 @@
    "file": "img/PP_19.b64",
    "theme": "PRODUCT POSTERS",
    "note": "",
-   "updated": "2026-10-12T22:54:50Z",
-   "product_method": "real product photo cut out and composited into a generated scene"
+   "updated": "2026-10-13T06:16:22Z",
+   "product_method": "real product photo cut out and composited into a generated scene",
+   "vote": "nay"
   },
   {
    "id": "PP_20",
@@ -4234,7 +4237,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 Get Your HALO",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "Get Your HALO",
    "rooms": [],
    "refs": [
@@ -4266,8 +4269,9 @@
    "file": "img/PP_20.b64",
    "theme": "PRODUCT POSTERS",
    "note": "",
-   "updated": "2026-10-12T22:54:50Z",
-   "product_method": "real product photo cut out and composited into a generated scene"
+   "updated": "2026-10-13T06:16:22Z",
+   "product_method": "real product photo cut out and composited into a generated scene",
+   "vote": "nay"
   },
   {
    "id": "PP_21",
@@ -4275,7 +4279,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 PRIVATE RAVE",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "PRIVATE RAVE",
    "rooms": [],
    "refs": [
@@ -4307,8 +4311,9 @@
    "file": "img/PP_21.b64",
    "theme": "PRODUCT POSTERS",
    "note": "",
-   "updated": "2026-10-12T22:54:50Z",
-   "product_method": "real product photo cut out and composited into a generated scene"
+   "updated": "2026-10-13T06:16:22Z",
+   "product_method": "real product photo cut out and composited into a generated scene",
+   "vote": "nay"
   },
   {
    "id": "PP_22",
@@ -4316,7 +4321,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 Get Your HALO",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "Get Your HALO",
    "rooms": [],
    "refs": [
@@ -4344,8 +4349,9 @@
    "file": "img/PP_22.b64",
    "theme": "PRODUCT POSTERS",
    "note": "",
-   "updated": "2026-10-12T22:54:50Z",
-   "product_method": "real product photo cut out and composited into a generated scene"
+   "updated": "2026-10-13T06:16:22Z",
+   "product_method": "real product photo cut out and composited into a generated scene",
+   "vote": "nay"
   },
   {
    "id": "PP_23",
@@ -4353,7 +4359,7 @@
    "kind": "product",
    "kindLabel": "PRODUCT \u00b7 Transmitter Zone",
    "section": "Product Posters",
-   "status": "review",
+   "status": "nay",
    "cta": "Transmitter Zone",
    "rooms": [],
    "refs": [
@@ -4381,8 +4387,9 @@
    "file": "img/PP_23.b64",
    "theme": "PRODUCT POSTERS",
    "note": "",
-   "updated": "2026-10-12T22:54:50Z",
-   "product_method": "real product photo cut out and composited into a generated scene"
+   "updated": "2026-10-13T06:16:22Z",
+   "product_method": "real product photo cut out and composited into a generated scene",
+   "vote": "nay"
   },
   {
    "kind": "request",
@@ -4393,7 +4400,7 @@
    "note": "",
    "requested_by": "Chief of Staff",
    "rules": "No price, date, coin or health claim; shown in place; one idea; works in B/W; plain HALO RAVES wordmark.",
-   "status_label": "Awaiting Spirit's approval",
+   "status_label": "Build on: next version in progress",
    "date": "2026-10-13",
    "request": "Still A for an email to Rise Yoga & Wellness, Golden: a listening hour in a yoga studio after class, mats down, thirty headphones, no speaker, shown on a phone.",
    "project": "Email to Rise Yoga & Wellness, Golden",
@@ -4415,10 +4422,13 @@
     "name": "HALO_still_A_rise-yoga_v2_2026-10-13.png",
     "type": "image/png"
    },
-   "status": "review",
-   "updated": "2026-10-12T22:59:36Z",
+   "status": "build",
+   "updated": "2026-10-13T06:16:22Z",
    "client": "Rise Yoga & Wellness, Golden (prospect, not yet booked)",
-   "for": "The one image attached to the draft outreach email \"One listening hour at Rise\" to rise@riseyogacolorado.com, pitching a one-hour listening session after class. Shown on a phone. Email not sent; it needs Spirit's yes."
+   "for": "The one image attached to the draft outreach email \"One listening hour at Rise\" to rise@riseyogacolorado.com, pitching a one-hour listening session after class. Shown on a phone. Email not sent; it needs Spirit's yes.",
+   "vote": "build on",
+   "spirit_note": "this would be a nay, and would bore the client. Think of something within what we are working on that can be outside the box and could wow them within their niche.",
+   "spirit_note_issue": 53
   },
   {
    "kind": "request",
@@ -4429,7 +4439,7 @@
    "note": "",
    "requested_by": "Chief of Staff",
    "rules": "No price, date, coin or health claim; shown in place; one idea; works in B/W; plain HALO RAVES wordmark.",
-   "status_label": "Awaiting Spirit's approval",
+   "status_label": "Build on: next version in progress",
    "date": "2026-10-13",
    "request": "Still B for the line \"Thirty people. The park stays quiet.\", shown on a wall or phone.",
    "project": "Still for the line \"Thirty people. The park stays quiet.\"",
@@ -4451,10 +4461,11 @@
     "name": "HALO_still_B_park-stays-quiet_v2_2026-10-13.png",
     "type": "image/png"
    },
-   "status": "review",
-   "updated": "2026-10-12T22:59:36Z",
+   "status": "build",
+   "updated": "2026-10-13T06:16:22Z",
    "client": "None. HALO, internal campaign",
-   "for": "HALO campaign still for the line \"Thirty people. The park stays quiet.\", used in general outreach on a wall or phone. No named venue or recipient in the request."
+   "for": "HALO campaign still for the line \"Thirty people. The park stays quiet.\", used in general outreach on a wall or phone. No named venue or recipient in the request.",
+   "vote": "build on"
   },
   {
    "id": "IBP_43",
@@ -4464,11 +4475,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -4488,7 +4499,8 @@
      "url": "https://www.omoro.io/styles/acid-y2k"
     }
    ],
-   "trend": "Liquid chrome / Acid Y2K revival"
+   "trend": "Liquid chrome / Acid Y2K revival",
+   "vote": "yay"
   },
   {
    "id": "IBP_45",
@@ -4498,11 +4510,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -4522,7 +4534,8 @@
      "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
     }
    ],
-   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)"
+   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+   "vote": "yay"
   },
   {
    "id": "IBP_46",
@@ -4532,11 +4545,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -4556,7 +4569,8 @@
      "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
     }
    ],
-   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)"
+   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+   "vote": "yay"
   },
   {
    "id": "IBP_47",
@@ -4566,11 +4580,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -4590,7 +4604,8 @@
      "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
     }
    ],
-   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)"
+   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+   "vote": "yay"
   },
   {
    "id": "IBP_48",
@@ -4600,11 +4615,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -4624,7 +4639,8 @@
      "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
     }
    ],
-   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)"
+   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+   "vote": "yay"
   },
   {
    "id": "IBP_49",
@@ -4634,11 +4650,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -4658,7 +4674,8 @@
      "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
     }
    ],
-   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)"
+   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+   "vote": "build on"
   },
   {
    "id": "IBP_50",
@@ -4668,11 +4685,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -4688,7 +4705,8 @@
      "url": "https://www.pinterest.com/pin/1137440449704145837/"
     }
    ],
-   "trend": null
+   "trend": null,
+   "vote": "build on"
   },
   {
    "id": "IBP_52",
@@ -4702,7 +4720,7 @@
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -4718,7 +4736,9 @@
      "url": "https://www.pinterest.com/pin/1137440449704145815/"
     }
    ],
-   "trend": null
+   "trend": null,
+   "spirit_note": "make it look like it is hanging off the empire state building instead with people in like a hot tub",
+   "spirit_note_issue": 62
   },
   {
    "id": "IBP_53",
@@ -4728,11 +4748,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -4752,7 +4772,8 @@
      "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
     }
    ],
-   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)"
+   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+   "vote": "build on"
   },
   {
    "id": "IBP_55",
@@ -4762,11 +4783,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -4786,7 +4807,8 @@
      "url": "https://www.pantone.com/articles/press-releases/pantone-announces-color-of-the-year-2026-cloud-dancer"
     }
    ],
-   "trend": "Cloud Dancer white (Pantone Color of the Year 2026)"
+   "trend": "Cloud Dancer white (Pantone Color of the Year 2026)",
+   "vote": "yay"
   },
   {
    "id": "IBP_56",
@@ -4796,11 +4818,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -4820,7 +4842,8 @@
      "url": "https://www.pantone.com/articles/press-releases/pantone-announces-color-of-the-year-2026-cloud-dancer"
     }
    ],
-   "trend": "Cloud Dancer white (Pantone Color of the Year 2026)"
+   "trend": "Cloud Dancer white (Pantone Color of the Year 2026)",
+   "vote": "yay"
   },
   {
    "id": "IBP_57",
@@ -4830,11 +4853,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -4850,7 +4873,8 @@
      "url": "https://www.pinterest.com/pin/1137440449704145830/"
     }
    ],
-   "trend": null
+   "trend": null,
+   "vote": "yay"
   },
   {
    "id": "IBP_58",
@@ -4860,11 +4884,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -4880,7 +4904,8 @@
      "url": "https://www.pinterest.com/pin/1137440449704145827/"
     }
    ],
-   "trend": null
+   "trend": null,
+   "vote": "yay"
   },
   {
    "id": "IBP_59",
@@ -4890,11 +4915,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -4914,7 +4939,8 @@
      "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
     }
    ],
-   "trend": "Glitchy Glam + Extra Celestial (Pinterest Predicts 2026)"
+   "trend": "Glitchy Glam + Extra Celestial (Pinterest Predicts 2026)",
+   "vote": "yay"
   },
   {
    "id": "IBP_60",
@@ -4924,11 +4950,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -4948,7 +4974,8 @@
      "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
     }
    ],
-   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)"
+   "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+   "vote": "yay"
   },
   {
    "id": "IBP_61",
@@ -4958,11 +4985,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -4978,7 +5005,8 @@
      "url": "https://www.pinterest.com/pin/1137440449704145913/"
     }
    ],
-   "trend": null
+   "trend": null,
+   "vote": "build on"
   },
   {
    "id": "IBP_62",
@@ -4988,11 +5016,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -5012,7 +5040,8 @@
      "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
     }
    ],
-   "trend": "Glitchy Glam + Extra Celestial (Pinterest Predicts 2026)"
+   "trend": "Glitchy Glam + Extra Celestial (Pinterest Predicts 2026)",
+   "vote": "build on"
   },
   {
    "id": "IBP_63",
@@ -5022,11 +5051,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "build",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -5046,7 +5075,8 @@
      "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
     }
    ],
-   "trend": "Glitchy Glam + Extra Celestial (Pinterest Predicts 2026)"
+   "trend": "Glitchy Glam + Extra Celestial (Pinterest Predicts 2026)",
+   "vote": "build on"
   },
   {
    "id": "IBP_64",
@@ -5056,11 +5086,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "nay",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -5076,7 +5106,8 @@
      "url": "https://www.pinterest.com/pin/1137440449704145908/"
     }
    ],
-   "trend": null
+   "trend": null,
+   "vote": "nay"
   },
   {
    "id": "IBP_65",
@@ -5086,11 +5117,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -5110,7 +5141,8 @@
      "url": "https://www.omoro.io/styles/acid-y2k"
     }
    ],
-   "trend": "Liquid chrome / Acid Y2K revival"
+   "trend": "Liquid chrome / Acid Y2K revival",
+   "vote": "yay"
   },
   {
    "id": "IBP_66",
@@ -5124,7 +5156,7 @@
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -5145,7 +5177,9 @@
     }
    ],
    "trend": "Type collage / pick-and-mix lettering",
-   "line": "THINK LOUDER"
+   "line": "THINK LOUDER",
+   "spirit_note": "better spot for website url",
+   "spirit_note_issue": 63
   },
   {
    "id": "IBP_67",
@@ -5155,11 +5189,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -5180,7 +5214,8 @@
     }
    ],
    "trend": "Type collage / pick-and-mix lettering",
-   "line": "SIGNAL OVER NOISE"
+   "line": "SIGNAL OVER NOISE",
+   "vote": "yay"
   },
   {
    "id": "IBP_68",
@@ -5190,11 +5225,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -5215,7 +5250,8 @@
     }
    ],
    "trend": "Type collage / pick-and-mix lettering",
-   "line": "TURN IT UP. NOBODY HEARS."
+   "line": "TURN IT UP. NOBODY HEARS.",
+   "vote": "yay"
   },
   {
    "id": "IBP_69",
@@ -5225,11 +5261,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -5250,7 +5286,8 @@
     }
    ],
    "trend": "Type collage / pick-and-mix lettering",
-   "line": "THE DROP IS PRIVATE"
+   "line": "THE DROP IS PRIVATE",
+   "vote": "yay"
   },
   {
    "id": "IBP_70",
@@ -5260,11 +5297,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -5285,7 +5322,8 @@
     }
    ],
    "trend": "Type collage / pick-and-mix lettering",
-   "line": "I BELIEVE IN THE DROP"
+   "line": "I BELIEVE IN THE DROP",
+   "vote": "yay"
   },
   {
    "id": "IBP_71",
@@ -5295,11 +5333,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -5320,7 +5358,8 @@
     }
    ],
    "trend": "Type collage / pick-and-mix lettering",
-   "line": "EYES CLOSED. EARS OPEN."
+   "line": "EYES CLOSED. EARS OPEN.",
+   "vote": "yay"
   },
   {
    "id": "IBP_72",
@@ -5330,11 +5369,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -5355,7 +5394,8 @@
     }
    ],
    "trend": "Type collage / pick-and-mix lettering",
-   "line": "WHAT IS THIS FEELING"
+   "line": "WHAT IS THIS FEELING",
+   "vote": "yay"
   },
   {
    "id": "IBP_73",
@@ -5365,11 +5405,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -5390,7 +5430,8 @@
     }
    ],
    "trend": "Type collage / pick-and-mix lettering",
-   "line": "THIRTY HEADS. ONE SIGNAL."
+   "line": "THIRTY HEADS. ONE SIGNAL.",
+   "vote": "yay"
   },
   {
    "id": "IBP_74",
@@ -5400,11 +5441,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -5425,7 +5466,8 @@
     }
    ],
    "trend": "Type collage / pick-and-mix lettering",
-   "line": "LISTEN"
+   "line": "LISTEN",
+   "vote": "yay"
   },
   {
    "id": "IBP_75",
@@ -5435,11 +5477,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -5460,7 +5502,8 @@
     }
    ],
    "trend": "Type collage / pick-and-mix lettering",
-   "line": "LOUD ON THE INSIDE"
+   "line": "LOUD ON THE INSIDE",
+   "vote": "yay"
   },
   {
    "id": "IBP_76",
@@ -5470,11 +5513,11 @@
    "section": "Inspired by Pinterest",
    "single_pin": true,
    "note": "",
-   "status": "review",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
-   "updated": "2026-10-13T01:55:40Z",
+   "updated": "2026-10-13T06:16:22Z",
    "kind": "general",
    "kindLabel": "GENERAL \u00b7 INSPIRED BY PINTEREST",
    "source_pins": [
@@ -5495,7 +5538,8 @@
     }
    ],
    "trend": "Type collage / pick-and-mix lettering",
-   "line": "PARA/DISE IS A SOUND"
+   "line": "PARA/DISE IS A SOUND",
+   "vote": "yay"
   }
  ],
  "updates": [
@@ -5952,8 +5996,8 @@
    "before_file": "IBP_07",
    "title": "IBP_07 \u2192 B1",
    "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-12T22:54:50Z",
-   "status": "review",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
@@ -5977,7 +6021,8 @@
      "thumb": "1137440449704124249",
      "label": "pin \u2026124249"
     }
-   ]
+   ],
+   "vote": "yay"
   },
   {
    "id": "IBP_09_B1",
@@ -5987,8 +6032,8 @@
    "before_file": "IBP_09",
    "title": "IBP_09 \u2192 B1",
    "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-12T22:54:50Z",
-   "status": "review",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
@@ -6012,7 +6057,8 @@
      "thumb": "1137440449704124261",
      "label": "pin \u2026124261"
     }
-   ]
+   ],
+   "vote": "yay"
   },
   {
    "id": "IBP_10_B1",
@@ -6022,8 +6068,8 @@
    "before_file": "IBP_10",
    "title": "IBP_10 \u2192 B1",
    "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-12T22:54:50Z",
-   "status": "review",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
@@ -6047,7 +6093,10 @@
      "thumb": "1137440449704124269",
      "label": "pin \u2026124269"
     }
-   ]
+   ],
+   "vote": "yay",
+   "spirit_note": "have it be gold",
+   "spirit_note_issue": 54
   },
   {
    "id": "IBP_11_B1",
@@ -6057,8 +6106,8 @@
    "before_file": "IBP_11",
    "title": "IBP_11 \u2192 B1",
    "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-12T22:54:50Z",
-   "status": "review",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
@@ -6082,7 +6131,8 @@
      "thumb": "1137440449704124276",
      "label": "pin \u2026124276"
     }
-   ]
+   ],
+   "vote": "yay"
   },
   {
    "id": "IBP_12_B1",
@@ -6092,8 +6142,8 @@
    "before_file": "IBP_12",
    "title": "IBP_12 \u2192 B1",
    "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-12T22:54:50Z",
-   "status": "review",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
@@ -6117,7 +6167,10 @@
      "thumb": "1137440449704124307",
      "label": "pin \u2026124307"
     }
-   ]
+   ],
+   "vote": "yay",
+   "spirit_note": "maybe HALO is in a yellow color palette",
+   "spirit_note_issue": 55
   },
   {
    "id": "IBP_19_B1",
@@ -6127,8 +6180,8 @@
    "before_file": "IBP_19",
    "title": "IBP_19 \u2192 B1",
    "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-12T22:54:50Z",
-   "status": "review",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "nay",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
@@ -6148,7 +6201,10 @@
      "thumb": "1137440449704125750",
      "label": "pin \u2026125750"
     }
-   ]
+   ],
+   "vote": "nay",
+   "spirit_note": "I like the before more than the after",
+   "spirit_note_issue": 56
   },
   {
    "id": "IBP_23_B1",
@@ -6158,8 +6214,8 @@
    "before_file": "IBP_23",
    "title": "IBP_23 \u2192 B1",
    "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-12T22:54:50Z",
-   "status": "review",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
@@ -6183,7 +6239,8 @@
      "thumb": "1137440449696236631",
      "label": "pin \u2026236631"
     }
-   ]
+   ],
+   "vote": "yay"
   },
   {
    "id": "IBP_25_B1",
@@ -6193,8 +6250,8 @@
    "before_file": "IBP_25",
    "title": "IBP_25 \u2192 B1",
    "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-12T22:54:50Z",
-   "status": "review",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "build",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
@@ -6218,7 +6275,10 @@
      "thumb": "1137440449702341541",
      "label": "pin \u2026341541"
     }
-   ]
+   ],
+   "vote": "build on",
+   "spirit_note": "where i put the lines or within the package, have it look like POWERUP or EXTRA LIFE.  with a HALO emblem wax seal",
+   "spirit_note_issue": 57
   },
   {
    "id": "IBP_26_B1",
@@ -6228,8 +6288,8 @@
    "before_file": "IBP_26",
    "title": "IBP_26 \u2192 B1",
    "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-12T22:54:50Z",
-   "status": "review",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "nay",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
@@ -6253,7 +6313,10 @@
      "thumb": "1137440449702375526",
      "label": "pin \u2026375526"
     }
-   ]
+   ],
+   "vote": "nay",
+   "spirit_note": "like the before more",
+   "spirit_note_issue": 58
   },
   {
    "id": "IBP_32_B1",
@@ -6263,8 +6326,8 @@
    "before_file": "IBP_32",
    "title": "IBP_32 \u2192 B1",
    "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-12T22:54:50Z",
-   "status": "review",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "nay",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
@@ -6297,7 +6360,10 @@
      "thumb": "1137440449704124344",
      "label": "pin \u2026124344"
     }
-   ]
+   ],
+   "vote": "nay",
+   "spirit_note": "like the before more",
+   "spirit_note_issue": 59
   },
   {
    "id": "IBP_35_B1",
@@ -6307,8 +6373,8 @@
    "before_file": "IBP_35",
    "title": "IBP_35 \u2192 B1",
    "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-12T22:54:50Z",
-   "status": "review",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
@@ -6332,7 +6398,8 @@
      "thumb": "1137440449704129882",
      "label": "pin \u2026129882"
     }
-   ]
+   ],
+   "vote": "yay"
   },
   {
    "id": "IBP_36_B1",
@@ -6342,8 +6409,8 @@
    "before_file": "IBP_36",
    "title": "IBP_36 \u2192 B1",
    "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-12T22:54:50Z",
-   "status": "review",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
@@ -6367,7 +6434,8 @@
      "thumb": "1137440449704129890",
      "label": "pin \u2026129890"
     }
-   ]
+   ],
+   "vote": "yay"
   },
   {
    "id": "IBP_38_B1",
@@ -6377,8 +6445,8 @@
    "before_file": "IBP_38",
    "title": "IBP_38 \u2192 B1",
    "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-12T22:54:50Z",
-   "status": "review",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
@@ -6402,7 +6470,8 @@
      "thumb": "1137440449704129896",
      "label": "pin \u2026129896"
     }
-   ]
+   ],
+   "vote": "yay"
   },
   {
    "id": "IBP_39_B1",
@@ -6412,8 +6481,8 @@
    "before_file": "IBP_39",
    "title": "IBP_39 \u2192 B1",
    "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-12T22:54:50Z",
-   "status": "review",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "nay",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
@@ -6437,7 +6506,10 @@
      "thumb": "1137440449704129897",
      "label": "pin \u2026129897"
     }
-   ]
+   ],
+   "vote": "nay",
+   "spirit_note": "i like the before better",
+   "spirit_note_issue": 60
   },
   {
    "id": "IBP_40_B1",
@@ -6447,8 +6519,8 @@
    "before_file": "IBP_40",
    "title": "IBP_40 \u2192 B1",
    "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-12T22:54:50Z",
-   "status": "review",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
@@ -6472,7 +6544,8 @@
      "thumb": "1137440449704129929",
      "label": "pin \u2026129929"
     }
-   ]
+   ],
+   "vote": "yay"
   },
   {
    "id": "IBP_41_B1",
@@ -6482,8 +6555,8 @@
    "before_file": "IBP_41",
    "title": "IBP_41 \u2192 B1",
    "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-12T22:54:50Z",
-   "status": "review",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "keep",
    "rooms": [
     "INSPIRED BY PINTEREST"
    ],
@@ -6503,7 +6576,10 @@
      "thumb": "1137440449704129933",
      "label": "pin \u2026129933"
     }
-   ]
+   ],
+   "vote": "yay",
+   "spirit_note": "need HALO RAVES font logo",
+   "spirit_note_issue": 61
   },
   {
    "id": "P5_EV_03_B1",
@@ -6513,8 +6589,8 @@
    "before_file": "P5_EV_03",
    "title": "P5_EV_03 \u2192 B1",
    "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-12T22:54:50Z",
-   "status": "review",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "keep",
    "rooms": [
     "NIGHTS",
     "nights:spore-amen"
@@ -6527,7 +6603,8 @@
      "label": "Source poster: haloraves.com/nights/spore-amen",
      "url": "https://www.haloraves.com/nights/spore-amen"
     }
-   ]
+   ],
+   "vote": "yay"
   }
  ],
  "kinds": {
