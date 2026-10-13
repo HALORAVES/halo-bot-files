@@ -30,956 +30,17 @@
      "url": "https://www.pinterest.com/pin/1137440449704136955/"
     }
    ],
-   "single_pin": true
+   "single_pin": true,
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   }
  ],
- "updates": [
-  {
-   "id": "cannonball_v5",
-   "of": "cannonball_v4",
-   "version": "v5",
-   "file": "img/cannonball_v5.b64",
-   "before_file": "cannonball_v4",
-   "title": "cannonball_v4 → v5",
-   "note": "YAY on v4 + more depth and shadow detailing, multi-depth holographic field, hyper realistic volumetric lighting and shadows, deep contrast, hyper color within glow",
-   "updated": "2026-10-12T00:07:31Z",
-   "status": "keep",
-   "rooms": [
-    "MATTER/TYPE",
-    "clients:Cannonball Creek"
-   ],
-   "kind": "client",
-   "kindLabel": "CLIENT · Cannonball Creek",
-   "refs": [
-    {
-     "label": "Client page: Cannonball Creek",
-     "url": "https://www.visitgolden.com/listing/cannonball-creek-brewery/"
-    },
-    {
-     "label": "Pinterest pin …237286",
-     "url": "https://www.pinterest.com/pin/1137440449696237286/"
-    },
-    {
-     "label": "Pinterest pin …237417",
-     "url": "https://www.pinterest.com/pin/1137440449696237417/"
-    },
-    {
-     "label": "Pinterest pin …237405",
-     "url": "https://www.pinterest.com/pin/1137440449696237405/"
-    }
-   ]
-  },
-  {
-   "id": "T_MONOLITH_03_E1",
-   "of": "T_MONOLITH_03",
-   "version": "E1",
-   "file": "img/T_MONOLITH_03_E1.b64",
-   "before_file": "T_MONOLITH_03",
-   "title": "T_MONOLITH_03 → E1",
-   "note": "",
-   "updated": "2026-10-12T02:27:47Z",
-   "status": "keep",
-   "rooms": [
-    "MONO/LITH"
-   ],
-   "kind": "general",
-   "kindLabel": "GENERAL",
-   "refs": [
-    {
-     "label": "Pinterest pin …889168",
-     "url": "https://www.pinterest.com/pin/1137440449703889168/"
-    },
-    {
-     "label": "Pinterest pin …889430",
-     "url": "https://www.pinterest.com/pin/1137440449703889430/"
-    },
-    {
-     "label": "Pinterest pin …900346",
-     "url": "https://www.pinterest.com/pin/1137440449703900346/"
-    },
-    {
-     "label": "Pinterest pin …889784",
-     "url": "https://www.pinterest.com/pin/1137440449703889784/"
-    }
-   ]
-  },
-  {
-   "id": "T_SMALLLIFE_03_E1",
-   "of": "T_SMALLLIFE_03",
-   "version": "E1",
-   "file": "img/T_SMALLLIFE_03_E1.b64",
-   "before_file": "T_SMALLLIFE_03",
-   "title": "T_SMALLLIFE_03 → E1",
-   "note": "",
-   "updated": "2026-10-12T02:27:47Z",
-   "status": "keep",
-   "rooms": [
-    "SMALL/LIFE"
-   ],
-   "kind": "general",
-   "kindLabel": "GENERAL",
-   "refs": [
-    {
-     "label": "Pinterest pin …806130",
-     "url": "https://www.pinterest.com/pin/1137440449695806130/"
-    },
-    {
-     "label": "Pinterest pin …423576",
-     "url": "https://www.pinterest.com/pin/1137440449702423576/"
-    }
-   ]
-  },
-  {
-   "id": "T_BENTTYPE_05_E1",
-   "of": "T_BENTTYPE_05",
-   "version": "E1",
-   "file": "img/T_BENTTYPE_05_E1.b64",
-   "before_file": "T_BENTTYPE_05",
-   "title": "T_BENTTYPE_05 → E1",
-   "note": "O letter malformed, rework",
-   "updated": "2026-10-12T02:27:47Z",
-   "status": "keep",
-   "rooms": [
-    "BENT/TYPE"
-   ],
-   "kind": "general",
-   "kindLabel": "GENERAL",
-   "refs": [
-    {
-     "label": "Pinterest pin …423540",
-     "url": "https://www.pinterest.com/pin/1137440449702423540/"
-    },
-    {
-     "label": "Pinterest pin …237572",
-     "url": "https://www.pinterest.com/pin/1137440449696237572/"
-    },
-    {
-     "label": "Pinterest pin …237567",
-     "url": "https://www.pinterest.com/pin/1137440449696237567/"
-    },
-    {
-     "label": "Pinterest pin …237472",
-     "url": "https://www.pinterest.com/pin/1137440449696237472/"
-    }
-   ]
-  },
-  {
-   "id": "T_BITECOLOR_01_E1",
-   "of": "T_BITECOLOR_01",
-   "version": "E1",
-   "file": "img/T_BITECOLOR_01_E1.b64",
-   "before_file": "T_BITECOLOR_01",
-   "title": "T_BITECOLOR_01 → E1",
-   "note": "",
-   "updated": "2026-10-12T02:27:47Z",
-   "status": "keep",
-   "rooms": [
-    "BITE/COLOR"
-   ],
-   "kind": "general",
-   "kindLabel": "GENERAL",
-   "refs": [
-    {
-     "label": "Pinterest pin …236968",
-     "url": "https://www.pinterest.com/pin/1137440449696236968/"
-    },
-    {
-     "label": "Pinterest pin …698731",
-     "url": "https://www.pinterest.com/pin/1137440449703698731/"
-    },
-    {
-     "label": "Pinterest pin …238209",
-     "url": "https://www.pinterest.com/pin/1137440449696238209/"
-    },
-    {
-     "label": "Pinterest pin …238200",
-     "url": "https://www.pinterest.com/pin/1137440449696238200/"
-    }
-   ]
-  },
-  {
-   "id": "T_TAPEDECK_01_E1",
-   "of": "T_TAPEDECK_01",
-   "version": "E1",
-   "file": "img/T_TAPEDECK_01_E1.b64",
-   "before_file": "T_TAPEDECK_01",
-   "title": "T_TAPEDECK_01 → E1",
-   "note": "",
-   "updated": "2026-10-12T02:27:47Z",
-   "status": "keep",
-   "rooms": [
-    "TAPE/DECK"
-   ],
-   "kind": "general",
-   "kindLabel": "GENERAL",
-   "refs": [
-    {
-     "label": "Pinterest pin …384470",
-     "url": "https://www.pinterest.com/pin/1137440449702384470/"
-    },
-    {
-     "label": "Pinterest pin …384476",
-     "url": "https://www.pinterest.com/pin/1137440449702384476/"
-    },
-    {
-     "label": "Pinterest pin …340159",
-     "url": "https://www.pinterest.com/pin/1137440449702340159/"
-    }
-   ]
-  },
-  {
-   "id": "T_TOYSMILE_01_E1",
-   "of": "T_TOYSMILE_01",
-   "version": "E1",
-   "file": "img/T_TOYSMILE_01_E1.b64",
-   "before_file": "T_TOYSMILE_01",
-   "title": "T_TOYSMILE_01 → E1",
-   "note": "",
-   "updated": "2026-10-12T02:27:47Z",
-   "status": "keep",
-   "rooms": [
-    "TOY/SMILE"
-   ],
-   "kind": "general",
-   "kindLabel": "GENERAL",
-   "refs": [
-    {
-     "label": "Pinterest pin …899879",
-     "url": "https://www.pinterest.com/pin/1137440449703899879/"
-    },
-    {
-     "label": "Pinterest pin …690629",
-     "url": "https://www.pinterest.com/pin/1137440449703690629/"
-    },
-    {
-     "label": "Pinterest pin …612076",
-     "url": "https://www.pinterest.com/pin/1137440449702612076/"
-    },
-    {
-     "label": "Pinterest pin …567863",
-     "url": "https://www.pinterest.com/pin/1137440449703567863/"
-    }
-   ]
-  },
-  {
-   "id": "T_POSTERGRID_01_E1",
-   "of": "T_POSTERGRID_01",
-   "version": "E1",
-   "file": "img/T_POSTERGRID_01_E1.b64",
-   "before_file": "T_POSTERGRID_01",
-   "title": "T_POSTERGRID_01 → E1",
-   "note": "",
-   "updated": "2026-10-12T02:27:47Z",
-   "status": "keep",
-   "rooms": [
-    "POSTER/GRID"
-   ],
-   "kind": "general",
-   "kindLabel": "GENERAL",
-   "refs": [
-    {
-     "label": "Pinterest pin …690405",
-     "url": "https://www.pinterest.com/pin/1137440449703690405/"
-    },
-    {
-     "label": "Pinterest pin …690392",
-     "url": "https://www.pinterest.com/pin/1137440449703690392/"
-    },
-    {
-     "label": "Pinterest pin …889385",
-     "url": "https://www.pinterest.com/pin/1137440449703889385/"
-    },
-    {
-     "label": "Pinterest pin …613680",
-     "url": "https://www.pinterest.com/pin/1137440449702613680/"
-    }
-   ]
-  },
-  {
-   "id": "T_POURDRIP_01_E1",
-   "of": "T_POURDRIP_01",
-   "version": "E1",
-   "file": "img/T_POURDRIP_01_E1.b64",
-   "before_file": "T_POURDRIP_01",
-   "title": "T_POURDRIP_01 → E1",
-   "note": "",
-   "updated": "2026-10-12T02:27:47Z",
-   "status": "keep",
-   "rooms": [
-    "POUR/DRIP"
-   ],
-   "kind": "general",
-   "kindLabel": "GENERAL",
-   "refs": [
-    {
-     "label": "Pinterest pin …375546",
-     "url": "https://www.pinterest.com/pin/1137440449702375546/"
-    },
-    {
-     "label": "Pinterest pin …582717",
-     "url": "https://www.pinterest.com/pin/905575437605582717/"
-    },
-    {
-     "label": "Pinterest pin …236569",
-     "url": "https://www.pinterest.com/pin/1137440449696236569/"
-    },
-    {
-     "label": "Pinterest pin …384753",
-     "url": "https://www.pinterest.com/pin/1137440449702384753/"
-    }
-   ]
-  },
-  {
-   "id": "T_HEADOPEN_01_E2",
-   "of": "T_HEADOPEN_01",
-   "version": "E2",
-   "file": "img/T_HEADOPEN_01_E2.b64",
-   "before_file": "T_HEADOPEN_01_E1",
-   "title": "T_HEADOPEN_01 → E2",
-   "note": "",
-   "updated": "2026-10-12T03:08:43Z",
-   "status": "keep",
-   "rooms": [
-    "HEAD/OPEN"
-   ],
-   "kind": "general",
-   "kindLabel": "GENERAL",
-   "refs": [
-    {
-     "label": "Pinterest pin …032971",
-     "url": "https://www.pinterest.com/pin/1137440449704032971/"
-    },
-    {
-     "label": "Pinterest pin …899876",
-     "url": "https://www.pinterest.com/pin/1137440449703899876/"
-    },
-    {
-     "label": "Pinterest pin …612695",
-     "url": "https://www.pinterest.com/pin/1137440449702612695/"
-    }
-   ]
-  },
-  {
-   "id": "dream_collage_01_E2",
-   "of": "dream_collage_01",
-   "version": "E2",
-   "file": "img/dream_collage_01_E2.b64",
-   "before_file": "dream_collage_01_E1",
-   "title": "dream_collage_01 → E2",
-   "note": "",
-   "updated": "2026-10-12T03:08:43Z",
-   "status": "keep",
-   "rooms": [
-    "DREAM/COLLAGE"
-   ],
-   "kind": "general",
-   "kindLabel": "GENERAL",
-   "refs": [
-    {
-     "label": "Pinterest pin …036540",
-     "url": "https://www.pinterest.com/pin/1137440449704036540/"
-    },
-    {
-     "label": "Pinterest pin …036429",
-     "url": "https://www.pinterest.com/pin/1137440449704036429/"
-    },
-    {
-     "label": "Pinterest pin …036304",
-     "url": "https://www.pinterest.com/pin/1137440449704036304/"
-    },
-    {
-     "label": "Pinterest pin …036267",
-     "url": "https://www.pinterest.com/pin/1137440449704036267/"
-    }
-   ]
-  },
-  {
-   "id": "N_PEPPERJUNGLE_03",
-   "of": "N_PEPPERJUNGLE_02",
-   "version": "03",
-   "file": "img/N_PEPPERJUNGLE_03.b64",
-   "before_file": "N_PEPPERJUNGLE_02",
-   "title": "N_PEPPERJUNGLE_02 → 03",
-   "note": "",
-   "updated": "2026-10-12T04:28:25Z",
-   "status": "keep",
-   "rooms": [
-    "NIGHTS",
-    "nights:pepper-jungle"
-   ],
-   "theme": "NIGHTS",
-   "kind": "event",
-   "kindLabel": "EVENT · Pepper/Jungle",
-   "refs": [
-    {
-     "label": "haloraves.com night: pepper-jungle",
-     "url": "https://www.haloraves.com/nights/pepper-jungle"
-    }
-   ]
-  },
-  {
-   "id": "T_SIGNALNOISE_01_E2",
-   "of": "T_SIGNALNOISE_01",
-   "version": "E2",
-   "file": "img/T_SIGNALNOISE_01_E2.b64",
-   "before_file": "T_SIGNALNOISE_01_E1",
-   "title": "T_SIGNALNOISE_01 → E2",
-   "note": "",
-   "updated": "2026-10-12T04:28:25Z",
-   "status": "keep",
-   "rooms": [
-    "SIGNAL/NOISE"
-   ],
-   "theme": "SIGNAL/NOISE",
-   "kind": "general",
-   "kindLabel": "GENERAL · SIGNAL/NOISE",
-   "refs": [
-    {
-     "label": "Pinterest pin …384607",
-     "url": "https://www.pinterest.com/pin/1137440449702384607/"
-    },
-    {
-     "label": "Pinterest pin …424072",
-     "url": "https://www.pinterest.com/pin/1137440449702424072/"
-    },
-    {
-     "label": "Pinterest pin …688891",
-     "url": "https://www.pinterest.com/pin/1137440449703688891/"
-    }
-   ]
-  },
-  {
-   "id": "T_MATTERTYPE_05_E3",
-   "of": "T_MATTERTYPE_05",
-   "version": "E3",
-   "file": "img/T_MATTERTYPE_05_E3.b64",
-   "before_file": "T_MATTERTYPE_05_E2",
-   "title": "T_MATTERTYPE_05 → E3",
-   "note": "",
-   "updated": "2026-10-12T04:28:25Z",
-   "status": "keep",
-   "rooms": [
-    "MATTER/TYPE"
-   ],
-   "theme": "MATTER/TYPE",
-   "kind": "general",
-   "kindLabel": "GENERAL · MATTER/TYPE",
-   "refs": [
-    {
-     "label": "Pinterest pin …237286",
-     "url": "https://www.pinterest.com/pin/1137440449696237286/"
-    },
-    {
-     "label": "Pinterest pin …237417",
-     "url": "https://www.pinterest.com/pin/1137440449696237417/"
-    },
-    {
-     "label": "Pinterest pin …237405",
-     "url": "https://www.pinterest.com/pin/1137440449696237405/"
-    }
-   ]
-  },
-  {
-   "id": "IBP_07_B1",
-   "of": "IBP_07",
-   "version": "B1",
-   "file": "img/IBP_07_B1.b64",
-   "before_file": "IBP_07",
-   "title": "IBP_07 → B1",
-   "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-13T06:16:22Z",
-   "status": "keep",
-   "rooms": [
-    "INSPIRED BY PINTEREST"
-   ],
-   "theme": "INSPIRED BY PINTEREST",
-   "kind": "general",
-   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
-   "refs": [
-    {
-     "label": "Pinterest pin …124249",
-     "url": "https://www.pinterest.com/pin/1137440449704124249/"
-    },
-    {
-     "label": "Trend: Type collage / pick-and-mix lettering",
-     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
-    }
-   ],
-   "section": "Inspired by Pinterest",
-   "source_pins": [
-    {
-     "url": "https://www.pinterest.com/pin/1137440449704124249/",
-     "thumb": "1137440449704124249",
-     "label": "pin …124249"
-    }
-   ],
-   "vote": "yay"
-  },
-  {
-   "id": "IBP_09_B1",
-   "of": "IBP_09",
-   "version": "B1",
-   "file": "img/IBP_09_B1.b64",
-   "before_file": "IBP_09",
-   "title": "IBP_09 → B1",
-   "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-13T06:16:22Z",
-   "status": "keep",
-   "rooms": [
-    "INSPIRED BY PINTEREST"
-   ],
-   "theme": "INSPIRED BY PINTEREST",
-   "kind": "general",
-   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
-   "refs": [
-    {
-     "label": "Pinterest pin …124261",
-     "url": "https://www.pinterest.com/pin/1137440449704124261/"
-    },
-    {
-     "label": "Trend: Cloud Dancer white (Pantone Color of the Year 2026)",
-     "url": "https://www.pantone.com/articles/press-releases/pantone-announces-color-of-the-year-2026-cloud-dancer"
-    }
-   ],
-   "section": "Inspired by Pinterest",
-   "source_pins": [
-    {
-     "url": "https://www.pinterest.com/pin/1137440449704124261/",
-     "thumb": "1137440449704124261",
-     "label": "pin …124261"
-    }
-   ],
-   "vote": "yay"
-  },
-  {
-   "id": "IBP_10_B1",
-   "of": "IBP_10",
-   "version": "B1",
-   "file": "img/IBP_10_B1.b64",
-   "before_file": "IBP_10",
-   "title": "IBP_10 → B1",
-   "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-13T06:16:22Z",
-   "status": "keep",
-   "rooms": [
-    "INSPIRED BY PINTEREST"
-   ],
-   "theme": "INSPIRED BY PINTEREST",
-   "kind": "general",
-   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
-   "refs": [
-    {
-     "label": "Pinterest pin …124269",
-     "url": "https://www.pinterest.com/pin/1137440449704124269/"
-    },
-    {
-     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
-     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
-    }
-   ],
-   "section": "Inspired by Pinterest",
-   "source_pins": [
-    {
-     "url": "https://www.pinterest.com/pin/1137440449704124269/",
-     "thumb": "1137440449704124269",
-     "label": "pin …124269"
-    }
-   ],
-   "vote": "yay",
-   "spirit_note": "have it be gold",
-   "spirit_note_issue": 54
-  },
-  {
-   "id": "IBP_11_B1",
-   "of": "IBP_11",
-   "version": "B1",
-   "file": "img/IBP_11_B1.b64",
-   "before_file": "IBP_11",
-   "title": "IBP_11 → B1",
-   "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-13T06:16:22Z",
-   "status": "keep",
-   "rooms": [
-    "INSPIRED BY PINTEREST"
-   ],
-   "theme": "INSPIRED BY PINTEREST",
-   "kind": "general",
-   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
-   "refs": [
-    {
-     "label": "Pinterest pin …124276",
-     "url": "https://www.pinterest.com/pin/1137440449704124276/"
-    },
-    {
-     "label": "Trend: Liquid chrome / Acid Y2K revival",
-     "url": "https://www.omoro.io/styles/acid-y2k"
-    }
-   ],
-   "section": "Inspired by Pinterest",
-   "source_pins": [
-    {
-     "url": "https://www.pinterest.com/pin/1137440449704124276/",
-     "thumb": "1137440449704124276",
-     "label": "pin …124276"
-    }
-   ],
-   "vote": "yay"
-  },
-  {
-   "id": "IBP_23_B1",
-   "of": "IBP_23",
-   "version": "B1",
-   "file": "img/IBP_23_B1.b64",
-   "before_file": "IBP_23",
-   "title": "IBP_23 → B1",
-   "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-13T06:16:22Z",
-   "status": "keep",
-   "rooms": [
-    "INSPIRED BY PINTEREST"
-   ],
-   "theme": "INSPIRED BY PINTEREST",
-   "kind": "general",
-   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
-   "refs": [
-    {
-     "label": "Pinterest pin …236631",
-     "url": "https://www.pinterest.com/pin/1137440449696236631/"
-    },
-    {
-     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
-     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
-    }
-   ],
-   "section": "Inspired by Pinterest",
-   "source_pins": [
-    {
-     "url": "https://www.pinterest.com/pin/1137440449696236631/",
-     "thumb": "1137440449696236631",
-     "label": "pin …236631"
-    }
-   ],
-   "vote": "yay"
-  },
-  {
-   "id": "IBP_25_B1",
-   "of": "IBP_25",
-   "version": "B1",
-   "file": "img/IBP_25_B1.b64",
-   "before_file": "IBP_25",
-   "title": "IBP_25 → B1",
-   "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-13T06:16:22Z",
-   "status": "build",
-   "rooms": [
-    "INSPIRED BY PINTEREST"
-   ],
-   "theme": "INSPIRED BY PINTEREST",
-   "kind": "general",
-   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
-   "refs": [
-    {
-     "label": "Pinterest pin …341541",
-     "url": "https://www.pinterest.com/pin/1137440449702341541/"
-    },
-    {
-     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
-     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
-    }
-   ],
-   "section": "Inspired by Pinterest",
-   "source_pins": [
-    {
-     "url": "https://www.pinterest.com/pin/1137440449702341541/",
-     "thumb": "1137440449702341541",
-     "label": "pin …341541"
-    }
-   ],
-   "vote": "build on",
-   "spirit_note": "where i put the lines or within the package, have it look like POWERUP or EXTRA LIFE.  with a HALO emblem wax seal",
-   "spirit_note_issue": 57
-  },
-  {
-   "id": "IBP_35_B1",
-   "of": "IBP_35",
-   "version": "B1",
-   "file": "img/IBP_35_B1.b64",
-   "before_file": "IBP_35",
-   "title": "IBP_35 → B1",
-   "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-13T06:16:22Z",
-   "status": "keep",
-   "rooms": [
-    "INSPIRED BY PINTEREST"
-   ],
-   "theme": "INSPIRED BY PINTEREST",
-   "kind": "general",
-   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
-   "refs": [
-    {
-     "label": "Pinterest pin …129882",
-     "url": "https://www.pinterest.com/pin/1137440449704129882/"
-    },
-    {
-     "label": "Trend: Liquid chrome / Acid Y2K revival",
-     "url": "https://www.omoro.io/styles/acid-y2k"
-    }
-   ],
-   "section": "Inspired by Pinterest",
-   "source_pins": [
-    {
-     "url": "https://www.pinterest.com/pin/1137440449704129882/",
-     "thumb": "1137440449704129882",
-     "label": "pin …129882"
-    }
-   ],
-   "vote": "yay"
-  },
-  {
-   "id": "IBP_36_B1",
-   "of": "IBP_36",
-   "version": "B1",
-   "file": "img/IBP_36_B1.b64",
-   "before_file": "IBP_36",
-   "title": "IBP_36 → B1",
-   "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-13T06:16:22Z",
-   "status": "keep",
-   "rooms": [
-    "INSPIRED BY PINTEREST"
-   ],
-   "theme": "INSPIRED BY PINTEREST",
-   "kind": "general",
-   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
-   "refs": [
-    {
-     "label": "Pinterest pin …129890",
-     "url": "https://www.pinterest.com/pin/1137440449704129890/"
-    },
-    {
-     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
-     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
-    }
-   ],
-   "section": "Inspired by Pinterest",
-   "source_pins": [
-    {
-     "url": "https://www.pinterest.com/pin/1137440449704129890/",
-     "thumb": "1137440449704129890",
-     "label": "pin …129890"
-    }
-   ],
-   "vote": "yay"
-  },
-  {
-   "id": "IBP_38_B1",
-   "of": "IBP_38",
-   "version": "B1",
-   "file": "img/IBP_38_B1.b64",
-   "before_file": "IBP_38",
-   "title": "IBP_38 → B1",
-   "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-13T06:16:22Z",
-   "status": "keep",
-   "rooms": [
-    "INSPIRED BY PINTEREST"
-   ],
-   "theme": "INSPIRED BY PINTEREST",
-   "kind": "general",
-   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
-   "refs": [
-    {
-     "label": "Pinterest pin …129896",
-     "url": "https://www.pinterest.com/pin/1137440449704129896/"
-    },
-    {
-     "label": "Trend: Analog / human-made texture (grain, letterpress, photocopy)",
-     "url": "https://www.adobe.com/express/learn/blog/design-trends-2026"
-    }
-   ],
-   "section": "Inspired by Pinterest",
-   "source_pins": [
-    {
-     "url": "https://www.pinterest.com/pin/1137440449704129896/",
-     "thumb": "1137440449704129896",
-     "label": "pin …129896"
-    }
-   ],
-   "vote": "yay"
-  },
-  {
-   "id": "IBP_40_B1",
-   "of": "IBP_40",
-   "version": "B1",
-   "file": "img/IBP_40_B1.b64",
-   "before_file": "IBP_40",
-   "title": "IBP_40 → B1",
-   "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-13T06:16:22Z",
-   "status": "keep",
-   "rooms": [
-    "INSPIRED BY PINTEREST"
-   ],
-   "theme": "INSPIRED BY PINTEREST",
-   "kind": "general",
-   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
-   "refs": [
-    {
-     "label": "Pinterest pin …129929",
-     "url": "https://www.pinterest.com/pin/1137440449704129929/"
-    },
-    {
-     "label": "Trend: Liquid chrome / Acid Y2K revival",
-     "url": "https://www.omoro.io/styles/acid-y2k"
-    }
-   ],
-   "section": "Inspired by Pinterest",
-   "source_pins": [
-    {
-     "url": "https://www.pinterest.com/pin/1137440449704129929/",
-     "thumb": "1137440449704129929",
-     "label": "pin …129929"
-    }
-   ],
-   "vote": "yay"
-  },
-  {
-   "id": "P5_EV_03_B1",
-   "of": "P5_EV_03",
-   "version": "B1",
-   "file": "img/P5_EV_03_B1.b64",
-   "before_file": "P5_EV_03",
-   "title": "P5_EV_03 → B1",
-   "note": "Build-on: stronger version pushing the source pin style further",
-   "updated": "2026-10-13T06:16:22Z",
-   "status": "keep",
-   "rooms": [
-    "NIGHTS",
-    "nights:spore-amen"
-   ],
-   "theme": "NIGHTS",
-   "kind": "event",
-   "kindLabel": "EVENT · Spore / Amen",
-   "refs": [
-    {
-     "label": "Source poster: haloraves.com/nights/spore-amen",
-     "url": "https://www.haloraves.com/nights/spore-amen"
-    }
-   ],
-   "vote": "yay"
-  },
-  {
-   "id": "IBP_12_B2",
-   "of": "IBP_12_B1",
-   "version": "B2",
-   "file": "img/IBP_12_B2.b64",
-   "before_file": "IBP_12_B1",
-   "title": "IBP_12_B1 → B2 · Chrome Heart · yellow HALO",
-   "note": "Build-on B2 (one change): yellow HALO palette, per Spirit's note 'maybe HALO is in a yellow color palette'. HALO letters retypeset in acid yellow and the chrome heart picks up a warm lemon reflection; layout and holo stickers unchanged.",
-   "updated": "2026-10-13T16:02:36Z",
-   "status": "keep",
-   "rooms": [
-    "INSPIRED BY PINTEREST"
-   ],
-   "theme": "INSPIRED BY PINTEREST",
-   "kind": "general",
-   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
-   "refs": [
-    {
-     "label": "Pinterest pin …124307",
-     "url": "https://www.pinterest.com/pin/1137440449704124307/"
-    },
-    {
-     "label": "Trend: Multi-dimensional depth: one strong 3D element + 2D type",
-     "url": "https://www.youtube.com/watch?v=yHs9-RVTwsA"
-    }
-   ],
-   "section": "Inspired by Pinterest",
-   "source_pins": [
-    {
-     "url": "https://www.pinterest.com/pin/1137440449704124307/",
-     "thumb": "1137440449704124307",
-     "label": "pin …124307"
-    }
-   ],
-   "vote": "keep",
-   "vote_issue": 76
-  },
-  {
-   "id": "IBP_41_B2",
-   "of": "IBP_41_B1",
-   "version": "B2",
-   "file": "img/IBP_41_B2.b64",
-   "before_file": "IBP_41_B1",
-   "title": "IBP_41_B1 → B2 · RAVE Drip · HALO RAVES logo",
-   "note": "Build-on B2 (one change): the plain HALO RAVES wordmark is added under the drip lettering, per Spirit's note. Nothing else changed.",
-   "updated": "2026-10-13T16:02:36Z",
-   "status": "keep",
-   "rooms": [
-    "INSPIRED BY PINTEREST"
-   ],
-   "theme": "INSPIRED BY PINTEREST",
-   "kind": "general",
-   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
-   "refs": [
-    {
-     "label": "Pinterest pin …129933",
-     "url": "https://www.pinterest.com/pin/1137440449704129933/"
-    }
-   ],
-   "section": "Inspired by Pinterest",
-   "source_pins": [
-    {
-     "url": "https://www.pinterest.com/pin/1137440449704129933/",
-     "thumb": "1137440449704129933",
-     "label": "pin …129933"
-    }
-   ],
-   "vote": "keep",
-   "vote_issue": 76
-  },
-  {
-   "id": "IBP_66_R1",
-   "of": "IBP_66",
-   "version": "R1",
-   "file": "img/IBP_66_R1.b64",
-   "before_file": "IBP_66",
-   "title": "IBP_66 → R1 · Think Louder · URL placement",
-   "note": "Rework R1 (text-only, typeset in code): haloraves.com moved off the art to a clean centred strip at the bottom of the left column, per Spirit's note. The art and line THINK LOUDER are unchanged.",
-   "updated": "2026-10-13T16:02:36Z",
-   "status": "keep",
-   "rooms": [
-    "INSPIRED BY PINTEREST"
-   ],
-   "theme": "INSPIRED BY PINTEREST",
-   "kind": "general",
-   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
-   "refs": [
-    {
-     "label": "Pinterest pin …145807",
-     "url": "https://www.pinterest.com/pin/1137440449704145807/"
-    },
-    {
-     "label": "Trend: Type collage / pick-and-mix lettering",
-     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
-    }
-   ],
-   "section": "Inspired by Pinterest",
-   "source_pins": [
-    {
-     "url": "https://www.pinterest.com/pin/1137440449704145807/",
-     "thumb": "1137440449704145807",
-     "label": "pin …145807"
-    }
-   ],
-   "vote": "keep",
-   "vote_issue": 76
-  },
-  {
-   "date": "2026-10-13T19:48:03Z",
-   "text": "Wall cleanup: 167 voted/noted pieces moved to Archive (reason: voted). Only fresh unvoted pieces remain In Review."
-  }
- ],
+ "updates": [],
  "kinds": {
   "promo": {
    "room": "PROMO PRINTS",
@@ -996,7 +57,8 @@
    "section": "Board Designs",
    "fields": "file (mockup preview .b64: deck + night/foil view + grip), shape, finish (glow/holo/wood/gold/full), source{type: pinterest|halo|trend, url|id}, deck_print, grip_print; posts only at A+",
    "plan": "/workspace/halo-output/boards/board_plan.json"
-  }
+  },
+  "tags": "tags = [family F1-F12 or legacy family, trend T#, product, finish, layout]; analysed by kb/catalog_analysis.py"
  },
  "archive": [
   {
@@ -1027,7 +89,14 @@
    "prev_status": "keep",
    "archive_reason": "older-version",
    "archived": "2026-10-13",
-   "archive_of": "T_SMALLLIFE_05_E2"
+   "archive_of": "T_SMALLLIFE_05_E2",
+   "tags": [
+    "F9",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_DREAMCOLLAGE_01",
@@ -1078,7 +147,14 @@
    "prev_status": "keep",
    "archive_reason": "older-version",
    "archived": "2026-10-13",
-   "archive_of": "P_DREAMCOLLAGE_V2_UFO"
+   "archive_of": "P_DREAMCOLLAGE_V2_UFO",
+   "tags": [
+    "DREAM_COLLAGE",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_HEADOPEN_01",
@@ -1129,7 +205,14 @@
    "prev_status": "keep",
    "archive_reason": "older-version",
    "archived": "2026-10-13",
-   "archive_of": "P_HEADOPEN_V2"
+   "archive_of": "P_HEADOPEN_V2",
+   "tags": [
+    "F2",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_SIGNALNOISE_01",
@@ -1180,7 +263,14 @@
    "prev_status": "keep",
    "archive_reason": "older-version",
    "archived": "2026-10-13",
-   "archive_of": "P_SIGNALNOISE_V2"
+   "archive_of": "P_SIGNALNOISE_V2",
+   "tags": [
+    "SIGNAL_NOISE",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "cannonball_v3",
@@ -1219,7 +309,14 @@
    "prev_status": "keep",
    "archive_reason": "older-version",
    "archived": "2026-10-13",
-   "archive_of": "cannonball_v5"
+   "archive_of": "cannonball_v5",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "cannonball_v4",
@@ -1259,7 +356,14 @@
    "prev_status": "keep",
    "archive_reason": "older-version",
    "archived": "2026-10-13",
-   "archive_of": "cannonball_v5"
+   "archive_of": "cannonball_v5",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "T_SIGNALNOISE_01_E1",
@@ -1297,7 +401,14 @@
    "prev_status": "keep",
    "archive_reason": "older-version",
    "archived": "2026-10-13",
-   "archive_of": "T_SIGNALNOISE_01_E2"
+   "archive_of": "T_SIGNALNOISE_01_E2",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_24",
@@ -1333,7 +444,14 @@
    "trend": "Liquid chrome / Acid Y2K revival",
    "prev_status": "nay",
    "archive_reason": "nay",
-   "archived": "2026-10-13"
+   "archived": "2026-10-13",
+   "tags": [
+    "TAPE_DECK",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_31",
@@ -1378,7 +496,14 @@
    "trend": "Multi-dimensional depth: one strong 3D element + 2D type",
    "prev_status": "nay",
    "archive_reason": "nay",
-   "archived": "2026-10-13"
+   "archived": "2026-10-13",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_C09",
@@ -1418,7 +543,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "nay",
    "archive_reason": "nay",
-   "archived": "2026-10-13"
+   "archived": "2026-10-13",
+   "tags": [
+    "F1",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_C11",
@@ -1458,7 +590,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "nay",
    "archive_reason": "nay",
-   "archived": "2026-10-13"
+   "archived": "2026-10-13",
+   "tags": [
+    "F1",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_C12",
@@ -1498,7 +637,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "nay",
    "archive_reason": "nay",
-   "archived": "2026-10-13"
+   "archived": "2026-10-13",
+   "tags": [
+    "F5",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_E03",
@@ -1543,7 +689,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "nay",
    "archive_reason": "nay",
-   "archived": "2026-10-13"
+   "archived": "2026-10-13",
+   "tags": [
+    "DREAM_COLLAGE",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G08",
@@ -1583,7 +736,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "nay",
    "archive_reason": "nay",
-   "archived": "2026-10-13"
+   "archived": "2026-10-13",
+   "tags": [
+    "DREAM_COLLAGE",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P5_EV_02",
@@ -1607,7 +767,14 @@
    ],
    "prev_status": "nay",
    "archive_reason": "nay",
-   "archived": "2026-10-13"
+   "archived": "2026-10-13",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_BITECOLOR_V2",
@@ -1655,7 +822,14 @@
    ],
    "prev_status": "nay",
    "archive_reason": "nay",
-   "archived": "2026-10-13"
+   "archived": "2026-10-13",
+   "tags": [
+    "BITE_COLOR",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_DREAMCOLLAGE_V2",
@@ -1703,7 +877,14 @@
    ],
    "prev_status": "nay",
    "archive_reason": "nay",
-   "archived": "2026-10-13"
+   "archived": "2026-10-13",
+   "tags": [
+    "DREAM_COLLAGE",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_HIDESKIN_V2",
@@ -1751,7 +932,14 @@
    ],
    "prev_status": "nay",
    "archive_reason": "nay",
-   "archived": "2026-10-13"
+   "archived": "2026-10-13",
+   "tags": [
+    "HIDE_SKIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_MATTERTYPE_V2",
@@ -1799,7 +987,14 @@
    ],
    "prev_status": "nay",
    "archive_reason": "nay",
-   "archived": "2026-10-13"
+   "archived": "2026-10-13",
+   "tags": [
+    "F3",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_TOYSMILE_V2",
@@ -1847,7 +1042,14 @@
    ],
    "prev_status": "nay",
    "archive_reason": "nay",
-   "archived": "2026-10-13"
+   "archived": "2026-10-13",
+   "tags": [
+    "F5",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "PP_01",
@@ -1890,7 +1092,14 @@
    "prev_status": "nay",
    "archive_reason": "superseded",
    "archived": "2026-10-13",
-   "archive_of": "PP_17-23 (real product)"
+   "archive_of": "PP_17-23 (real product)",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "PP_02",
@@ -1933,7 +1142,14 @@
    "prev_status": "nay",
    "archive_reason": "superseded",
    "archived": "2026-10-13",
-   "archive_of": "PP_17-23 (real product)"
+   "archive_of": "PP_17-23 (real product)",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "PP_03",
@@ -1976,7 +1192,14 @@
    "prev_status": "nay",
    "archive_reason": "superseded",
    "archived": "2026-10-13",
-   "archive_of": "PP_17-23 (real product)"
+   "archive_of": "PP_17-23 (real product)",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "PP_04",
@@ -2019,7 +1242,14 @@
    "prev_status": "nay",
    "archive_reason": "superseded",
    "archived": "2026-10-13",
-   "archive_of": "PP_17-23 (real product)"
+   "archive_of": "PP_17-23 (real product)",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "PP_05",
@@ -2062,7 +1292,14 @@
    "prev_status": "nay",
    "archive_reason": "superseded",
    "archived": "2026-10-13",
-   "archive_of": "PP_17-23 (real product)"
+   "archive_of": "PP_17-23 (real product)",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "PP_06",
@@ -2105,7 +1342,14 @@
    "prev_status": "nay",
    "archive_reason": "superseded",
    "archived": "2026-10-13",
-   "archive_of": "PP_17-23 (real product)"
+   "archive_of": "PP_17-23 (real product)",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "PP_07",
@@ -2148,7 +1392,14 @@
    "prev_status": "build",
    "archive_reason": "superseded",
    "archived": "2026-10-13",
-   "archive_of": "PP_17-23 (real product)"
+   "archive_of": "PP_17-23 (real product)",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "PP_08",
@@ -2191,7 +1442,14 @@
    "prev_status": "nay",
    "archive_reason": "superseded",
    "archived": "2026-10-13",
-   "archive_of": "PP_17-23 (real product)"
+   "archive_of": "PP_17-23 (real product)",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "PP_09",
@@ -2234,7 +1492,14 @@
    "prev_status": "nay",
    "archive_reason": "superseded",
    "archived": "2026-10-13",
-   "archive_of": "PP_17-23 (real product)"
+   "archive_of": "PP_17-23 (real product)",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "PP_11",
@@ -2277,7 +1542,14 @@
    "prev_status": "nay",
    "archive_reason": "superseded",
    "archived": "2026-10-13",
-   "archive_of": "PP_17-23 (real product)"
+   "archive_of": "PP_17-23 (real product)",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "PP_12",
@@ -2320,7 +1592,14 @@
    "prev_status": "nay",
    "archive_reason": "superseded",
    "archived": "2026-10-13",
-   "archive_of": "PP_17-23 (real product)"
+   "archive_of": "PP_17-23 (real product)",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "PP_13",
@@ -2363,7 +1642,14 @@
    "prev_status": "nay",
    "archive_reason": "superseded",
    "archived": "2026-10-13",
-   "archive_of": "PP_17-23 (real product)"
+   "archive_of": "PP_17-23 (real product)",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "PP_14",
@@ -2406,7 +1692,14 @@
    "prev_status": "nay",
    "archive_reason": "superseded",
    "archived": "2026-10-13",
-   "archive_of": "PP_17-23 (real product)"
+   "archive_of": "PP_17-23 (real product)",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "PP_15",
@@ -2449,7 +1742,14 @@
    "prev_status": "nay",
    "archive_reason": "superseded",
    "archived": "2026-10-13",
-   "archive_of": "PP_17-23 (real product)"
+   "archive_of": "PP_17-23 (real product)",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "PP_16",
@@ -2492,7 +1792,14 @@
    "prev_status": "nay",
    "archive_reason": "superseded",
    "archived": "2026-10-13",
-   "archive_of": "PP_17-23 (real product)"
+   "archive_of": "PP_17-23 (real product)",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "kind": "request",
@@ -2529,7 +1836,14 @@
    "archived": "2026-10-13",
    "archive_of": "REQ_PARK_B_v2",
    "client": "None. HALO, internal campaign",
-   "for": "HALO campaign still for the line \"Thirty people. The park stays quiet.\", used in general outreach on a wall or phone. No named venue or recipient in the request."
+   "for": "HALO campaign still for the line \"Thirty people. The park stays quiet.\", used in general outreach on a wall or phone. No named venue or recipient in the request.",
+   "tags": [
+    "-",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "kind": "request",
@@ -2566,7 +1880,14 @@
    "archived": "2026-10-13",
    "archive_of": "REQ_RISEYOGA_A_v2",
    "client": "Rise Yoga & Wellness, Golden (prospect, not yet booked)",
-   "for": "The one image attached to the draft outreach email \"One listening hour at Rise\" to rise@riseyogacolorado.com, pitching a one-hour listening session after class. Shown on a phone. Email not sent; it needs Spirit's yes."
+   "for": "The one image attached to the draft outreach email \"One listening hour at Rise\" to rise@riseyogacolorado.com, pitching a one-hour listening session after class. Shown on a phone. Email not sent; it needs Spirit's yes.",
+   "tags": [
+    "-",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "id": "IBP_07",
@@ -2604,7 +1925,14 @@
    "prev_status": "build",
    "archive_reason": "older-version",
    "archive_of": "IBP_07_B1",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_09",
@@ -2642,7 +1970,14 @@
    "prev_status": "build",
    "archive_reason": "older-version",
    "archive_of": "IBP_09_B1",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_11",
@@ -2680,7 +2015,14 @@
    "prev_status": "build",
    "archive_reason": "older-version",
    "archive_of": "IBP_11_B1",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_23",
@@ -2718,7 +2060,14 @@
    "prev_status": "build",
    "archive_reason": "older-version",
    "archive_of": "IBP_23_B1",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "F3",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_35",
@@ -2756,7 +2105,14 @@
    "prev_status": "build",
    "archive_reason": "older-version",
    "archive_of": "IBP_35_B1",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_36",
@@ -2794,7 +2150,14 @@
    "prev_status": "build",
    "archive_reason": "older-version",
    "archive_of": "IBP_36_B1",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_38",
@@ -2832,7 +2195,14 @@
    "prev_status": "build",
    "archive_reason": "older-version",
    "archive_of": "IBP_38_B1",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_40",
@@ -2870,7 +2240,14 @@
    "prev_status": "build",
    "archive_reason": "older-version",
    "archive_of": "IBP_40_B1",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_10",
@@ -2908,7 +2285,14 @@
    "prev_status": "build",
    "archive_reason": "older-version",
    "archive_of": "IBP_10_B1",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_12",
@@ -2946,7 +2330,14 @@
    "prev_status": "build",
    "archive_reason": "older-version",
    "archive_of": "IBP_12_B2",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_12_B1",
@@ -2988,7 +2379,14 @@
    "prev_status": "keep",
    "archive_reason": "older-version",
    "archive_of": "IBP_12_B2",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_41",
@@ -3022,7 +2420,14 @@
    "prev_status": "build",
    "archive_reason": "older-version",
    "archive_of": "IBP_41_B2",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_41_B1",
@@ -3060,7 +2465,14 @@
    "prev_status": "keep",
    "archive_reason": "older-version",
    "archive_of": "IBP_41_B2",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_66",
@@ -3101,7 +2513,14 @@
    "prev_status": "review",
    "archive_reason": "older-version",
    "archive_of": "IBP_66_R1",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_19_B1",
@@ -3139,7 +2558,14 @@
    "prev_status": "nay",
    "archive_reason": "nay",
    "archive_of": "IBP_19",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_26_B1",
@@ -3181,7 +2607,14 @@
    "prev_status": "nay",
    "archive_reason": "nay",
    "archive_of": "IBP_26",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "POSTER_GRID",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_32_B1",
@@ -3232,7 +2665,14 @@
    "prev_status": "nay",
    "archive_reason": "nay",
    "archive_of": "IBP_32",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_39_B1",
@@ -3274,7 +2714,14 @@
    "prev_status": "nay",
    "archive_reason": "nay",
    "archive_of": "IBP_39",
-   "archived": "2026-10-13T16:02:36Z"
+   "archived": "2026-10-13T16:02:36Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_78",
@@ -3315,7 +2762,14 @@
    "spirit_note_issue": 70,
    "reason": "older-version",
    "archived_at": "2026-10-13T16:57:04Z",
-   "superseded_by": "IBP_78_B1"
+   "superseded_by": "IBP_78_B1",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_25_B2",
@@ -3356,7 +2810,14 @@
    "spirit_note_issue": 67,
    "reason": "older-version",
    "archived_at": "2026-10-13T16:57:04Z",
-   "superseded_by": "IBP_25_B3"
+   "superseded_by": "IBP_25_B3",
+   "tags": [
+    "F5",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_10_B2",
@@ -3397,7 +2858,14 @@
    "spirit_note_issue": 65,
    "reason": "older-version",
    "archived_at": "2026-10-13T16:57:04Z",
-   "superseded_by": "IBP_10_B3"
+   "superseded_by": "IBP_10_B3",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_50",
@@ -3431,7 +2899,14 @@
    "vote": "build on",
    "reason": "older-version",
    "archived_at": "2026-10-13T16:57:04Z",
-   "superseded_by": "IBP_50_B1"
+   "superseded_by": "IBP_50_B1",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_53",
@@ -3469,7 +2944,14 @@
    "vote": "build on",
    "reason": "older-version",
    "archived_at": "2026-10-13T16:57:04Z",
-   "superseded_by": "IBP_53_B1"
+   "superseded_by": "IBP_53_B1",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_61",
@@ -3503,7 +2985,14 @@
    "vote": "build on",
    "reason": "older-version",
    "archived_at": "2026-10-13T16:57:04Z",
-   "superseded_by": "IBP_61_B1"
+   "superseded_by": "IBP_61_B1",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_62",
@@ -3541,7 +3030,14 @@
    "vote": "build on",
    "reason": "older-version",
    "archived_at": "2026-10-13T16:57:04Z",
-   "superseded_by": "IBP_62_B1"
+   "superseded_by": "IBP_62_B1",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_63",
@@ -3579,7 +3075,14 @@
    "vote": "build on",
    "reason": "older-version",
    "archived_at": "2026-10-13T16:57:04Z",
-   "superseded_by": "IBP_63_B1"
+   "superseded_by": "IBP_63_B1",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_52",
@@ -3614,7 +3117,14 @@
    "spirit_note_issue": 62,
    "reason": "older-version",
    "archived_at": "2026-10-13T16:57:04Z",
-   "superseded_by": "IBP_52_R1"
+   "superseded_by": "IBP_52_R1",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "kind": "request",
@@ -3656,7 +3166,14 @@
    "spirit_note_issue": 53,
    "reason": "older-version",
    "archived_at": "2026-10-13T16:57:04Z",
-   "superseded_by": "REQ_RISEYOGA_A_v3"
+   "superseded_by": "REQ_RISEYOGA_A_v3",
+   "tags": [
+    "-",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "id": "mono_lith_01",
@@ -3705,7 +3222,14 @@
    ],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F1",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "T_SMALLLIFE_01",
@@ -3734,7 +3258,14 @@
    ],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F9",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "T_TAPEDECK_02",
@@ -3766,7 +3297,14 @@
    ],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "T_POURDRIP_02",
@@ -3799,7 +3337,14 @@
    ],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F4",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "T_HEADOPEN_04",
@@ -3832,7 +3377,14 @@
    ],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F2",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "T_MONOLITH_05",
@@ -3865,7 +3417,14 @@
    ],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F1",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "T_HEADOPEN_05",
@@ -3897,7 +3456,14 @@
    ],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F2",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "cannonball_v4_E2",
@@ -3916,7 +3482,14 @@
    "refs": [],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "cannonball_v4_S1",
@@ -3935,7 +3508,14 @@
    "refs": [],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "T_SMALLLIFE_05_E2",
@@ -3963,7 +3543,14 @@
    ],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F9",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_MONOLITH_01",
@@ -4013,7 +3600,14 @@
    "updated": "2026-10-12T15:55:05Z",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F1",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_SMALLLIFE_01",
@@ -4063,7 +3657,14 @@
    "updated": "2026-10-12T15:55:05Z",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F9",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_TAPEDECK_01",
@@ -4113,7 +3714,14 @@
    "updated": "2026-10-12T15:55:05Z",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "TAPE_DECK",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_TOYSMILE_01",
@@ -4163,7 +3771,14 @@
    "updated": "2026-10-12T15:55:05Z",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F5",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_POURDRIP_01",
@@ -4213,7 +3828,14 @@
    "updated": "2026-10-12T15:55:05Z",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F4",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G01",
@@ -4253,7 +3875,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F6",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G02",
@@ -4293,7 +3922,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F6",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G03",
@@ -4333,7 +3969,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F7",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G04",
@@ -4373,7 +4016,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F7",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G05",
@@ -4413,7 +4063,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BITE_COLOR",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G06",
@@ -4453,7 +4110,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BITE_COLOR",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G07",
@@ -4493,7 +4157,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "DREAM_COLLAGE",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G09",
@@ -4533,7 +4204,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F2",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G10",
@@ -4573,7 +4251,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F2",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G11",
@@ -4613,7 +4298,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "HIDE_SKIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G12",
@@ -4653,7 +4345,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "HIDE_SKIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G13",
@@ -4693,7 +4392,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F3",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G14",
@@ -4733,7 +4439,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F3",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G15",
@@ -4773,7 +4486,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F1",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G16",
@@ -4813,7 +4533,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F1",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G17",
@@ -4853,7 +4580,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "POSTER_GRID",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G18",
@@ -4893,7 +4627,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "POSTER_GRID",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G19",
@@ -4933,7 +4674,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F4",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G20",
@@ -4973,7 +4721,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F4",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G21",
@@ -5013,7 +4768,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "SIGNAL_NOISE",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G22",
@@ -5053,7 +4815,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "SIGNAL_NOISE",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G23",
@@ -5093,7 +4862,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F8",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G24",
@@ -5133,7 +4909,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F8",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G25",
@@ -5173,7 +4956,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F9",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G26",
@@ -5213,7 +5003,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F9",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G27",
@@ -5253,7 +5050,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "TAPE_DECK",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G28",
@@ -5293,7 +5097,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "TAPE_DECK",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G29",
@@ -5333,7 +5144,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F5",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_G30",
@@ -5373,7 +5191,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F5",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_C01",
@@ -5413,7 +5238,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F4",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_C02",
@@ -5457,7 +5289,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "HIDE_SKIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_C03",
@@ -5497,7 +5336,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BITE_COLOR",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_C04",
@@ -5537,7 +5383,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "DREAM_COLLAGE",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_C05",
@@ -5577,7 +5430,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F1",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_C06",
@@ -5617,7 +5477,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "POSTER_GRID",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_C07",
@@ -5657,7 +5524,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F2",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_C08",
@@ -5697,7 +5571,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "TAPE_DECK",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_C10",
@@ -5737,7 +5618,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BITE_COLOR",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_C13",
@@ -5777,7 +5665,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F8",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_C14",
@@ -5817,7 +5712,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F6",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_E01",
@@ -5862,7 +5764,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F4",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_E02",
@@ -5907,7 +5816,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "SIGNAL_NOISE",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_E04",
@@ -5952,7 +5868,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F2",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_E05",
@@ -5997,7 +5920,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F6",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P4_E06",
@@ -6042,7 +5972,14 @@
    "sources": "Rendered from 2 pins as reference images (strong weight), light HALO touch (plain haloraves.com wordmark)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F8",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_MONOLITH_V2",
@@ -6090,7 +6027,14 @@
    ],
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F1",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_SIGNMARK_V2",
@@ -6138,7 +6082,14 @@
    ],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F8",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_POURDRIP_V2",
@@ -6186,7 +6137,14 @@
    ],
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F4",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_BENTTYPE_V2",
@@ -6234,7 +6192,14 @@
    ],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F7",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_TAPEDECK_V2",
@@ -6282,7 +6247,14 @@
    ],
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "TAPE_DECK",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_HEADOPEN_V2",
@@ -6330,7 +6302,14 @@
    ],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F2",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_SMALLLIFE_V2",
@@ -6378,7 +6357,14 @@
    ],
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F9",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_ACIDGRADIENT_V2",
@@ -6426,7 +6412,14 @@
    ],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F6",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_SIGNALNOISE_V2",
@@ -6474,7 +6467,14 @@
    ],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "SIGNAL_NOISE",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_POSTERGRID_V2",
@@ -6522,7 +6522,14 @@
    ],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "POSTER_GRID",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P_DREAMCOLLAGE_V2_UFO",
@@ -6570,7 +6577,14 @@
    ],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "DREAM_COLLAGE",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "PROMO_mono_lith_01_get-your-halo",
@@ -6617,7 +6631,14 @@
    ],
    "prev_status": "print",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F1",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "id": "PROMO_T_POURDRIP_02_private-rave",
@@ -6660,7 +6681,14 @@
    ],
    "prev_status": "print",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F4",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "id": "IBP_01",
@@ -6693,7 +6721,14 @@
    "trend": null,
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_02",
@@ -6726,7 +6761,14 @@
    "trend": null,
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_03",
@@ -6763,7 +6805,14 @@
    "trend": "Cloud Dancer white (Pantone Color of the Year 2026)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_04",
@@ -6796,7 +6845,14 @@
    "trend": null,
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_05",
@@ -6833,7 +6889,14 @@
    "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_06",
@@ -6870,7 +6933,14 @@
    "trend": "Liquid chrome / Acid Y2K revival",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_08",
@@ -6903,7 +6973,14 @@
    "trend": null,
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_13",
@@ -6936,7 +7013,14 @@
    "trend": null,
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_14",
@@ -6973,7 +7057,14 @@
    "trend": "Analog / human-made texture (grain, letterpress, photocopy)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_15",
@@ -7010,7 +7101,14 @@
    "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_16",
@@ -7047,7 +7145,14 @@
    "trend": "Multi-dimensional depth: one strong 3D element + 2D type",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_17",
@@ -7084,7 +7189,14 @@
    "trend": "Future Medieval / cyber-gothic blackletter",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_19",
@@ -7117,7 +7229,14 @@
    "trend": null,
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_21",
@@ -7150,7 +7269,14 @@
    "trend": null,
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F1",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_22",
@@ -7187,7 +7313,14 @@
    "trend": "Liquid chrome / Acid Y2K revival",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F2",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_25",
@@ -7224,7 +7357,14 @@
    "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F5",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_26",
@@ -7261,7 +7401,14 @@
    "trend": "Analog / human-made texture (grain, letterpress, photocopy)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "POSTER_GRID",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_27",
@@ -7298,7 +7445,14 @@
    "trend": "Glitchy Glam + Extra Celestial (Pinterest Predicts 2026)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "SIGNAL_NOISE",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_29",
@@ -7331,7 +7485,14 @@
    "trend": null,
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F9",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_32",
@@ -7377,7 +7538,14 @@
    "trend": "Future Medieval / cyber-gothic blackletter",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_34",
@@ -7410,7 +7578,14 @@
    "trend": null,
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_37",
@@ -7447,7 +7622,14 @@
    "trend": "Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_39",
@@ -7484,7 +7666,14 @@
    "trend": "Glitchy Glam + Extra Celestial (Pinterest Predicts 2026)",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P5_EV_01",
@@ -7508,7 +7697,14 @@
    ],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P5_EV_03",
@@ -7532,7 +7728,14 @@
    ],
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "P5_EV_05",
@@ -7556,7 +7759,14 @@
    ],
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "PROMO_IBP_21_get-your-halo",
@@ -7591,7 +7801,14 @@
    ],
    "prev_status": "print",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "id": "PROMO_IBP_11_private-rave",
@@ -7630,7 +7847,14 @@
    ],
    "prev_status": "print",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "id": "PROMO_IBP_39_transmitter-zone",
@@ -7669,7 +7893,14 @@
    ],
    "prev_status": "print",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "id": "PROMO_IBP_01_rsvp",
@@ -7704,7 +7935,14 @@
    ],
    "prev_status": "print",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "id": "PP_17",
@@ -7746,7 +7984,14 @@
    "vote": "nay",
    "prev_status": "nay",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "id": "PP_18",
@@ -7787,7 +8032,14 @@
    "vote": "nay",
    "prev_status": "nay",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "id": "PP_19",
@@ -7832,7 +8084,14 @@
    "vote": "nay",
    "prev_status": "nay",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "id": "PP_20",
@@ -7877,7 +8136,14 @@
    "vote": "nay",
    "prev_status": "nay",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "id": "PP_21",
@@ -7922,7 +8188,14 @@
    "vote": "nay",
    "prev_status": "nay",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "id": "PP_22",
@@ -7963,7 +8236,14 @@
    "vote": "nay",
    "prev_status": "nay",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "id": "PP_23",
@@ -8004,7 +8284,14 @@
    "vote": "nay",
    "prev_status": "nay",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "kind": "request",
@@ -8044,7 +8331,14 @@
    "vote": "build on",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "id": "IBP_43",
@@ -8082,7 +8376,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_45",
@@ -8120,7 +8421,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_46",
@@ -8158,7 +8466,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_47",
@@ -8196,7 +8511,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_48",
@@ -8234,7 +8556,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_49",
@@ -8272,7 +8601,14 @@
    "vote": "build on",
    "prev_status": "build",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_55",
@@ -8310,7 +8646,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_56",
@@ -8348,7 +8691,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_57",
@@ -8382,7 +8732,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_58",
@@ -8416,7 +8773,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_59",
@@ -8454,7 +8818,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_60",
@@ -8492,7 +8863,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_64",
@@ -8526,7 +8904,14 @@
    "vote": "nay",
    "prev_status": "nay",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_65",
@@ -8564,7 +8949,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_67",
@@ -8603,7 +8995,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_68",
@@ -8642,7 +9041,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_69",
@@ -8681,7 +9087,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_70",
@@ -8720,7 +9133,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_71",
@@ -8759,7 +9179,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_72",
@@ -8798,7 +9225,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_73",
@@ -8837,7 +9271,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_74",
@@ -8876,7 +9317,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_75",
@@ -8915,7 +9363,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_76",
@@ -8954,7 +9409,14 @@
    "vote": "yay",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_77",
@@ -8996,7 +9458,14 @@
    "spirit_note": "turn into a shirt",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_79",
@@ -9036,7 +9505,14 @@
    "vote_issue": 76,
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_80",
@@ -9078,7 +9554,14 @@
    "spirit_note": "turn into a shirt or hoodie",
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_81",
@@ -9118,7 +9601,14 @@
    "vote_issue": 76,
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_82",
@@ -9158,7 +9648,14 @@
    "vote_issue": 76,
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_83",
@@ -9198,7 +9695,14 @@
    "vote_issue": 76,
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_84",
@@ -9238,7 +9742,14 @@
    "vote_issue": 76,
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_85",
@@ -9277,7 +9788,14 @@
    "vote_issue": 76,
    "prev_status": "keep",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_78_B1",
@@ -9318,7 +9836,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "lettering",
+    "none",
+    "type_poster"
+   ]
   },
   {
    "id": "IBP_25_B3",
@@ -9365,7 +9890,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "F5",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_10_B3",
@@ -9403,7 +9935,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_50_B1",
@@ -9441,7 +9980,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_53_B1",
@@ -9479,7 +10025,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_61_B1",
@@ -9517,7 +10070,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_62_B1",
@@ -9555,7 +10115,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_63_B1",
@@ -9593,7 +10160,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_52_R1",
@@ -9633,7 +10207,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_86",
@@ -9667,7 +10248,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_89",
@@ -9701,7 +10289,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_90",
@@ -9735,7 +10330,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_91",
@@ -9769,7 +10371,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_92",
@@ -9803,7 +10412,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_93",
@@ -9837,7 +10453,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_95",
@@ -9871,7 +10494,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_96",
@@ -9905,7 +10535,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_97",
@@ -9939,7 +10576,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_98",
@@ -9973,7 +10617,14 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "id": "IBP_99",
@@ -10009,7 +10660,14 @@
    "spirit_note": "make it a skateboard",
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "BOARD_PIN",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
   },
   {
    "kind": "request",
@@ -10052,7 +10710,14 @@
    "before_file": "REQ_RISEYOGA_A_v2",
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "promo",
+    "none",
+    "promo_cta"
+   ]
   },
   {
    "id": "B3_01",
@@ -10100,7 +10765,20 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "deck",
+    "glow",
+    "deck_grip_reveal"
+   ],
+   "board_ref": {
+    "shape": "8.5in popsicle",
+    "template": "popsicle-9",
+    "template_url": "https://www.boardpusher.com/decktemplates/BoardPusher-Template-9-Inch-Popsicle.png",
+    "thumb": "bp_popsicle-9"
+   }
   },
   {
    "id": "B3_03",
@@ -10143,7 +10821,20 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "deck",
+    "glow",
+    "deck_grip_reveal"
+   ],
+   "board_ref": {
+    "shape": "8.25in popsicle",
+    "template": "popsicle-8",
+    "template_url": "https://www.boardpusher.com/decktemplates/BoardPusher-Template-825-Popsicle.png",
+    "thumb": "bp_popsicle-8"
+   }
   },
   {
    "id": "B3_09",
@@ -10186,7 +10877,1247 @@
    "vote_issue": 83,
    "prev_status": "review",
    "archive_reason": "voted",
-   "archived": "2026-10-13T19:48:03Z"
+   "archived": "2026-10-13T19:48:03Z",
+   "tags": [
+    "-",
+    "-",
+    "deck",
+    "glow",
+    "deck_grip_reveal"
+   ],
+   "board_ref": {
+    "shape": "8.5in popsicle",
+    "template": "popsicle-9",
+    "template_url": "https://www.boardpusher.com/decktemplates/BoardPusher-Template-9-Inch-Popsicle.png",
+    "thumb": "bp_popsicle-9"
+   }
+  },
+  {
+   "id": "cannonball_v5",
+   "of": "cannonball_v4",
+   "version": "v5",
+   "file": "img/cannonball_v5.b64",
+   "before_file": "cannonball_v4",
+   "title": "cannonball_v4 → v5",
+   "note": "YAY on v4 + more depth and shadow detailing, multi-depth holographic field, hyper realistic volumetric lighting and shadows, deep contrast, hyper color within glow",
+   "updated": "2026-10-12T00:07:31Z",
+   "status": "archive",
+   "rooms": [
+    "MATTER/TYPE",
+    "clients:Cannonball Creek"
+   ],
+   "kind": "client",
+   "kindLabel": "CLIENT · Cannonball Creek",
+   "refs": [
+    {
+     "label": "Client page: Cannonball Creek",
+     "url": "https://www.visitgolden.com/listing/cannonball-creek-brewery/"
+    },
+    {
+     "label": "Pinterest pin …237286",
+     "url": "https://www.pinterest.com/pin/1137440449696237286/"
+    },
+    {
+     "label": "Pinterest pin …237417",
+     "url": "https://www.pinterest.com/pin/1137440449696237417/"
+    },
+    {
+     "label": "Pinterest pin …237405",
+     "url": "https://www.pinterest.com/pin/1137440449696237405/"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "T_MONOLITH_03_E1",
+   "of": "T_MONOLITH_03",
+   "version": "E1",
+   "file": "img/T_MONOLITH_03_E1.b64",
+   "before_file": "T_MONOLITH_03",
+   "title": "T_MONOLITH_03 → E1",
+   "note": "",
+   "updated": "2026-10-12T02:27:47Z",
+   "status": "archive",
+   "rooms": [
+    "MONO/LITH"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin …889168",
+     "url": "https://www.pinterest.com/pin/1137440449703889168/"
+    },
+    {
+     "label": "Pinterest pin …889430",
+     "url": "https://www.pinterest.com/pin/1137440449703889430/"
+    },
+    {
+     "label": "Pinterest pin …900346",
+     "url": "https://www.pinterest.com/pin/1137440449703900346/"
+    },
+    {
+     "label": "Pinterest pin …889784",
+     "url": "https://www.pinterest.com/pin/1137440449703889784/"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "T_SMALLLIFE_03_E1",
+   "of": "T_SMALLLIFE_03",
+   "version": "E1",
+   "file": "img/T_SMALLLIFE_03_E1.b64",
+   "before_file": "T_SMALLLIFE_03",
+   "title": "T_SMALLLIFE_03 → E1",
+   "note": "",
+   "updated": "2026-10-12T02:27:47Z",
+   "status": "archive",
+   "rooms": [
+    "SMALL/LIFE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin …806130",
+     "url": "https://www.pinterest.com/pin/1137440449695806130/"
+    },
+    {
+     "label": "Pinterest pin …423576",
+     "url": "https://www.pinterest.com/pin/1137440449702423576/"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "T_BENTTYPE_05_E1",
+   "of": "T_BENTTYPE_05",
+   "version": "E1",
+   "file": "img/T_BENTTYPE_05_E1.b64",
+   "before_file": "T_BENTTYPE_05",
+   "title": "T_BENTTYPE_05 → E1",
+   "note": "O letter malformed, rework",
+   "updated": "2026-10-12T02:27:47Z",
+   "status": "archive",
+   "rooms": [
+    "BENT/TYPE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin …423540",
+     "url": "https://www.pinterest.com/pin/1137440449702423540/"
+    },
+    {
+     "label": "Pinterest pin …237572",
+     "url": "https://www.pinterest.com/pin/1137440449696237572/"
+    },
+    {
+     "label": "Pinterest pin …237567",
+     "url": "https://www.pinterest.com/pin/1137440449696237567/"
+    },
+    {
+     "label": "Pinterest pin …237472",
+     "url": "https://www.pinterest.com/pin/1137440449696237472/"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "T_BITECOLOR_01_E1",
+   "of": "T_BITECOLOR_01",
+   "version": "E1",
+   "file": "img/T_BITECOLOR_01_E1.b64",
+   "before_file": "T_BITECOLOR_01",
+   "title": "T_BITECOLOR_01 → E1",
+   "note": "",
+   "updated": "2026-10-12T02:27:47Z",
+   "status": "archive",
+   "rooms": [
+    "BITE/COLOR"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin …236968",
+     "url": "https://www.pinterest.com/pin/1137440449696236968/"
+    },
+    {
+     "label": "Pinterest pin …698731",
+     "url": "https://www.pinterest.com/pin/1137440449703698731/"
+    },
+    {
+     "label": "Pinterest pin …238209",
+     "url": "https://www.pinterest.com/pin/1137440449696238209/"
+    },
+    {
+     "label": "Pinterest pin …238200",
+     "url": "https://www.pinterest.com/pin/1137440449696238200/"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "T_TAPEDECK_01_E1",
+   "of": "T_TAPEDECK_01",
+   "version": "E1",
+   "file": "img/T_TAPEDECK_01_E1.b64",
+   "before_file": "T_TAPEDECK_01",
+   "title": "T_TAPEDECK_01 → E1",
+   "note": "",
+   "updated": "2026-10-12T02:27:47Z",
+   "status": "archive",
+   "rooms": [
+    "TAPE/DECK"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin …384470",
+     "url": "https://www.pinterest.com/pin/1137440449702384470/"
+    },
+    {
+     "label": "Pinterest pin …384476",
+     "url": "https://www.pinterest.com/pin/1137440449702384476/"
+    },
+    {
+     "label": "Pinterest pin …340159",
+     "url": "https://www.pinterest.com/pin/1137440449702340159/"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "T_TOYSMILE_01_E1",
+   "of": "T_TOYSMILE_01",
+   "version": "E1",
+   "file": "img/T_TOYSMILE_01_E1.b64",
+   "before_file": "T_TOYSMILE_01",
+   "title": "T_TOYSMILE_01 → E1",
+   "note": "",
+   "updated": "2026-10-12T02:27:47Z",
+   "status": "archive",
+   "rooms": [
+    "TOY/SMILE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin …899879",
+     "url": "https://www.pinterest.com/pin/1137440449703899879/"
+    },
+    {
+     "label": "Pinterest pin …690629",
+     "url": "https://www.pinterest.com/pin/1137440449703690629/"
+    },
+    {
+     "label": "Pinterest pin …612076",
+     "url": "https://www.pinterest.com/pin/1137440449702612076/"
+    },
+    {
+     "label": "Pinterest pin …567863",
+     "url": "https://www.pinterest.com/pin/1137440449703567863/"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "T_POSTERGRID_01_E1",
+   "of": "T_POSTERGRID_01",
+   "version": "E1",
+   "file": "img/T_POSTERGRID_01_E1.b64",
+   "before_file": "T_POSTERGRID_01",
+   "title": "T_POSTERGRID_01 → E1",
+   "note": "",
+   "updated": "2026-10-12T02:27:47Z",
+   "status": "archive",
+   "rooms": [
+    "POSTER/GRID"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin …690405",
+     "url": "https://www.pinterest.com/pin/1137440449703690405/"
+    },
+    {
+     "label": "Pinterest pin …690392",
+     "url": "https://www.pinterest.com/pin/1137440449703690392/"
+    },
+    {
+     "label": "Pinterest pin …889385",
+     "url": "https://www.pinterest.com/pin/1137440449703889385/"
+    },
+    {
+     "label": "Pinterest pin …613680",
+     "url": "https://www.pinterest.com/pin/1137440449702613680/"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "T_POURDRIP_01_E1",
+   "of": "T_POURDRIP_01",
+   "version": "E1",
+   "file": "img/T_POURDRIP_01_E1.b64",
+   "before_file": "T_POURDRIP_01",
+   "title": "T_POURDRIP_01 → E1",
+   "note": "",
+   "updated": "2026-10-12T02:27:47Z",
+   "status": "archive",
+   "rooms": [
+    "POUR/DRIP"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin …375546",
+     "url": "https://www.pinterest.com/pin/1137440449702375546/"
+    },
+    {
+     "label": "Pinterest pin …582717",
+     "url": "https://www.pinterest.com/pin/905575437605582717/"
+    },
+    {
+     "label": "Pinterest pin …236569",
+     "url": "https://www.pinterest.com/pin/1137440449696236569/"
+    },
+    {
+     "label": "Pinterest pin …384753",
+     "url": "https://www.pinterest.com/pin/1137440449702384753/"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "T_HEADOPEN_01_E2",
+   "of": "T_HEADOPEN_01",
+   "version": "E2",
+   "file": "img/T_HEADOPEN_01_E2.b64",
+   "before_file": "T_HEADOPEN_01_E1",
+   "title": "T_HEADOPEN_01 → E2",
+   "note": "",
+   "updated": "2026-10-12T03:08:43Z",
+   "status": "archive",
+   "rooms": [
+    "HEAD/OPEN"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin …032971",
+     "url": "https://www.pinterest.com/pin/1137440449704032971/"
+    },
+    {
+     "label": "Pinterest pin …899876",
+     "url": "https://www.pinterest.com/pin/1137440449703899876/"
+    },
+    {
+     "label": "Pinterest pin …612695",
+     "url": "https://www.pinterest.com/pin/1137440449702612695/"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "dream_collage_01_E2",
+   "of": "dream_collage_01",
+   "version": "E2",
+   "file": "img/dream_collage_01_E2.b64",
+   "before_file": "dream_collage_01_E1",
+   "title": "dream_collage_01 → E2",
+   "note": "",
+   "updated": "2026-10-12T03:08:43Z",
+   "status": "archive",
+   "rooms": [
+    "DREAM/COLLAGE"
+   ],
+   "kind": "general",
+   "kindLabel": "GENERAL",
+   "refs": [
+    {
+     "label": "Pinterest pin …036540",
+     "url": "https://www.pinterest.com/pin/1137440449704036540/"
+    },
+    {
+     "label": "Pinterest pin …036429",
+     "url": "https://www.pinterest.com/pin/1137440449704036429/"
+    },
+    {
+     "label": "Pinterest pin …036304",
+     "url": "https://www.pinterest.com/pin/1137440449704036304/"
+    },
+    {
+     "label": "Pinterest pin …036267",
+     "url": "https://www.pinterest.com/pin/1137440449704036267/"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "N_PEPPERJUNGLE_03",
+   "of": "N_PEPPERJUNGLE_02",
+   "version": "03",
+   "file": "img/N_PEPPERJUNGLE_03.b64",
+   "before_file": "N_PEPPERJUNGLE_02",
+   "title": "N_PEPPERJUNGLE_02 → 03",
+   "note": "",
+   "updated": "2026-10-12T04:28:25Z",
+   "status": "archive",
+   "rooms": [
+    "NIGHTS",
+    "nights:pepper-jungle"
+   ],
+   "theme": "NIGHTS",
+   "kind": "event",
+   "kindLabel": "EVENT · Pepper/Jungle",
+   "refs": [
+    {
+     "label": "haloraves.com night: pepper-jungle",
+     "url": "https://www.haloraves.com/nights/pepper-jungle"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "T_SIGNALNOISE_01_E2",
+   "of": "T_SIGNALNOISE_01",
+   "version": "E2",
+   "file": "img/T_SIGNALNOISE_01_E2.b64",
+   "before_file": "T_SIGNALNOISE_01_E1",
+   "title": "T_SIGNALNOISE_01 → E2",
+   "note": "",
+   "updated": "2026-10-12T04:28:25Z",
+   "status": "archive",
+   "rooms": [
+    "SIGNAL/NOISE"
+   ],
+   "theme": "SIGNAL/NOISE",
+   "kind": "general",
+   "kindLabel": "GENERAL · SIGNAL/NOISE",
+   "refs": [
+    {
+     "label": "Pinterest pin …384607",
+     "url": "https://www.pinterest.com/pin/1137440449702384607/"
+    },
+    {
+     "label": "Pinterest pin …424072",
+     "url": "https://www.pinterest.com/pin/1137440449702424072/"
+    },
+    {
+     "label": "Pinterest pin …688891",
+     "url": "https://www.pinterest.com/pin/1137440449703688891/"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "T_MATTERTYPE_05_E3",
+   "of": "T_MATTERTYPE_05",
+   "version": "E3",
+   "file": "img/T_MATTERTYPE_05_E3.b64",
+   "before_file": "T_MATTERTYPE_05_E2",
+   "title": "T_MATTERTYPE_05 → E3",
+   "note": "",
+   "updated": "2026-10-12T04:28:25Z",
+   "status": "archive",
+   "rooms": [
+    "MATTER/TYPE"
+   ],
+   "theme": "MATTER/TYPE",
+   "kind": "general",
+   "kindLabel": "GENERAL · MATTER/TYPE",
+   "refs": [
+    {
+     "label": "Pinterest pin …237286",
+     "url": "https://www.pinterest.com/pin/1137440449696237286/"
+    },
+    {
+     "label": "Pinterest pin …237417",
+     "url": "https://www.pinterest.com/pin/1137440449696237417/"
+    },
+    {
+     "label": "Pinterest pin …237405",
+     "url": "https://www.pinterest.com/pin/1137440449696237405/"
+    }
+   ],
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "IBP_07_B1",
+   "of": "IBP_07",
+   "version": "B1",
+   "file": "img/IBP_07_B1.b64",
+   "before_file": "IBP_07",
+   "title": "IBP_07 → B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "archive",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin …124249",
+     "url": "https://www.pinterest.com/pin/1137440449704124249/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704124249/",
+     "thumb": "1137440449704124249",
+     "label": "pin …124249"
+    }
+   ],
+   "vote": "yay",
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "IBP_09_B1",
+   "of": "IBP_09",
+   "version": "B1",
+   "file": "img/IBP_09_B1.b64",
+   "before_file": "IBP_09",
+   "title": "IBP_09 → B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "archive",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin …124261",
+     "url": "https://www.pinterest.com/pin/1137440449704124261/"
+    },
+    {
+     "label": "Trend: Cloud Dancer white (Pantone Color of the Year 2026)",
+     "url": "https://www.pantone.com/articles/press-releases/pantone-announces-color-of-the-year-2026-cloud-dancer"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704124261/",
+     "thumb": "1137440449704124261",
+     "label": "pin …124261"
+    }
+   ],
+   "vote": "yay",
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "IBP_10_B1",
+   "of": "IBP_10",
+   "version": "B1",
+   "file": "img/IBP_10_B1.b64",
+   "before_file": "IBP_10",
+   "title": "IBP_10 → B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "archive",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin …124269",
+     "url": "https://www.pinterest.com/pin/1137440449704124269/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704124269/",
+     "thumb": "1137440449704124269",
+     "label": "pin …124269"
+    }
+   ],
+   "vote": "yay",
+   "spirit_note": "have it be gold",
+   "spirit_note_issue": 54,
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "IBP_11_B1",
+   "of": "IBP_11",
+   "version": "B1",
+   "file": "img/IBP_11_B1.b64",
+   "before_file": "IBP_11",
+   "title": "IBP_11 → B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "archive",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin …124276",
+     "url": "https://www.pinterest.com/pin/1137440449704124276/"
+    },
+    {
+     "label": "Trend: Liquid chrome / Acid Y2K revival",
+     "url": "https://www.omoro.io/styles/acid-y2k"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704124276/",
+     "thumb": "1137440449704124276",
+     "label": "pin …124276"
+    }
+   ],
+   "vote": "yay",
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "IBP_23_B1",
+   "of": "IBP_23",
+   "version": "B1",
+   "file": "img/IBP_23_B1.b64",
+   "before_file": "IBP_23",
+   "title": "IBP_23 → B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "archive",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin …236631",
+     "url": "https://www.pinterest.com/pin/1137440449696236631/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449696236631/",
+     "thumb": "1137440449696236631",
+     "label": "pin …236631"
+    }
+   ],
+   "vote": "yay",
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "IBP_25_B1",
+   "of": "IBP_25",
+   "version": "B1",
+   "file": "img/IBP_25_B1.b64",
+   "before_file": "IBP_25",
+   "title": "IBP_25 → B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "archive",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin …341541",
+     "url": "https://www.pinterest.com/pin/1137440449702341541/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702341541/",
+     "thumb": "1137440449702341541",
+     "label": "pin …341541"
+    }
+   ],
+   "vote": "build on",
+   "spirit_note": "where i put the lines or within the package, have it look like POWERUP or EXTRA LIFE.  with a HALO emblem wax seal",
+   "spirit_note_issue": 57,
+   "prev_status": "build",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "IBP_35_B1",
+   "of": "IBP_35",
+   "version": "B1",
+   "file": "img/IBP_35_B1.b64",
+   "before_file": "IBP_35",
+   "title": "IBP_35 → B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "archive",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin …129882",
+     "url": "https://www.pinterest.com/pin/1137440449704129882/"
+    },
+    {
+     "label": "Trend: Liquid chrome / Acid Y2K revival",
+     "url": "https://www.omoro.io/styles/acid-y2k"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704129882/",
+     "thumb": "1137440449704129882",
+     "label": "pin …129882"
+    }
+   ],
+   "vote": "yay",
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "IBP_36_B1",
+   "of": "IBP_36",
+   "version": "B1",
+   "file": "img/IBP_36_B1.b64",
+   "before_file": "IBP_36",
+   "title": "IBP_36 → B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "archive",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin …129890",
+     "url": "https://www.pinterest.com/pin/1137440449704129890/"
+    },
+    {
+     "label": "Trend: Gimme Gummy / squishy-glossy textures (Pinterest Predicts 2026)",
+     "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704129890/",
+     "thumb": "1137440449704129890",
+     "label": "pin …129890"
+    }
+   ],
+   "vote": "yay",
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "IBP_38_B1",
+   "of": "IBP_38",
+   "version": "B1",
+   "file": "img/IBP_38_B1.b64",
+   "before_file": "IBP_38",
+   "title": "IBP_38 → B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "archive",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin …129896",
+     "url": "https://www.pinterest.com/pin/1137440449704129896/"
+    },
+    {
+     "label": "Trend: Analog / human-made texture (grain, letterpress, photocopy)",
+     "url": "https://www.adobe.com/express/learn/blog/design-trends-2026"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704129896/",
+     "thumb": "1137440449704129896",
+     "label": "pin …129896"
+    }
+   ],
+   "vote": "yay",
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "IBP_40_B1",
+   "of": "IBP_40",
+   "version": "B1",
+   "file": "img/IBP_40_B1.b64",
+   "before_file": "IBP_40",
+   "title": "IBP_40 → B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "archive",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin …129929",
+     "url": "https://www.pinterest.com/pin/1137440449704129929/"
+    },
+    {
+     "label": "Trend: Liquid chrome / Acid Y2K revival",
+     "url": "https://www.omoro.io/styles/acid-y2k"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704129929/",
+     "thumb": "1137440449704129929",
+     "label": "pin …129929"
+    }
+   ],
+   "vote": "yay",
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "P5_EV_03_B1",
+   "of": "P5_EV_03",
+   "version": "B1",
+   "file": "img/P5_EV_03_B1.b64",
+   "before_file": "P5_EV_03",
+   "title": "P5_EV_03 → B1",
+   "note": "Build-on: stronger version pushing the source pin style further",
+   "updated": "2026-10-13T06:16:22Z",
+   "status": "archive",
+   "rooms": [
+    "NIGHTS",
+    "nights:spore-amen"
+   ],
+   "theme": "NIGHTS",
+   "kind": "event",
+   "kindLabel": "EVENT · Spore / Amen",
+   "refs": [
+    {
+     "label": "Source poster: haloraves.com/nights/spore-amen",
+     "url": "https://www.haloraves.com/nights/spore-amen"
+    }
+   ],
+   "vote": "yay",
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "IBP_12_B2",
+   "of": "IBP_12_B1",
+   "version": "B2",
+   "file": "img/IBP_12_B2.b64",
+   "before_file": "IBP_12_B1",
+   "title": "IBP_12_B1 → B2 · Chrome Heart · yellow HALO",
+   "note": "Build-on B2 (one change): yellow HALO palette, per Spirit's note 'maybe HALO is in a yellow color palette'. HALO letters retypeset in acid yellow and the chrome heart picks up a warm lemon reflection; layout and holo stickers unchanged.",
+   "updated": "2026-10-13T16:02:36Z",
+   "status": "archive",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin …124307",
+     "url": "https://www.pinterest.com/pin/1137440449704124307/"
+    },
+    {
+     "label": "Trend: Multi-dimensional depth: one strong 3D element + 2D type",
+     "url": "https://www.youtube.com/watch?v=yHs9-RVTwsA"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704124307/",
+     "thumb": "1137440449704124307",
+     "label": "pin …124307"
+    }
+   ],
+   "vote": "keep",
+   "vote_issue": 76,
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "IBP_41_B2",
+   "of": "IBP_41_B1",
+   "version": "B2",
+   "file": "img/IBP_41_B2.b64",
+   "before_file": "IBP_41_B1",
+   "title": "IBP_41_B1 → B2 · RAVE Drip · HALO RAVES logo",
+   "note": "Build-on B2 (one change): the plain HALO RAVES wordmark is added under the drip lettering, per Spirit's note. Nothing else changed.",
+   "updated": "2026-10-13T16:02:36Z",
+   "status": "archive",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin …129933",
+     "url": "https://www.pinterest.com/pin/1137440449704129933/"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704129933/",
+     "thumb": "1137440449704129933",
+     "label": "pin …129933"
+    }
+   ],
+   "vote": "keep",
+   "vote_issue": 76,
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  },
+  {
+   "id": "IBP_66_R1",
+   "of": "IBP_66",
+   "version": "R1",
+   "file": "img/IBP_66_R1.b64",
+   "before_file": "IBP_66",
+   "title": "IBP_66 → R1 · Think Louder · URL placement",
+   "note": "Rework R1 (text-only, typeset in code): haloraves.com moved off the art to a clean centred strip at the bottom of the left column, per Spirit's note. The art and line THINK LOUDER are unchanged.",
+   "updated": "2026-10-13T16:02:36Z",
+   "status": "archive",
+   "rooms": [
+    "INSPIRED BY PINTEREST"
+   ],
+   "theme": "INSPIRED BY PINTEREST",
+   "kind": "general",
+   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
+   "refs": [
+    {
+     "label": "Pinterest pin …145807",
+     "url": "https://www.pinterest.com/pin/1137440449704145807/"
+    },
+    {
+     "label": "Trend: Type collage / pick-and-mix lettering",
+     "url": "https://www.itsnicethat.com/features/forward-thinking-graphic-trends-2026-graphic-design-120126"
+    }
+   ],
+   "section": "Inspired by Pinterest",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704145807/",
+     "thumb": "1137440449704145807",
+     "label": "pin …145807"
+    }
+   ],
+   "vote": "keep",
+   "vote_issue": 76,
+   "prev_status": "keep",
+   "archive_reason": "voted",
+   "was_update": true,
+   "tags": [
+    "-",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ]
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-10-13T19:48Z",
+   "text": "Wall cleanup: every voted/noted piece (items + update cards) moved to Archive, reason 'voted'. Only fresh unvoted pieces remain In Review. Cards show tags, Tapstitch blank refs and Boardpusher template refs."
   }
  ]
 }
