@@ -1,7 +1,7 @@
 {
- "total": 165,
- "done": 165,
- "updated": "2026-10-13T16:57:04Z",
+ "total": 168,
+ "done": 168,
+ "updated": "2026-10-13T17:22:57Z",
  "items": [
   {
    "id": "mono_lith_01",
@@ -5897,6 +5897,125 @@
    "spirit_note": "this would be a nay, and would bore the client. Think of something within what we are working on that can be outside the box and could wow them within their niche.",
    "spirit_note_issue": 53,
    "before_file": "REQ_RISEYOGA_A_v2"
+  },
+  {
+   "id": "B3_01",
+   "file": "img/B3_01.b64",
+   "title": "The Monolith Wakes \u00b7 GLOW \u00b7 8.5 popsicle",
+   "theme": "Board Designs",
+   "section": "Board Designs",
+   "kind": "board",
+   "kindLabel": "BOARD \u00b7 GLOW",
+   "status": "review",
+   "rooms": [
+    "BOARD DESIGNS"
+   ],
+   "refs": [
+    {
+     "label": "Source keeper mono_lith_01 \u00b7 Alpine Monolith",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/mono_lith_01.b64"
+    },
+    {
+     "label": "Source keeper PROMO_mono_lith_01_get-your-halo \u00b7 Alpine Monolith \u00b7 Get Your HALO",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/PROMO_mono_lith_01_get-your-halo.b64"
+    },
+    {
+     "label": "Pinterest pin \u2026032811",
+     "url": "https://www.pinterest.com/pin/1137440449704032811/"
+    },
+    {
+     "label": "Pinterest pin \u2026901973",
+     "url": "https://www.pinterest.com/pin/1137440449703901973/"
+    }
+   ],
+   "source_keepers": [
+    "mono_lith_01",
+    "PROMO_mono_lith_01_get-your-halo"
+   ],
+   "finish": "glow",
+   "shape": "8.5 popsicle",
+   "note": "Finish: GLOW IN THE DARK (+$5; white = glow window) \u00b7 Shape: 8.5 popsicle (popsicle-9 \u00b7 deck 10x35in \u00b7 grip 10x36in) \u00b7 Source: keeper mono_lith_01 (Alpine Monolith) + PROMO Get Your HALO / F1 MONO/LITH. Grip = cold pre-dawn monolith under an empty chalk ring; flip = the ring has ignited into a gold halo over the peak. Glow window on the halo ring only, so the ring wakes in the dark. Card = deck daylight / deck night sim / grip. 300dpi print PNGs on the box: /workspace/halo-output/boards/build/B3_01/B3_01_deck_print.png and /workspace/halo-output/boards/build/B3_01/B3_01_grip_print.png. Print caveat: art Lanczos-upscaled from a 1280px render (~33-40 dpi effective); hi-res re-render/upscale before any order.",
+   "prints_box": [
+    "/workspace/halo-output/boards/build/B3_01/B3_01_deck_print.png",
+    "/workspace/halo-output/boards/build/B3_01/B3_01_grip_print.png"
+   ],
+   "updated": "2026-10-13T17:22:57Z"
+  },
+  {
+   "id": "B3_03",
+   "file": "img/B3_03.b64",
+   "title": "Storm Head \u00b7 GLOW \u00b7 8.25 popsicle",
+   "theme": "Board Designs",
+   "section": "Board Designs",
+   "kind": "board",
+   "kindLabel": "BOARD \u00b7 GLOW",
+   "status": "review",
+   "rooms": [
+    "BOARD DESIGNS"
+   ],
+   "refs": [
+    {
+     "label": "Source keeper T_HEADOPEN_04 \u00b7 Storm Head",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/T_HEADOPEN_04.b64"
+    },
+    {
+     "label": "Pinterest pin \u2026032971",
+     "url": "https://www.pinterest.com/pin/1137440449704032971/"
+    },
+    {
+     "label": "Pinterest pin \u2026899876",
+     "url": "https://www.pinterest.com/pin/1137440449703899876/"
+    }
+   ],
+   "source_keepers": [
+    "T_HEADOPEN_04"
+   ],
+   "finish": "glow",
+   "shape": "8.25 popsicle",
+   "note": "Finish: GLOW IN THE DARK (+$5; white = glow window) \u00b7 Shape: 8.25 popsicle (popsicle-8 \u00b7 deck 9x33in \u00b7 grip 9x33in) \u00b7 Source: keeper T_HEADOPEN_04 (Storm Head) / F HEAD/OPEN. Grip = serene marble head, eyes closed, in lilac cloud; flip = the crown splits open and a thunderstorm pours out. Glow window on the lightning only, visible at night. Card = deck daylight / deck night sim / grip. 300dpi print PNGs on the box: /workspace/halo-output/boards/build/B3_03/B3_03_deck_print.png and /workspace/halo-output/boards/build/B3_03/B3_03_grip_print.png. Print caveat: art Lanczos-upscaled from a 1280px render (~33-40 dpi effective); hi-res re-render/upscale before any order.",
+   "prints_box": [
+    "/workspace/halo-output/boards/build/B3_03/B3_03_deck_print.png",
+    "/workspace/halo-output/boards/build/B3_03/B3_03_grip_print.png"
+   ],
+   "updated": "2026-10-13T17:22:57Z"
+  },
+  {
+   "id": "B3_09",
+   "file": "img/B3_09.b64",
+   "title": "Signal Tower \u00b7 GLOW \u00b7 8.5 popsicle",
+   "theme": "Board Designs",
+   "section": "Board Designs",
+   "kind": "board",
+   "kindLabel": "BOARD \u00b7 GLOW",
+   "status": "review",
+   "rooms": [
+    "BOARD DESIGNS"
+   ],
+   "refs": [
+    {
+     "label": "Source keeper P_SIGNALNOISE_V2 \u00b7 SIGNAL/NOISE \u00b7 V2 pin-led",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/P_SIGNALNOISE_V2.b64"
+    },
+    {
+     "label": "Pinterest pin \u2026384702",
+     "url": "https://www.pinterest.com/pin/1137440449702384702/"
+    },
+    {
+     "label": "Pinterest pin \u2026341796",
+     "url": "https://www.pinterest.com/pin/1137440449702341796/"
+    }
+   ],
+   "source_keepers": [
+    "P_SIGNALNOISE_V2"
+   ],
+   "finish": "glow",
+   "shape": "8.5 popsicle",
+   "note": "Finish: GLOW IN THE DARK (+$5; white = glow window) \u00b7 Shape: 8.5 popsicle (popsicle-9 \u00b7 deck 10x35in \u00b7 grip 10x36in) \u00b7 Source: keeper P_SIGNALNOISE_V2 (SIGNAL/NOISE V2 pin-led) / F SIGNAL/NOISE. Grip = navy/cream noise waves; flip = the signal resolves into a tower sending halo rings outward. Glow window on the emitted rings + beacon only. Card = deck daylight / deck night sim / grip. 300dpi print PNGs on the box: /workspace/halo-output/boards/build/B3_09/B3_09_deck_print.png and /workspace/halo-output/boards/build/B3_09/B3_09_grip_print.png. Print caveat: art Lanczos-upscaled from a 1280px render (~33-40 dpi effective); hi-res re-render/upscale before any order.",
+   "prints_box": [
+    "/workspace/halo-output/boards/build/B3_09/B3_09_deck_print.png",
+    "/workspace/halo-output/boards/build/B3_09/B3_09_grip_print.png"
+   ],
+   "updated": "2026-10-13T17:22:57Z"
   }
  ],
  "updates": [
