@@ -49,7 +49,7 @@ button:hover,button.on{background:var(--y);color:#000}button.keep{border-color:v
 <label>REFERENCE PHOTOS</label><div id="drop">tap to add · paste · drag images here<input id="file" type="file" accept="image/*" multiple style="display:none"></div><div id="refs"></div>
 <button id="send">SEND FEEDBACK</button><div id="fbmsg"></div></div></div>
 <script>
-const BUILD='20261014b';
+const BUILD='20261015a';
 const safeSet=(k,v)=>{try{localStorage.setItem(k,v);return true}catch(e){console.warn('storage save failed',k,e);return false}};
 const toast=m=>{let t=document.getElementById('toast');if(!t){t=document.createElement('div');t.id='toast';t.style.cssText='position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:#111;color:#fff;border:1px solid #ff0;padding:10px 16px;z-index:9999;font:14px sans-serif;border-radius:6px;pointer-events:none';document.body.appendChild(t)}t.textContent=m;t.style.display='block';clearTimeout(t._h);t._h=setTimeout(()=>t.style.display='none',2200)};
 try{const mk=JSON.parse(localStorage.getItem('halo_live_mk')||'{}'),ks=Object.keys(mk);if(ks.length>5){const o={};ks.slice(-5).forEach(k=>o[k]=mk[k]);if(!safeSet('halo_live_mk',JSON.stringify(o)))localStorage.removeItem('halo_live_mk')}}catch(e){}
