@@ -1,8 +1,329 @@
 {
- "total": 123,
- "done": 123,
- "updated": "2026-10-16T22:32:14Z",
+ "total": 122,
+ "done": 122,
+ "updated": "2026-10-16T23:35:24Z",
  "items": [
+  {
+   "id": "HYB_DOOM_DUNE_02_B1",
+   "title": "DOOM × Dune · build on · the giant stone face in the canyon · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Build On · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T23:35:24Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_DOOM_DUNE_02",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DOOM_DUNE_02.b64"
+    },
+    {
+     "label": "Spirit vote/note #116",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/116"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On HYB_DOOM_DUNE_02 (#116): rebuilt from Spirit's three reference pins: a colossal sleeping stone face carved into a glowing orange desert canyon with one tiny haloed wanderer for scale, and pale winged eyes drifting high in the haze",
+   "batch": "batch_20261016_2329",
+   "file": "img/HYB_DOOM_DUNE_02_B1.b64",
+   "of": "HYB_DOOM_DUNE_02",
+   "builds_on": "HYB_DOOM_DUNE_02",
+   "spirit_note": "more like the reference photos (3 Pinterest refs: winged-eye dreamcore sky, giant stone face in an orange canyon, CRT in tall grass)",
+   "spirit_note_issue": 116
+  },
+  {
+   "id": "HYB_DOOM_DUNE_02_B2",
+   "title": "DOOM × Dune · build on · the CRT in the dune grass · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Build On · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T23:35:24Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_DOOM_DUNE_02",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DOOM_DUNE_02.b64"
+    },
+    {
+     "label": "Spirit vote/note #116",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/116"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On HYB_DOOM_DUNE_02 (#116), second read of the same refs: the CRT-in-the-grass dreamcore pin moved to the dune edge, an old beige monitor glowing static in tall gold grass at the foot of the dunes, the gold headphones resting on top, winged eyes in a pastel sky",
+   "batch": "batch_20261016_2329",
+   "file": "img/HYB_DOOM_DUNE_02_B2.b64",
+   "of": "HYB_DOOM_DUNE_02",
+   "builds_on": "HYB_DOOM_DUNE_02",
+   "spirit_note": "more like the reference photos (3 Pinterest refs: winged-eye dreamcore sky, giant stone face in an orange canyon, CRT in tall grass)",
+   "spirit_note_issue": 116
+  },
+  {
+   "id": "HYB_MEGA_LIQUID_02_B1",
+   "title": "Mega / Liquid · build on · the cobalt robot in the liquid crown · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Build On · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T23:35:24Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_MEGA_LIQUID_02",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_MEGA_LIQUID_02.b64"
+    },
+    {
+     "label": "Spirit vote/note #115",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/115"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On HYB_MEGA_LIQUID_02 (#115): pulled back to the Mega / Liquid poster photo as Spirit asked: an original glossy cobalt-and-chrome robot as the full hero, standing in a crown splash of liquid blue light with the headphones on, gold halo above",
+   "batch": "batch_20261016_2329",
+   "file": "img/HYB_MEGA_LIQUID_02_B1.b64",
+   "of": "HYB_MEGA_LIQUID_02",
+   "builds_on": "HYB_MEGA_LIQUID_02",
+   "spirit_note": "more like see photos",
+   "spirit_note_issue": 115
+  },
+  {
+   "id": "HYB_GOJIRA_GARAGE_01_B2",
+   "title": "Gojira / Garage · build on · the leviathan breaches the flooded district · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Build On · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T23:35:24Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_GOJIRA_GARAGE_01_B1",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_GOJIRA_GARAGE_01_B1.b64"
+    },
+    {
+     "label": "Spirit vote/note #114",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/114"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On HYB_GOJIRA_GARAGE_01_B1 (#114): the crystal-spined stone leviathan pushed to full breach, rising head-first out of the flooded garage district with water sheeting off its faceted hide, the pod held to the flat crystal lens and dwarfed above it",
+   "batch": "batch_20261016_2329",
+   "file": "img/HYB_GOJIRA_GARAGE_01_B2.b64",
+   "of": "HYB_GOJIRA_GARAGE_01_B1",
+   "builds_on": "HYB_GOJIRA_GARAGE_01_B1"
+  },
+  {
+   "id": "HYB_POD_THREE170_01_B2",
+   "title": "UFO Pod Worlds · Three170 · build on · the creek that climbs the sky · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Build On · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T23:35:24Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_POD_THREE170_01_B1",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_THREE170_01_B1.b64"
+    },
+    {
+     "label": "Spirit vote/note #114",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/114"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On HYB_POD_THREE170_01_B1 (#114): Clear Creek Canyon pushed further into nature surrealism: the creek lifts off the canyon floor and climbs toward the sunset disc as a floating ribbon of water, the checker stones following it up, the pod gliding along the stream",
+   "batch": "batch_20261016_2329",
+   "file": "img/HYB_POD_THREE170_01_B2.b64",
+   "of": "HYB_POD_THREE170_01_B1",
+   "builds_on": "HYB_POD_THREE170_01_B1"
+  },
+  {
+   "id": "HYB_POD_FLYOVER_AFTER_MIDNIGHT_01",
+   "title": "Pod Night Flyovers · After / Midnight · the pod through the neon-yellow ring · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod · Night Flyovers · Oct 16",
+   "status": "review",
+   "rooms": [
+    "UFO Pod · Night Flyovers · Oct 16"
+   ],
+   "updated": "2026-10-16T23:35:24Z",
+   "kind": "pod_flyover",
+   "kindLabel": "POD FLYOVER · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-flyover",
+    "loop-ready"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Pod Night Flyover (loop-ready establishing frame): the HALO UFO pod gliding through a giant thin neon-yellow halo ring over a black after-midnight city lake, from the yay'd After / Midnight poster",
+   "batch": "batch_20261016_2329",
+   "file": "img/HYB_POD_FLYOVER_AFTER_MIDNIGHT_01.b64"
+  },
+  {
+   "id": "HYB_POD_FLYOVER_LIGHTS_ON_01",
+   "title": "Pod Night Flyovers · Lights / On · the pod along the string of lights · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod · Night Flyovers · Oct 16",
+   "status": "review",
+   "rooms": [
+    "UFO Pod · Night Flyovers · Oct 16"
+   ],
+   "updated": "2026-10-16T23:35:24Z",
+   "kind": "pod_flyover",
+   "kindLabel": "POD FLYOVER · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-flyover",
+    "loop-ready"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Pod Night Flyover (loop-ready establishing frame): the HALO UFO pod drifting along an endless string of warm amber bulbs strung across a black flooded plaza, from the yay'd Lights / On poster",
+   "batch": "batch_20261016_2329",
+   "file": "img/HYB_POD_FLYOVER_LIGHTS_ON_01.b64"
+  },
+  {
+   "id": "HYB_POD_FLYOVER_REPUTATION_01",
+   "title": "Pod Night Flyovers · Reputation · the pod in the single spotlight · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod · Night Flyovers · Oct 16",
+   "status": "review",
+   "rooms": [
+    "UFO Pod · Night Flyovers · Oct 16"
+   ],
+   "updated": "2026-10-16T23:35:24Z",
+   "kind": "pod_flyover",
+   "kindLabel": "POD FLYOVER · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-flyover",
+    "loop-ready"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Pod Night Flyover (loop-ready establishing frame): the HALO UFO pod hovering in one hard white spotlight inside a vast black hall, shattered black-glass shards orbiting it, from the yay'd Reputation poster",
+   "batch": "batch_20261016_2329",
+   "file": "img/HYB_POD_FLYOVER_REPUTATION_01.b64"
+  },
+  {
+   "id": "HYB_POD_FLYOVER_FULL_TABLE_01",
+   "title": "Pod Night Flyovers · Full Table · the pod over the ring of lanterns · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod · Night Flyovers · Oct 16",
+   "status": "review",
+   "rooms": [
+    "UFO Pod · Night Flyovers · Oct 16"
+   ],
+   "updated": "2026-10-16T23:35:24Z",
+   "kind": "pod_flyover",
+   "kindLabel": "POD FLYOVER · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-flyover",
+    "loop-ready"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Pod Night Flyover (loop-ready establishing frame): the HALO UFO pod hovering over a huge round table-ring of glowing amber orb lanterns floating on a dark lake, from the yay'd Full Table poster",
+   "batch": "batch_20261016_2329",
+   "file": "img/HYB_POD_FLYOVER_FULL_TABLE_01.b64"
+  },
+  {
+   "id": "HYB_POD_FLYOVER_DASS_NOBODY_01",
+   "title": "Pod Night Flyovers · Dass / Nobody · the pod over the honeycomb bloom · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod · Night Flyovers · Oct 16",
+   "status": "review",
+   "rooms": [
+    "UFO Pod · Night Flyovers · Oct 16"
+   ],
+   "updated": "2026-10-16T23:35:24Z",
+   "kind": "pod_flyover",
+   "kindLabel": "POD FLYOVER · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-flyover",
+    "loop-ready"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Pod Night Flyover (loop-ready establishing frame): the HALO UFO pod skimming a glowing pink honeycomb field of crystal flowers at dusk, from the yay'd Dass / Nobody poster",
+   "batch": "batch_20261016_2329",
+   "file": "img/HYB_POD_FLYOVER_DASS_NOBODY_01.b64"
+  },
   {
    "id": "HYB_SLEDGE_3AM_02",
    "title": "Sledge × 3AM · second take · violet headphones at the hammer's impact · hybrid",
@@ -33,68 +354,6 @@
    "note": "Second take on Sledge × 3AM (first take was a nay): re-anchored on the source poster, the violet headphones as hero floating at the instant a chrome sledgehammer strikes, sparks spraying over a violet 3AM skyline",
    "batch": "batch_20261016_2226",
    "file": "img/HYB_SLEDGE_3AM_02.b64"
-  },
-  {
-   "id": "HYB_MEGA_LIQUID_02",
-   "title": "Mega / Liquid · second take · cobalt headphones in a crown of liquid light · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Second Take · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Second Take · Oct 16"
-   ],
-   "updated": "2026-10-16T22:32:14Z",
-   "kind": "second_take",
-   "kindLabel": "SECOND TAKE · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "Earlier take HYB_MEGA_LIQUID_01 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_MEGA_LIQUID_01.b64"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event",
-    "second-take"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Second take on Mega / Liquid (first take was a nay): re-anchored on the source poster, the cobalt headphones as hero rising out of a crown splash of liquid blue light, an original chrome robot reflected in the pool",
-   "batch": "batch_20261016_2226",
-   "file": "img/HYB_MEGA_LIQUID_02.b64"
-  },
-  {
-   "id": "HYB_DOOM_DUNE_02",
-   "title": "DOOM × Dune · second take · gold headphones held in the light shaft · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Second Take · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Second Take · Oct 16"
-   ],
-   "updated": "2026-10-16T22:32:14Z",
-   "kind": "second_take",
-   "kindLabel": "SECOND TAKE · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "Earlier take HYB_DOOM_DUNE_01 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DOOM_DUNE_01.b64"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event",
-    "second-take"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Second take on DOOM × Dune (first take was a nay): re-anchored on the source poster, the gold headphones as hero suspended inside a single vertical shaft of gold light over the dark night dunes",
-   "batch": "batch_20261016_2226",
-   "file": "img/HYB_DOOM_DUNE_02.b64"
   },
   {
    "id": "HYB_UPSIDE_DOWN_02",
@@ -265,326 +524,6 @@
    "note": "Pod Night Flyover (loop-ready establishing frame): the HALO UFO pod skimming a lake of molten gold from the yay'd Seventies / Liquid night, the gold sphere rising on the horizon",
    "batch": "batch_20261016_2226",
    "file": "img/HYB_POD_FLYOVER_SEVENTIES_01.b64"
-  },
-  {
-   "id": "HYB_POD_CLOUD_DOOR_01_B1",
-   "title": "UFO Pod Worlds · Cloud Door · build on · the last door breaks open · hybrid",
-   "theme": "Build On",
-   "section": "Build On · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Build On · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T21:34:57Z",
-   "kind": "build_on",
-   "kindLabel": "BUILD ON · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "Built on HYB_POD_CLOUD_DOOR_01",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_CLOUD_DOOR_01.b64"
-    },
-    {
-     "label": "Spirit vote/note #113",
-     "url": "https://github.com/HALORAVES/halo-bot-files/issues/113"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "build-on"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Build On HYB_POD_CLOUD_DOOR_01 (#113): World 1 pushed closer and deeper, the pod locked back to the flat crystal lens, and the last door now cracking open onto the endless calendar of doors",
-   "batch": "batch_20261016_2129",
-   "file": "img/HYB_POD_CLOUD_DOOR_01_B1.b64",
-   "of": "HYB_POD_CLOUD_DOOR_01",
-   "builds_on": "HYB_POD_CLOUD_DOOR_01"
-  },
-  {
-   "id": "HYB_POD_DOOR_LANDING_01_B1",
-   "title": "UFO Pod Worlds · Intro · build on · touchdown on the crystal door · hybrid",
-   "theme": "Build On",
-   "section": "Build On · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Build On · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T21:34:57Z",
-   "kind": "build_on",
-   "kindLabel": "BUILD ON · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "Built on HYB_POD_DOOR_LANDING_01",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_DOOR_LANDING_01.b64"
-    },
-    {
-     "label": "Spirit vote/note #113",
-     "url": "https://github.com/HALORAVES/halo-bot-files/issues/113"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "build-on"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Build On HYB_POD_DOOR_LANDING_01 (#113): the intro landing beat pushed in to the touchdown moment, the pod's gold halo ring brushing the door frame as the door swings open on the drop",
-   "batch": "batch_20261016_2129",
-   "file": "img/HYB_POD_DOOR_LANDING_01_B1.b64",
-   "of": "HYB_POD_DOOR_LANDING_01",
-   "builds_on": "HYB_POD_DOOR_LANDING_01"
-  },
-  {
-   "id": "HYB_GOJIRA_GARAGE_01_B1",
-   "title": "Gojira / Garage · build on · crystal-spined leviathan over the garage district · hybrid",
-   "theme": "Build On",
-   "section": "Build On · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Build On · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T21:34:57Z",
-   "kind": "build_on",
-   "kindLabel": "BUILD ON · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "Built on HYB_GOJIRA_GARAGE_01",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_GOJIRA_GARAGE_01.b64"
-    },
-    {
-     "label": "Spirit vote/note #113",
-     "url": "https://github.com/HALORAVES/halo-bot-files/issues/113"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "build-on"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Build On HYB_GOJIRA_GARAGE_01 (#113): the original crystal-spined giant made the true hero, an original faceted stone leviathan rising out of the flooded garage district, with the pod locked to the crystal lens",
-   "batch": "batch_20261016_2129",
-   "file": "img/HYB_GOJIRA_GARAGE_01_B1.b64",
-   "of": "HYB_GOJIRA_GARAGE_01",
-   "builds_on": "HYB_GOJIRA_GARAGE_01"
-  },
-  {
-   "id": "HYB_KEYS_INFLUENCE_01_B1",
-   "title": "Keys / Influence · build on · piano-key racetrack in full ripple · hybrid",
-   "theme": "Build On",
-   "section": "Build On · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Build On · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T21:34:57Z",
-   "kind": "build_on",
-   "kindLabel": "BUILD ON · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "Built on HYB_KEYS_INFLUENCE_01",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_KEYS_INFLUENCE_01.b64"
-    },
-    {
-     "label": "Spirit vote/note #113",
-     "url": "https://github.com/HALORAVES/halo-bot-files/issues/113"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "build-on"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Build On HYB_KEYS_INFLUENCE_01 (#113): the piano-key racetrack pushed into a sweeping hero curve, each key pressing down as the pod races over it, sending rings through the water, pod locked to the crystal lens",
-   "batch": "batch_20261016_2129",
-   "file": "img/HYB_KEYS_INFLUENCE_01_B1.b64",
-   "of": "HYB_KEYS_INFLUENCE_01",
-   "builds_on": "HYB_KEYS_INFLUENCE_01"
-  },
-  {
-   "id": "HYB_POD_THREE170_01_B1",
-   "title": "UFO Pod Worlds · Three170 · build on · Clear Creek Canyon nature dream · hybrid",
-   "theme": "Build On",
-   "section": "Build On · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Build On · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T21:34:57Z",
-   "kind": "build_on",
-   "kindLabel": "BUILD ON · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "Built on HYB_POD_THREE170_01",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_THREE170_01.b64"
-    },
-    {
-     "label": "Spirit vote/note #110",
-     "url": "https://github.com/HALORAVES/halo-bot-files/issues/110"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "build-on"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Build On HYB_POD_THREE170_01 (#110): rebuilt as nature surrealism inside Clear Creek Canyon, Colorado: granite walls, the rushing creek, ponderosa pines, and the checker highway turned into stepping stones floating over the water, sunset disc held in the canyon notch",
-   "batch": "batch_20261016_2129",
-   "file": "img/HYB_POD_THREE170_01_B1.b64",
-   "of": "HYB_POD_THREE170_01",
-   "builds_on": "HYB_POD_THREE170_01",
-   "spirit_note": "more like nature surrealism dreamcore within clear creek canyon",
-   "spirit_note_issue": 110
-  },
-  {
-   "id": "HYB_ROCKY_WARP_02_B1",
-   "title": "Rocky / Warp · build on · the storm house and the time machine · hybrid",
-   "theme": "Build On",
-   "section": "Build On · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Build On · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T21:34:57Z",
-   "kind": "build_on",
-   "kindLabel": "BUILD ON · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "Built on HYB_ROCKY_WARP_02",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_ROCKY_WARP_02.b64"
-    },
-    {
-     "label": "Spirit vote/note #111",
-     "url": "https://github.com/HALORAVES/halo-bot-files/issues/111"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "build-on"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Build On HYB_ROCKY_WARP_02 (#111): the Rocky / Warp vibe moved to the iconic house and the time machine, an original gothic manor on a hill in a lightning storm, with an original brass-and-crystal time machine spinning a warp in the foreground (no film characters or imagery)",
-   "batch": "batch_20261016_2129",
-   "file": "img/HYB_ROCKY_WARP_02_B1.b64",
-   "of": "HYB_ROCKY_WARP_02",
-   "builds_on": "HYB_ROCKY_WARP_02",
-   "spirit_note": "use the iconic house and time machine aspect of the rocky/warp vibe",
-   "spirit_note_issue": 111
-  },
-  {
-   "id": "HYB_DIAMONDS_GARDEN_02_B1",
-   "title": "Diamonds × Garden · build on · crystal exotic plants around the gold headphones · hybrid",
-   "theme": "Build On",
-   "section": "Build On · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Build On · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T21:34:57Z",
-   "kind": "build_on",
-   "kindLabel": "BUILD ON · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "Built on HYB_DIAMONDS_GARDEN_02",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DIAMONDS_GARDEN_02.b64"
-    },
-    {
-     "label": "Spirit vote/note #112",
-     "url": "https://github.com/HALORAVES/halo-bot-files/issues/112"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "build-on"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Build On HYB_DIAMONDS_GARDEN_02 (#112): the sneaker removed, the gold headphones now set in a night garden of exotic plants grown from crystal (bird-of-paradise, monstera, orchids, pitcher plants) under flowing gold light ribbons",
-   "batch": "batch_20261016_2129",
-   "file": "img/HYB_DIAMONDS_GARDEN_02_B1.b64",
-   "of": "HYB_DIAMONDS_GARDEN_02",
-   "builds_on": "HYB_DIAMONDS_GARDEN_02",
-   "spirit_note": "rather see exotic plants looking like crystals than a sneaker",
-   "spirit_note_issue": 112
-  },
-  {
-   "id": "HYB_SCHISM_SNARES_02",
-   "title": "Schism / Snares · second take · the canyon of drums · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Second Take · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Second Take · Oct 16"
-   ],
-   "updated": "2026-10-16T21:34:57Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "First take HYB_SCHISM_SNARES_01 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SCHISM_SNARES_01.b64"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event",
-    "second-take"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Second take on Schism / Snares (first take was a nay): the split rebuilt as a glowing rift through a flooded concrete plaza, with one chrome snare drum floating in the gap, its skin rippling like water",
-   "batch": "batch_20261016_2129",
-   "file": "img/HYB_SCHISM_SNARES_02.b64"
-  },
-  {
-   "id": "HYB_POTION_EVOKE_02",
-   "title": "Potion × Evoke · second take · the potion garden glasshouse · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Second Take · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Second Take · Oct 16"
-   ],
-   "updated": "2026-10-16T21:34:57Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "First take HYB_POTION_EVOKE_01 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POTION_EVOKE_01.b64"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event",
-    "second-take"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Second take on Potion × Evoke (first take was a nay): moved out of the dark desk into a flooded crystal glasshouse where one giant amber potion bottle glows, its light pouring out as a gold soundwave across the water",
-   "batch": "batch_20261016_2129",
-   "file": "img/HYB_POTION_EVOKE_02.b64"
   },
   {
    "id": "CAT_052_B2",
@@ -6158,6 +6097,451 @@
   "request": 1
  },
  "archive": [
+  {
+   "id": "HYB_MEGA_LIQUID_02",
+   "title": "Mega / Liquid · second take · cobalt headphones in a crown of liquid light · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T22:32:14Z",
+   "kind": "second_take",
+   "kindLabel": "SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_MEGA_LIQUID_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_MEGA_LIQUID_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Mega / Liquid (first take was a nay): re-anchored on the source poster, the cobalt headphones as hero rising out of a crown splash of liquid blue light, an original chrome robot reflected in the pool",
+   "batch": "batch_20261016_2226",
+   "file": "img/HYB_MEGA_LIQUID_02.b64",
+   "prev_status": "review",
+   "vote": "build on",
+   "vote_issue": 115,
+   "archive_reason": "voted",
+   "archived": "2026-10-16",
+   "spirit_note": "more like see photos",
+   "spirit_note_issue": 115,
+   "archive_of": "HYB_MEGA_LIQUID_02_B1"
+  },
+  {
+   "id": "HYB_DOOM_DUNE_02",
+   "title": "DOOM × Dune · second take · gold headphones held in the light shaft · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T22:32:14Z",
+   "kind": "second_take",
+   "kindLabel": "SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_DOOM_DUNE_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DOOM_DUNE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on DOOM × Dune (first take was a nay): re-anchored on the source poster, the gold headphones as hero suspended inside a single vertical shaft of gold light over the dark night dunes",
+   "batch": "batch_20261016_2226",
+   "file": "img/HYB_DOOM_DUNE_02.b64",
+   "prev_status": "review",
+   "vote": "build on",
+   "vote_issue": 116,
+   "archive_reason": "voted",
+   "archived": "2026-10-16",
+   "spirit_note": "more like the reference photos (3 Pinterest refs)",
+   "spirit_note_issue": 116,
+   "archive_of": "HYB_DOOM_DUNE_02_B2"
+  },
+  {
+   "id": "HYB_POD_CLOUD_DOOR_01_B1",
+   "title": "UFO Pod Worlds · Cloud Door · build on · the last door breaks open · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Build On · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T21:34:57Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_POD_CLOUD_DOOR_01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_CLOUD_DOOR_01.b64"
+    },
+    {
+     "label": "Spirit vote/note #113",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/113"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On HYB_POD_CLOUD_DOOR_01 (#113): World 1 pushed closer and deeper, the pod locked back to the flat crystal lens, and the last door now cracking open onto the endless calendar of doors",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_POD_CLOUD_DOOR_01_B1.b64",
+   "of": "HYB_POD_CLOUD_DOOR_01",
+   "builds_on": "HYB_POD_CLOUD_DOOR_01",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 114,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_POD_DOOR_LANDING_01_B1",
+   "title": "UFO Pod Worlds · Intro · build on · touchdown on the crystal door · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Build On · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T21:34:57Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_POD_DOOR_LANDING_01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_DOOR_LANDING_01.b64"
+    },
+    {
+     "label": "Spirit vote/note #113",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/113"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On HYB_POD_DOOR_LANDING_01 (#113): the intro landing beat pushed in to the touchdown moment, the pod's gold halo ring brushing the door frame as the door swings open on the drop",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_POD_DOOR_LANDING_01_B1.b64",
+   "of": "HYB_POD_DOOR_LANDING_01",
+   "builds_on": "HYB_POD_DOOR_LANDING_01",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 114,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_GOJIRA_GARAGE_01_B1",
+   "title": "Gojira / Garage · build on · crystal-spined leviathan over the garage district · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Build On · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T21:34:57Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_GOJIRA_GARAGE_01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_GOJIRA_GARAGE_01.b64"
+    },
+    {
+     "label": "Spirit vote/note #113",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/113"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On HYB_GOJIRA_GARAGE_01 (#113): the original crystal-spined giant made the true hero, an original faceted stone leviathan rising out of the flooded garage district, with the pod locked to the crystal lens",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_GOJIRA_GARAGE_01_B1.b64",
+   "of": "HYB_GOJIRA_GARAGE_01",
+   "builds_on": "HYB_GOJIRA_GARAGE_01",
+   "prev_status": "review",
+   "vote": "build on",
+   "vote_issue": 114,
+   "archive_reason": "voted",
+   "archived": "2026-10-16",
+   "archive_of": "HYB_GOJIRA_GARAGE_01_B2"
+  },
+  {
+   "id": "HYB_KEYS_INFLUENCE_01_B1",
+   "title": "Keys / Influence · build on · piano-key racetrack in full ripple · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Build On · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T21:34:57Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_KEYS_INFLUENCE_01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_KEYS_INFLUENCE_01.b64"
+    },
+    {
+     "label": "Spirit vote/note #113",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/113"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On HYB_KEYS_INFLUENCE_01 (#113): the piano-key racetrack pushed into a sweeping hero curve, each key pressing down as the pod races over it, sending rings through the water, pod locked to the crystal lens",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_KEYS_INFLUENCE_01_B1.b64",
+   "of": "HYB_KEYS_INFLUENCE_01",
+   "builds_on": "HYB_KEYS_INFLUENCE_01",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 114,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_POD_THREE170_01_B1",
+   "title": "UFO Pod Worlds · Three170 · build on · Clear Creek Canyon nature dream · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Build On · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T21:34:57Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_POD_THREE170_01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_THREE170_01.b64"
+    },
+    {
+     "label": "Spirit vote/note #110",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/110"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On HYB_POD_THREE170_01 (#110): rebuilt as nature surrealism inside Clear Creek Canyon, Colorado: granite walls, the rushing creek, ponderosa pines, and the checker highway turned into stepping stones floating over the water, sunset disc held in the canyon notch",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_POD_THREE170_01_B1.b64",
+   "of": "HYB_POD_THREE170_01",
+   "builds_on": "HYB_POD_THREE170_01",
+   "spirit_note": "more like nature surrealism dreamcore within clear creek canyon",
+   "spirit_note_issue": 110,
+   "prev_status": "review",
+   "vote": "build on",
+   "vote_issue": 114,
+   "archive_reason": "voted",
+   "archived": "2026-10-16",
+   "archive_of": "HYB_POD_THREE170_01_B2"
+  },
+  {
+   "id": "HYB_ROCKY_WARP_02_B1",
+   "title": "Rocky / Warp · build on · the storm house and the time machine · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Build On · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T21:34:57Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_ROCKY_WARP_02",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_ROCKY_WARP_02.b64"
+    },
+    {
+     "label": "Spirit vote/note #111",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/111"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On HYB_ROCKY_WARP_02 (#111): the Rocky / Warp vibe moved to the iconic house and the time machine, an original gothic manor on a hill in a lightning storm, with an original brass-and-crystal time machine spinning a warp in the foreground (no film characters or imagery)",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_ROCKY_WARP_02_B1.b64",
+   "of": "HYB_ROCKY_WARP_02",
+   "builds_on": "HYB_ROCKY_WARP_02",
+   "spirit_note": "use the iconic house and time machine aspect of the rocky/warp vibe",
+   "spirit_note_issue": 111,
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 114,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_DIAMONDS_GARDEN_02_B1",
+   "title": "Diamonds × Garden · build on · crystal exotic plants around the gold headphones · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Build On · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T21:34:57Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_DIAMONDS_GARDEN_02",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DIAMONDS_GARDEN_02.b64"
+    },
+    {
+     "label": "Spirit vote/note #112",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/112"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On HYB_DIAMONDS_GARDEN_02 (#112): the sneaker removed, the gold headphones now set in a night garden of exotic plants grown from crystal (bird-of-paradise, monstera, orchids, pitcher plants) under flowing gold light ribbons",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_DIAMONDS_GARDEN_02_B1.b64",
+   "of": "HYB_DIAMONDS_GARDEN_02",
+   "builds_on": "HYB_DIAMONDS_GARDEN_02",
+   "spirit_note": "rather see exotic plants looking like crystals than a sneaker",
+   "spirit_note_issue": 112,
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 114,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_SCHISM_SNARES_02",
+   "title": "Schism / Snares · second take · the canyon of drums · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T21:34:57Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_SCHISM_SNARES_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SCHISM_SNARES_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Schism / Snares (first take was a nay): the split rebuilt as a glowing rift through a flooded concrete plaza, with one chrome snare drum floating in the gap, its skin rippling like water",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_SCHISM_SNARES_02.b64",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 114,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_POTION_EVOKE_02",
+   "title": "Potion × Evoke · second take · the potion garden glasshouse · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T21:34:57Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_POTION_EVOKE_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POTION_EVOKE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Potion × Evoke (first take was a nay): moved out of the dark desk into a flooded crystal glasshouse where one giant amber potion bottle glows, its light pouring out as a gold soundwave across the water",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_POTION_EVOKE_02.b64",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 114,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
   {
    "id": "HYB_POD_SLEEPY_TEA_01",
    "title": "UFO Pod Worlds · Sleepy Tea · pod pouring tea over sugar islands · hybrid",
@@ -25192,6 +25576,25 @@
    ],
    "voted_to_archive": 0,
    "note": "No new votes since #113 and no open Build Ons. Poster-anchored second takes on the last four nay'd nights (Sledge x 3AM, Mega/Liquid, DOOM x Dune, Upside/Down) plus a third take on Sade/Franklin/Garage, then a new Pod Night Flyovers section: loop-ready pod establishing frames over yay'd nights (Ship/3AM, Carol/Night, Moon/Meter, Seventies/Liquid)."
+  },
+  {
+   "at": "2026-10-16T23:35:24Z",
+   "build": "20261016w",
+   "batch": "batch_20261016_2329",
+   "added": [
+    "HYB_DOOM_DUNE_02_B1",
+    "HYB_DOOM_DUNE_02_B2",
+    "HYB_MEGA_LIQUID_02_B1",
+    "HYB_GOJIRA_GARAGE_01_B2",
+    "HYB_POD_THREE170_01_B2",
+    "HYB_POD_FLYOVER_AFTER_MIDNIGHT_01",
+    "HYB_POD_FLYOVER_LIGHTS_ON_01",
+    "HYB_POD_FLYOVER_REPUTATION_01",
+    "HYB_POD_FLYOVER_FULL_TABLE_01",
+    "HYB_POD_FLYOVER_DASS_NOBODY_01"
+   ],
+   "voted_to_archive": 11,
+   "note": "Vote #114 applied (9 votes: 5 yay, 2 nay, 2 Build On) plus feedback #115-116. Build Ons first: DOOM x Dune rebuilt twice from Spirit's three Pinterest refs (#116: the giant sleeping stone face in the orange canyon, and the CRT in the dune grass with winged eyes), Mega/Liquid pulled back to the poster photo with the cobalt robot as full hero (#115), Gojira/Garage leviathan at full breach, Three170 creek lifting into the sky. Then five more Pod Night Flyovers: After/Midnight, Lights/On, Reputation, Full Table, Dass/Nobody."
   }
  ]
 }
