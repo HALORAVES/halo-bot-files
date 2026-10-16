@@ -1,8 +1,233 @@
 {
- "total": 159,
- "done": 159,
- "updated": "2026-10-16T09:33:08Z",
+ "total": 168,
+ "done": 168,
+ "updated": "2026-10-16T10:38:58Z",
  "items": [
+  {
+   "id": "HYB_NINETIES_JUNGLE_01",
+   "title": "Nineties / Jungle · overgrown paint jungle · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T10:38:58Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Nineties / Jungle night world: overgrown paint jungle",
+   "batch": "batch_20261016_1033",
+   "file": "img/HYB_NINETIES_JUNGLE_01.b64"
+  },
+  {
+   "id": "HYB_BOLERO_SNARE_01",
+   "title": "Boléro / Snare · spiral drum rotunda · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T10:38:58Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Boléro / Snare night world: spiral drum rotunda",
+   "batch": "batch_20261016_1033",
+   "file": "img/HYB_BOLERO_SNARE_01.b64"
+  },
+  {
+   "id": "HYB_ORCHESTRA_PEAK_01",
+   "title": "Orchestra / Peak · pendulum concert hall · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T10:38:58Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Orchestra / Peak night world: pendulum concert hall",
+   "batch": "batch_20261016_1033",
+   "file": "img/HYB_ORCHESTRA_PEAK_01.b64"
+  },
+  {
+   "id": "HYB_CASTLE_ORGAN_01",
+   "title": "Castle / Organ · storm organ nave · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T10:38:58Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Castle / Organ night world: storm organ nave",
+   "batch": "batch_20261016_1033",
+   "file": "img/HYB_CASTLE_ORGAN_01.b64"
+  },
+  {
+   "id": "HYB_GAME_PIANO_SANDS_01",
+   "title": "Game / Piano / Sands · dune piano shore · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T10:38:58Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Game / Piano / Sands night world: dune piano shore",
+   "batch": "batch_20261016_1033",
+   "file": "img/HYB_GAME_PIANO_SANDS_01.b64"
+  },
+  {
+   "id": "HYB_GOLD_RINGS_01",
+   "title": "Gold / Rings · halo ring tunnel · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T10:38:58Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Gold / Rings night world: halo ring tunnel",
+   "batch": "batch_20261016_1033",
+   "file": "img/HYB_GOLD_RINGS_01.b64"
+  },
+  {
+   "id": "HYB_KISS_MADNESS_01",
+   "title": "Kiss × Madness · chrome kiss gallery · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T10:38:58Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Kiss × Madness night world: chrome kiss gallery",
+   "batch": "batch_20261016_1033",
+   "file": "img/HYB_KISS_MADNESS_01.b64"
+  },
+  {
+   "id": "HYB_ROCKY_WARP_01",
+   "title": "Rocky / Warp · red lightning warp gym · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T10:38:58Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Rocky / Warp night world: red lightning warp gym",
+   "batch": "batch_20261016_1033",
+   "file": "img/HYB_ROCKY_WARP_01.b64"
+  },
+  {
+   "id": "HYB_WATTS_VOID_01",
+   "title": "Watts / Void · iridescent void portal · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T10:38:58Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Watts / Void night world: iridescent void portal",
+   "batch": "batch_20261016_1033",
+   "file": "img/HYB_WATTS_VOID_01.b64"
+  },
   {
    "id": "HYB_LIGHTS_ON_01",
    "title": "Lights / On · string-light arcade · hybrid",
@@ -21013,6 +21238,23 @@
     "HYB_TIME_BLADE_01"
    ],
    "note": "Build On still clear (no new build-on votes). 9 event-night hybrids for Dec 2026 to Jan 2027 shows: Lights/On, Carol/Night, Thriller/Lofi, Spore/Amen, Office/Out, Eve, The Turn, After/Wrap, Time/Blade."
+  },
+  {
+   "at": "2026-10-16T10:38:58Z",
+   "build": "20261016j",
+   "batch": "batch_20261016_1033",
+   "added": [
+    "HYB_NINETIES_JUNGLE_01",
+    "HYB_BOLERO_SNARE_01",
+    "HYB_ORCHESTRA_PEAK_01",
+    "HYB_CASTLE_ORGAN_01",
+    "HYB_GAME_PIANO_SANDS_01",
+    "HYB_GOLD_RINGS_01",
+    "HYB_KISS_MADNESS_01",
+    "HYB_ROCKY_WARP_01",
+    "HYB_WATTS_VOID_01"
+   ],
+   "note": "Build On still clear (no new build-on votes). 9 event-night hybrids for Jan to Feb 2027 shows: Nineties/Jungle, Boléro/Snare, Orchestra/Peak, Castle/Organ, Game/Piano/Sands, Gold/Rings, Kiss × Madness, Rocky/Warp, Watts/Void."
   }
  ]
 }
