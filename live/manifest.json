@@ -1,259 +1,283 @@
 {
- "total": 141,
- "done": 141,
- "updated": "2026-10-16T20:36:45Z",
+ "total": 114,
+ "done": 114,
+ "updated": "2026-10-16T21:34:57Z",
  "items": [
   {
-   "id": "HYB_POD_SLEEPY_TEA_01",
-   "title": "UFO Pod Worlds · Sleepy Tea · pod pouring tea over sugar islands · hybrid",
-   "theme": "UFO Pod Worlds",
-   "section": "UFO Pod Worlds · Hybrid · Oct 16",
+   "id": "HYB_POD_CLOUD_DOOR_01_B1",
+   "title": "UFO Pod Worlds · Cloud Door · build on · the last door breaks open · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
    "status": "review",
    "rooms": [
-    "UFO Pod Worlds · Hybrid · Oct 16"
+    "Build On · Hybrid · Oct 16"
    ],
-   "updated": "2026-10-16T20:36:45Z",
-   "kind": "pod_world",
-   "kindLabel": "UFO POD WORLD · HYBRID",
+   "updated": "2026-10-16T21:34:57Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
    "source_pins": [],
-   "refs": [],
+   "refs": [
+    {
+     "label": "Built on HYB_POD_CLOUD_DOOR_01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_CLOUD_DOOR_01.b64"
+    },
+    {
+     "label": "Spirit vote/note #113",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/113"
+    }
+   ],
    "tags": [
     "hybrid",
     "v2",
     "oct16-batch",
-    "ufo-pod",
-    "pod-world"
+    "build-on"
    ],
    "catalog": "catalog_v1",
-   "note": "UFO pod world key art, built to the Sleepy Tea depth concept: steam from a giant teacup rim in the foreground, floating sugar-cube islands mid-ground, lavender dusk sky and pastel moon behind, pod pouring a ribbon of glowing tea",
-   "batch": "batch_20261016_2031",
-   "file": "img/HYB_POD_SLEEPY_TEA_01.b64"
+   "note": "Build On HYB_POD_CLOUD_DOOR_01 (#113): World 1 pushed closer and deeper, the pod locked back to the flat crystal lens, and the last door now cracking open onto the endless calendar of doors",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_POD_CLOUD_DOOR_01_B1.b64",
+   "of": "HYB_POD_CLOUD_DOOR_01",
+   "builds_on": "HYB_POD_CLOUD_DOOR_01"
   },
   {
-   "id": "HYB_POD_NIGHTMARE_01",
-   "title": "UFO Pod Worlds · Nightmare · searchlight over a carnival of doors · hybrid",
-   "theme": "UFO Pod Worlds",
-   "section": "UFO Pod Worlds · Hybrid · Oct 16",
+   "id": "HYB_POD_DOOR_LANDING_01_B1",
+   "title": "UFO Pod Worlds · Intro · build on · touchdown on the crystal door · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
    "status": "review",
    "rooms": [
-    "UFO Pod Worlds · Hybrid · Oct 16"
+    "Build On · Hybrid · Oct 16"
    ],
-   "updated": "2026-10-16T20:36:45Z",
-   "kind": "pod_world",
-   "kindLabel": "UFO POD WORLD · HYBRID",
+   "updated": "2026-10-16T21:34:57Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
    "source_pins": [],
-   "refs": [],
+   "refs": [
+    {
+     "label": "Built on HYB_POD_DOOR_LANDING_01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_DOOR_LANDING_01.b64"
+    },
+    {
+     "label": "Spirit vote/note #113",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/113"
+    }
+   ],
    "tags": [
     "hybrid",
     "v2",
     "oct16-batch",
-    "ufo-pod",
-    "pod-world"
+    "build-on"
    ],
    "catalog": "catalog_v1",
-   "note": "UFO pod world key art, built to the Nightmare depth concept: breathing velvet curtains at both edges, a carnival of crooked doorways on stilts, red-violet fog sea, pod searchlight sweeping the doors. Eerie, not gory",
-   "batch": "batch_20261016_2031",
-   "file": "img/HYB_POD_NIGHTMARE_01.b64"
+   "note": "Build On HYB_POD_DOOR_LANDING_01 (#113): the intro landing beat pushed in to the touchdown moment, the pod's gold halo ring brushing the door frame as the door swings open on the drop",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_POD_DOOR_LANDING_01_B1.b64",
+   "of": "HYB_POD_DOOR_LANDING_01",
+   "builds_on": "HYB_POD_DOOR_LANDING_01"
   },
   {
-   "id": "HYB_POD_THREE170_01",
-   "title": "UFO Pod Worlds · Three170 · checker highway into a sunset grid · hybrid",
-   "theme": "UFO Pod Worlds",
-   "section": "UFO Pod Worlds · Hybrid · Oct 16",
+   "id": "HYB_GOJIRA_GARAGE_01_B1",
+   "title": "Gojira / Garage · build on · crystal-spined leviathan over the garage district · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
    "status": "review",
    "rooms": [
-    "UFO Pod Worlds · Hybrid · Oct 16"
+    "Build On · Hybrid · Oct 16"
    ],
-   "updated": "2026-10-16T20:36:45Z",
-   "kind": "pod_world",
-   "kindLabel": "UFO POD WORLD · HYBRID",
+   "updated": "2026-10-16T21:34:57Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
    "source_pins": [],
-   "refs": [],
+   "refs": [
+    {
+     "label": "Built on HYB_GOJIRA_GARAGE_01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_GOJIRA_GARAGE_01.b64"
+    },
+    {
+     "label": "Spirit vote/note #113",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/113"
+    }
+   ],
    "tags": [
     "hybrid",
     "v2",
     "oct16-batch",
-    "ufo-pod",
-    "pod-world"
+    "build-on"
    ],
    "catalog": "catalog_v1",
-   "note": "UFO pod world key art, built to the Three170 depth concept: chrome speaker grilles in the foreground, a neon highway of floating checker tiles streaming at camera, sunset grid horizon with a spinning sun disc, pod leaving lime light trails",
-   "batch": "batch_20261016_2031",
-   "file": "img/HYB_POD_THREE170_01.b64"
+   "note": "Build On HYB_GOJIRA_GARAGE_01 (#113): the original crystal-spined giant made the true hero, an original faceted stone leviathan rising out of the flooded garage district, with the pod locked to the crystal lens",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_GOJIRA_GARAGE_01_B1.b64",
+   "of": "HYB_GOJIRA_GARAGE_01",
+   "builds_on": "HYB_GOJIRA_GARAGE_01"
   },
   {
-   "id": "HYB_POD_WIZARD_COURT_01",
-   "title": "UFO Pod Worlds · Wizard Court · glowing ball on a tractor beam · hybrid",
-   "theme": "UFO Pod Worlds",
-   "section": "UFO Pod Worlds · Hybrid · Oct 16",
+   "id": "HYB_KEYS_INFLUENCE_01_B1",
+   "title": "Keys / Influence · build on · piano-key racetrack in full ripple · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
    "status": "review",
    "rooms": [
-    "UFO Pod Worlds · Hybrid · Oct 16"
+    "Build On · Hybrid · Oct 16"
    ],
-   "updated": "2026-10-16T20:36:45Z",
-   "kind": "pod_world",
-   "kindLabel": "UFO POD WORLD · HYBRID",
+   "updated": "2026-10-16T21:34:57Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
    "source_pins": [],
-   "refs": [],
+   "refs": [
+    {
+     "label": "Built on HYB_KEYS_INFLUENCE_01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_KEYS_INFLUENCE_01.b64"
+    },
+    {
+     "label": "Spirit vote/note #113",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/113"
+    }
+   ],
    "tags": [
     "hybrid",
     "v2",
     "oct16-batch",
-    "ufo-pod",
-    "pod-world"
+    "build-on"
    ],
    "catalog": "catalog_v1",
-   "note": "UFO pod world key art, built to the Wizard Court depth concept: a soft-focus pickleball net in the foreground, floating court tiles with glowing lines and orbiting paddles, starry wizard-tower spires and aurora, pod lowering a glowing ball",
-   "batch": "batch_20261016_2031",
-   "file": "img/HYB_POD_WIZARD_COURT_01.b64"
+   "note": "Build On HYB_KEYS_INFLUENCE_01 (#113): the piano-key racetrack pushed into a sweeping hero curve, each key pressing down as the pod races over it, sending rings through the water, pod locked to the crystal lens",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_KEYS_INFLUENCE_01_B1.b64",
+   "of": "HYB_KEYS_INFLUENCE_01",
+   "builds_on": "HYB_KEYS_INFLUENCE_01"
   },
   {
-   "id": "HYB_POD_DEAD_PUNCH_01",
-   "title": "UFO Pod Worlds · Dead Punch · pod as the arena spotlight · hybrid",
-   "theme": "UFO Pod Worlds",
-   "section": "UFO Pod Worlds · Hybrid · Oct 16",
+   "id": "HYB_POD_THREE170_01_B1",
+   "title": "UFO Pod Worlds · Three170 · build on · Clear Creek Canyon nature dream · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
    "status": "review",
    "rooms": [
-    "UFO Pod Worlds · Hybrid · Oct 16"
+    "Build On · Hybrid · Oct 16"
    ],
-   "updated": "2026-10-16T20:36:45Z",
-   "kind": "pod_world",
-   "kindLabel": "UFO POD WORLD · HYBRID",
+   "updated": "2026-10-16T21:34:57Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
    "source_pins": [],
-   "refs": [],
+   "refs": [
+    {
+     "label": "Built on HYB_POD_THREE170_01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_THREE170_01.b64"
+    },
+    {
+     "label": "Spirit vote/note #110",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/110"
+    }
+   ],
    "tags": [
     "hybrid",
     "v2",
     "oct16-batch",
-    "ufo-pod",
-    "pod-world"
+    "build-on"
    ],
    "catalog": "catalog_v1",
-   "note": "UFO pod world key art, built to the Dead Punch depth concept: ring ropes swaying out of focus, cartoon crystal skulls hovering over a checker mat, dark arena haze with spotlight cones, pod as the arena spotlight",
-   "batch": "batch_20261016_2031",
-   "file": "img/HYB_POD_DEAD_PUNCH_01.b64"
+   "note": "Build On HYB_POD_THREE170_01 (#110): rebuilt as nature surrealism inside Clear Creek Canyon, Colorado: granite walls, the rushing creek, ponderosa pines, and the checker highway turned into stepping stones floating over the water, sunset disc held in the canyon notch",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_POD_THREE170_01_B1.b64",
+   "of": "HYB_POD_THREE170_01",
+   "builds_on": "HYB_POD_THREE170_01",
+   "spirit_note": "more like nature surrealism dreamcore within clear creek canyon",
+   "spirit_note_issue": 110
   },
   {
-   "id": "HYB_POD_HOME_TABLE_01",
-   "title": "UFO Pod Worlds · Home Table · pod as the chandelier · hybrid",
-   "theme": "UFO Pod Worlds",
-   "section": "UFO Pod Worlds · Hybrid · Oct 16",
+   "id": "HYB_ROCKY_WARP_02_B1",
+   "title": "Rocky / Warp · build on · the storm house and the time machine · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
    "status": "review",
    "rooms": [
-    "UFO Pod Worlds · Hybrid · Oct 16"
+    "Build On · Hybrid · Oct 16"
    ],
-   "updated": "2026-10-16T20:36:45Z",
-   "kind": "pod_world",
-   "kindLabel": "UFO POD WORLD · HYBRID",
+   "updated": "2026-10-16T21:34:57Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
    "source_pins": [],
-   "refs": [],
+   "refs": [
+    {
+     "label": "Built on HYB_ROCKY_WARP_02",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_ROCKY_WARP_02.b64"
+    },
+    {
+     "label": "Spirit vote/note #111",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/111"
+    }
+   ],
    "tags": [
     "hybrid",
     "v2",
     "oct16-batch",
-    "ufo-pod",
-    "pod-world"
+    "build-on"
    ],
    "catalog": "catalog_v1",
-   "note": "UFO pod world key art, built to the Home Table depth concept: candle flames and a linen tablecloth edge in the foreground, a long dinner table floating in clouds with drifting chairs, amber sunset cloudscape, pod as the chandelier",
-   "batch": "batch_20261016_2031",
-   "file": "img/HYB_POD_HOME_TABLE_01.b64"
+   "note": "Build On HYB_ROCKY_WARP_02 (#111): the Rocky / Warp vibe moved to the iconic house and the time machine, an original gothic manor on a hill in a lightning storm, with an original brass-and-crystal time machine spinning a warp in the foreground (no film characters or imagery)",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_ROCKY_WARP_02_B1.b64",
+   "of": "HYB_ROCKY_WARP_02",
+   "builds_on": "HYB_ROCKY_WARP_02",
+   "spirit_note": "use the iconic house and time machine aspect of the rocky/warp vibe",
+   "spirit_note_issue": 111
   },
   {
-   "id": "HYB_POD_DEFAULT_01",
-   "title": "UFO Pod Worlds · Default · pastel clouds and checker plinths with tiny doors · hybrid",
-   "theme": "UFO Pod Worlds",
-   "section": "UFO Pod Worlds · Hybrid · Oct 16",
+   "id": "HYB_DIAMONDS_GARDEN_02_B1",
+   "title": "Diamonds × Garden · build on · crystal exotic plants around the gold headphones · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
    "status": "review",
    "rooms": [
-    "UFO Pod Worlds · Hybrid · Oct 16"
+    "Build On · Hybrid · Oct 16"
    ],
-   "updated": "2026-10-16T20:36:45Z",
-   "kind": "pod_world",
-   "kindLabel": "UFO POD WORLD · HYBRID",
+   "updated": "2026-10-16T21:34:57Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
    "source_pins": [],
-   "refs": [],
+   "refs": [
+    {
+     "label": "Built on HYB_DIAMONDS_GARDEN_02",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DIAMONDS_GARDEN_02.b64"
+    },
+    {
+     "label": "Spirit vote/note #112",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/112"
+    }
+   ],
    "tags": [
     "hybrid",
     "v2",
     "oct16-batch",
-    "ufo-pod",
-    "pod-world"
+    "build-on"
    ],
    "catalog": "catalog_v1",
-   "note": "UFO pod world key art, built to the Default depth concept: pastel clouds wiping in the foreground, floating checker plinths with tiny doors, pink-gold dream sky, pod bobbing off-centre",
-   "batch": "batch_20261016_2031",
-   "file": "img/HYB_POD_DEFAULT_01.b64"
+   "note": "Build On HYB_DIAMONDS_GARDEN_02 (#112): the sneaker removed, the gold headphones now set in a night garden of exotic plants grown from crystal (bird-of-paradise, monstera, orchids, pitcher plants) under flowing gold light ribbons",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_DIAMONDS_GARDEN_02_B1.b64",
+   "of": "HYB_DIAMONDS_GARDEN_02",
+   "builds_on": "HYB_DIAMONDS_GARDEN_02",
+   "spirit_note": "rather see exotic plants looking like crystals than a sneaker",
+   "spirit_note_issue": 112
   },
   {
-   "id": "HYB_POD_CLOUD_DOOR_01",
-   "title": "UFO Pod Worlds · Cloud Door · World 1, a row of cloud doors · hybrid",
-   "theme": "UFO Pod Worlds",
-   "section": "UFO Pod Worlds · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "UFO Pod Worlds · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T20:36:45Z",
-   "kind": "pod_world",
-   "kindLabel": "UFO POD WORLD · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "ufo-pod",
-    "pod-world"
-   ],
-   "catalog": "catalog_v1",
-   "note": "UFO pod world key art for World 1, Cloud Door: a row of cloud doors for the next shows only, with the last door cracking to reveal the full calendar of doors beyond",
-   "batch": "batch_20261016_2031",
-   "file": "img/HYB_POD_CLOUD_DOOR_01.b64"
-  },
-  {
-   "id": "HYB_POD_DOOR_LANDING_01",
-   "title": "UFO Pod Worlds · Intro · pod lands on the crystal door · hybrid",
-   "theme": "UFO Pod Worlds",
-   "section": "UFO Pod Worlds · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "UFO Pod Worlds · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T20:36:45Z",
-   "kind": "pod_world",
-   "kindLabel": "UFO POD WORLD · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "ufo-pod",
-    "pod-world"
-   ],
-   "catalog": "catalog_v1",
-   "note": "UFO pod key art for the new intro's beat 6: the pod lowers onto a crystal door on a checker plinth in a cloud city, and the door swings open on the drop",
-   "batch": "batch_20261016_2031",
-   "file": "img/HYB_POD_DOOR_LANDING_01.b64"
-  },
-  {
-   "id": "HYB_SHIP_3AM_02",
-   "title": "Ship / 3AM · second take · headphone starship over a 3AM sea · hybrid",
+   "id": "HYB_SCHISM_SNARES_02",
+   "title": "Schism / Snares · second take · the canyon of drums · hybrid",
    "theme": "Event Nights",
    "section": "Event Nights · Second Take · Oct 16",
    "status": "review",
    "rooms": [
     "Event Nights · Second Take · Oct 16"
    ],
-   "updated": "2026-10-16T19:35:30Z",
+   "updated": "2026-10-16T21:34:57Z",
    "kind": "event_night",
    "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
    "source_pins": [],
    "refs": [
     {
-     "label": "First take HYB_SHIP_3AM_01 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SHIP_3AM_01.b64"
+     "label": "First take HYB_SCHISM_SNARES_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SCHISM_SNARES_01.b64"
     }
    ],
    "tags": [
@@ -264,27 +288,27 @@
     "second-take"
    ],
    "catalog": "catalog_v1",
-   "note": "Second take on Ship / 3AM (first take was a nay): the source poster's faceted black starship, now photoreal, skimming a black mirror sea at 3:00",
-   "batch": "batch_20261016_1930",
-   "file": "img/HYB_SHIP_3AM_02.b64"
+   "note": "Second take on Schism / Snares (first take was a nay): the split rebuilt as a glowing rift through a flooded concrete plaza, with one chrome snare drum floating in the gap, its skin rippling like water",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_SCHISM_SNARES_02.b64"
   },
   {
-   "id": "HYB_LIGHTS_ON_02",
-   "title": "Lights / On · second take · one strand of bulbs over a black lake · hybrid",
+   "id": "HYB_POTION_EVOKE_02",
+   "title": "Potion × Evoke · second take · the potion garden glasshouse · hybrid",
    "theme": "Event Nights",
    "section": "Event Nights · Second Take · Oct 16",
    "status": "review",
    "rooms": [
     "Event Nights · Second Take · Oct 16"
    ],
-   "updated": "2026-10-16T19:35:30Z",
+   "updated": "2026-10-16T21:34:57Z",
    "kind": "event_night",
    "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
    "source_pins": [],
    "refs": [
     {
-     "label": "First take HYB_LIGHTS_ON_01 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_LIGHTS_ON_01.b64"
+     "label": "First take HYB_POTION_EVOKE_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POTION_EVOKE_01.b64"
     }
    ],
    "tags": [
@@ -295,676 +319,9 @@
     "second-take"
    ],
    "catalog": "catalog_v1",
-   "note": "Second take on Lights / On (first take was a nay): the source poster's lone sagging strand of warm bulbs, now a single strand over a black glass lake",
-   "batch": "batch_20261016_1930",
-   "file": "img/HYB_LIGHTS_ON_02.b64"
-  },
-  {
-   "id": "HYB_CAROL_NIGHT_02",
-   "title": "Carol / Night · second take · a bell made of light in the snow · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Second Take · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Second Take · Oct 16"
-   ],
-   "updated": "2026-10-16T19:35:30Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "First take HYB_CAROL_NIGHT_01 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_CAROL_NIGHT_01.b64"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event",
-    "second-take"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Second take on Carol / Night (first take was a nay): the source poster's glowing filament bell, now standing alone over a snowy concrete plaza",
-   "batch": "batch_20261016_1930",
-   "file": "img/HYB_CAROL_NIGHT_02.b64"
-  },
-  {
-   "id": "HYB_BOXING_NIGHT_02",
-   "title": "Boxing · second take · gift boxes stacked into a ring · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Second Take · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Second Take · Oct 16"
-   ],
-   "updated": "2026-10-16T19:35:30Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "First take HYB_BOXING_NIGHT_01 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_BOXING_NIGHT_01.b64"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event",
-    "second-take"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Second take on Boxing night (Dec 26; first take was a nay): leftover gift boxes stacked into the corners of a glowing boxing ring",
-   "batch": "batch_20261016_1930",
-   "file": "img/HYB_BOXING_NIGHT_02.b64"
-  },
-  {
-   "id": "HYB_ROCKY_WARP_02",
-   "title": "Rocky / Warp · second take · red lips and a lightning warp · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Second Take · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Second Take · Oct 16"
-   ],
-   "updated": "2026-10-16T19:35:30Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "First take HYB_ROCKY_WARP_01 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_ROCKY_WARP_01.b64"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event",
-    "second-take"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Second take on Rocky / Warp (first take was a nay): the source poster's halftone red lips and white lightning bolt, rebuilt as a sculpted glass monument",
-   "batch": "batch_20261016_1930",
-   "file": "img/HYB_ROCKY_WARP_02.b64"
-  },
-  {
-   "id": "HYB_DASS_NOBODY_02",
-   "title": "Dass / Nobody · second take · gold headphones in a honeycomb mezzanine · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Second Take · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Second Take · Oct 16"
-   ],
-   "updated": "2026-10-16T19:35:30Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "First take HYB_DASS_NOBODY_01 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DASS_NOBODY_01.b64"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event",
-    "second-take"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Second take on Dass / Nobody / Mezzanine (first take was a nay): the source poster's gold headphones on glossy pink liquid under a dark honeycomb",
-   "batch": "batch_20261016_1930",
-   "file": "img/HYB_DASS_NOBODY_02.b64"
-  },
-  {
-   "id": "HYB_DIAMONDS_GARDEN_02",
-   "title": "Diamonds × Garden · second take · crystal sneaker in a gold-wave garden · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Second Take · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Second Take · Oct 16"
-   ],
-   "updated": "2026-10-16T19:35:30Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "First take HYB_DIAMONDS_GARDEN_01 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DIAMONDS_GARDEN_01.b64"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event",
-    "second-take"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Second take on Diamonds × Garden (first take was a nay): the source poster's gold headphones beside a diamond sneaker, in a night garden of flowing gold light ribbons",
-   "batch": "batch_20261016_1930",
-   "file": "img/HYB_DIAMONDS_GARDEN_02.b64"
-  },
-  {
-   "id": "HYB_GARAGE_LOFT_02",
-   "title": "Sade / Franklin / Garage · second take · copper headphones in a liquid-glass storm · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Second Take · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Second Take · Oct 16"
-   ],
-   "updated": "2026-10-16T19:35:30Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "First take HYB_GARAGE_LOFT_01 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_GARAGE_LOFT_01.b64"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event",
-    "second-take"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Second take on Sade / Franklin / Garage (first take was a nay): the source poster's copper headphones floating inside a storm of ruby and purple liquid glass with white glitch streaks",
-   "batch": "batch_20261016_1930",
-   "file": "img/HYB_GARAGE_LOFT_02.b64"
-  },
-  {
-   "id": "HYB_SEVENTIES_LIQUID_02",
-   "title": "Seventies / Liquid · second take · melted-gold sphere in a 70s amber room · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Second Take · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Second Take · Oct 16"
-   ],
-   "updated": "2026-10-16T19:35:30Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "First take HYB_SEVENTIES_LIQUID_01 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SEVENTIES_LIQUID_01.b64"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event",
-    "second-take"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Second take on Seventies / Liquid / Hybrid Minds (first take was a nay): the source poster's gold headphones around a molten gold sphere on a puddle of melted gold",
-   "batch": "batch_20261016_1930",
-   "file": "img/HYB_SEVENTIES_LIQUID_02.b64"
-  },
-  {
-   "id": "HYB_AFTER_NOON_01",
-   "title": "After / Noon · lemon sun over a noon plaza · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T18:29:21Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "After / Noon night world: a sun-bleached concrete plaza at high noon where a lemon-yellow sun sits on a tall pole",
-   "batch": "batch_20261016_1824",
-   "file": "img/HYB_AFTER_NOON_01.b64"
-  },
-  {
-   "id": "HYB_AFTER_MIDNIGHT_01",
-   "title": "After / Midnight · cyan crescent slicing a black city · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T18:29:21Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "After / Midnight night world: a black rain-slick city where a thin cyan neon crescent cuts across a lemon full moon",
-   "batch": "batch_20261016_1824",
-   "file": "img/HYB_AFTER_MIDNIGHT_01.b64"
-  },
-  {
-   "id": "HYB_REPUTATION_01",
-   "title": "Reputation · spotlight on a shattered black stage · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T18:29:21Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Reputation night world: a single white spotlight on a black mirror stage as shards of black glass float upward",
-   "batch": "batch_20261016_1824",
-   "file": "img/HYB_REPUTATION_01.b64"
-  },
-  {
-   "id": "HYB_MOON_METER_01",
-   "title": "Moon / Meter · wireframe moon over a glitch meter · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T18:29:21Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Moon / Meter night world: a wireframe crystal moon showing 0/4 time hanging over a flooded room of VU meters",
-   "batch": "batch_20261016_1824",
-   "file": "img/HYB_MOON_METER_01.b64"
-  },
-  {
-   "id": "HYB_ERAS_BRACELETS_01",
-   "title": "Taylor / Eras · river of bead bracelets · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T18:29:21Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Taylor / Eras night world: a pink-lit hall where a glowing river of beaded friendship bracelets flows down the stairs",
-   "batch": "batch_20261016_1824",
-   "file": "img/HYB_ERAS_BRACELETS_01.b64"
-  },
-  {
-   "id": "HYB_FAMILY_HALO_01",
-   "title": "Family / Halo · tea cups glowing on a long table · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T18:29:21Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Family / Halo night world: a warm candlelit concrete dining hall where steaming clay cups share one gold halo",
-   "batch": "batch_20261016_1824",
-   "file": "img/HYB_FAMILY_HALO_01.b64"
-  },
-  {
-   "id": "HYB_UNFINISHED_THIRD_01",
-   "title": "Unfinished / Third · two monoliths and a lime energy wraith · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T18:29:21Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Unfinished / Third night world: two rough concrete monoliths with a third shape made of crackling lime energy",
-   "batch": "batch_20261016_1824",
-   "file": "img/HYB_UNFINISHED_THIRD_01.b64"
-  },
-  {
-   "id": "HYB_FULL_TABLE_01",
-   "title": "Full / Table · ring of candles around a round table · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T18:29:21Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Full / Table night world: a round bronze table encircled by a ring of floating candles in a flooded dark hall",
-   "batch": "batch_20261016_1824",
-   "file": "img/HYB_FULL_TABLE_01.b64"
-  },
-  {
-   "id": "HYB_BETWEEN_01",
-   "title": "Between · a gold shaft between two years · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T18:29:21Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Between night world: a dark hall between two years where a single gold light shaft falls through drifting gold dust",
-   "batch": "batch_20261016_1824",
-   "file": "img/HYB_BETWEEN_01.b64"
-  },
-  {
-   "id": "HYB_ZELDA_CRYSTAL_01",
-   "title": "Zelda / Crystal · blade sealed in a crystal monolith · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T17:35:33Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Zelda / Crystal night world: a mossy flooded sanctum where an original gold blade sleeps inside a towering crystal",
-   "batch": "batch_20261016_1730",
-   "file": "img/HYB_ZELDA_CRYSTAL_01.b64"
-  },
-  {
-   "id": "HYB_SCHISM_SNARES_01",
-   "title": "Schism / Snares · crumpled chrome fault line · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T17:35:33Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Schism / Snares night world: a concrete hall split in two by a crumpled chrome fault where a snare hangs in the gap",
-   "batch": "batch_20261016_1730",
-   "file": "img/HYB_SCHISM_SNARES_01.b64"
-  },
-  {
-   "id": "HYB_SLEDGE_3AM_01",
-   "title": "Sledge × 3AM · chrome sledgehammer on a violet rooftop · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T17:35:33Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Sledge × 3AM night world: a rain-soaked rooftop at 3am where a giant chrome sledgehammer has just landed",
-   "batch": "batch_20261016_1730",
-   "file": "img/HYB_SLEDGE_3AM_01.b64"
-  },
-  {
-   "id": "HYB_MEGA_LIQUID_01",
-   "title": "Mega / Liquid · cobalt robot wading in liquid light · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T17:35:33Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Mega / Liquid night world: an original cobalt robot with a gold halo wading through a lagoon of liquid blue light",
-   "batch": "batch_20261016_1730",
-   "file": "img/HYB_MEGA_LIQUID_01.b64"
-  },
-  {
-   "id": "HYB_GOJIRA_GARAGE_01",
-   "title": "Gojira / Garage · crystal-spine giant over a garage district · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T17:35:33Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Gojira / Garage night world: an original crystal-spined giant rising behind a flooded hazard-striped garage district",
-   "batch": "batch_20261016_1730",
-   "file": "img/HYB_GOJIRA_GARAGE_01.b64"
-  },
-  {
-   "id": "HYB_POTION_EVOKE_01",
-   "title": "Potion × Evoke · amber potion that plays the room · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T17:35:33Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Potion × Evoke night world: a dark apothecary desk where a glowing amber potion pours out a gold soundwave",
-   "batch": "batch_20261016_1730",
-   "file": "img/HYB_POTION_EVOKE_01.b64"
-  },
-  {
-   "id": "HYB_KEYS_INFLUENCE_01",
-   "title": "Keys / Influence · piano-key racetrack · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T17:35:33Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Keys / Influence night world: a racetrack built from giant cobalt and yellow piano keys that ripples like water",
-   "batch": "batch_20261016_1730",
-   "file": "img/HYB_KEYS_INFLUENCE_01.b64"
-  },
-  {
-   "id": "HYB_DOOM_DUNE_01",
-   "title": "DOOM × Dune · gold light shaft over night dunes · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T17:35:33Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "DOOM × Dune night world: a night desert where one gold light shaft falls on a half-buried concrete monolith and an oasis",
-   "batch": "batch_20261016_1730",
-   "file": "img/HYB_DOOM_DUNE_01.b64"
-  },
-  {
-   "id": "HYB_UPSIDE_DOWN_01",
-   "title": "Upside / Down · string-light room mirrored below · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T17:35:33Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Upside / Down night world: a cosy string-lit room whose flooded floor reflects an eerie red mirror-world below",
-   "batch": "batch_20261016_1730",
-   "file": "img/HYB_UPSIDE_DOWN_01.b64"
+   "note": "Second take on Potion × Evoke (first take was a nay): moved out of the dark desk into a flooded crystal glasshouse where one giant amber potion bottle glows, its light pouring out as a gold soundwave across the water",
+   "batch": "batch_20261016_2129",
+   "file": "img/HYB_POTION_EVOKE_02.b64"
   },
   {
    "id": "CAT_052_B2",
@@ -6538,6 +5895,1162 @@
   "request": 1
  },
  "archive": [
+  {
+   "id": "HYB_POD_SLEEPY_TEA_01",
+   "title": "UFO Pod Worlds · Sleepy Tea · pod pouring tea over sugar islands · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod Worlds · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "UFO Pod Worlds · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T20:36:45Z",
+   "kind": "pod_world",
+   "kindLabel": "UFO POD WORLD · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-world"
+   ],
+   "catalog": "catalog_v1",
+   "note": "UFO pod world key art, built to the Sleepy Tea depth concept: steam from a giant teacup rim in the foreground, floating sugar-cube islands mid-ground, lavender dusk sky and pastel moon behind, pod pouring a ribbon of glowing tea",
+   "batch": "batch_20261016_2031",
+   "file": "img/HYB_POD_SLEEPY_TEA_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_POD_NIGHTMARE_01",
+   "title": "UFO Pod Worlds · Nightmare · searchlight over a carnival of doors · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod Worlds · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "UFO Pod Worlds · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T20:36:45Z",
+   "kind": "pod_world",
+   "kindLabel": "UFO POD WORLD · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-world"
+   ],
+   "catalog": "catalog_v1",
+   "note": "UFO pod world key art, built to the Nightmare depth concept: breathing velvet curtains at both edges, a carnival of crooked doorways on stilts, red-violet fog sea, pod searchlight sweeping the doors. Eerie, not gory",
+   "batch": "batch_20261016_2031",
+   "file": "img/HYB_POD_NIGHTMARE_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_POD_THREE170_01",
+   "title": "UFO Pod Worlds · Three170 · checker highway into a sunset grid · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod Worlds · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "UFO Pod Worlds · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T20:36:45Z",
+   "kind": "pod_world",
+   "kindLabel": "UFO POD WORLD · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-world"
+   ],
+   "catalog": "catalog_v1",
+   "note": "UFO pod world key art, built to the Three170 depth concept: chrome speaker grilles in the foreground, a neon highway of floating checker tiles streaming at camera, sunset grid horizon with a spinning sun disc, pod leaving lime light trails",
+   "batch": "batch_20261016_2031",
+   "file": "img/HYB_POD_THREE170_01.b64",
+   "prev_status": "review",
+   "vote": "build on",
+   "vote_issue": 110,
+   "archive_reason": "voted",
+   "archived": "2026-10-16",
+   "spirit_note": "more like nature surrealism dreamcore within clear creek canyon",
+   "spirit_note_issue": 110,
+   "archive_of": "HYB_POD_THREE170_01_B1"
+  },
+  {
+   "id": "HYB_POD_WIZARD_COURT_01",
+   "title": "UFO Pod Worlds · Wizard Court · glowing ball on a tractor beam · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod Worlds · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "UFO Pod Worlds · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T20:36:45Z",
+   "kind": "pod_world",
+   "kindLabel": "UFO POD WORLD · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-world"
+   ],
+   "catalog": "catalog_v1",
+   "note": "UFO pod world key art, built to the Wizard Court depth concept: a soft-focus pickleball net in the foreground, floating court tiles with glowing lines and orbiting paddles, starry wizard-tower spires and aurora, pod lowering a glowing ball",
+   "batch": "batch_20261016_2031",
+   "file": "img/HYB_POD_WIZARD_COURT_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_POD_DEAD_PUNCH_01",
+   "title": "UFO Pod Worlds · Dead Punch · pod as the arena spotlight · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod Worlds · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "UFO Pod Worlds · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T20:36:45Z",
+   "kind": "pod_world",
+   "kindLabel": "UFO POD WORLD · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-world"
+   ],
+   "catalog": "catalog_v1",
+   "note": "UFO pod world key art, built to the Dead Punch depth concept: ring ropes swaying out of focus, cartoon crystal skulls hovering over a checker mat, dark arena haze with spotlight cones, pod as the arena spotlight",
+   "batch": "batch_20261016_2031",
+   "file": "img/HYB_POD_DEAD_PUNCH_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_POD_HOME_TABLE_01",
+   "title": "UFO Pod Worlds · Home Table · pod as the chandelier · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod Worlds · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "UFO Pod Worlds · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T20:36:45Z",
+   "kind": "pod_world",
+   "kindLabel": "UFO POD WORLD · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-world"
+   ],
+   "catalog": "catalog_v1",
+   "note": "UFO pod world key art, built to the Home Table depth concept: candle flames and a linen tablecloth edge in the foreground, a long dinner table floating in clouds with drifting chairs, amber sunset cloudscape, pod as the chandelier",
+   "batch": "batch_20261016_2031",
+   "file": "img/HYB_POD_HOME_TABLE_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_POD_DEFAULT_01",
+   "title": "UFO Pod Worlds · Default · pastel clouds and checker plinths with tiny doors · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod Worlds · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "UFO Pod Worlds · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T20:36:45Z",
+   "kind": "pod_world",
+   "kindLabel": "UFO POD WORLD · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-world"
+   ],
+   "catalog": "catalog_v1",
+   "note": "UFO pod world key art, built to the Default depth concept: pastel clouds wiping in the foreground, floating checker plinths with tiny doors, pink-gold dream sky, pod bobbing off-centre",
+   "batch": "batch_20261016_2031",
+   "file": "img/HYB_POD_DEFAULT_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_POD_CLOUD_DOOR_01",
+   "title": "UFO Pod Worlds · Cloud Door · World 1, a row of cloud doors · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod Worlds · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "UFO Pod Worlds · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T20:36:45Z",
+   "kind": "pod_world",
+   "kindLabel": "UFO POD WORLD · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-world"
+   ],
+   "catalog": "catalog_v1",
+   "note": "UFO pod world key art for World 1, Cloud Door: a row of cloud doors for the next shows only, with the last door cracking to reveal the full calendar of doors beyond",
+   "batch": "batch_20261016_2031",
+   "file": "img/HYB_POD_CLOUD_DOOR_01.b64",
+   "prev_status": "review",
+   "vote": "build on",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16",
+   "archive_of": "HYB_POD_CLOUD_DOOR_01_B1"
+  },
+  {
+   "id": "HYB_POD_DOOR_LANDING_01",
+   "title": "UFO Pod Worlds · Intro · pod lands on the crystal door · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod Worlds · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "UFO Pod Worlds · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T20:36:45Z",
+   "kind": "pod_world",
+   "kindLabel": "UFO POD WORLD · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-world"
+   ],
+   "catalog": "catalog_v1",
+   "note": "UFO pod key art for the new intro's beat 6: the pod lowers onto a crystal door on a checker plinth in a cloud city, and the door swings open on the drop",
+   "batch": "batch_20261016_2031",
+   "file": "img/HYB_POD_DOOR_LANDING_01.b64",
+   "prev_status": "review",
+   "vote": "build on",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16",
+   "archive_of": "HYB_POD_DOOR_LANDING_01_B1"
+  },
+  {
+   "id": "HYB_SHIP_3AM_02",
+   "title": "Ship / 3AM · second take · headphone starship over a 3AM sea · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_SHIP_3AM_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SHIP_3AM_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Ship / 3AM (first take was a nay): the source poster's faceted black starship, now photoreal, skimming a black mirror sea at 3:00",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_SHIP_3AM_02.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_LIGHTS_ON_02",
+   "title": "Lights / On · second take · one strand of bulbs over a black lake · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_LIGHTS_ON_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_LIGHTS_ON_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Lights / On (first take was a nay): the source poster's lone sagging strand of warm bulbs, now a single strand over a black glass lake",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_LIGHTS_ON_02.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_CAROL_NIGHT_02",
+   "title": "Carol / Night · second take · a bell made of light in the snow · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_CAROL_NIGHT_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_CAROL_NIGHT_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Carol / Night (first take was a nay): the source poster's glowing filament bell, now standing alone over a snowy concrete plaza",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_CAROL_NIGHT_02.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_BOXING_NIGHT_02",
+   "title": "Boxing · second take · gift boxes stacked into a ring · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_BOXING_NIGHT_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_BOXING_NIGHT_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Boxing night (Dec 26; first take was a nay): leftover gift boxes stacked into the corners of a glowing boxing ring",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_BOXING_NIGHT_02.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_ROCKY_WARP_02",
+   "title": "Rocky / Warp · second take · red lips and a lightning warp · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_ROCKY_WARP_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_ROCKY_WARP_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Rocky / Warp (first take was a nay): the source poster's halftone red lips and white lightning bolt, rebuilt as a sculpted glass monument",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_ROCKY_WARP_02.b64",
+   "prev_status": "review",
+   "vote": "build on",
+   "vote_issue": 111,
+   "archive_reason": "voted",
+   "archived": "2026-10-16",
+   "spirit_note": "use the iconic house and time machine aspect of the rocky/warp vibe",
+   "spirit_note_issue": 111,
+   "archive_of": "HYB_ROCKY_WARP_02_B1"
+  },
+  {
+   "id": "HYB_DASS_NOBODY_02",
+   "title": "Dass / Nobody · second take · gold headphones in a honeycomb mezzanine · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_DASS_NOBODY_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DASS_NOBODY_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Dass / Nobody / Mezzanine (first take was a nay): the source poster's gold headphones on glossy pink liquid under a dark honeycomb",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_DASS_NOBODY_02.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_DIAMONDS_GARDEN_02",
+   "title": "Diamonds × Garden · second take · crystal sneaker in a gold-wave garden · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_DIAMONDS_GARDEN_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DIAMONDS_GARDEN_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Diamonds × Garden (first take was a nay): the source poster's gold headphones beside a diamond sneaker, in a night garden of flowing gold light ribbons",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_DIAMONDS_GARDEN_02.b64",
+   "prev_status": "review",
+   "vote": "build on",
+   "vote_issue": 112,
+   "archive_reason": "voted",
+   "archived": "2026-10-16",
+   "spirit_note": "rather see exotic plants looking like crystals than a sneaker",
+   "spirit_note_issue": 112,
+   "archive_of": "HYB_DIAMONDS_GARDEN_02_B1"
+  },
+  {
+   "id": "HYB_GARAGE_LOFT_02",
+   "title": "Sade / Franklin / Garage · second take · copper headphones in a liquid-glass storm · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_GARAGE_LOFT_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_GARAGE_LOFT_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Sade / Franklin / Garage (first take was a nay): the source poster's copper headphones floating inside a storm of ruby and purple liquid glass with white glitch streaks",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_GARAGE_LOFT_02.b64",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_SEVENTIES_LIQUID_02",
+   "title": "Seventies / Liquid · second take · melted-gold sphere in a 70s amber room · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_SEVENTIES_LIQUID_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SEVENTIES_LIQUID_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Seventies / Liquid / Hybrid Minds (first take was a nay): the source poster's gold headphones around a molten gold sphere on a puddle of melted gold",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_SEVENTIES_LIQUID_02.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_AFTER_NOON_01",
+   "title": "After / Noon · lemon sun over a noon plaza · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "After / Noon night world: a sun-bleached concrete plaza at high noon where a lemon-yellow sun sits on a tall pole",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_AFTER_NOON_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_AFTER_MIDNIGHT_01",
+   "title": "After / Midnight · cyan crescent slicing a black city · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "After / Midnight night world: a black rain-slick city where a thin cyan neon crescent cuts across a lemon full moon",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_AFTER_MIDNIGHT_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_REPUTATION_01",
+   "title": "Reputation · spotlight on a shattered black stage · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Reputation night world: a single white spotlight on a black mirror stage as shards of black glass float upward",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_REPUTATION_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_MOON_METER_01",
+   "title": "Moon / Meter · wireframe moon over a glitch meter · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Moon / Meter night world: a wireframe crystal moon showing 0/4 time hanging over a flooded room of VU meters",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_MOON_METER_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_ERAS_BRACELETS_01",
+   "title": "Taylor / Eras · river of bead bracelets · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Taylor / Eras night world: a pink-lit hall where a glowing river of beaded friendship bracelets flows down the stairs",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_ERAS_BRACELETS_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_FAMILY_HALO_01",
+   "title": "Family / Halo · tea cups glowing on a long table · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Family / Halo night world: a warm candlelit concrete dining hall where steaming clay cups share one gold halo",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_FAMILY_HALO_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_UNFINISHED_THIRD_01",
+   "title": "Unfinished / Third · two monoliths and a lime energy wraith · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Unfinished / Third night world: two rough concrete monoliths with a third shape made of crackling lime energy",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_UNFINISHED_THIRD_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_FULL_TABLE_01",
+   "title": "Full / Table · ring of candles around a round table · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Full / Table night world: a round bronze table encircled by a ring of floating candles in a flooded dark hall",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_FULL_TABLE_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_BETWEEN_01",
+   "title": "Between · a gold shaft between two years · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Between night world: a dark hall between two years where a single gold light shaft falls through drifting gold dust",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_BETWEEN_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_ZELDA_CRYSTAL_01",
+   "title": "Zelda / Crystal · blade sealed in a crystal monolith · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Zelda / Crystal night world: a mossy flooded sanctum where an original gold blade sleeps inside a towering crystal",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_ZELDA_CRYSTAL_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_SCHISM_SNARES_01",
+   "title": "Schism / Snares · crumpled chrome fault line · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Schism / Snares night world: a concrete hall split in two by a crumpled chrome fault where a snare hangs in the gap",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_SCHISM_SNARES_01.b64",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_SLEDGE_3AM_01",
+   "title": "Sledge × 3AM · chrome sledgehammer on a violet rooftop · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Sledge × 3AM night world: a rain-soaked rooftop at 3am where a giant chrome sledgehammer has just landed",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_SLEDGE_3AM_01.b64",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_MEGA_LIQUID_01",
+   "title": "Mega / Liquid · cobalt robot wading in liquid light · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Mega / Liquid night world: an original cobalt robot with a gold halo wading through a lagoon of liquid blue light",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_MEGA_LIQUID_01.b64",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_GOJIRA_GARAGE_01",
+   "title": "Gojira / Garage · crystal-spine giant over a garage district · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Gojira / Garage night world: an original crystal-spined giant rising behind a flooded hazard-striped garage district",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_GOJIRA_GARAGE_01.b64",
+   "prev_status": "review",
+   "vote": "build on",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16",
+   "archive_of": "HYB_GOJIRA_GARAGE_01_B1"
+  },
+  {
+   "id": "HYB_POTION_EVOKE_01",
+   "title": "Potion × Evoke · amber potion that plays the room · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Potion × Evoke night world: a dark apothecary desk where a glowing amber potion pours out a gold soundwave",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_POTION_EVOKE_01.b64",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_KEYS_INFLUENCE_01",
+   "title": "Keys / Influence · piano-key racetrack · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Keys / Influence night world: a racetrack built from giant cobalt and yellow piano keys that ripples like water",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_KEYS_INFLUENCE_01.b64",
+   "prev_status": "review",
+   "vote": "build on",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16",
+   "archive_of": "HYB_KEYS_INFLUENCE_01_B1"
+  },
+  {
+   "id": "HYB_DOOM_DUNE_01",
+   "title": "DOOM × Dune · gold light shaft over night dunes · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "DOOM × Dune night world: a night desert where one gold light shaft falls on a half-buried concrete monolith and an oasis",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_DOOM_DUNE_01.b64",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_UPSIDE_DOWN_01",
+   "title": "Upside / Down · string-light room mirrored below · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Upside / Down night world: a cosy string-lit room whose flooded floor reflects an eerie red mirror-world below",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_UPSIDE_DOWN_01.b64",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 113,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
   {
    "id": "HYB_PEPPER_JUNGLE_01_B1",
    "title": "Pepper / Jungle · psychedelic pop-art jungle land · build on · hybrid",
@@ -24380,6 +24893,24 @@
    ],
    "voted_to_archive": 0,
    "note": "No new votes or Build Ons since #109, and the event-night and second-take pools are used up, so a fresh source: UFO Pod Worlds hybrid key art, one per world built to the depth concepts (Sleepy Tea, Nightmare, Three170, Wizard Court, Dead Punch, Home Table, Default), plus World 1 Cloud Door and the new intro's pod-landing beat. Pod locked to the crystal-lens saucer with a per-world skin."
+  },
+  {
+   "at": "2026-10-16T21:34:57Z",
+   "build": "20261016u",
+   "batch": "batch_20261016_2129",
+   "added": [
+    "HYB_POD_CLOUD_DOOR_01_B1",
+    "HYB_POD_DOOR_LANDING_01_B1",
+    "HYB_GOJIRA_GARAGE_01_B1",
+    "HYB_KEYS_INFLUENCE_01_B1",
+    "HYB_POD_THREE170_01_B1",
+    "HYB_ROCKY_WARP_02_B1",
+    "HYB_DIAMONDS_GARDEN_02_B1",
+    "HYB_SCHISM_SNARES_02",
+    "HYB_POTION_EVOKE_02"
+   ],
+   "voted_to_archive": 36,
+   "note": "Vote #113 applied (33 votes: 22 yay, 7 nay, 4 Build On) plus noted feedback #110-112. Seven Build Ons rendered first: Cloud Door and intro pod landing (pod locked back to the flat crystal lens), Gojira/Garage leviathan, Keys/Influence racetrack, Three170 rebuilt inside Clear Creek Canyon (#110), Rocky/Warp storm house and time machine (#111), Diamonds x Garden with crystal exotic plants instead of the sneaker (#112). Then second takes on two nay'd nights: Schism/Snares and Potion x Evoke."
   }
  ]
 }
