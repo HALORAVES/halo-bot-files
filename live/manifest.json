@@ -1,8 +1,233 @@
 {
- "total": 177,
- "done": 177,
- "updated": "2026-10-16T11:33:02Z",
+ "total": 186,
+ "done": 186,
+ "updated": "2026-10-16T12:32:05Z",
  "items": [
+  {
+   "id": "HYB_DIAMONDS_GARDEN_01",
+   "title": "Diamonds / Garden · diamond-shoe garden path · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T12:32:05Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Diamonds / Garden night world: diamond-shoe garden path",
+   "batch": "batch_20261016_1226",
+   "file": "img/HYB_DIAMONDS_GARDEN_01.b64"
+  },
+  {
+   "id": "HYB_THE_DOCK_01",
+   "title": "The / Dock · organ-peak orbital dock · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T12:32:05Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "The / Dock night world: organ-peak orbital dock",
+   "batch": "batch_20261016_1226",
+   "file": "img/HYB_THE_DOCK_01.b64"
+  },
+  {
+   "id": "HYB_PEPPER_JUNGLE_01",
+   "title": "Pepper / Jungle · hard-frame jungle break · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T12:32:05Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Pepper / Jungle night world: hard-frame jungle break",
+   "batch": "batch_20261016_1226",
+   "file": "img/HYB_PEPPER_JUNGLE_01.b64"
+  },
+  {
+   "id": "HYB_KOMBAT_EARTH_BLUE_01",
+   "title": "Kombat / Earth / Blue · stance arena chip-blue · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T12:32:05Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Kombat / Earth / Blue night world: stance arena chip-blue",
+   "batch": "batch_20261016_1226",
+   "file": "img/HYB_KOMBAT_EARTH_BLUE_01.b64"
+  },
+  {
+   "id": "HYB_BLONDE_NIGHT_01",
+   "title": "Blonde / Night · amber hair loft intimacy · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T12:32:05Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Blonde / Night night world: amber hair loft intimacy",
+   "batch": "batch_20261016_1226",
+   "file": "img/HYB_BLONDE_NIGHT_01.b64"
+  },
+  {
+   "id": "HYB_GYPSY_PALM_01",
+   "title": "Gypsy × Palm · sundown palm chorus plaza · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T12:32:05Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Gypsy × Palm night world: sundown palm chorus plaza",
+   "batch": "batch_20261016_1226",
+   "file": "img/HYB_GYPSY_PALM_01.b64"
+  },
+  {
+   "id": "HYB_BLOCK_FLOWER_01",
+   "title": "Block / Flower · power-bloom brick stack · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T12:32:05Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Block / Flower night world: power-bloom brick stack",
+   "batch": "batch_20261016_1226",
+   "file": "img/HYB_BLOCK_FLOWER_01.b64"
+  },
+  {
+   "id": "HYB_THE_BUILD_01",
+   "title": "The Build · scaffold cathedral rising · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T12:32:05Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "The Build night world: scaffold cathedral rising",
+   "batch": "batch_20261016_1226",
+   "file": "img/HYB_THE_BUILD_01.b64"
+  },
+  {
+   "id": "HYB_WEEK_INWARDS_01",
+   "title": "Week / Inwards · inward liquid garden room · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T12:32:05Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Week / Inwards night world: inward liquid garden room",
+   "batch": "batch_20261016_1226",
+   "file": "img/HYB_WEEK_INWARDS_01.b64"
+  },
   {
    "id": "HYB_BATTLE_HYMN_01",
    "title": "Battle / Hymn · sword-of-light choir nave · hybrid",
@@ -21497,6 +21722,23 @@
     "HYB_SKY_SHIP_01"
    ],
    "note": "Build On still clear (no new build-on votes). 9 event-night hybrids for Mar to Apr 2027 shows: Battle / Hymn, Word / Soul, Dream / Blocks, Nina × Break, Swan / Wake, Bebop / Laser, Dass / Nobody, Pigs / Fly, Sky / Ship."
+  },
+  {
+   "at": "2026-10-16T12:32:05Z",
+   "build": "20261016l",
+   "batch": "batch_20261016_1226",
+   "added": [
+    "HYB_DIAMONDS_GARDEN_01",
+    "HYB_THE_DOCK_01",
+    "HYB_PEPPER_JUNGLE_01",
+    "HYB_KOMBAT_EARTH_BLUE_01",
+    "HYB_BLONDE_NIGHT_01",
+    "HYB_GYPSY_PALM_01",
+    "HYB_BLOCK_FLOWER_01",
+    "HYB_THE_BUILD_01",
+    "HYB_WEEK_INWARDS_01"
+   ],
+   "note": "Build On still clear (no new build-on votes). 9 event-night hybrids for Mar to Apr 2027 shows: Diamonds / Garden, The / Dock, Pepper / Jungle, Kombat / Earth / Blue, Blonde / Night, Gypsy × Palm, Block / Flower, The Build, Week / Inwards."
   }
  ]
 }
