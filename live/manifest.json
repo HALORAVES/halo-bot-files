@@ -1,8 +1,233 @@
 {
- "total": 168,
- "done": 168,
- "updated": "2026-10-16T10:38:58Z",
+ "total": 177,
+ "done": 177,
+ "updated": "2026-10-16T11:33:02Z",
  "items": [
+  {
+   "id": "HYB_BATTLE_HYMN_01",
+   "title": "Battle / Hymn · sword-of-light choir nave · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T11:33:02Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Battle / Hymn night world: sword-of-light choir nave",
+   "batch": "batch_20261016_1125",
+   "file": "img/HYB_BATTLE_HYMN_01.b64"
+  },
+  {
+   "id": "HYB_WORD_SOUL_01",
+   "title": "Word / Soul · honey-silk soul lounge · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T11:33:02Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Word / Soul night world: honey-silk soul lounge",
+   "batch": "batch_20261016_1125",
+   "file": "img/HYB_WORD_SOUL_01.b64"
+  },
+  {
+   "id": "HYB_DREAM_BLOCKS_01",
+   "title": "Dream / Blocks · stacked cube dream city · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T11:33:02Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Dream / Blocks night world: stacked cube dream city",
+   "batch": "batch_20261016_1125",
+   "file": "img/HYB_DREAM_BLOCKS_01.b64"
+  },
+  {
+   "id": "HYB_NINA_BREAK_01",
+   "title": "Nina × Break · chrome mic fountain · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T11:33:02Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Nina × Break night world: chrome mic fountain",
+   "batch": "batch_20261016_1125",
+   "file": "img/HYB_NINA_BREAK_01.b64"
+  },
+  {
+   "id": "HYB_SWAN_WAKE_01",
+   "title": "Swan / Wake · glass swan black lake · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T11:33:02Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Swan / Wake night world: glass swan black lake",
+   "batch": "batch_20261016_1125",
+   "file": "img/HYB_SWAN_WAKE_01.b64"
+  },
+  {
+   "id": "HYB_BEBOP_LASER_01",
+   "title": "Bebop / Laser · neon nebula dogfight hangar · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T11:33:02Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Bebop / Laser night world: neon nebula dogfight hangar",
+   "batch": "batch_20261016_1125",
+   "file": "img/HYB_BEBOP_LASER_01.b64"
+  },
+  {
+   "id": "HYB_DASS_NOBODY_01",
+   "title": "Dass / Nobody · honeycomb mezzanine pool · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T11:33:02Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Dass / Nobody night world: honeycomb mezzanine pool",
+   "batch": "batch_20261016_1125",
+   "file": "img/HYB_DASS_NOBODY_01.b64"
+  },
+  {
+   "id": "HYB_PIGS_FLY_01",
+   "title": "Pigs / Fly · crystal-winged voxel pig · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T11:33:02Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Pigs / Fly night world: crystal-winged voxel pig",
+   "batch": "batch_20261016_1125",
+   "file": "img/HYB_PIGS_FLY_01.b64"
+  },
+  {
+   "id": "HYB_SKY_SHIP_01",
+   "title": "Sky / Ship · cloud monolith glider · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T11:33:02Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Sky / Ship night world: cloud monolith glider",
+   "batch": "batch_20261016_1125",
+   "file": "img/HYB_SKY_SHIP_01.b64"
+  },
   {
    "id": "HYB_NINETIES_JUNGLE_01",
    "title": "Nineties / Jungle · overgrown paint jungle · hybrid",
@@ -21255,6 +21480,23 @@
     "HYB_WATTS_VOID_01"
    ],
    "note": "Build On still clear (no new build-on votes). 9 event-night hybrids for Jan to Feb 2027 shows: Nineties/Jungle, Boléro/Snare, Orchestra/Peak, Castle/Organ, Game/Piano/Sands, Gold/Rings, Kiss × Madness, Rocky/Warp, Watts/Void."
+  },
+  {
+   "at": "2026-10-16T11:33:02Z",
+   "build": "20261016k",
+   "batch": "batch_20261016_1125",
+   "added": [
+    "HYB_BATTLE_HYMN_01",
+    "HYB_WORD_SOUL_01",
+    "HYB_DREAM_BLOCKS_01",
+    "HYB_NINA_BREAK_01",
+    "HYB_SWAN_WAKE_01",
+    "HYB_BEBOP_LASER_01",
+    "HYB_DASS_NOBODY_01",
+    "HYB_PIGS_FLY_01",
+    "HYB_SKY_SHIP_01"
+   ],
+   "note": "Build On still clear (no new build-on votes). 9 event-night hybrids for Mar to Apr 2027 shows: Battle / Hymn, Word / Soul, Dream / Blocks, Nina × Break, Swan / Wake, Bebop / Laser, Dass / Nobody, Pigs / Fly, Sky / Ship."
   }
  ]
 }
