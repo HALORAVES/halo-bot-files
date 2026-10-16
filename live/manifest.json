@@ -1,8 +1,233 @@
 {
- "total": 114,
- "done": 114,
- "updated": "2026-10-16T17:35:33Z",
+ "total": 123,
+ "done": 123,
+ "updated": "2026-10-16T18:29:21Z",
  "items": [
+  {
+   "id": "HYB_AFTER_NOON_01",
+   "title": "After / Noon · lemon sun over a noon plaza · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "After / Noon night world: a sun-bleached concrete plaza at high noon where a lemon-yellow sun sits on a tall pole",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_AFTER_NOON_01.b64"
+  },
+  {
+   "id": "HYB_AFTER_MIDNIGHT_01",
+   "title": "After / Midnight · cyan crescent slicing a black city · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "After / Midnight night world: a black rain-slick city where a thin cyan neon crescent cuts across a lemon full moon",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_AFTER_MIDNIGHT_01.b64"
+  },
+  {
+   "id": "HYB_REPUTATION_01",
+   "title": "Reputation · spotlight on a shattered black stage · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Reputation night world: a single white spotlight on a black mirror stage as shards of black glass float upward",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_REPUTATION_01.b64"
+  },
+  {
+   "id": "HYB_MOON_METER_01",
+   "title": "Moon / Meter · wireframe moon over a glitch meter · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Moon / Meter night world: a wireframe crystal moon showing 0/4 time hanging over a flooded room of VU meters",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_MOON_METER_01.b64"
+  },
+  {
+   "id": "HYB_ERAS_BRACELETS_01",
+   "title": "Taylor / Eras · river of bead bracelets · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Taylor / Eras night world: a pink-lit hall where a glowing river of beaded friendship bracelets flows down the stairs",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_ERAS_BRACELETS_01.b64"
+  },
+  {
+   "id": "HYB_FAMILY_HALO_01",
+   "title": "Family / Halo · tea cups glowing on a long table · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Family / Halo night world: a warm candlelit concrete dining hall where steaming clay cups share one gold halo",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_FAMILY_HALO_01.b64"
+  },
+  {
+   "id": "HYB_UNFINISHED_THIRD_01",
+   "title": "Unfinished / Third · two monoliths and a lime energy wraith · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Unfinished / Third night world: two rough concrete monoliths with a third shape made of crackling lime energy",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_UNFINISHED_THIRD_01.b64"
+  },
+  {
+   "id": "HYB_FULL_TABLE_01",
+   "title": "Full / Table · ring of candles around a round table · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Full / Table night world: a round bronze table encircled by a ring of floating candles in a flooded dark hall",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_FULL_TABLE_01.b64"
+  },
+  {
+   "id": "HYB_BETWEEN_01",
+   "title": "Between · a gold shaft between two years · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T18:29:21Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Between night world: a dark hall between two years where a single gold light shaft falls through drifting gold dust",
+   "batch": "batch_20261016_1824",
+   "file": "img/HYB_BETWEEN_01.b64"
+  },
   {
    "id": "HYB_ZELDA_CRYSTAL_01",
    "title": "Zelda / Crystal · blade sealed in a crystal monolith · hybrid",
@@ -23608,6 +23833,24 @@
    ],
    "voted_to_archive": 8,
    "note": "Applied Spirit's vote #109 (yay 6, nay 2; voted pieces moved to Archive > Voted). No new Build Ons, so 9 event nights Sep 25-Oct 30 2027 (Zelda/Crystal, Schism/Snares, Sledge x 3AM, Mega/Liquid, Gojira/Garage, Potion x Evoke, Keys/Influence, DOOM x Dune, Upside/Down), all IP-safe originals."
+  },
+  {
+   "at": "2026-10-16T18:29:21Z",
+   "build": "20261016r",
+   "batch": "batch_20261016_1824",
+   "added": [
+    "HYB_AFTER_NOON_01",
+    "HYB_AFTER_MIDNIGHT_01",
+    "HYB_REPUTATION_01",
+    "HYB_MOON_METER_01",
+    "HYB_ERAS_BRACELETS_01",
+    "HYB_FAMILY_HALO_01",
+    "HYB_UNFINISHED_THIRD_01",
+    "HYB_FULL_TABLE_01",
+    "HYB_BETWEEN_01"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new votes or Build Ons since #109, so the final 9 event nights Nov 5-Dec 30 2027 (After/Noon, After/Midnight, Reputation, Moon/Meter, Taylor/Eras, Family/Halo, Unfinished/Third, Full/Table, Between), all IP-safe originals. Event-night calendar now fully covered."
   }
  ]
 }
