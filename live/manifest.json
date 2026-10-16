@@ -1,8 +1,271 @@
 {
- "total": 114,
- "done": 114,
- "updated": "2026-10-16T21:34:57Z",
+ "total": 123,
+ "done": 123,
+ "updated": "2026-10-16T22:32:14Z",
  "items": [
+  {
+   "id": "HYB_SLEDGE_3AM_02",
+   "title": "Sledge × 3AM · second take · violet headphones at the hammer's impact · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T22:32:14Z",
+   "kind": "second_take",
+   "kindLabel": "SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_SLEDGE_3AM_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SLEDGE_3AM_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Sledge × 3AM (first take was a nay): re-anchored on the source poster, the violet headphones as hero floating at the instant a chrome sledgehammer strikes, sparks spraying over a violet 3AM skyline",
+   "batch": "batch_20261016_2226",
+   "file": "img/HYB_SLEDGE_3AM_02.b64"
+  },
+  {
+   "id": "HYB_MEGA_LIQUID_02",
+   "title": "Mega / Liquid · second take · cobalt headphones in a crown of liquid light · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T22:32:14Z",
+   "kind": "second_take",
+   "kindLabel": "SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_MEGA_LIQUID_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_MEGA_LIQUID_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Mega / Liquid (first take was a nay): re-anchored on the source poster, the cobalt headphones as hero rising out of a crown splash of liquid blue light, an original chrome robot reflected in the pool",
+   "batch": "batch_20261016_2226",
+   "file": "img/HYB_MEGA_LIQUID_02.b64"
+  },
+  {
+   "id": "HYB_DOOM_DUNE_02",
+   "title": "DOOM × Dune · second take · gold headphones held in the light shaft · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T22:32:14Z",
+   "kind": "second_take",
+   "kindLabel": "SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_DOOM_DUNE_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DOOM_DUNE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on DOOM × Dune (first take was a nay): re-anchored on the source poster, the gold headphones as hero suspended inside a single vertical shaft of gold light over the dark night dunes",
+   "batch": "batch_20261016_2226",
+   "file": "img/HYB_DOOM_DUNE_02.b64"
+  },
+  {
+   "id": "HYB_UPSIDE_DOWN_02",
+   "title": "Upside / Down · second take · copper headphones under the wall of lights · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T22:32:14Z",
+   "kind": "second_take",
+   "kindLabel": "SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_UPSIDE_DOWN_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_UPSIDE_DOWN_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Upside / Down (first take was a nay): re-anchored on the source poster, the copper headphones as hero in a dark room under a wall of warm string lights, low red fog rolling across the floor",
+   "batch": "batch_20261016_2226",
+   "file": "img/HYB_UPSIDE_DOWN_02.b64"
+  },
+  {
+   "id": "HYB_GARAGE_LOFT_03",
+   "title": "Sade / Franklin / Garage · third take · copper headphones in the rain-window loft · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T22:32:14Z",
+   "kind": "second_take",
+   "kindLabel": "SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_GARAGE_LOFT_02 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_GARAGE_LOFT_02.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Third take on Sade / Franklin / Garage (first two takes were nays): a new read, an intimate late-night loft above a garage, ruby liquid-glass rain running down a tall window, the copper headphones on a stack of vinyl in one warm lamp",
+   "batch": "batch_20261016_2226",
+   "file": "img/HYB_GARAGE_LOFT_03.b64"
+  },
+  {
+   "id": "HYB_POD_FLYOVER_SHIP_3AM_01",
+   "title": "Pod Night Flyovers · Ship / 3AM · the pod over the 3AM sea · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod · Night Flyovers · Oct 16",
+   "status": "review",
+   "rooms": [
+    "UFO Pod · Night Flyovers · Oct 16"
+   ],
+   "updated": "2026-10-16T22:32:14Z",
+   "kind": "pod_flyover",
+   "kindLabel": "POD FLYOVER · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-flyover",
+    "loop-ready"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Pod Night Flyover (loop-ready establishing frame for the screensaver loops): the HALO UFO pod gliding low over the yay'd Ship / 3AM black mirror sea, skinned for the night",
+   "batch": "batch_20261016_2226",
+   "file": "img/HYB_POD_FLYOVER_SHIP_3AM_01.b64"
+  },
+  {
+   "id": "HYB_POD_FLYOVER_CAROL_01",
+   "title": "Pod Night Flyovers · Carol / Night · the pod under the bell of light · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod · Night Flyovers · Oct 16",
+   "status": "review",
+   "rooms": [
+    "UFO Pod · Night Flyovers · Oct 16"
+   ],
+   "updated": "2026-10-16T22:32:14Z",
+   "kind": "pod_flyover",
+   "kindLabel": "POD FLYOVER · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-flyover",
+    "loop-ready"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Pod Night Flyover (loop-ready establishing frame): the HALO UFO pod drifting through falling snow beneath the yay'd Carol / Night filament bell",
+   "batch": "batch_20261016_2226",
+   "file": "img/HYB_POD_FLYOVER_CAROL_01.b64"
+  },
+  {
+   "id": "HYB_POD_FLYOVER_MOON_METER_01",
+   "title": "Pod Night Flyovers · Moon / Meter · the pod under the wireframe moon · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod · Night Flyovers · Oct 16",
+   "status": "review",
+   "rooms": [
+    "UFO Pod · Night Flyovers · Oct 16"
+   ],
+   "updated": "2026-10-16T22:32:14Z",
+   "kind": "pod_flyover",
+   "kindLabel": "POD FLYOVER · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-flyover",
+    "loop-ready"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Pod Night Flyover (loop-ready establishing frame): the HALO UFO pod hovering over the yay'd Moon / Meter flooded room of VU meters, under the wireframe crystal moon",
+   "batch": "batch_20261016_2226",
+   "file": "img/HYB_POD_FLYOVER_MOON_METER_01.b64"
+  },
+  {
+   "id": "HYB_POD_FLYOVER_SEVENTIES_01",
+   "title": "Pod Night Flyovers · Seventies / Liquid · the pod over the gold-melt lake · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod · Night Flyovers · Oct 16",
+   "status": "review",
+   "rooms": [
+    "UFO Pod · Night Flyovers · Oct 16"
+   ],
+   "updated": "2026-10-16T22:32:14Z",
+   "kind": "pod_flyover",
+   "kindLabel": "POD FLYOVER · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-flyover",
+    "loop-ready"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Pod Night Flyover (loop-ready establishing frame): the HALO UFO pod skimming a lake of molten gold from the yay'd Seventies / Liquid night, the gold sphere rising on the horizon",
+   "batch": "batch_20261016_2226",
+   "file": "img/HYB_POD_FLYOVER_SEVENTIES_01.b64"
+  },
   {
    "id": "HYB_POD_CLOUD_DOOR_01_B1",
    "title": "UFO Pod Worlds · Cloud Door · build on · the last door breaks open · hybrid",
@@ -24911,6 +25174,24 @@
    ],
    "voted_to_archive": 36,
    "note": "Vote #113 applied (33 votes: 22 yay, 7 nay, 4 Build On) plus noted feedback #110-112. Seven Build Ons rendered first: Cloud Door and intro pod landing (pod locked back to the flat crystal lens), Gojira/Garage leviathan, Keys/Influence racetrack, Three170 rebuilt inside Clear Creek Canyon (#110), Rocky/Warp storm house and time machine (#111), Diamonds x Garden with crystal exotic plants instead of the sneaker (#112). Then second takes on two nay'd nights: Schism/Snares and Potion x Evoke."
+  },
+  {
+   "at": "2026-10-16T22:32:14Z",
+   "build": "20261016v",
+   "batch": "batch_20261016_2226",
+   "added": [
+    "HYB_SLEDGE_3AM_02",
+    "HYB_MEGA_LIQUID_02",
+    "HYB_DOOM_DUNE_02",
+    "HYB_UPSIDE_DOWN_02",
+    "HYB_GARAGE_LOFT_03",
+    "HYB_POD_FLYOVER_SHIP_3AM_01",
+    "HYB_POD_FLYOVER_CAROL_01",
+    "HYB_POD_FLYOVER_MOON_METER_01",
+    "HYB_POD_FLYOVER_SEVENTIES_01"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new votes since #113 and no open Build Ons. Poster-anchored second takes on the last four nay'd nights (Sledge x 3AM, Mega/Liquid, DOOM x Dune, Upside/Down) plus a third take on Sade/Franklin/Garage, then a new Pod Night Flyovers section: loop-ready pod establishing frames over yay'd nights (Ship/3AM, Carol/Night, Moon/Meter, Seventies/Liquid)."
   }
  ]
 }
