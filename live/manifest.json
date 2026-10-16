@@ -1,8 +1,260 @@
 {
-  "total": 141,
-  "done": 141,
-  "updated": "2026-10-16T07:35:12Z",
+  "total": 150,
+  "done": 150,
+  "updated": "2026-10-16T08:34:09Z",
   "items": [
+    {
+      "id": "G_IBP_80_B1",
+      "title": "Quiet Room / Loud Heart \u00b7 tee \u00b7 hybrid rebuild \u00b7 B1",
+      "theme": "MERCH \u00b7 TEE",
+      "section": "Build On \u00b7 Hybrid \u00b7 Oct 16",
+      "status": "review",
+      "rooms": [
+        "INSPIRED BY PINTEREST",
+        "MERCH",
+        "Build On \u00b7 Hybrid \u00b7 Oct 16"
+      ],
+      "updated": "2026-10-16T08:34:09Z",
+      "kind": "build_on",
+      "kindLabel": "BUILD ON \u00b7 MERCH \u00b7 TEE",
+      "source_pins": [],
+      "refs": [
+        {
+          "label": "Tapstitch blank RT0080 \u00b7 Boxy Oversized T-Shirt",
+          "url": "https://www.tapstitch.com/custom/rt0080-boxy-oversized-t-shirt"
+        },
+        {
+          "label": "Source poster IBP_80",
+          "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/IBP_80.b64"
+        }
+      ],
+      "tags": [
+        "hybrid",
+        "v2",
+        "oct16-batch"
+      ],
+      "catalog": "catalog_v1",
+      "product": "tee",
+      "finish": "none",
+      "layout": "back_big",
+      "note": "Rebuild in locked v2 hybrid style \u2014 Quiet Room / Loud Heart tee lifestyle",
+      "batch": "batch_20261016_0827",
+      "of": "G_IBP_80",
+      "version": "B1",
+      "before_file": "G_IBP_80",
+      "keeperNote": "Rebuild in locked v2 hybrid style",
+      "file": "img/G_IBP_80_B1.b64",
+      "blank": {
+        "code": "RT0080",
+        "name": "Boxy Oversized T-Shirt",
+        "gsm": 400,
+        "material": "100% cotton",
+        "fit": "boxy H-line, drop shoulder",
+        "colour": "White",
+        "url": "https://www.tapstitch.com/custom/rt0080-boxy-oversized-t-shirt",
+        "thumb": "ts_RT0080_White"
+      }
+    },
+    {
+      "id": "HYB_DEAD_PUNCH_01",
+      "title": "Dead / Punch \u00b7 skatepark atrium \u00b7 hybrid",
+      "theme": "Event Nights",
+      "section": "Event Nights \u00b7 Hybrid \u00b7 Oct 16",
+      "status": "review",
+      "rooms": [
+        "Event Nights \u00b7 Hybrid \u00b7 Oct 16"
+      ],
+      "updated": "2026-10-16T08:34:09Z",
+      "kind": "event_night",
+      "kindLabel": "EVENT NIGHT \u00b7 HYBRID",
+      "source_pins": [],
+      "refs": [],
+      "tags": [
+        "hybrid",
+        "v2",
+        "oct16-batch",
+        "event"
+      ],
+      "catalog": "catalog_v1",
+      "note": "Dead / Punch night world \u2014 skatepark atrium",
+      "batch": "batch_20261016_0827",
+      "file": "img/HYB_DEAD_PUNCH_01.b64"
+    },
+    {
+      "id": "HYB_COLD_OPEN_01",
+      "title": "Cold / Open \u00b7 freezer atrium \u00b7 hybrid",
+      "theme": "Event Nights",
+      "section": "Event Nights \u00b7 Hybrid \u00b7 Oct 16",
+      "status": "review",
+      "rooms": [
+        "Event Nights \u00b7 Hybrid \u00b7 Oct 16"
+      ],
+      "updated": "2026-10-16T08:34:09Z",
+      "kind": "event_night",
+      "kindLabel": "EVENT NIGHT \u00b7 HYBRID",
+      "source_pins": [],
+      "refs": [],
+      "tags": [
+        "hybrid",
+        "v2",
+        "oct16-batch",
+        "event"
+      ],
+      "catalog": "catalog_v1",
+      "note": "Cold / Open night world \u2014 walk-in freezer",
+      "batch": "batch_20261016_0827",
+      "file": "img/HYB_COLD_OPEN_01.b64"
+    },
+    {
+      "id": "HYB_HOME_TABLE_01",
+      "title": "Home / Table \u00b7 dining atrium \u00b7 hybrid",
+      "theme": "Event Nights",
+      "section": "Event Nights \u00b7 Hybrid \u00b7 Oct 16",
+      "status": "review",
+      "rooms": [
+        "Event Nights \u00b7 Hybrid \u00b7 Oct 16"
+      ],
+      "updated": "2026-10-16T08:34:09Z",
+      "kind": "event_night",
+      "kindLabel": "EVENT NIGHT \u00b7 HYBRID",
+      "source_pins": [],
+      "refs": [],
+      "tags": [
+        "hybrid",
+        "v2",
+        "oct16-batch",
+        "event"
+      ],
+      "catalog": "catalog_v1",
+      "note": "Home / Table night world \u2014 dining room",
+      "batch": "batch_20261016_0827",
+      "file": "img/HYB_HOME_TABLE_01.b64"
+    },
+    {
+      "id": "HYB_THE_FEAST_01",
+      "title": "The Feast \u00b7 banquet atrium \u00b7 hybrid",
+      "theme": "Event Nights",
+      "section": "Event Nights \u00b7 Hybrid \u00b7 Oct 16",
+      "status": "review",
+      "rooms": [
+        "Event Nights \u00b7 Hybrid \u00b7 Oct 16"
+      ],
+      "updated": "2026-10-16T08:34:09Z",
+      "kind": "event_night",
+      "kindLabel": "EVENT NIGHT \u00b7 HYBRID",
+      "source_pins": [],
+      "refs": [],
+      "tags": [
+        "hybrid",
+        "v2",
+        "oct16-batch",
+        "event"
+      ],
+      "catalog": "catalog_v1",
+      "note": "The Feast night world \u2014 banquet hall",
+      "batch": "batch_20261016_0827",
+      "file": "img/HYB_THE_FEAST_01.b64"
+    },
+    {
+      "id": "HYB_LEFTOVERS_01",
+      "title": "Leftovers \u00b7 late kitchen \u00b7 hybrid",
+      "theme": "Event Nights",
+      "section": "Event Nights \u00b7 Hybrid \u00b7 Oct 16",
+      "status": "review",
+      "rooms": [
+        "Event Nights \u00b7 Hybrid \u00b7 Oct 16"
+      ],
+      "updated": "2026-10-16T08:34:09Z",
+      "kind": "event_night",
+      "kindLabel": "EVENT NIGHT \u00b7 HYBRID",
+      "source_pins": [],
+      "refs": [],
+      "tags": [
+        "hybrid",
+        "v2",
+        "oct16-batch",
+        "event"
+      ],
+      "catalog": "catalog_v1",
+      "note": "Leftovers night world \u2014 late-night kitchen",
+      "batch": "batch_20261016_0827",
+      "file": "img/HYB_LEFTOVERS_01.b64"
+    },
+    {
+      "id": "HYB_CHOIR_LIQUID_01",
+      "title": "Choir / Liquid / DNB \u00b7 chapel atrium \u00b7 hybrid",
+      "theme": "Event Nights",
+      "section": "Event Nights \u00b7 Hybrid \u00b7 Oct 16",
+      "status": "review",
+      "rooms": [
+        "Event Nights \u00b7 Hybrid \u00b7 Oct 16"
+      ],
+      "updated": "2026-10-16T08:34:09Z",
+      "kind": "event_night",
+      "kindLabel": "EVENT NIGHT \u00b7 HYBRID",
+      "source_pins": [],
+      "refs": [],
+      "tags": [
+        "hybrid",
+        "v2",
+        "oct16-batch",
+        "event"
+      ],
+      "catalog": "catalog_v1",
+      "note": "Choir / Liquid / DNB night world \u2014 chapel",
+      "batch": "batch_20261016_0827",
+      "file": "img/HYB_CHOIR_LIQUID_01.b64"
+    },
+    {
+      "id": "HYB_SHIP_3AM_01",
+      "title": "Ship / 3AM \u00b7 deck atrium \u00b7 hybrid",
+      "theme": "Event Nights",
+      "section": "Event Nights \u00b7 Hybrid \u00b7 Oct 16",
+      "status": "review",
+      "rooms": [
+        "Event Nights \u00b7 Hybrid \u00b7 Oct 16"
+      ],
+      "updated": "2026-10-16T08:34:09Z",
+      "kind": "event_night",
+      "kindLabel": "EVENT NIGHT \u00b7 HYBRID",
+      "source_pins": [],
+      "refs": [],
+      "tags": [
+        "hybrid",
+        "v2",
+        "oct16-batch",
+        "event"
+      ],
+      "catalog": "catalog_v1",
+      "note": "Ship / 3AM night world \u2014 ship deck",
+      "batch": "batch_20261016_0827",
+      "file": "img/HYB_SHIP_3AM_01.b64"
+    },
+    {
+      "id": "HYB_BOXING_NIGHT_01",
+      "title": "Boxing Night \u00b7 ring atrium \u00b7 hybrid",
+      "theme": "Event Nights",
+      "section": "Event Nights \u00b7 Hybrid \u00b7 Oct 16",
+      "status": "review",
+      "rooms": [
+        "Event Nights \u00b7 Hybrid \u00b7 Oct 16"
+      ],
+      "updated": "2026-10-16T08:34:09Z",
+      "kind": "event_night",
+      "kindLabel": "EVENT NIGHT \u00b7 HYBRID",
+      "source_pins": [],
+      "refs": [],
+      "tags": [
+        "hybrid",
+        "v2",
+        "oct16-batch",
+        "event"
+      ],
+      "catalog": "catalog_v1",
+      "note": "Boxing Night dreamcore ring atrium",
+      "batch": "batch_20261016_0827",
+      "file": "img/HYB_BOXING_NIGHT_01.b64"
+    },
     {
       "id": "G_IBP_77_B1",
       "title": "Come Hear Nothing \u00b7 tee \u00b7 hybrid rebuild \u00b7 B1",
@@ -20395,6 +20647,23 @@
     }
   ],
   "changelog": [
+    {
+      "at": "2026-10-16T08:34:09Z",
+      "build": "20261016h",
+      "batch": "batch_20261016_0827",
+      "added": [
+        "G_IBP_80_B1",
+        "HYB_DEAD_PUNCH_01",
+        "HYB_COLD_OPEN_01",
+        "HYB_HOME_TABLE_01",
+        "HYB_THE_FEAST_01",
+        "HYB_LEFTOVERS_01",
+        "HYB_CHOIR_LIQUID_01",
+        "HYB_SHIP_3AM_01",
+        "HYB_BOXING_NIGHT_01"
+      ],
+      "note": "Last Build On (G_IBP_80_B1) + 8 event-night hybrids"
+    },
     {
       "at": "2026-10-16T05:42:41Z",
       "build": "20261016e",
