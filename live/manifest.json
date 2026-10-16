@@ -884,7 +884,7 @@
   {
    "id": "TUNNEL_V3_T8",
    "file": "img/TUNNEL_V3_T8.b64",
-   "title": "TUNNEL v3 · T8 · SI generated",
+   "title": "TUNNEL v3 · T8",
    "theme": "TUNNEL v3",
    "section": "TUNNEL v3 · Oct 15",
    "status": "review",
@@ -893,15 +893,13 @@
    ],
    "updated": "2026-10-15T19:10:00Z",
    "kind": "general",
-   "kindLabel": "SI GENERATED · TUNNEL v3",
-   "tags": [
-    "SI generated"
-   ]
+   "kindLabel": "TUNNEL v3",
+   "tags": []
   },
   {
    "id": "TUNNEL_V3_T6",
    "file": "img/TUNNEL_V3_T6.b64",
-   "title": "TUNNEL v3 · T6 · SI generated",
+   "title": "TUNNEL v3 · T6",
    "theme": "TUNNEL v3",
    "section": "TUNNEL v3 · Oct 15",
    "status": "review",
@@ -910,15 +908,13 @@
    ],
    "updated": "2026-10-15T19:10:00Z",
    "kind": "general",
-   "kindLabel": "SI GENERATED · TUNNEL v3",
-   "tags": [
-    "SI generated"
-   ]
+   "kindLabel": "TUNNEL v3",
+   "tags": []
   },
   {
    "id": "TUNNEL_V3_T5",
    "file": "img/TUNNEL_V3_T5.b64",
-   "title": "TUNNEL v3 · T5 · SI generated",
+   "title": "TUNNEL v3 · T5",
    "theme": "TUNNEL v3",
    "section": "TUNNEL v3 · Oct 15",
    "status": "review",
@@ -927,15 +923,13 @@
    ],
    "updated": "2026-10-15T19:10:00Z",
    "kind": "general",
-   "kindLabel": "SI GENERATED · TUNNEL v3",
-   "tags": [
-    "SI generated"
-   ]
+   "kindLabel": "TUNNEL v3",
+   "tags": []
   },
   {
    "id": "TUNNEL_V3_T4",
    "file": "img/TUNNEL_V3_T4.b64",
-   "title": "TUNNEL v3 · T4 · SI generated",
+   "title": "TUNNEL v3 · T4",
    "theme": "TUNNEL v3",
    "section": "TUNNEL v3 · Oct 15",
    "status": "review",
@@ -944,15 +938,13 @@
    ],
    "updated": "2026-10-15T19:10:00Z",
    "kind": "general",
-   "kindLabel": "SI GENERATED · TUNNEL v3",
-   "tags": [
-    "SI generated"
-   ]
+   "kindLabel": "TUNNEL v3",
+   "tags": []
   },
   {
    "id": "TUNNEL_V3_T3",
    "file": "img/TUNNEL_V3_T3.b64",
-   "title": "TUNNEL v3 · T3 · SI generated",
+   "title": "TUNNEL v3 · T3",
    "theme": "TUNNEL v3",
    "section": "TUNNEL v3 · Oct 15",
    "status": "review",
@@ -961,15 +953,13 @@
    ],
    "updated": "2026-10-15T19:10:00Z",
    "kind": "general",
-   "kindLabel": "SI GENERATED · TUNNEL v3",
-   "tags": [
-    "SI generated"
-   ]
+   "kindLabel": "TUNNEL v3",
+   "tags": []
   },
   {
    "id": "TUNNEL_V3_T2c",
    "file": "img/TUNNEL_V3_T2c.b64",
-   "title": "TUNNEL v3 · T2c · SI generated",
+   "title": "TUNNEL v3 · T2c",
    "theme": "TUNNEL v3",
    "section": "TUNNEL v3 · Oct 15",
    "status": "review",
@@ -978,15 +968,13 @@
    ],
    "updated": "2026-10-15T19:10:00Z",
    "kind": "general",
-   "kindLabel": "SI GENERATED · TUNNEL v3",
-   "tags": [
-    "SI generated"
-   ]
+   "kindLabel": "TUNNEL v3",
+   "tags": []
   },
   {
    "id": "TUNNEL_V3_T0",
    "file": "img/TUNNEL_V3_T0.b64",
-   "title": "TUNNEL v3 · T0 · SI generated",
+   "title": "TUNNEL v3 · T0",
    "theme": "TUNNEL v3",
    "section": "TUNNEL v3 · Oct 15",
    "status": "review",
@@ -995,10 +983,8 @@
    ],
    "updated": "2026-10-15T19:10:00Z",
    "kind": "general",
-   "kindLabel": "SI GENERATED · TUNNEL v3",
-   "tags": [
-    "SI generated"
-   ]
+   "kindLabel": "TUNNEL v3",
+   "tags": []
   },
   {
    "id": "CAT_001",
@@ -23495,7 +23481,7 @@
   {
    "id": "TUNNEL_V3_T1",
    "file": "img/TUNNEL_V3_T1.b64",
-   "title": "TUNNEL v3 · T1 · SI generated",
+   "title": "TUNNEL v3 · T1",
    "theme": "TUNNEL v3",
    "section": "TUNNEL v3 · Oct 15",
    "status": "archive",
@@ -23504,10 +23490,8 @@
    ],
    "updated": "2026-10-15T19:10:00Z",
    "kind": "general",
-   "kindLabel": "SI GENERATED · TUNNEL v3",
-   "tags": [
-    "SI generated"
-   ],
+   "kindLabel": "TUNNEL v3",
+   "tags": [],
    "reason": "older-version",
    "archived_at": "2026-10-16T03:39:11Z",
    "superseded_by": "TUNNEL_V3_T1_B1"
@@ -23515,7 +23499,7 @@
   {
    "id": "TUNNEL_V3_T2a",
    "file": "img/TUNNEL_V3_T2a.b64",
-   "title": "TUNNEL v3 · T2a · SI generated",
+   "title": "TUNNEL v3 · T2a",
    "theme": "TUNNEL v3",
    "section": "TUNNEL v3 · Oct 15",
    "status": "archive",
@@ -23524,10 +23508,8 @@
    ],
    "updated": "2026-10-15T19:10:00Z",
    "kind": "general",
-   "kindLabel": "SI GENERATED · TUNNEL v3",
-   "tags": [
-    "SI generated"
-   ],
+   "kindLabel": "TUNNEL v3",
+   "tags": [],
    "reason": "older-version",
    "archived_at": "2026-10-16T03:39:11Z",
    "superseded_by": "TUNNEL_V3_T2a_B1"
@@ -23535,7 +23517,7 @@
   {
    "id": "TUNNEL_V3_T2b",
    "file": "img/TUNNEL_V3_T2b.b64",
-   "title": "TUNNEL v3 · T2b · SI generated",
+   "title": "TUNNEL v3 · T2b",
    "theme": "TUNNEL v3",
    "section": "TUNNEL v3 · Oct 15",
    "status": "archive",
@@ -23544,10 +23526,8 @@
    ],
    "updated": "2026-10-15T19:10:00Z",
    "kind": "general",
-   "kindLabel": "SI GENERATED · TUNNEL v3",
-   "tags": [
-    "SI generated"
-   ],
+   "kindLabel": "TUNNEL v3",
+   "tags": [],
    "reason": "older-version",
    "archived_at": "2026-10-16T03:39:11Z",
    "superseded_by": "TUNNEL_V3_T2b_B1"
@@ -23665,7 +23645,7 @@
   },
   {
    "date": "2026-10-15T19:10:00Z",
-   "text": "TUNNEL v3 · Oct 15: +10 stills (T0–T6, T8), SI generated, in review for YAY/NAY votes."
+   "text": "TUNNEL v3 · Oct 15: +10 stills (T0–T6, T8), in review for YAY/NAY votes."
   },
   {
    "date": "2026-10-16T04:43:31Z",
