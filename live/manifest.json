@@ -1,8 +1,631 @@
 {
- "total": 104,
- "done": 104,
- "updated": "2026-10-16T03:39:11Z",
+ "total": 113,
+ "done": 113,
+ "updated": "2026-10-16T04:43:31Z",
  "items": [
+  {
+   "id": "CAT_092_B1",
+   "file": "img/CAT_092_B1.b64",
+   "title": "Liquid chrome pour \u00b7 hybrid rebuild \u00b7 B1",
+   "theme": "CATALOG V1",
+   "section": "Build On \u00b7 Hybrid \u00b7 Oct 16",
+   "status": "review",
+   "rooms": [
+    "CATALOG",
+    "Build On \u00b7 Hybrid \u00b7 Oct 16"
+   ],
+   "updated": "2026-10-16T04:43:31Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON \u00b7 CATALOG \u00b7 POSTER",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702375538/",
+     "thumb": "1137440449702375538",
+     "label": "pin \u2026375538"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026375538",
+     "url": "https://www.pinterest.com/pin/1137440449702375538/"
+    },
+    {
+     "label": "Source keeper T_POURDRIP_02",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/T_POURDRIP_02.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch"
+   ],
+   "catalog": "catalog_v1",
+   "family": "F4",
+   "family_name": "Glossy Liquid & Chrome Object",
+   "product": "poster",
+   "finish": "none",
+   "layout": "wall_3x4",
+   "note": "Rebuild in locked v2 hybrid style (build on, voted twice)",
+   "batch": "batch_20261016_0433",
+   "of": "CAT_092",
+   "version": "B1",
+   "before_file": "CAT_092",
+   "keeperNote": "Rebuild in locked v2 hybrid style (build on, voted twice)"
+  },
+  {
+   "id": "CAT_094_B1",
+   "file": "img/CAT_094_B1.b64",
+   "title": "Marble head, chrome petals \u00b7 hybrid rebuild \u00b7 B1",
+   "theme": "CATALOG V1",
+   "section": "Build On \u00b7 Hybrid \u00b7 Oct 16",
+   "status": "review",
+   "rooms": [
+    "CATALOG",
+    "Build On \u00b7 Hybrid \u00b7 Oct 16"
+   ],
+   "updated": "2026-10-16T04:43:31Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON \u00b7 CATALOG \u00b7 POSTER",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702613327/",
+     "thumb": "1137440449702613327",
+     "label": "pin \u2026613327"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026613327",
+     "url": "https://www.pinterest.com/pin/1137440449702613327/"
+    },
+    {
+     "label": "Source keeper T_HEADOPEN_04",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/T_HEADOPEN_04.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch"
+   ],
+   "catalog": "catalog_v1",
+   "family": "F2",
+   "family_name": "Sculpted Head / Masked Figure",
+   "product": "poster",
+   "finish": "none",
+   "layout": "wall_3x4",
+   "note": "Rebuild in locked v2 hybrid style",
+   "batch": "batch_20261016_0433",
+   "of": "CAT_094",
+   "version": "B1",
+   "before_file": "CAT_094",
+   "keeperNote": "Rebuild in locked v2 hybrid style"
+  },
+  {
+   "id": "CAT_095_B1",
+   "file": "img/CAT_095_B1.b64",
+   "title": "Erupting marble head hoodie \u00b7 hybrid rebuild \u00b7 B1",
+   "theme": "CATALOG V1",
+   "section": "Build On \u00b7 Hybrid \u00b7 Oct 16",
+   "status": "review",
+   "rooms": [
+    "CATALOG",
+    "MERCH",
+    "Build On \u00b7 Hybrid \u00b7 Oct 16"
+   ],
+   "updated": "2026-10-16T04:43:31Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON \u00b7 MERCH \u00b7 HOODIE \u00b7 DTF",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703688230/",
+     "thumb": "1137440449703688230",
+     "label": "pin \u2026688230"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026688230",
+     "url": "https://www.pinterest.com/pin/1137440449703688230/"
+    },
+    {
+     "label": "Source keeper T_HEADOPEN_04",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/T_HEADOPEN_04.b64"
+    },
+    {
+     "label": "Tapstitch blank RU0066",
+     "url": "https://www.tapstitch.com/custom/ru0066-heavyweight-sunfade-oversized-hoodie"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch"
+   ],
+   "catalog": "catalog_v1",
+   "family": "F2",
+   "family_name": "Sculpted Head / Masked Figure",
+   "product": "hoodie",
+   "finish": "dtf",
+   "layout": "back_big",
+   "note": "Rebuild in locked v2 hybrid style (build on, voted twice)",
+   "blank": {
+    "code": "RU0066",
+    "name": "Heavyweight Sunfade Oversized Hoodie",
+    "gsm": 400,
+    "material": "100% cotton",
+    "fit": "oversized",
+    "colour": "Black",
+    "url": "https://www.tapstitch.com/custom/ru0066-heavyweight-sunfade-oversized-hoodie",
+    "thumb": "ts_RU0066_Black"
+   },
+   "box_only": [
+    "full 300dpi DTF PNG at /workspace/halo-output/catalog/full/CAT_095_print_master.png"
+   ],
+   "batch": "batch_20261016_0433",
+   "of": "CAT_095",
+   "version": "B1",
+   "before_file": "CAT_095",
+   "keeperNote": "Rebuild in locked v2 hybrid style (build on, voted twice)"
+  },
+  {
+   "id": "CAT_040_B1",
+   "file": "img/CAT_040_B1.b64",
+   "title": "Your Eyes Are Doing the Raving \u00b7 deck rebuild \u00b7 new grip \u00b7 B1",
+   "theme": "Board Designs",
+   "section": "Build On \u00b7 Hybrid \u00b7 Oct 16",
+   "status": "review",
+   "rooms": [
+    "BOARD DESIGNS",
+    "Build On \u00b7 Hybrid \u00b7 Oct 16"
+   ],
+   "updated": "2026-10-16T04:43:31Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON \u00b7 Board Designs",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702340993/",
+     "thumb": "1137440449702340993",
+     "label": "pin \u2026340993"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704210428/",
+     "thumb": "1137440449704210428",
+     "label": "pin \u2026210428 (new)"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704210873/",
+     "thumb": "1137440449704210873",
+     "label": "pin \u2026210873 (new)"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026340993",
+     "url": "https://www.pinterest.com/pin/1137440449702340993/"
+    },
+    {
+     "label": "Pinterest pin \u2026210428",
+     "url": "https://www.pinterest.com/pin/1137440449704210428/"
+    },
+    {
+     "label": "Pinterest pin \u2026210873",
+     "url": "https://www.pinterest.com/pin/1137440449704210873/"
+    },
+    {
+     "label": "Source keeper P4_G01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/P4_G01.b64"
+    },
+    {
+     "label": "Article idea \u00b7 A2 optical illusion (figure-ground) + A21 mirrored wings",
+     "url": "https://www.artistichaven.com/skateboard-design-ideas/"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch"
+   ],
+   "catalog": "catalog_v1",
+   "family": "F6",
+   "family_name": "Acid Op-Art & Gradient",
+   "product": "deck",
+   "finish": "glow",
+   "layout": "deck_grip_reveal",
+   "shape": "8.5 popsicle",
+   "board_ref": {
+    "shape": "8.5in popsicle",
+    "template": "popsicle-9",
+    "template_url": "https://www.boardpusher.com/decktemplates/BoardPusher-Template-9-Inch-Popsicle.png",
+    "thumb": "bp_popsicle-9",
+    "designer": "https://www.boardpusher.com/custom-skateboards/shapes"
+   },
+   "blend": {
+    "pin": "1137440449704210428",
+    "pin_url": "https://www.pinterest.com/pin/1137440449704210428/",
+    "pin_trait": "pure black/white parallel stripes warped into a bulge at the deck centre",
+    "article_idea": "A2 optical illusion (figure-ground) + A21 mirrored wings",
+    "article_source": "https://www.artistichaven.com/skateboard-design-ideas/",
+    "keeper": "P4_G01"
+   },
+   "humor": "Your eyes are doing the raving.",
+   "halo_form": "clean chrome",
+   "builds_on": "P4_G01",
+   "of": "CAT_040",
+   "note": "Rebuild in locked v2 hybrid style (build on, voted twice)",
+   "batch": "batch_20261016_0433",
+   "version": "B1",
+   "before_file": "CAT_040",
+   "keeperNote": "Rebuild in locked v2 hybrid style (build on, voted twice)"
+  },
+  {
+   "id": "CAT_090_B1",
+   "file": "img/CAT_090_B1.b64",
+   "title": "Heaven's playground equipment \u00b7 deck rebuild \u00b7 B1",
+   "theme": "Board Designs",
+   "section": "Build On \u00b7 Hybrid \u00b7 Oct 16",
+   "status": "review",
+   "rooms": [
+    "BOARD DESIGNS",
+    "Build On \u00b7 Hybrid \u00b7 Oct 16"
+   ],
+   "updated": "2026-10-16T04:43:31Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON \u00b7 Board Designs",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889347/",
+     "thumb": "1137440449703889347",
+     "label": "pin \u2026889347"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704210532/",
+     "thumb": "1137440449704210532",
+     "label": "pin \u2026210532 (new)"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026889347",
+     "url": "https://www.pinterest.com/pin/1137440449703889347/"
+    },
+    {
+     "label": "Pinterest pin \u2026210532",
+     "url": "https://www.pinterest.com/pin/1137440449704210532/"
+    },
+    {
+     "label": "Source keeper IBP_57",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/IBP_57.b64"
+    },
+    {
+     "label": "Article idea \u00b7 A4 dreamscape + A21 mirrored",
+     "url": "https://www.artistichaven.com/skateboard-design-ideas/"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch"
+   ],
+   "catalog": "catalog_v1",
+   "family": "F11",
+   "family_name": "Cloud Sea Whimsy",
+   "product": "deck",
+   "finish": "holo",
+   "layout": "deck_grip_reveal",
+   "note": "Rebuild in locked v2 hybrid style",
+   "shape": "8.25 popsicle",
+   "board_ref": {
+    "shape": "8.25in popsicle",
+    "template": "popsicle-8",
+    "template_url": "https://www.boardpusher.com/decktemplates/BoardPusher-Template-825-Popsicle.png",
+    "thumb": "bp_popsicle-8",
+    "designer": "https://www.boardpusher.com/custom-skateboards/shapes"
+   },
+   "blend": {
+    "pin": "1137440449704210532",
+    "pin_url": "https://www.pinterest.com/pin/1137440449704210532/",
+    "pin_trait": "B/W checkerboard warped into a vortex at the centre",
+    "article_idea": "A4 dreamscape + A21 mirrored",
+    "article_source": "https://www.artistichaven.com/skateboard-design-ideas/",
+    "keeper": "IBP_57"
+   },
+   "humor": "Heaven's playground equipment.",
+   "halo_form": "clean chrome",
+   "batch": "batch_20261016_0433",
+   "of": "CAT_090",
+   "version": "B1",
+   "before_file": "CAT_090",
+   "keeperNote": "Rebuild in locked v2 hybrid style"
+  },
+  {
+   "id": "CAT_093_B1",
+   "file": "img/CAT_093_B1.b64",
+   "title": "Priceless. Also, on loan to Steve \u00b7 deck rebuild \u00b7 B1",
+   "theme": "Board Designs",
+   "section": "Build On \u00b7 Hybrid \u00b7 Oct 16",
+   "status": "review",
+   "rooms": [
+    "BOARD DESIGNS",
+    "Build On \u00b7 Hybrid \u00b7 Oct 16"
+   ],
+   "updated": "2026-10-16T04:43:31Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON \u00b7 Board Designs",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702384675/",
+     "thumb": "1137440449702384675",
+     "label": "pin \u2026384675"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704210419/",
+     "thumb": "1137440449704210419",
+     "label": "pin \u2026210419 (new)"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026384675",
+     "url": "https://www.pinterest.com/pin/1137440449702384675/"
+    },
+    {
+     "label": "Pinterest pin \u2026210419",
+     "url": "https://www.pinterest.com/pin/1137440449704210419/"
+    },
+    {
+     "label": "Source keeper T_POURDRIP_02",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/T_POURDRIP_02.b64"
+    },
+    {
+     "label": "Article idea \u00b7 A16 single foil hit + T12 chrome museum",
+     "url": "https://www.artistichaven.com/skateboard-design-ideas/"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch"
+   ],
+   "catalog": "catalog_v1",
+   "family": "F4",
+   "family_name": "Glossy Liquid & Chrome Object",
+   "product": "deck",
+   "finish": "gold",
+   "layout": "deck_grip_reveal",
+   "note": "Rebuild in locked v2 hybrid style",
+   "shape": "8 popsicle",
+   "board_ref": {
+    "shape": "8in popsicle",
+    "template": "popsicle-8",
+    "template_url": "https://www.boardpusher.com/decktemplates/BoardPusher-Template-8-Inch-Popsicle.png",
+    "thumb": "bp_popsicle-8",
+    "designer": "https://www.boardpusher.com/custom-skateboards/shapes"
+   },
+   "blend": {
+    "pin": "1137440449704210419",
+    "pin_url": "https://www.pinterest.com/pin/1137440449704210419/",
+    "pin_trait": "white deck, single luxury mark top third, glossy black drip falling down the length",
+    "article_idea": "A16 single foil hit + T12 chrome museum",
+    "article_source": "https://www.artistichaven.com/skateboard-design-ideas/",
+    "keeper": "T_POURDRIP_02"
+   },
+   "humor": "Priceless. Also, on loan to Steve.",
+   "halo_form": "dripping",
+   "batch": "batch_20261016_0433",
+   "of": "CAT_093",
+   "version": "B1",
+   "before_file": "CAT_093",
+   "keeperNote": "Rebuild in locked v2 hybrid style"
+  },
+  {
+   "id": "CAT_075_B1",
+   "file": "img/CAT_075_B1.b64",
+   "title": "Rescue from above, as promised \u00b7 deck rebuild \u00b7 B1",
+   "theme": "Board Designs",
+   "section": "Build On \u00b7 Hybrid \u00b7 Oct 16",
+   "status": "review",
+   "rooms": [
+    "BOARD DESIGNS",
+    "Build On \u00b7 Hybrid \u00b7 Oct 16"
+   ],
+   "updated": "2026-10-16T04:43:31Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON \u00b7 Board Designs",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449694017092/",
+     "thumb": "1137440449694017092",
+     "label": "pin \u2026017092"
+    },
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704210869/",
+     "thumb": "1137440449704210869",
+     "label": "pin \u2026210869 (new)"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026017092",
+     "url": "https://www.pinterest.com/pin/1137440449694017092/"
+    },
+    {
+     "label": "Pinterest pin \u2026210869",
+     "url": "https://www.pinterest.com/pin/1137440449704210869/"
+    },
+    {
+     "label": "Source keeper IBP_57",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/IBP_57.b64"
+    },
+    {
+     "label": "Article idea \u00b7 A24 cosmic nebula, retro grain",
+     "url": "https://www.artistichaven.com/skateboard-design-ideas/"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch"
+   ],
+   "catalog": "catalog_v1",
+   "family": "F11",
+   "family_name": "Cloud Sea Whimsy",
+   "product": "deck",
+   "finish": "glow",
+   "layout": "deck_grip_reveal",
+   "note": "Rebuild in locked v2 hybrid style",
+   "shape": "8.5 popsicle",
+   "board_ref": {
+    "shape": "8.5in popsicle",
+    "template": "popsicle-9",
+    "template_url": "https://www.boardpusher.com/decktemplates/BoardPusher-Template-9-Inch-Popsicle.png",
+    "thumb": "bp_popsicle-9",
+    "designer": "https://www.boardpusher.com/custom-skateboards/shapes"
+   },
+   "blend": {
+    "pin": "1137440449704210869",
+    "pin_url": "https://www.pinterest.com/pin/1137440449704210869/",
+    "pin_trait": "sunset gradient top fading into dense collage at the tail",
+    "article_idea": "A24 cosmic nebula, retro grain",
+    "article_source": "https://www.artistichaven.com/skateboard-design-ideas/",
+    "keeper": "IBP_57"
+   },
+   "humor": "Rescue from above, as promised.",
+   "halo_form": "variant: life ring",
+   "batch": "batch_20261016_0433",
+   "of": "CAT_075",
+   "version": "B1",
+   "before_file": "CAT_075",
+   "keeperNote": "Rebuild in locked v2 hybrid style"
+  },
+  {
+   "id": "CAT_012_B1",
+   "file": "img/CAT_012_B1.b64",
+   "title": "Sculpted head tee \u00b7 hybrid rebuild \u00b7 B1",
+   "theme": "CATALOG V1",
+   "section": "Build On \u00b7 Hybrid \u00b7 Oct 16",
+   "status": "review",
+   "rooms": [
+    "CATALOG",
+    "MERCH",
+    "Build On \u00b7 Hybrid \u00b7 Oct 16"
+   ],
+   "updated": "2026-10-16T04:43:31Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON \u00b7 MERCH \u00b7 TEE \u00b7 DTF",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702424053/",
+     "thumb": "1137440449702424053",
+     "label": "pin \u2026424053"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026424053",
+     "url": "https://www.pinterest.com/pin/1137440449702424053/"
+    },
+    {
+     "label": "Source keeper T_HEADOPEN_04",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/T_HEADOPEN_04.b64"
+    },
+    {
+     "label": "Tapstitch blank UT0125",
+     "url": "https://www.tapstitch.com/custom/ut0125-unisex-heavyweight-boxy-t-shirt"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch"
+   ],
+   "catalog": "catalog_v1",
+   "family": "F2",
+   "family_name": "Sculpted Head / Masked Figure",
+   "product": "tee",
+   "finish": "dtf",
+   "layout": "back_big",
+   "blank": {
+    "code": "UT0125",
+    "name": "Unisex Heavyweight Boxy T-Shirt",
+    "gsm": 420,
+    "material": "100% cotton",
+    "fit": "oversized boxy",
+    "colour": "Black",
+    "url": "https://www.tapstitch.com/custom/ut0125-unisex-heavyweight-boxy-t-shirt",
+    "thumb": "ts_UT0125_Black"
+   },
+   "note": "Rebuild in locked v2 hybrid style",
+   "batch": "batch_20261016_0433",
+   "of": "CAT_012",
+   "version": "B1",
+   "before_file": "CAT_012",
+   "keeperNote": "Rebuild in locked v2 hybrid style"
+  },
+  {
+   "id": "CAT_013_B1",
+   "file": "img/CAT_013_B1.b64",
+   "title": "Sculpted head hoodie \u00b7 hybrid rebuild \u00b7 B1",
+   "theme": "CATALOG V1",
+   "section": "Build On \u00b7 Hybrid \u00b7 Oct 16",
+   "status": "review",
+   "rooms": [
+    "CATALOG",
+    "MERCH",
+    "Build On \u00b7 Hybrid \u00b7 Oct 16"
+   ],
+   "updated": "2026-10-16T04:43:31Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON \u00b7 MERCH \u00b7 HOODIE \u00b7 DTF",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612623/",
+     "thumb": "1137440449702612623",
+     "label": "pin \u2026612623"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin \u2026612623",
+     "url": "https://www.pinterest.com/pin/1137440449702612623/"
+    },
+    {
+     "label": "Source keeper T_HEADOPEN_04",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/T_HEADOPEN_04.b64"
+    },
+    {
+     "label": "Tapstitch blank RU0113",
+     "url": "https://www.tapstitch.com/custom/ru0113-boxy-oversized-hoodie"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch"
+   ],
+   "catalog": "catalog_v1",
+   "family": "F2",
+   "family_name": "Sculpted Head / Masked Figure",
+   "product": "hoodie",
+   "finish": "dtf",
+   "layout": "back_big",
+   "blank": {
+    "code": "RU0113",
+    "name": "Boxy Oversized Hoodie",
+    "gsm": 420,
+    "material": "100% cotton",
+    "fit": "boxy cropped",
+    "colour": "Black",
+    "url": "https://www.tapstitch.com/custom/ru0113-boxy-oversized-hoodie",
+    "thumb": "ts_RU0113_Black"
+   },
+   "note": "Rebuild in locked v2 hybrid style",
+   "batch": "batch_20261016_0433",
+   "of": "CAT_013",
+   "version": "B1",
+   "before_file": "CAT_013",
+   "keeperNote": "Rebuild in locked v2 hybrid style"
+  },
   {
    "id": "HYB_NIGHTMARE_01",
    "file": "img/HYB_NIGHTMARE_01.b64",
@@ -18405,6 +19028,10 @@
   {
    "date": "2026-10-15T19:10:00Z",
    "text": "TUNNEL v3 \u00b7 Oct 15: +10 stills (T0\u2013T6, T8), SI generated, in review for YAY/NAY votes."
+  },
+  {
+   "date": "2026-10-16T04:43:31Z",
+   "text": "Hybrid v2 Build On batch 2: +9 rebuilds (CAT_092, 094, 095, 040, 090, 093, 075, 012, 013) in review."
   }
  ]
 }
