@@ -1,8 +1,233 @@
 {
- "total": 186,
- "done": 186,
- "updated": "2026-10-16T12:32:05Z",
+ "total": 195,
+ "done": 195,
+ "updated": "2026-10-16T13:38:19Z",
  "items": [
+  {
+   "id": "CAT_070_B1",
+   "title": "Bite Colour · gem burger · faceted gemstone burger rebuild · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Build On · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T13:38:19Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On CAT_070: Spirit asked ~96% more weight on the image reference — gem burger matched closely in hybrid world",
+   "batch": "batch_20261016_1331",
+   "file": "img/CAT_070_B1.b64"
+  },
+  {
+   "id": "HYB_MOZART_DISCOVERY_01",
+   "title": "Discovery / Chamber · marble-liquid discovery chamber · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T13:38:19Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Discovery / Chamber night world: marble-liquid discovery chamber",
+   "batch": "batch_20261016_1331",
+   "file": "img/HYB_MOZART_DISCOVERY_01.b64"
+  },
+  {
+   "id": "HYB_HEAVY_BIRTH_01",
+   "title": "Heavy × Birth · gold birth shatter void · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T13:38:19Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Heavy × Birth night world: gold birth shatter void",
+   "batch": "batch_20261016_1331",
+   "file": "img/HYB_HEAVY_BIRTH_01.b64"
+  },
+  {
+   "id": "HYB_WEEK_HIGHER_01",
+   "title": "Week / Higher · chrome heart highway dusk · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T13:38:19Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Week / Higher night world: chrome heart highway dusk",
+   "batch": "batch_20261016_1331",
+   "file": "img/HYB_WEEK_HIGHER_01.b64"
+  },
+  {
+   "id": "HYB_GARAGE_LOFT_01",
+   "title": "Garage / Loft · copper liquid garage intimacy · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T13:38:19Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Garage / Loft night world: copper liquid garage intimacy",
+   "batch": "batch_20261016_1331",
+   "file": "img/HYB_GARAGE_LOFT_01.b64"
+  },
+  {
+   "id": "HYB_ELEVATION_01",
+   "title": "Elevation · rising terrace above clouds · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T13:38:19Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Elevation night world: rising terrace above clouds",
+   "batch": "batch_20261016_1331",
+   "file": "img/HYB_ELEVATION_01.b64"
+  },
+  {
+   "id": "HYB_SHOUT_SUNSET_01",
+   "title": "Shout × Sunset · amber shout plaza sundown · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T13:38:19Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Shout × Sunset night world: amber shout plaza sundown",
+   "batch": "batch_20261016_1331",
+   "file": "img/HYB_SHOUT_SUNSET_01.b64"
+  },
+  {
+   "id": "HYB_CREEK_CHECKER_01",
+   "title": "Creek / Checker · checkered creek canyon · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T13:38:19Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Creek / Checker night world: checkered creek canyon",
+   "batch": "batch_20261016_1331",
+   "file": "img/HYB_CREEK_CHECKER_01.b64"
+  },
+  {
+   "id": "HYB_STREETS_SUN_01",
+   "title": "Streets / Sun · noon street transmitter heat · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T13:38:19Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Streets / Sun night world: noon street transmitter heat",
+   "batch": "batch_20261016_1331",
+   "file": "img/HYB_STREETS_SUN_01.b64"
+  },
   {
    "id": "HYB_DIAMONDS_GARDEN_01",
    "title": "Diamonds / Garden · diamond-shoe garden path · hybrid",
@@ -21739,6 +21964,23 @@
     "HYB_WEEK_INWARDS_01"
    ],
    "note": "Build On still clear (no new build-on votes). 9 event-night hybrids for Mar to Apr 2027 shows: Diamonds / Garden, The / Dock, Pepper / Jungle, Kombat / Earth / Blue, Blonde / Night, Gypsy × Palm, Block / Flower, The Build, Week / Inwards."
+  },
+  {
+   "at": "2026-10-16T13:38:19Z",
+   "build": "20261016m",
+   "batch": "batch_20261016_1331",
+   "added": [
+    "CAT_070_B1",
+    "HYB_MOZART_DISCOVERY_01",
+    "HYB_HEAVY_BIRTH_01",
+    "HYB_WEEK_HIGHER_01",
+    "HYB_GARAGE_LOFT_01",
+    "HYB_ELEVATION_01",
+    "HYB_SHOUT_SUNSET_01",
+    "HYB_CREEK_CHECKER_01",
+    "HYB_STREETS_SUN_01"
+   ],
+   "note": "Cleared CAT_070 Build On (issue #91: 96% weight on image reference). 9 pieces: CAT_070 gem-burger rebuild + late May–Jun 2027 event nights (Bite Colour, Discovery / Chamber, Heavy × Birth, Week / Higher, Garage / Loft, Elevation, Shout × Sunset, Creek / Checker, Streets / Sun)."
   }
  ]
 }
