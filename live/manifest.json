@@ -1,83 +1,232 @@
 {
- "total": 113,
- "done": 113,
- "updated": "2026-10-16T16:34:05Z",
+ "total": 114,
+ "done": 114,
+ "updated": "2026-10-16T17:35:33Z",
  "items": [
   {
-   "id": "HYB_PEPPER_JUNGLE_01_B1",
-   "title": "Pepper / Jungle · psychedelic pop-art jungle land · build on · hybrid",
-   "theme": "Build On",
-   "section": "Build On · Hybrid · Oct 16",
+   "id": "HYB_ZELDA_CRYSTAL_01",
+   "title": "Zelda / Crystal · blade sealed in a crystal monolith · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
    "status": "review",
    "rooms": [
-    "Build On · Hybrid · Oct 16"
+    "Event Nights · Hybrid · Oct 16"
    ],
-   "updated": "2026-10-16T16:34:05Z",
-   "kind": "build_on",
-   "kindLabel": "BUILD ON · HYBRID",
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
    "source_pins": [],
-   "refs": [
-    {
-     "label": "Built on HYB_PEPPER_JUNGLE_01",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_PEPPER_JUNGLE_01.b64"
-    },
-    {
-     "label": "Spirit vote/note #105",
-     "url": "https://github.com/HALORAVES/halo-bot-files/issues/105"
-    }
-   ],
+   "refs": [],
    "tags": [
     "hybrid",
     "v2",
     "oct16-batch",
-    "build-on"
+    "event"
    ],
    "catalog": "catalog_v1",
-   "note": "Build On HYB_PEPPER_JUNGLE_01 (#105): pushed into an original late-60s psychedelic pop-art cartoon land (Pepperland feel, no film characters, no submarine, no band imagery)",
-   "batch": "batch_20261016_1626",
-   "file": "img/HYB_PEPPER_JUNGLE_01_B1.b64",
-   "of": "HYB_PEPPER_JUNGLE_01",
-   "builds_on": "HYB_PEPPER_JUNGLE_01",
-   "spirit_note": "bring more the style of a world like the movie The Yellow Submarine. Like Pepperland",
-   "spirit_note_issue": 105
+   "note": "Zelda / Crystal night world: a mossy flooded sanctum where an original gold blade sleeps inside a towering crystal",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_ZELDA_CRYSTAL_01.b64"
   },
   {
-   "id": "HYB_BLOCK_FLOWER_01_B1",
-   "title": "Block / Flower · surreal toy-platformer bloom world · build on · hybrid",
-   "theme": "Build On",
-   "section": "Build On · Hybrid · Oct 16",
+   "id": "HYB_SCHISM_SNARES_01",
+   "title": "Schism / Snares · crumpled chrome fault line · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
    "status": "review",
    "rooms": [
-    "Build On · Hybrid · Oct 16"
+    "Event Nights · Hybrid · Oct 16"
    ],
-   "updated": "2026-10-16T16:34:05Z",
-   "kind": "build_on",
-   "kindLabel": "BUILD ON · HYBRID",
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
    "source_pins": [],
-   "refs": [
-    {
-     "label": "Built on HYB_BLOCK_FLOWER_01",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_BLOCK_FLOWER_01.b64"
-    },
-    {
-     "label": "Spirit vote/note #106",
-     "url": "https://github.com/HALORAVES/halo-bot-files/issues/106"
-    }
-   ],
+   "refs": [],
    "tags": [
     "hybrid",
     "v2",
     "oct16-batch",
-    "build-on"
+    "event"
    ],
    "catalog": "catalog_v1",
-   "note": "Build On HYB_BLOCK_FLOWER_01 (#106): moved into an original surreal toy-platformer dreamworld (floating blocks, mushroom platforms, gold halo rings for coins). No Nintendo characters, marks, question blocks or pipes.",
-   "batch": "batch_20261016_1626",
-   "file": "img/HYB_BLOCK_FLOWER_01_B1.b64",
-   "of": "HYB_BLOCK_FLOWER_01",
-   "builds_on": "HYB_BLOCK_FLOWER_01",
-   "spirit_note": "Let's make it more like the surreal world of Super Mario (ref link attached in the issue)",
-   "spirit_note_issue": 106
+   "note": "Schism / Snares night world: a concrete hall split in two by a crumpled chrome fault where a snare hangs in the gap",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_SCHISM_SNARES_01.b64"
+  },
+  {
+   "id": "HYB_SLEDGE_3AM_01",
+   "title": "Sledge × 3AM · chrome sledgehammer on a violet rooftop · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Sledge × 3AM night world: a rain-soaked rooftop at 3am where a giant chrome sledgehammer has just landed",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_SLEDGE_3AM_01.b64"
+  },
+  {
+   "id": "HYB_MEGA_LIQUID_01",
+   "title": "Mega / Liquid · cobalt robot wading in liquid light · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Mega / Liquid night world: an original cobalt robot with a gold halo wading through a lagoon of liquid blue light",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_MEGA_LIQUID_01.b64"
+  },
+  {
+   "id": "HYB_GOJIRA_GARAGE_01",
+   "title": "Gojira / Garage · crystal-spine giant over a garage district · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Gojira / Garage night world: an original crystal-spined giant rising behind a flooded hazard-striped garage district",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_GOJIRA_GARAGE_01.b64"
+  },
+  {
+   "id": "HYB_POTION_EVOKE_01",
+   "title": "Potion × Evoke · amber potion that plays the room · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Potion × Evoke night world: a dark apothecary desk where a glowing amber potion pours out a gold soundwave",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_POTION_EVOKE_01.b64"
+  },
+  {
+   "id": "HYB_KEYS_INFLUENCE_01",
+   "title": "Keys / Influence · piano-key racetrack · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Keys / Influence night world: a racetrack built from giant cobalt and yellow piano keys that ripples like water",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_KEYS_INFLUENCE_01.b64"
+  },
+  {
+   "id": "HYB_DOOM_DUNE_01",
+   "title": "DOOM × Dune · gold light shaft over night dunes · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "DOOM × Dune night world: a night desert where one gold light shaft falls on a half-buried concrete monolith and an oasis",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_DOOM_DUNE_01.b64"
+  },
+  {
+   "id": "HYB_UPSIDE_DOWN_01",
+   "title": "Upside / Down · string-light room mirrored below · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T17:35:33Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Upside / Down night world: a cosy string-lit room whose flooded floor reflects an eerie red mirror-world below",
+   "batch": "batch_20261016_1730",
+   "file": "img/HYB_UPSIDE_DOWN_01.b64"
   },
   {
    "id": "CAT_052_B2",
@@ -116,178 +265,6 @@
    "builds_on": "CAT_052_B1",
    "spirit_note": "have that part look like shards of crystals",
    "spirit_note_issue": 107
-  },
-  {
-   "id": "CAT_044_B2",
-   "title": "Acid Op-Art & Gradient · sticker pack · hybrid build on B2 · hybrid",
-   "theme": "Build On",
-   "section": "Build On · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Build On · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T16:34:05Z",
-   "kind": "build_on",
-   "kindLabel": "BUILD ON · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "Built on CAT_044_B1",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/CAT_044_B1.b64"
-    },
-    {
-     "label": "Spirit vote/note #108",
-     "url": "https://github.com/HALORAVES/halo-bot-files/issues/108"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "build-on"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Build On CAT_044_B1 (#108, no note): pushed further into the hybrid world: six die-cut acid op-art stickers as glossy holographic objects on a wet faceted concrete plinth.",
-   "batch": "batch_20261016_1626",
-   "file": "img/CAT_044_B2.b64",
-   "of": "CAT_044_B1",
-   "builds_on": "CAT_044_B1"
-  },
-  {
-   "id": "CAT_094_B2",
-   "title": "Marble head, chrome petals · hybrid build on B2 · hybrid",
-   "theme": "Build On",
-   "section": "Build On · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Build On · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T16:34:05Z",
-   "kind": "build_on",
-   "kindLabel": "BUILD ON · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "Built on CAT_094_B1",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/CAT_094_B1.b64"
-    },
-    {
-     "label": "Spirit vote/note #108",
-     "url": "https://github.com/HALORAVES/halo-bot-files/issues/108"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "build-on"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Build On CAT_094_B1 (#108, no note): same faceted marble head erupting chrome petals, pushed to a bigger hero shot with real water, a gold halo and deeper fog.",
-   "batch": "batch_20261016_1626",
-   "file": "img/CAT_094_B2.b64",
-   "of": "CAT_094_B1",
-   "builds_on": "CAT_094_B1"
-  },
-  {
-   "id": "HYB_AFRO_STRINGS_01",
-   "title": "Afro / Strings · gold cello sunlit fountain hall · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T16:34:05Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Afro / Strings night world: a recital hall where a gold cello stands in a sunlit fountain and the rhythm walks in",
-   "batch": "batch_20261016_1626",
-   "file": "img/HYB_AFRO_STRINGS_01.b64"
-  },
-  {
-   "id": "HYB_CRYSTAL_CUT_01",
-   "title": "Crystal / Cut · library of cut specimens · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T16:34:05Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Crystal / Cut night world: a quiet library where cut crystal specimens sit on felt and one plane catches the light",
-   "batch": "batch_20261016_1626",
-   "file": "img/HYB_CRYSTAL_CUT_01.b64"
-  },
-  {
-   "id": "HYB_SEVENTIES_LIQUID_01",
-   "title": "Seventies / Liquid · amber horn living room · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T16:34:05Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Seventies / Liquid night world: a sunken 1975 living room where golden horns pour warm liquid light",
-   "batch": "batch_20261016_1626",
-   "file": "img/HYB_SEVENTIES_LIQUID_01.b64"
-  },
-  {
-   "id": "HYB_AIR_JUNGLE_01",
-   "title": "Air / Jungle · spring garden with one break · hybrid",
-   "theme": "Event Nights",
-   "section": "Event Nights · Hybrid · Oct 16",
-   "status": "review",
-   "rooms": [
-    "Event Nights · Hybrid · Oct 16"
-   ],
-   "updated": "2026-10-16T16:34:05Z",
-   "kind": "event_night",
-   "kindLabel": "EVENT NIGHT · HYBRID",
-   "source_pins": [],
-   "refs": [],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "event"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Air / Jungle night world: a calm spring glasshouse with one frozen sixteen-bar break of shattered light",
-   "batch": "batch_20261016_1626",
-   "file": "img/HYB_AIR_JUNGLE_01.b64"
   },
   {
    "id": "HYB_NIGHTMARE_01",
@@ -5837,6 +5814,294 @@
   "request": 1
  },
  "archive": [
+  {
+   "id": "HYB_PEPPER_JUNGLE_01_B1",
+   "title": "Pepper / Jungle · psychedelic pop-art jungle land · build on · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Build On · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T16:34:05Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_PEPPER_JUNGLE_01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_PEPPER_JUNGLE_01.b64"
+    },
+    {
+     "label": "Spirit vote/note #105",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/105"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On HYB_PEPPER_JUNGLE_01 (#105): pushed into an original late-60s psychedelic pop-art cartoon land (Pepperland feel, no film characters, no submarine, no band imagery)",
+   "batch": "batch_20261016_1626",
+   "file": "img/HYB_PEPPER_JUNGLE_01_B1.b64",
+   "of": "HYB_PEPPER_JUNGLE_01",
+   "builds_on": "HYB_PEPPER_JUNGLE_01",
+   "spirit_note": "bring more the style of a world like the movie The Yellow Submarine. Like Pepperland",
+   "spirit_note_issue": 105,
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 109,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_BLOCK_FLOWER_01_B1",
+   "title": "Block / Flower · surreal toy-platformer bloom world · build on · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Build On · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T16:34:05Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_BLOCK_FLOWER_01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_BLOCK_FLOWER_01.b64"
+    },
+    {
+     "label": "Spirit vote/note #106",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/106"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On HYB_BLOCK_FLOWER_01 (#106): moved into an original surreal toy-platformer dreamworld (floating blocks, mushroom platforms, gold halo rings for coins). No Nintendo characters, marks, question blocks or pipes.",
+   "batch": "batch_20261016_1626",
+   "file": "img/HYB_BLOCK_FLOWER_01_B1.b64",
+   "of": "HYB_BLOCK_FLOWER_01",
+   "builds_on": "HYB_BLOCK_FLOWER_01",
+   "spirit_note": "Let's make it more like the surreal world of Super Mario (ref link attached in the issue)",
+   "spirit_note_issue": 106,
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 109,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "CAT_044_B2",
+   "title": "Acid Op-Art & Gradient · sticker pack · hybrid build on B2 · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Build On · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T16:34:05Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on CAT_044_B1",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/CAT_044_B1.b64"
+    },
+    {
+     "label": "Spirit vote/note #108",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/108"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On CAT_044_B1 (#108, no note): pushed further into the hybrid world: six die-cut acid op-art stickers as glossy holographic objects on a wet faceted concrete plinth.",
+   "batch": "batch_20261016_1626",
+   "file": "img/CAT_044_B2.b64",
+   "of": "CAT_044_B1",
+   "builds_on": "CAT_044_B1",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 109,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "CAT_094_B2",
+   "title": "Marble head, chrome petals · hybrid build on B2 · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Build On · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T16:34:05Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on CAT_094_B1",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/CAT_094_B1.b64"
+    },
+    {
+     "label": "Spirit vote/note #108",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/108"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On CAT_094_B1 (#108, no note): same faceted marble head erupting chrome petals, pushed to a bigger hero shot with real water, a gold halo and deeper fog.",
+   "batch": "batch_20261016_1626",
+   "file": "img/CAT_094_B2.b64",
+   "of": "CAT_094_B1",
+   "builds_on": "CAT_094_B1",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 109,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_AFRO_STRINGS_01",
+   "title": "Afro / Strings · gold cello sunlit fountain hall · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T16:34:05Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Afro / Strings night world: a recital hall where a gold cello stands in a sunlit fountain and the rhythm walks in",
+   "batch": "batch_20261016_1626",
+   "file": "img/HYB_AFRO_STRINGS_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 109,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_CRYSTAL_CUT_01",
+   "title": "Crystal / Cut · library of cut specimens · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T16:34:05Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Crystal / Cut night world: a quiet library where cut crystal specimens sit on felt and one plane catches the light",
+   "batch": "batch_20261016_1626",
+   "file": "img/HYB_CRYSTAL_CUT_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 109,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_SEVENTIES_LIQUID_01",
+   "title": "Seventies / Liquid · amber horn living room · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T16:34:05Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Seventies / Liquid night world: a sunken 1975 living room where golden horns pour warm liquid light",
+   "batch": "batch_20261016_1626",
+   "file": "img/HYB_SEVENTIES_LIQUID_01.b64",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 109,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
+  {
+   "id": "HYB_AIR_JUNGLE_01",
+   "title": "Air / Jungle · spring garden with one break · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T16:34:05Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Air / Jungle night world: a calm spring glasshouse with one frozen sixteen-bar break of shattered light",
+   "batch": "batch_20261016_1626",
+   "file": "img/HYB_AIR_JUNGLE_01.b64",
+   "prev_status": "review",
+   "vote": "yay",
+   "vote_issue": 109,
+   "archive_reason": "voted",
+   "archived": "2026-10-16"
+  },
   {
    "id": "HYB_DARKSIDE_BUKEM_01",
    "title": "Dark Side / Bukem · singularity crystal pyramid · hybrid",
@@ -23325,6 +23590,24 @@
    ],
    "voted_to_archive": 109,
    "note": "Applied Spirit's votes #105-#108 (yay 88, nay 16, build on 5; voted pieces moved to Archive > Voted). Rebuilt his 5 Build Ons (Pepper/Jungle Pepperland-style, Block/Flower toy-platformer, CAT_052 crystal-shard decks, CAT_044 stickers, CAT_094 marble head) + 4 event nights Sep 10-24 2027 (Afro/Strings, Crystal/Cut, Seventies/Liquid, Air/Jungle)."
+  },
+  {
+   "at": "2026-10-16T17:35:33Z",
+   "build": "20261016q",
+   "batch": "batch_20261016_1730",
+   "added": [
+    "HYB_ZELDA_CRYSTAL_01",
+    "HYB_SCHISM_SNARES_01",
+    "HYB_SLEDGE_3AM_01",
+    "HYB_MEGA_LIQUID_01",
+    "HYB_GOJIRA_GARAGE_01",
+    "HYB_POTION_EVOKE_01",
+    "HYB_KEYS_INFLUENCE_01",
+    "HYB_DOOM_DUNE_01",
+    "HYB_UPSIDE_DOWN_01"
+   ],
+   "voted_to_archive": 8,
+   "note": "Applied Spirit's vote #109 (yay 6, nay 2; voted pieces moved to Archive > Voted). No new Build Ons, so 9 event nights Sep 25-Oct 30 2027 (Zelda/Crystal, Schism/Snares, Sledge x 3AM, Mega/Liquid, Gojira/Garage, Potion x Evoke, Keys/Influence, DOOM x Dune, Upside/Down), all IP-safe originals."
   }
  ]
 }
