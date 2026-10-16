@@ -1,8 +1,287 @@
 {
- "total": 123,
- "done": 123,
- "updated": "2026-10-16T18:29:21Z",
+ "total": 132,
+ "done": 132,
+ "updated": "2026-10-16T19:35:30Z",
  "items": [
+  {
+   "id": "HYB_SHIP_3AM_02",
+   "title": "Ship / 3AM · second take · headphone starship over a 3AM sea · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_SHIP_3AM_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SHIP_3AM_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Ship / 3AM (first take was a nay): the source poster's faceted black starship, now photoreal, skimming a black mirror sea at 3:00",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_SHIP_3AM_02.b64"
+  },
+  {
+   "id": "HYB_LIGHTS_ON_02",
+   "title": "Lights / On · second take · one strand of bulbs over a black lake · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_LIGHTS_ON_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_LIGHTS_ON_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Lights / On (first take was a nay): the source poster's lone sagging strand of warm bulbs, now a single strand over a black glass lake",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_LIGHTS_ON_02.b64"
+  },
+  {
+   "id": "HYB_CAROL_NIGHT_02",
+   "title": "Carol / Night · second take · a bell made of light in the snow · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_CAROL_NIGHT_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_CAROL_NIGHT_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Carol / Night (first take was a nay): the source poster's glowing filament bell, now standing alone over a snowy concrete plaza",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_CAROL_NIGHT_02.b64"
+  },
+  {
+   "id": "HYB_BOXING_NIGHT_02",
+   "title": "Boxing · second take · gift boxes stacked into a ring · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_BOXING_NIGHT_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_BOXING_NIGHT_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Boxing night (Dec 26; first take was a nay): leftover gift boxes stacked into the corners of a glowing boxing ring",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_BOXING_NIGHT_02.b64"
+  },
+  {
+   "id": "HYB_ROCKY_WARP_02",
+   "title": "Rocky / Warp · second take · red lips and a lightning warp · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_ROCKY_WARP_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_ROCKY_WARP_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Rocky / Warp (first take was a nay): the source poster's halftone red lips and white lightning bolt, rebuilt as a sculpted glass monument",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_ROCKY_WARP_02.b64"
+  },
+  {
+   "id": "HYB_DASS_NOBODY_02",
+   "title": "Dass / Nobody · second take · gold headphones in a honeycomb mezzanine · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_DASS_NOBODY_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DASS_NOBODY_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Dass / Nobody / Mezzanine (first take was a nay): the source poster's gold headphones on glossy pink liquid under a dark honeycomb",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_DASS_NOBODY_02.b64"
+  },
+  {
+   "id": "HYB_DIAMONDS_GARDEN_02",
+   "title": "Diamonds × Garden · second take · crystal sneaker in a gold-wave garden · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_DIAMONDS_GARDEN_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DIAMONDS_GARDEN_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Diamonds × Garden (first take was a nay): the source poster's gold headphones beside a diamond sneaker, in a night garden of flowing gold light ribbons",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_DIAMONDS_GARDEN_02.b64"
+  },
+  {
+   "id": "HYB_GARAGE_LOFT_02",
+   "title": "Sade / Franklin / Garage · second take · copper headphones in a liquid-glass storm · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_GARAGE_LOFT_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_GARAGE_LOFT_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Sade / Franklin / Garage (first take was a nay): the source poster's copper headphones floating inside a storm of ruby and purple liquid glass with white glitch streaks",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_GARAGE_LOFT_02.b64"
+  },
+  {
+   "id": "HYB_SEVENTIES_LIQUID_02",
+   "title": "Seventies / Liquid · second take · melted-gold sphere in a 70s amber room · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Take · Oct 16"
+   ],
+   "updated": "2026-10-16T19:35:30Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "First take HYB_SEVENTIES_LIQUID_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SEVENTIES_LIQUID_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on Seventies / Liquid / Hybrid Minds (first take was a nay): the source poster's gold headphones around a molten gold sphere on a puddle of melted gold",
+   "batch": "batch_20261016_1930",
+   "file": "img/HYB_SEVENTIES_LIQUID_02.b64"
+  },
   {
    "id": "HYB_AFTER_NOON_01",
    "title": "After / Noon · lemon sun over a noon plaza · hybrid",
@@ -23831,6 +24110,24 @@
    ],
    "voted_to_archive": 0,
    "note": "No new votes or Build Ons since #109, so the final 9 event nights Nov 5-Dec 30 2027 (After/Noon, After/Midnight, Reputation, Moon/Meter, Taylor/Eras, Family/Halo, Unfinished/Third, Full/Table, Between), all IP-safe originals. Event-night calendar now fully covered."
+  },
+  {
+   "at": "2026-10-16T19:35:30Z",
+   "build": "20261016s",
+   "batch": "batch_20261016_1930",
+   "added": [
+    "HYB_SHIP_3AM_02",
+    "HYB_LIGHTS_ON_02",
+    "HYB_CAROL_NIGHT_02",
+    "HYB_BOXING_NIGHT_02",
+    "HYB_ROCKY_WARP_02",
+    "HYB_DASS_NOBODY_02",
+    "HYB_DIAMONDS_GARDEN_02",
+    "HYB_GARAGE_LOFT_02",
+    "HYB_SEVENTIES_LIQUID_02"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new votes or Build Ons since #109 and the event-night calendar is covered, so second takes on the 9 nights whose first hybrid piece got a nay (Ship/3AM, Lights/On, Carol/Night, Boxing, Rocky/Warp, Dass/Nobody, Diamonds x Garden, Sade/Franklin/Garage, Seventies/Liquid), re-anchored on each night's source poster with the HALO headphones as hero."
   }
  ]
 }
