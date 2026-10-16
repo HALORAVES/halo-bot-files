@@ -1,8 +1,233 @@
 {
- "total": 195,
- "done": 195,
- "updated": "2026-10-16T13:38:19Z",
+ "total": 204,
+ "done": 204,
+ "updated": "2026-10-16T14:35:00Z",
  "items": [
+  {
+   "id": "HYB_FLUTE_JUNGLE_01",
+   "title": "Flute / Jungle · turquoise flute canyon · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T14:35:00Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Flute / Jungle night world: turquoise flute canyon",
+   "batch": "batch_20261016_1428",
+   "file": "img/HYB_FLUTE_JUNGLE_01.b64"
+  },
+  {
+   "id": "HYB_BEAM_LAWN_01",
+   "title": "Beam / Lawn · lime beam lawn cathedral · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T14:35:00Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Beam / Lawn night world: lime beam lawn cathedral",
+   "batch": "batch_20261016_1428",
+   "file": "img/HYB_BEAM_LAWN_01.b64"
+  },
+  {
+   "id": "HYB_DISCO_ROLLER_01",
+   "title": "Disco / Roller · chrome rink constellation · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T14:35:00Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Disco / Roller night world: chrome rink constellation",
+   "batch": "batch_20261016_1428",
+   "file": "img/HYB_DISCO_ROLLER_01.b64"
+  },
+  {
+   "id": "HYB_HIGHER_EYES_01",
+   "title": "Higher / Eyes · liquid-eye sky temple · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T14:35:00Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Higher / Eyes night world: liquid-eye sky temple",
+   "batch": "batch_20261016_1428",
+   "file": "img/HYB_HIGHER_EYES_01.b64"
+  },
+  {
+   "id": "HYB_ALMOST_HOME_01",
+   "title": "Almost / Home · twilight cottage ridge · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T14:35:00Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Almost / Home night world: twilight cottage ridge",
+   "batch": "batch_20261016_1428",
+   "file": "img/HYB_ALMOST_HOME_01.b64"
+  },
+  {
+   "id": "HYB_MONOLITH_MOON_01",
+   "title": "Monolith / Moon · neon slab moon landing · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T14:35:00Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Monolith / Moon night world: neon slab moon landing",
+   "batch": "batch_20261016_1428",
+   "file": "img/HYB_MONOLITH_MOON_01.b64"
+  },
+  {
+   "id": "HYB_FLUTE_BLESS_01",
+   "title": "Flute / Bless · blessed gold flute sanctuary · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T14:35:00Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Flute / Bless night world: blessed gold flute sanctuary",
+   "batch": "batch_20261016_1428",
+   "file": "img/HYB_FLUTE_BLESS_01.b64"
+  },
+  {
+   "id": "HYB_TIME_SKA_01",
+   "title": "Time × Ska · clockface ska plaza · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T14:35:00Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Time × Ska night world: clockface ska plaza",
+   "batch": "batch_20261016_1428",
+   "file": "img/HYB_TIME_SKA_01.b64"
+  },
+  {
+   "id": "HYB_PRAISE_HOUR_01",
+   "title": "Praise / Hour · gold praise burst atrium · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Hybrid · Oct 16",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Hybrid · Oct 16"
+   ],
+   "updated": "2026-10-16T14:35:00Z",
+   "kind": "event_night",
+   "kindLabel": "EVENT NIGHT · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Praise / Hour night world: gold praise burst atrium",
+   "batch": "batch_20261016_1428",
+   "file": "img/HYB_PRAISE_HOUR_01.b64"
+  },
   {
    "id": "CAT_070_B1",
    "title": "Bite Colour · gem burger · faceted gemstone burger rebuild · hybrid",
@@ -21981,6 +22206,23 @@
     "HYB_STREETS_SUN_01"
    ],
    "note": "Cleared CAT_070 Build On (issue #91: 96% weight on image reference). 9 pieces: CAT_070 gem-burger rebuild + late May–Jun 2027 event nights (Bite Colour, Discovery / Chamber, Heavy × Birth, Week / Higher, Garage / Loft, Elevation, Shout × Sunset, Creek / Checker, Streets / Sun)."
+  },
+  {
+   "at": "2026-10-16T14:35:00Z",
+   "build": "20261016n",
+   "batch": "batch_20261016_1428",
+   "added": [
+    "HYB_FLUTE_JUNGLE_01",
+    "HYB_BEAM_LAWN_01",
+    "HYB_DISCO_ROLLER_01",
+    "HYB_HIGHER_EYES_01",
+    "HYB_ALMOST_HOME_01",
+    "HYB_MONOLITH_MOON_01",
+    "HYB_FLUTE_BLESS_01",
+    "HYB_TIME_SKA_01",
+    "HYB_PRAISE_HOUR_01"
+   ],
+   "note": "Build On still clear. 9 event-night hybrids for Jun–Jul 2027 shows: Flute / Jungle, Beam / Lawn, Disco / Roller, Higher / Eyes, Almost / Home, Monolith / Moon, Flute / Bless, Time × Ska, Praise / Hour."
   }
  ]
 }
