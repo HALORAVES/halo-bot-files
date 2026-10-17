@@ -1,8 +1,256 @@
 {
- "total": 153,
- "done": 153,
- "updated": "2026-10-17T14:38:49Z",
+ "total": 161,
+ "done": 161,
+ "updated": "2026-10-17T15:33:31Z",
  "items": [
+  {
+   "id": "HYB_ERAS_BRACELETS_02",
+   "title": "Taylor / Eras · second pass · the river of bead bracelets down the stairs · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T15:33:31Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_ERAS_BRACELETS_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_ERAS_BRACELETS_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Taylor / Eras: from the poster's glowing river of beaded friendship bracelets: a colossal cascade of luminous bead bracelets pours down a flooded pink neo-brutal stair hall, a haloed dancer at the base",
+   "batch": "batch_20261017_1526",
+   "file": "img/HYB_ERAS_BRACELETS_02.b64"
+  },
+  {
+   "id": "HYB_FAMILY_HALO_02",
+   "title": "Family / Halo · second pass · steaming cups under one gold halo · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T15:33:31Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_FAMILY_HALO_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_FAMILY_HALO_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Family / Halo: from the poster's steaming clay cups sharing one gold halo: a long flooded concrete dining table lined with glowing clay cups under one floating gold halo ring, a haloed host at the head",
+   "batch": "batch_20261017_1526",
+   "file": "img/HYB_FAMILY_HALO_02.b64"
+  },
+  {
+   "id": "HYB_UNFINISHED_THIRD_02",
+   "title": "Unfinished / Third · second pass · two monoliths and the lime energy wraith · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T15:33:31Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_UNFINISHED_THIRD_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_UNFINISHED_THIRD_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Unfinished / Third: from the poster's two rough monoliths and a third shape of crackling lime energy: two colossal unfinished concrete monoliths stand in a flooded quarry, a third figure of crackling lime energy between them, a haloed watcher below",
+   "batch": "batch_20261017_1526",
+   "file": "img/HYB_UNFINISHED_THIRD_02.b64"
+  },
+  {
+   "id": "HYB_FULL_TABLE_02",
+   "title": "Full / Table · second pass · the round bronze table and the candle ring · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T15:33:31Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_FULL_TABLE_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_FULL_TABLE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Full / Table: from the poster's round bronze table ringed by floating candles: a colossal round polished bronze table sits in a flooded dark hall, circled by a floating ring of candle flames, a haloed guest approaching",
+   "batch": "batch_20261017_1526",
+   "file": "img/HYB_FULL_TABLE_02.b64"
+  },
+  {
+   "id": "HYB_BETWEEN_02",
+   "title": "Between · second pass · the gold shaft between two years · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T15:33:31Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_BETWEEN_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_BETWEEN_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Between: from the poster's single gold light shaft falling through gold dust between two years: a hard gold light shaft cuts a flooded black concrete hall between two dated walls, gold dust drifting, a haloed figure in the shaft",
+   "batch": "batch_20261017_1526",
+   "file": "img/HYB_BETWEEN_02.b64"
+  },
+  {
+   "id": "HYB_SYMPATHY_NAILS_02",
+   "title": "Sympathy / Nails · second pass · the chain from the storm · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T15:33:31Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_SYMPATHY_NAILS_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SYMPATHY_NAILS_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Sympathy / Nails: from the poster's heavy chain lowered from the storm: a colossal rusted iron chain descends from a storm ceiling into a flooded concrete nave, sparks at each link, a haloed figure reaching up",
+   "batch": "batch_20261017_1526",
+   "file": "img/HYB_SYMPATHY_NAILS_02.b64"
+  },
+  {
+   "id": "HYB_JUNGLE_80S_02",
+   "title": "Jungle / 80s · second pass · the synth in the gold-dripping monstera grove · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T15:33:31Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_JUNGLE_80S_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_JUNGLE_80S_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Jungle / 80s: from the poster's synth keyboard in a gold-dripping monstera grove: a giant chrome synth floats in a flooded concrete greenhouse of colossal monstera leaves dripping liquid gold, a haloed player below",
+   "batch": "batch_20261017_1526",
+   "file": "img/HYB_JUNGLE_80S_02.b64"
+  },
+  {
+   "id": "HYB_UNFINISHED_02",
+   "title": "Unfinished · second pass · the smoke ribbon over the sleeping city · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T15:33:31Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_UNFINISHED_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_UNFINISHED_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Unfinished: from the poster's smoke ribbon over a misty city lake: a long luminous smoke ribbon unspools over a flooded city of unfinished concrete towers in soft mist, a haloed walker on the shore",
+   "batch": "batch_20261017_1526",
+   "file": "img/HYB_UNFINISHED_02.b64"
+  },
   {
    "id": "HYB_AFTER_NOON_02",
    "title": "After / Noon · second pass · the lemon sun on its pole · hybrid",
@@ -27606,6 +27854,23 @@
    ],
    "voted_to_archive": 0,
    "note": "No new votes since #118 and no Build Ons pending. New: second passes on yay'd first takes, each led by its poster's one iconic object and palette: After/Noon (lemon sun disc on its pole over a flooded plaza), After/Midnight (yellow neon ring split by a cyan slash), Reputation (lone mic in a white spotlight with hanging shards), Moon/Meter (glass wireframe moon 0/4 over half-sunk piano keys), Air/Jungle (cracked brass clock bursting into teal light threads), Separate/Ways (crimson lightning over a forked causeway), Haze/Riff/Future (violet smoke under a white-violet crescent), Love x Rudy (gold neon heart and floating trumpet). No floating headphones."
+  },
+  {
+   "at": "2026-10-17T15:33:31Z",
+   "build": "20261017w",
+   "batch": "batch_20261017_1526",
+   "added": [
+    "HYB_ERAS_BRACELETS_02",
+    "HYB_FAMILY_HALO_02",
+    "HYB_UNFINISHED_THIRD_02",
+    "HYB_FULL_TABLE_02",
+    "HYB_BETWEEN_02",
+    "HYB_SYMPATHY_NAILS_02",
+    "HYB_JUNGLE_80S_02",
+    "HYB_UNFINISHED_02"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new votes since #118 and no Build Ons pending. New: second passes on yay'd first takes, each led by its poster's one iconic object and palette: Taylor/Eras (bead bracelet river down the stairs), Family/Halo (steaming clay cups under one gold halo), Unfinished/Third (two monoliths and lime energy wraith), Full/Table (bronze table with floating candle ring), Between (gold shaft between two years), Sympathy/Nails (colossal chain from the storm), Jungle/80s (chrome synth in gold-dripping monstera), Unfinished (luminous smoke ribbon over flooded city). No floating headphones."
   }
  ]
 }
