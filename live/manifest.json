@@ -1,8 +1,264 @@
 {
- "total": 185,
- "done": 185,
- "updated": "2026-10-17T18:40:35Z",
+ "total": 193,
+ "done": 193,
+ "updated": "2026-10-17T19:30:48Z",
  "items": [
+  {
+   "id": "HYB_POD_FLYOVER_DASS_NOBODY_02",
+   "title": "Pod Night Flyovers · Dass / Nobody · second pass · the pod over the honeycomb bloom · hybrid",
+   "theme": "Event Nights",
+   "section": "UFO Pod · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "UFO Pod · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T19:30:48Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POD_FLYOVER_DASS_NOBODY_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_FLYOVER_DASS_NOBODY_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd HYB_POD_FLYOVER_DASS_NOBODY_01: second pass · the pod over the honeycomb bloom, with the pod held to the locked crystal lens-saucer silhouette and a sharper hero composition.",
+   "batch": "batch_20261017_1924",
+   "file": "img/HYB_POD_FLYOVER_DASS_NOBODY_02.b64"
+  },
+  {
+   "id": "HYB_POD_FLYOVER_SHIP_3AM_02",
+   "title": "Pod Night Flyovers · Ship / 3AM · second pass · the pod over the 3AM sea · hybrid",
+   "theme": "Event Nights",
+   "section": "UFO Pod · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "UFO Pod · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T19:30:48Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POD_FLYOVER_SHIP_3AM_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_FLYOVER_SHIP_3AM_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd HYB_POD_FLYOVER_SHIP_3AM_01: second pass · the pod over the 3AM sea, with the pod held to the locked crystal lens-saucer silhouette and a sharper hero composition.",
+   "batch": "batch_20261017_1924",
+   "file": "img/HYB_POD_FLYOVER_SHIP_3AM_02.b64"
+  },
+  {
+   "id": "HYB_POD_FLYOVER_CAROL_02",
+   "title": "Pod Night Flyovers · Carol / Night · second pass · the pod under the bell of light · hybrid",
+   "theme": "Event Nights",
+   "section": "UFO Pod · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "UFO Pod · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T19:30:48Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POD_FLYOVER_CAROL_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_FLYOVER_CAROL_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd HYB_POD_FLYOVER_CAROL_01: second pass · the pod under the bell of light, with the pod held to the locked crystal lens-saucer silhouette and a sharper hero composition.",
+   "batch": "batch_20261017_1924",
+   "file": "img/HYB_POD_FLYOVER_CAROL_02.b64"
+  },
+  {
+   "id": "HYB_POD_FLYOVER_MOON_METER_02",
+   "title": "Pod Night Flyovers · Moon / Meter · second pass · the pod under the wireframe moon · hybrid",
+   "theme": "Event Nights",
+   "section": "UFO Pod · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "UFO Pod · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T19:30:48Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POD_FLYOVER_MOON_METER_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_FLYOVER_MOON_METER_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd HYB_POD_FLYOVER_MOON_METER_01: second pass · the pod under the wireframe moon, with the pod held to the locked crystal lens-saucer silhouette and a sharper hero composition.",
+   "batch": "batch_20261017_1924",
+   "file": "img/HYB_POD_FLYOVER_MOON_METER_02.b64"
+  },
+  {
+   "id": "HYB_POD_FLYOVER_SEVENTIES_02",
+   "title": "Pod Night Flyovers · Seventies / Liquid · second pass · the pod over the gold-melt lake · hybrid",
+   "theme": "Event Nights",
+   "section": "UFO Pod · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "UFO Pod · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T19:30:48Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POD_FLYOVER_SEVENTIES_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_FLYOVER_SEVENTIES_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd HYB_POD_FLYOVER_SEVENTIES_01: second pass · the pod over the gold-melt lake, with the pod held to the locked crystal lens-saucer silhouette and a sharper hero composition.",
+   "batch": "batch_20261017_1924",
+   "file": "img/HYB_POD_FLYOVER_SEVENTIES_02.b64"
+  },
+  {
+   "id": "HYB_POD_SLEEPY_TEA_02",
+   "title": "UFO Pod Worlds · Sleepy Tea · second pass · pod pouring tea over sugar islands · hybrid",
+   "theme": "Event Nights",
+   "section": "UFO Pod · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "UFO Pod · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T19:30:48Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POD_SLEEPY_TEA_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_SLEEPY_TEA_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd HYB_POD_SLEEPY_TEA_01: second pass · pod pouring tea over sugar islands, with the pod held to the locked crystal lens-saucer silhouette and a sharper hero composition.",
+   "batch": "batch_20261017_1924",
+   "file": "img/HYB_POD_SLEEPY_TEA_02.b64"
+  },
+  {
+   "id": "HYB_POD_NIGHTMARE_02",
+   "title": "UFO Pod Worlds · Nightmare · second pass · searchlight over a carnival of doors · hybrid",
+   "theme": "Event Nights",
+   "section": "UFO Pod · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "UFO Pod · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T19:30:48Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POD_NIGHTMARE_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_NIGHTMARE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd HYB_POD_NIGHTMARE_01: second pass · searchlight over a carnival of doors, with the pod held to the locked crystal lens-saucer silhouette and a sharper hero composition.",
+   "batch": "batch_20261017_1924",
+   "file": "img/HYB_POD_NIGHTMARE_02.b64"
+  },
+  {
+   "id": "HYB_POD_DEAD_PUNCH_02",
+   "title": "UFO Pod Worlds · Dead Punch · second pass · pod as the arena spotlight · hybrid",
+   "theme": "Event Nights",
+   "section": "UFO Pod · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "UFO Pod · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T19:30:48Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POD_DEAD_PUNCH_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_DEAD_PUNCH_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd HYB_POD_DEAD_PUNCH_01: second pass · pod as the arena spotlight, with the pod held to the locked crystal lens-saucer silhouette and a sharper hero composition.",
+   "batch": "batch_20261017_1924",
+   "file": "img/HYB_POD_DEAD_PUNCH_02.b64"
+  },
   {
    "id": "HYB_WIZARD_COURT_02",
    "title": "Wizard Court · second pass · enchanted stone hall and the stone-skinned pod · hybrid",
@@ -28702,6 +28958,23 @@
    ],
    "voted_to_archive": 0,
    "note": "No new gallery votes since #118. Spirit feedback rebuilds: Diamonds/Garden #112 (crystal plants, no sneaker), Three170 Clear Creek #110, Rocky/Warp #111 (house + time-warp gate), Doom/Dune #116 (liminal CRT field from pins), Pepper/Jungle #105 (Pepperland-inspired, no outside IP). Plus Wizard Court second pass, Keys/Influence and Potion/Evoke second passes. No headphones on the wall."
+  },
+  {
+   "at": "2026-10-17T19:30:48Z",
+   "build": "20261017za",
+   "batch": "batch_20261017_1924",
+   "added": [
+    "HYB_POD_FLYOVER_DASS_NOBODY_02",
+    "HYB_POD_FLYOVER_SHIP_3AM_02",
+    "HYB_POD_FLYOVER_CAROL_02",
+    "HYB_POD_FLYOVER_MOON_METER_02",
+    "HYB_POD_FLYOVER_SEVENTIES_02",
+    "HYB_POD_SLEEPY_TEA_02",
+    "HYB_POD_NIGHTMARE_02",
+    "HYB_POD_DEAD_PUNCH_02"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new gallery votes since #118; Build On exhausted. 8 UFO pod second passes on yay'd first takes (Dass/Nobody, Ship/3AM, Carol, Moon/Meter, Seventies, Sleepy Tea, Nightmare, Dead Punch), pod held to the flat crystal lens-saucer. No headphones on the wall."
   }
  ]
 }
