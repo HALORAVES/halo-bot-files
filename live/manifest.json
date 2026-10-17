@@ -1,8 +1,262 @@
 {
- "total": 193,
- "done": 193,
- "updated": "2026-10-17T19:30:48Z",
+ "total": 201,
+ "done": 201,
+ "updated": "2026-10-17T20:39:49Z",
  "items": [
+  {
+   "id": "HYB_POD_WIZARD_COURT_02",
+   "title": "UFO Pod Worlds · Wizard Court · second pass · the pod lifts the glowing ball · hybrid",
+   "theme": "Event Nights",
+   "section": "Second Pass · Oct 17 (evening)",
+   "status": "review",
+   "rooms": [
+    "Second Pass · Oct 17 (evening)"
+   ],
+   "updated": "2026-10-17T20:39:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POD_WIZARD_COURT_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_WIZARD_COURT_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd HYB_POD_WIZARD_COURT_01: second pass · the pod lifts the glowing ball, with the pod held to the locked crystal lens-saucer silhouette and a sharper hero composition.",
+   "batch": "batch_20261017_2033",
+   "file": "img/HYB_POD_WIZARD_COURT_02.b64"
+  },
+  {
+   "id": "HYB_POD_HOME_TABLE_02",
+   "title": "UFO Pod Worlds · Home Table · second pass · the pod as the chandelier · hybrid",
+   "theme": "Event Nights",
+   "section": "Second Pass · Oct 17 (evening)",
+   "status": "review",
+   "rooms": [
+    "Second Pass · Oct 17 (evening)"
+   ],
+   "updated": "2026-10-17T20:39:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POD_HOME_TABLE_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_HOME_TABLE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd HYB_POD_HOME_TABLE_01: second pass · the pod as the chandelier, with the pod held to the locked crystal lens-saucer silhouette and a sharper hero composition.",
+   "batch": "batch_20261017_2033",
+   "file": "img/HYB_POD_HOME_TABLE_02.b64"
+  },
+  {
+   "id": "HYB_POD_DEFAULT_02",
+   "title": "UFO Pod Worlds · Default · second pass · pastel clouds, checker plinths, tiny doors · hybrid",
+   "theme": "Event Nights",
+   "section": "Second Pass · Oct 17 (evening)",
+   "status": "review",
+   "rooms": [
+    "Second Pass · Oct 17 (evening)"
+   ],
+   "updated": "2026-10-17T20:39:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POD_DEFAULT_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_DEFAULT_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd HYB_POD_DEFAULT_01: second pass · pastel clouds, checker plinths, tiny doors, with the pod held to the locked crystal lens-saucer silhouette and a sharper hero composition.",
+   "batch": "batch_20261017_2033",
+   "file": "img/HYB_POD_DEFAULT_02.b64"
+  },
+  {
+   "id": "HYB_KOMBAT_EARTH_BLUE_02",
+   "title": "Kombat / Earth / Blue · second pass · the emerald on the stance arena · hybrid",
+   "theme": "Event Nights",
+   "section": "Second Pass · Oct 17 (evening)",
+   "status": "review",
+   "rooms": [
+    "Second Pass · Oct 17 (evening)"
+   ],
+   "updated": "2026-10-17T20:39:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_KOMBAT_EARTH_BLUE_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_KOMBAT_EARTH_BLUE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd HYB_KOMBAT_EARTH_BLUE_01: the emerald on the stance arena, with the pod held to the locked crystal lens-saucer silhouette and a sharper hero composition.",
+   "batch": "batch_20261017_2033",
+   "file": "img/HYB_KOMBAT_EARTH_BLUE_02.b64"
+  },
+  {
+   "id": "HYB_DREAM_BLOCKS_02",
+   "title": "Dream / Blocks · second pass · the stacked cube dream city · hybrid",
+   "theme": "Event Nights",
+   "section": "Second Pass · Oct 17 (evening)",
+   "status": "review",
+   "rooms": [
+    "Second Pass · Oct 17 (evening)"
+   ],
+   "updated": "2026-10-17T20:39:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_DREAM_BLOCKS_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DREAM_BLOCKS_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd HYB_DREAM_BLOCKS_01: the stacked cube dream city, with the pod held to the locked crystal lens-saucer silhouette and a sharper hero composition.",
+   "batch": "batch_20261017_2033",
+   "file": "img/HYB_DREAM_BLOCKS_02.b64"
+  },
+  {
+   "id": "HYB_BEBOP_LASER_02",
+   "title": "Bebop / Laser · second pass · the hangar window on the nebula · hybrid",
+   "theme": "Event Nights",
+   "section": "Second Pass · Oct 17 (evening)",
+   "status": "review",
+   "rooms": [
+    "Second Pass · Oct 17 (evening)"
+   ],
+   "updated": "2026-10-17T20:39:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_BEBOP_LASER_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_BEBOP_LASER_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd HYB_BEBOP_LASER_01: the hangar window on the nebula, with the pod held to the locked crystal lens-saucer silhouette and a sharper hero composition.",
+   "batch": "batch_20261017_2033",
+   "file": "img/HYB_BEBOP_LASER_02.b64"
+  },
+  {
+   "id": "mono_lith_02",
+   "title": "Alpine Monolith · second pass · the haloed tower on the lake · hybrid",
+   "theme": "Event Nights",
+   "section": "Second Pass · Oct 17 (evening)",
+   "status": "review",
+   "rooms": [
+    "Second Pass · Oct 17 (evening)"
+   ],
+   "updated": "2026-10-17T20:39:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take mono_lith_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/mono_lith_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd mono_lith_01: the haloed tower on the lake and a sharper hero composition.",
+   "batch": "batch_20261017_2033",
+   "file": "img/mono_lith_02.b64"
+  },
+  {
+   "id": "T_SMALLLIFE_02",
+   "title": "Haloed Spider · second pass · the small life under a tiny halo · hybrid",
+   "theme": "Event Nights",
+   "section": "Second Pass · Oct 17 (evening)",
+   "status": "review",
+   "rooms": [
+    "Second Pass · Oct 17 (evening)"
+   ],
+   "updated": "2026-10-17T20:39:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take T_SMALLLIFE_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/T_SMALLLIFE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd T_SMALLLIFE_01: the small life under a tiny halo and a sharper hero composition.",
+   "batch": "batch_20261017_2033",
+   "file": "img/T_SMALLLIFE_02.b64"
+  },
   {
    "id": "HYB_POD_FLYOVER_DASS_NOBODY_02",
    "title": "Pod Night Flyovers · Dass / Nobody · second pass · the pod over the honeycomb bloom · hybrid",
@@ -28975,6 +29229,23 @@
    ],
    "voted_to_archive": 0,
    "note": "No new gallery votes since #118; Build On exhausted. 8 UFO pod second passes on yay'd first takes (Dass/Nobody, Ship/3AM, Carol, Moon/Meter, Seventies, Sleepy Tea, Nightmare, Dead Punch), pod held to the flat crystal lens-saucer. No headphones on the wall."
+  },
+  {
+   "at": "2026-10-17T20:39:49Z",
+   "build": "20261017zb",
+   "batch": "batch_20261017_2033",
+   "added": [
+    "HYB_POD_WIZARD_COURT_02",
+    "HYB_POD_HOME_TABLE_02",
+    "HYB_POD_DEFAULT_02",
+    "HYB_KOMBAT_EARTH_BLUE_02",
+    "HYB_DREAM_BLOCKS_02",
+    "HYB_BEBOP_LASER_02",
+    "mono_lith_02",
+    "T_SMALLLIFE_02"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new gallery votes since #118; Build On exhausted. Second passes on the last 8 yay'd first takes (Wizard Court pod, Home Table pod, Default pod, Kombat/Earth/Blue, Dream/Blocks, Bebop/Laser, Alpine Monolith, Haloed Spider). Every yay'd first take now has a second pass. No headphones on the wall."
   }
  ]
 }
