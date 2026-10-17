@@ -1,8 +1,217 @@
 {
- "total": 201,
- "done": 201,
- "updated": "2026-10-17T20:39:49Z",
+ "total": 209,
+ "done": 209,
+ "updated": "2026-10-17T21:35:42Z",
  "items": [
+  {
+   "id": "HYB_SPORE_AMEN_F1",
+   "title": "Spore / Amen · fresh · the spore cathedral · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (night)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (night)"
+   ],
+   "updated": "2026-10-17T21:35:42Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Spore / Amen: the spore cathedral, built from the night's poster hero object in the locked hybrid style.",
+   "batch": "batch_20261017_2129",
+   "file": "img/HYB_SPORE_AMEN_F1.b64"
+  },
+  {
+   "id": "HYB_KISS_MADNESS_F1",
+   "title": "Kiss × Madness · fresh · the chrome kiss in the mirror hall · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (night)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (night)"
+   ],
+   "updated": "2026-10-17T21:35:42Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Kiss × Madness: the chrome kiss in the mirror hall, built from the night's poster hero object in the locked hybrid style.",
+   "batch": "batch_20261017_2129",
+   "file": "img/HYB_KISS_MADNESS_F1.b64"
+  },
+  {
+   "id": "HYB_COLD_OPEN_F1",
+   "title": "Cold / Open · fresh · the frost door · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (night)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (night)"
+   ],
+   "updated": "2026-10-17T21:35:42Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Cold / Open: the frost door, built from the night's poster hero object in the locked hybrid style.",
+   "batch": "batch_20261017_2129",
+   "file": "img/HYB_COLD_OPEN_F1.b64"
+  },
+  {
+   "id": "HYB_WORD_SOUL_F1",
+   "title": "Word / Sade / Soul · fresh · the golden mic lounge · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (night)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (night)"
+   ],
+   "updated": "2026-10-17T21:35:42Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Word / Sade / Soul: the golden mic lounge, built from the night's poster hero object in the locked hybrid style.",
+   "batch": "batch_20261017_2129",
+   "file": "img/HYB_WORD_SOUL_F1.b64"
+  },
+  {
+   "id": "HYB_CHOIR_LIQUID_F1",
+   "title": "Choir / Liquid / DNB · fresh · the choir of pillars · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (night)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (night)"
+   ],
+   "updated": "2026-10-17T21:35:42Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Choir / Liquid / DNB: the choir of pillars, built from the night's poster hero object in the locked hybrid style.",
+   "batch": "batch_20261017_2129",
+   "file": "img/HYB_CHOIR_LIQUID_F1.b64"
+  },
+  {
+   "id": "HYB_LEFTOVERS_F1",
+   "title": "Leftovers · fresh · the cracked gold plate · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (night)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (night)"
+   ],
+   "updated": "2026-10-17T21:35:42Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Leftovers: the cracked gold plate, built from the night's poster hero object in the locked hybrid style.",
+   "batch": "batch_20261017_2129",
+   "file": "img/HYB_LEFTOVERS_F1.b64"
+  },
+  {
+   "id": "HYB_LOVE_RUDY_F1",
+   "title": "Love × Rudy · fresh · the light-heart and the horn · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (night)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (night)"
+   ],
+   "updated": "2026-10-17T21:35:42Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Love × Rudy: the light-heart and the horn, built from the night's poster hero object in the locked hybrid style.",
+   "batch": "batch_20261017_2129",
+   "file": "img/HYB_LOVE_RUDY_F1.b64"
+  },
+  {
+   "id": "HYB_THE_FEAST_F1",
+   "title": "The Feast · fresh · the candle table under the pod · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (night)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (night)"
+   ],
+   "updated": "2026-10-17T21:35:42Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for The Feast: the candle table under the pod, built from the night's poster hero object in the locked hybrid style, pod held to the crystal lens-saucer silhouette.",
+   "batch": "batch_20261017_2129",
+   "file": "img/HYB_THE_FEAST_F1.b64"
+  },
   {
    "id": "HYB_POD_WIZARD_COURT_02",
    "title": "UFO Pod Worlds · Wizard Court · second pass · the pod lifts the glowing ball · hybrid",
@@ -29246,6 +29455,23 @@
    ],
    "voted_to_archive": 0,
    "note": "No new gallery votes since #118; Build On exhausted. Second passes on the last 8 yay'd first takes (Wizard Court pod, Home Table pod, Default pod, Kombat/Earth/Blue, Dream/Blocks, Bebop/Laser, Alpine Monolith, Haloed Spider). Every yay'd first take now has a second pass. No headphones on the wall."
+  },
+  {
+   "at": "2026-10-17T21:35:42Z",
+   "build": "20261017zc",
+   "batch": "batch_20261017_2129",
+   "added": [
+    "HYB_SPORE_AMEN_F1",
+    "HYB_KISS_MADNESS_F1",
+    "HYB_COLD_OPEN_F1",
+    "HYB_WORD_SOUL_F1",
+    "HYB_CHOIR_LIQUID_F1",
+    "HYB_LEFTOVERS_F1",
+    "HYB_LOVE_RUDY_F1",
+    "HYB_THE_FEAST_F1"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new gallery votes since #118; Build On and second-pass backlog both empty. 8 fresh event-night pieces for under-covered nights (Spore/Amen, Kiss x Madness, Cold/Open, Word/Sade/Soul, Choir/Liquid/DNB, Leftovers, Love x Rudy, The Feast with the pod). No headphones on the wall."
   }
  ]
 }
