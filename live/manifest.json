@@ -1,8 +1,218 @@
 {
- "total": 217,
- "done": 217,
- "updated": "2026-10-17T22:35:52Z",
+ "total": 225,
+ "done": 225,
+ "updated": "2026-10-17T23:36:56Z",
  "items": [
+  {
+   "id": "HYB_BOXING_NIGHT_F1",
+   "title": "Boxing Night · fresh · the gold gloves over the flooded ring · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (late night)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (late night)"
+   ],
+   "updated": "2026-10-17T23:36:56Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Boxing Night: Faceted gold-crystal boxing gloves hang under a gold halo over a sunken ring of crimson light ropes; spotlight cone, white hand wrap in the foreground.",
+   "batch": "batch_20261017_2331",
+   "file": "img/HYB_BOXING_NIGHT_F1.b64"
+  },
+  {
+   "id": "HYB_GARAGE_RIFF_F1",
+   "title": "Gojira / Garage · fresh · the buckled roll-up door · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (late night)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (late night)"
+   ],
+   "updated": "2026-10-17T23:36:56Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Gojira / Garage: A roll-up garage door buckled by a wall of sound, teal-green light pouring through, shockwave cracks in the flooded floor, monolith speaker stacks in the fog. No creature.",
+   "batch": "batch_20261017_2331",
+   "file": "img/HYB_GARAGE_RIFF_F1.b64"
+  },
+  {
+   "id": "HYB_HAZE_GUITAR_F1",
+   "title": "Hendrix / Kravitz / Future · fresh · the crystal guitar in the purple haze · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (late night)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (late night)"
+   ],
+   "updated": "2026-10-17T23:36:56Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Hendrix / Kravitz / Future: A faceted crystal electric guitar burning purple, orange and blue on a plinth in a flooded amphitheatre, light-beam strings, gold halo over the headstock, amber pick in the foreground. No likenesses.",
+   "batch": "batch_20261017_2331",
+   "file": "img/HYB_HAZE_GUITAR_F1.b64"
+  },
+  {
+   "id": "HYB_UPSIDE_DOWN_F1",
+   "title": "Upside / Down · fresh · the inverted plaza · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (late night)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (late night)"
+   ],
+   "updated": "2026-10-17T23:36:56Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Upside / Down: A neo-brutal plaza hangs upside down over black water that mirrors it the right way up; a cyan waterfall pours upward; floating crystal steps. No outside IP cues.",
+   "batch": "batch_20261017_2331",
+   "file": "img/HYB_UPSIDE_DOWN_F1.b64"
+  },
+  {
+   "id": "HYB_SWAN_WAKE_F1",
+   "title": "Swan / Wake · fresh · the feather sail under the pearl pod · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (late night)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (late night)"
+   ],
+   "updated": "2026-10-17T23:36:56Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Swan / Wake: A giant crystal swan feather sails a moonlit lake leaving a luminous wake, under a pearl-skinned lens-saucer pod. Pod held to the crystal lens-saucer silhouette.",
+   "batch": "batch_20261017_2331",
+   "file": "img/HYB_SWAN_WAKE_F1.b64"
+  },
+  {
+   "id": "HYB_CASTLE_ORGAN_F1",
+   "title": "Castle / Organ · fresh · the crystal pipe organ · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (late night)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (late night)"
+   ],
+   "updated": "2026-10-17T23:36:56Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Castle / Organ: An emerald and ice-blue crystal pipe organ under a gold halo in a flooded castle hall, sound rings pulsing over the water, candelabra in the foreground.",
+   "batch": "batch_20261017_2331",
+   "file": "img/HYB_CASTLE_ORGAN_F1.b64"
+  },
+  {
+   "id": "HYB_AFRO_STRINGS_F1",
+   "title": "Afro / Strings · fresh · the canyon harp · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (late night)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (late night)"
+   ],
+   "updated": "2026-10-17T23:36:56Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Afro / Strings: Strings of gold light stretched between two sandstone monoliths over a canyon river at golden hour, a calabash bowl in the foreground.",
+   "batch": "batch_20261017_2331",
+   "file": "img/HYB_AFRO_STRINGS_F1.b64"
+  },
+  {
+   "id": "HYB_OFFICE_OUT_F1",
+   "title": "Office / Out · fresh · the paper birds and the amber pod · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (late night)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (late night)"
+   ],
+   "updated": "2026-10-17T23:36:56Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Office / Out: A flooded empty office at dusk; paper sheets fold into birds and fly out an open window toward an amber-skinned lens-saucer pod. Pod held to the crystal lens-saucer silhouette.",
+   "batch": "batch_20261017_2331",
+   "file": "img/HYB_OFFICE_OUT_F1.b64"
+  },
   {
    "id": "HYB_HALLOWEEN_PUNCH_F1",
    "title": "Halloween / Punch · fresh · the lantern pod over the punch bowl · hybrid",
@@ -29698,6 +29908,23 @@
    ],
    "voted_to_archive": 0,
    "note": "No new gallery votes since #118. 8 fresh event-night pieces for nights with no wall coverage yet (Halloween/Punch with a pumpkin-skinned pod, Zimmer x Ska, Thriller/Downtempo/Lofi, Nina x Break, Sinner x Ska, Lights/On, Schism/Snares, Bowie/Star). No headphones on the wall."
+  },
+  {
+   "at": "2026-10-17T23:36:56Z",
+   "build": "20261017ze",
+   "batch": "batch_20261017_2331",
+   "added": [
+    "HYB_BOXING_NIGHT_F1",
+    "HYB_GARAGE_RIFF_F1",
+    "HYB_HAZE_GUITAR_F1",
+    "HYB_UPSIDE_DOWN_F1",
+    "HYB_SWAN_WAKE_F1",
+    "HYB_CASTLE_ORGAN_F1",
+    "HYB_AFRO_STRINGS_F1",
+    "HYB_OFFICE_OUT_F1"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new gallery votes since #118. 8 fresh event-night pieces (Boxing Night, Gojira/Garage, Hendrix/Kravitz/Future, Upside/Down, Swan/Wake with a pearl pod, Castle/Organ, Afro/Strings, Office/Out with an amber pod). No headphones on the wall."
   }
  ]
 }
