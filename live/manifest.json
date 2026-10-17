@@ -1,8 +1,292 @@
 {
- "total": 177,
- "done": 177,
- "updated": "2026-10-17T17:34:07Z",
+ "total": 185,
+ "done": 185,
+ "updated": "2026-10-17T18:40:35Z",
  "items": [
+  {
+   "id": "HYB_WIZARD_COURT_02",
+   "title": "Wizard Court · second pass · enchanted stone hall and the stone-skinned pod · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T18:40:35Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_WIZARD_COURT_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_WIZARD_COURT_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Wizard Court: from the Dream Wing enchanted stone hall — a vast faceted neo-brutal court of weathered enchanted stone, floating rune slabs, warm amber shafts, and the HALO UFO pod exactly as in the pod reference image: one flat, wide, faceted crystal-lens saucer shaped like a marquise-cut double-convex crystal disc with pointed tips, NO dome, NO cockpit, NO tall diamond or gem shape, NO lights ring, NO legs, circled by a single thin gold halo ring at its equator, its silhouette unchanged, skinned in enchanted carved stone with moss seams and soft amber underglow, hovering above a still black pool",
+   "batch": "batch_20261017_1825",
+   "file": "img/HYB_WIZARD_COURT_02.b64"
+  },
+  {
+   "id": "HYB_DIAMONDS_GARDEN_03",
+   "title": "Diamonds / Garden · rebuild · exotic crystal plants (not a sneaker) · hybrid",
+   "theme": "Event Nights",
+   "section": "Build On · Spirit Notes · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Build On · Spirit Notes · Oct 17"
+   ],
+   "updated": "2026-10-17T18:40:35Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · SPIRIT NOTE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_DIAMONDS_GARDEN_02",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DIAMONDS_GARDEN_02.b64"
+    },
+    {
+     "label": "Spirit vote/note #112",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/112"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Rebuild honoring Spirit feedback #112 on Diamonds/Garden: rather see exotic plants looking like crystals than a sneaker. A flooded neo-brutal greenhouse garden of towering exotic plants whose leaves and blooms are living crystal facets, no sneaker",
+   "batch": "batch_20261017_1825",
+   "file": "img/HYB_DIAMONDS_GARDEN_03.b64",
+   "of": "HYB_DIAMONDS_GARDEN_02",
+   "builds_on": "HYB_DIAMONDS_GARDEN_02",
+   "spirit_note": "rather see exotic plants looking like crystals than a sneaker",
+   "spirit_note_issue": 112
+  },
+  {
+   "id": "HYB_THREE170_02",
+   "title": "Three / 170 · rebuild · Clear Creek Canyon nature surrealism · hybrid",
+   "theme": "Event Nights",
+   "section": "Build On · Spirit Notes · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Build On · Spirit Notes · Oct 17"
+   ],
+   "updated": "2026-10-17T18:40:35Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · SPIRIT NOTE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_POD_THREE170_01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_THREE170_01.b64"
+    },
+    {
+     "label": "Spirit vote/note #110",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/110"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Rebuild honoring Spirit feedback #110 on POD/Three170: more like nature surrealism dreamcore within Clear Creek Canyon — red granite canyon walls, a turquoise creek, dreamcore flora, the crystal-lens pod gliding low",
+   "batch": "batch_20261017_1825",
+   "file": "img/HYB_THREE170_02.b64",
+   "of": "HYB_POD_THREE170_01",
+   "builds_on": "HYB_POD_THREE170_01",
+   "spirit_note": "more like nature surrealism dreamcore within clear creek canyon",
+   "spirit_note_issue": 110
+  },
+  {
+   "id": "HYB_ROCKY_WARP_03",
+   "title": "Rocky / Warp · rebuild · the iconic house and the time-warp gate · hybrid",
+   "theme": "Event Nights",
+   "section": "Build On · Spirit Notes · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Build On · Spirit Notes · Oct 17"
+   ],
+   "updated": "2026-10-17T18:40:35Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · SPIRIT NOTE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_ROCKY_WARP_02",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_ROCKY_WARP_02.b64"
+    },
+    {
+     "label": "Spirit vote/note #111",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/111"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Rebuild honoring Spirit feedback #111 on Rocky/Warp: use the iconic house and time machine aspect of the rocky/warp vibe — a solitary mid-century house on a rocky mesa with a glowing circular time-warp gate (original design, no outside IP vehicles or logos)",
+   "batch": "batch_20261017_1825",
+   "file": "img/HYB_ROCKY_WARP_03.b64",
+   "of": "HYB_ROCKY_WARP_02",
+   "builds_on": "HYB_ROCKY_WARP_02",
+   "spirit_note": "use the iconic house and time machine aspect of the rocky/warp vibe",
+   "spirit_note_issue": 111
+  },
+  {
+   "id": "HYB_DOOM_DUNE_03",
+   "title": "Doom / Dune · rebuild · liminal CRT field (pin-faithful) · hybrid",
+   "theme": "Event Nights",
+   "section": "Build On · Spirit Notes · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Build On · Spirit Notes · Oct 17"
+   ],
+   "updated": "2026-10-17T18:40:35Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · SPIRIT NOTE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_DOOM_DUNE_02",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DOOM_DUNE_02.b64"
+    },
+    {
+     "label": "Spirit vote/note #116",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/116"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Rebuild honoring Spirit feedback #116 on Doom/Dune: more like the reference photos — liminal grassy hill, colossal CRT with cyan-purple glitch screen, soft daylight dreamcore (from Spirit's pin refs), no outside IP UI chrome",
+   "batch": "batch_20261017_1825",
+   "file": "img/HYB_DOOM_DUNE_03.b64",
+   "of": "HYB_DOOM_DUNE_02",
+   "builds_on": "HYB_DOOM_DUNE_02",
+   "spirit_note": "more like the reference photos (pin refs)",
+   "spirit_note_issue": 116
+  },
+  {
+   "id": "HYB_PEPPER_JUNGLE_02",
+   "title": "Pepper / Jungle · rebuild · psychedelic Pepperland hills (no outside IP) · hybrid",
+   "theme": "Event Nights",
+   "section": "Build On · Spirit Notes · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Build On · Spirit Notes · Oct 17"
+   ],
+   "updated": "2026-10-17T18:40:35Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · SPIRIT NOTE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_PEPPER_JUNGLE_01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_PEPPER_JUNGLE_01.b64"
+    },
+    {
+     "label": "Spirit vote/note #105",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/105"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Rebuild honoring Spirit feedback #105 on Pepper/Jungle: more like a Yellow Submarine Pepperland world — rolling candy-coloured psychedelic hills, crystal flora, joyful surreal landscape, NO characters from outside IP, no submarines with faces, original HALO world",
+   "batch": "batch_20261017_1825",
+   "file": "img/HYB_PEPPER_JUNGLE_02.b64",
+   "of": "HYB_PEPPER_JUNGLE_01",
+   "builds_on": "HYB_PEPPER_JUNGLE_01",
+   "spirit_note": "bring more the style of a world like the movie The Yellow Submarine. Like Pepperland",
+   "spirit_note_issue": 105
+  },
+  {
+   "id": "HYB_KEYS_INFLUENCE_02",
+   "title": "Keys / Influence · second pass · the floating golden grand piano · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T18:40:35Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_KEYS_INFLUENCE_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_KEYS_INFLUENCE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Keys/Influence: from the poster's floating golden grand piano — a colossal golden grand piano hovering over a flooded neo-brutal concert floor, keys spilling light, a haloed pianist below",
+   "batch": "batch_20261017_1825",
+   "file": "img/HYB_KEYS_INFLUENCE_02.b64"
+  },
+  {
+   "id": "HYB_POTION_EVOKE_03",
+   "title": "Potion / Evoke · second pass · the giant glass potion bottle · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T18:40:35Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POTION_EVOKE_02 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POTION_EVOKE_02.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Potion/Evoke: from the poster's giant luminous glass potion bottle — a colossal faceted glass bottle of swirling lilac-magenta elixir on a flooded concrete apothecary floor, a haloed alchemist below",
+   "batch": "batch_20261017_1825",
+   "file": "img/HYB_POTION_EVOKE_03.b64"
+  },
   {
    "id": "HYB_FLUTE_JUNGLE_02",
    "title": "Flute / Jungle · second pass · the gold flute bursting with turquoise water · hybrid",
@@ -28401,6 +28685,23 @@
    ],
    "voted_to_archive": 0,
    "note": "No new votes since #118 and no Build Ons pending. New: second passes on yay'd first takes, each led by its poster's one iconic object and palette: Flute/Jungle (gold flute gushing turquoise water over a jungle ruin), Flute/Bless (upright gold flute tower in cyan lightning; the poster's headphones left out), Higher/Love (chrome heart over a sunset highway), The/Dock (gold ring portal with white light rails over a flooded pier), Gypsy/Palm (liquid gold ribbon opening into a giant palm), The Build (chrome microphone exploding into gold and cyan), Inwards (golden path into the jungle), Word/Sade/Soul (furred yellow spirit in a silver chain). No headphones."
+  },
+  {
+   "at": "2026-10-17T18:40:35Z",
+   "build": "20261017z",
+   "batch": "batch_20261017_1825",
+   "added": [
+    "HYB_WIZARD_COURT_02",
+    "HYB_DIAMONDS_GARDEN_03",
+    "HYB_THREE170_02",
+    "HYB_ROCKY_WARP_03",
+    "HYB_DOOM_DUNE_03",
+    "HYB_PEPPER_JUNGLE_02",
+    "HYB_KEYS_INFLUENCE_02",
+    "HYB_POTION_EVOKE_03"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new gallery votes since #118. Spirit feedback rebuilds: Diamonds/Garden #112 (crystal plants, no sneaker), Three170 Clear Creek #110, Rocky/Warp #111 (house + time-warp gate), Doom/Dune #116 (liminal CRT field from pins), Pepper/Jungle #105 (Pepperland-inspired, no outside IP). Plus Wizard Court second pass, Keys/Influence and Potion/Evoke second passes. No headphones on the wall."
   }
  ]
 }
