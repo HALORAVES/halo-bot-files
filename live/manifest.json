@@ -1,8 +1,256 @@
 {
- "total": 137,
- "done": 137,
- "updated": "2026-10-17T12:33:26Z",
+ "total": 145,
+ "done": 145,
+ "updated": "2026-10-17T13:40:21Z",
  "items": [
+  {
+   "id": "HYB_CRYSTAL_CUT_02",
+   "title": "Crystal / Cut · second pass · the cyan gem split by yellow light · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T13:40:21Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_CRYSTAL_CUT_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_CRYSTAL_CUT_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Crystal / Cut: from the poster's giant faceted cyan gem outlined in acid-yellow light with a violet star inside: a colossal cut cyan crystal stands in a flooded black quarry, its facets traced by razor yellow light lines, a violet nebula glowing in its heart, a haloed miner small at its base",
+   "batch": "batch_20261017_1333",
+   "file": "img/HYB_CRYSTAL_CUT_02.b64"
+  },
+  {
+   "id": "HYB_ELEVATION_02",
+   "title": "Elevation · second pass · the shaft of amber light from above · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T13:40:21Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_ELEVATION_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_ELEVATION_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Elevation: from the poster's single soft amber light shaft falling into black: a column of warm amber light pours down into a dark flooded concrete hall, a floating stair of concrete slabs rising up into it, a haloed figure climbing toward the light",
+   "batch": "batch_20261017_1333",
+   "file": "img/HYB_ELEVATION_02.b64"
+  },
+  {
+   "id": "HYB_ZELDA_CRYSTAL_02",
+   "title": "Zelda / Crystal · second pass · the blade sealed in the ice crystal · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T13:40:21Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_ZELDA_CRYSTAL_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_ZELDA_CRYSTAL_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Zelda / Crystal: from the poster's tall clear crystal cluster with a gold-hilted sword sealed inside: a colossal clear quartz cluster rises from a flooded concrete shrine with an ancient gold-hilted sword frozen in its core, a haloed wanderer kneeling before it",
+   "batch": "batch_20261017_1333",
+   "file": "img/HYB_ZELDA_CRYSTAL_02.b64"
+  },
+  {
+   "id": "HYB_SKY_SHIP_02",
+   "title": "Sky / Ship · second pass · the dragonfly glider and the cloud castle · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T13:40:21Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_SKY_SHIP_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SKY_SHIP_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Sky / Ship: from the poster's brass dragonfly-winged airship flying past a castle on golden clouds: a small brass glider with four dragonfly wings drifts past a floating neo-brutal concrete citadel on a bank of golden clouds, a haloed pilot at its helm",
+   "batch": "batch_20261017_1333",
+   "file": "img/HYB_SKY_SHIP_02.b64"
+  },
+  {
+   "id": "HYB_DENVER_HIFI_02",
+   "title": "Color Map / Commix · second pass · the liquid-marble wave · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T13:40:21Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_DENVER_HIFI_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DENVER_HIFI_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Color Map / Commix: from the poster's swirling magenta, violet and blue fluid-paint marble: a colossal frozen wave of liquid marbled paint curls over a flooded concrete plaza, a haloed dancer below its crest",
+   "batch": "batch_20261017_1333",
+   "file": "img/HYB_DENVER_HIFI_02.b64"
+  },
+  {
+   "id": "HYB_DISCO_ROLLER_02",
+   "title": "Disco / Roller · second pass · the chrome wordmark over the wet rink · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T13:40:21Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_DISCO_ROLLER_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DISCO_ROLLER_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Disco / Roller: from the poster's huge chrome letters above a wet arena rink under stadium lights: towering polished chrome letters spelling HALO stand over a mirror-wet roller rink, stadium lights flaring, a haloed skater gliding through the reflections",
+   "batch": "batch_20261017_1333",
+   "file": "img/HYB_DISCO_ROLLER_02.b64"
+  },
+  {
+   "id": "HYB_HIGHER_EYES_02",
+   "title": "Higher / Eyes · second pass · the chrome eye in the pink nebula · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T13:40:21Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_HIGHER_EYES_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_HIGHER_EYES_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Higher / Eyes: from the poster's giant chrome-lidded eye with a molten orange iris in a pink cosmic cloud: a colossal chrome eye opens in a pink nebula sky over a flooded concrete terrace, its iris a molten sunburst, a haloed seer looking up",
+   "batch": "batch_20261017_1333",
+   "file": "img/HYB_HIGHER_EYES_02.b64"
+  },
+  {
+   "id": "HYB_SINNER_SKA_02",
+   "title": "Sinner × Ska · second pass · the bronze bell bursting into cyan brass · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T13:40:21Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_SINNER_SKA_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SINNER_SKA_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Sinner × Ska: from the poster's bronze bell exploding downward into glowing cyan trumpet bells: a colossal bronze bell hangs in a black concrete belfry and erupts into a fan of glowing cyan horn bells and sparks, a haloed horn player on the flooded floor below",
+   "batch": "batch_20261017_1333",
+   "file": "img/HYB_SINNER_SKA_02.b64"
+  },
   {
    "id": "HYB_BATTLE_HYMN_02",
    "title": "Battle / Hymn · second pass · the crystal sword of light over the ghost choir · hybrid",
@@ -27076,6 +27324,23 @@
    ],
    "voted_to_archive": 0,
    "note": "No new votes since #118 and no Build Ons pending. New: second passes on yay'd first takes, each led by its poster's one iconic object and palette: Battle/Hymn (crystal sword over the ghost choir), Pigs/Fly (voxel pig liftoff), Nina/Break (chrome mic in the cyan splash), Praise/Hour (gold hand burst), Heavy/Birth (cracking obsidian egg, no headphones this time), Monolith/Moon (yellow-edged slab, pod far behind), Afro/Strings (giant kora grotto), Dark Side/Bukem (dripping liquid-neon pyramid). No floating headphones."
+  },
+  {
+   "at": "2026-10-17T13:40:21Z",
+   "build": "20261017u",
+   "batch": "batch_20261017_1333",
+   "added": [
+    "HYB_CRYSTAL_CUT_02",
+    "HYB_ELEVATION_02",
+    "HYB_ZELDA_CRYSTAL_02",
+    "HYB_SKY_SHIP_02",
+    "HYB_DENVER_HIFI_02",
+    "HYB_DISCO_ROLLER_02",
+    "HYB_HIGHER_EYES_02",
+    "HYB_SINNER_SKA_02"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new votes since #118 and no Build Ons pending. New: second passes on yay'd first takes, each led by its poster's one iconic object and palette: Crystal/Cut (yellow-traced cyan gem in a flooded quarry), Elevation (floating stair into the amber light shaft), Zelda/Crystal (gold-hilted blade sealed in a quartz cluster), Sky/Ship (dragonfly glider past the golden cloud citadel), Color Map/Commix (frozen liquid-marble wave), Disco/Roller (chrome HALO letters over the mirror rink), Higher/Eyes (rose-chrome eye in the pink nebula), Sinner/Ska (bronze bell bursting into cyan horns). No floating headphones."
   }
  ]
 }
