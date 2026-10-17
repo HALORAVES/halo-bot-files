@@ -1,8 +1,256 @@
 {
- "total": 161,
- "done": 161,
- "updated": "2026-10-17T15:33:31Z",
+ "total": 169,
+ "done": 169,
+ "updated": "2026-10-17T16:39:52Z",
  "items": [
+  {
+   "id": "HYB_ALMOST_HOME_02",
+   "title": "Almost / Home · second pass · the last ember line on the dark ridge · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T16:39:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_ALMOST_HOME_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_ALMOST_HOME_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Almost / Home: from the poster's thin burning ember horizon under a heavy dusk sky: a dark flooded concrete ridge road runs toward one lit doorway on the horizon, a single glowing ember-red seam of last light across the sky, a haloed walker almost home",
+   "batch": "batch_20261017_1633",
+   "file": "img/HYB_ALMOST_HOME_02.b64"
+  },
+  {
+   "id": "HYB_BEAM_LAWN_02",
+   "title": "Beam / Lawn · second pass · the brass reactor and its lime beam · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T16:39:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_BEAM_LAWN_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_BEAM_LAWN_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Beam / Lawn: from the poster's ornate brass-and-glass reactor firing a lime beam: a colossal antique brass reactor tower with a glowing lime-green core stands on a flooded concrete lawn cathedral, firing one lime beam into the night, a haloed engineer below",
+   "batch": "batch_20261017_1633",
+   "file": "img/HYB_BEAM_LAWN_02.b64"
+  },
+  {
+   "id": "HYB_TIME_SKA_02",
+   "title": "Time × Ska · second pass · the gold clock melting into checkerboard · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T16:39:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_TIME_SKA_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_TIME_SKA_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Time × Ska: from the poster's antique gold clock whose right half breaks into black-and-white checker tiles: a colossal gold clock face hangs over a flooded concrete plaza, its right side shattering into floating black and white checker tiles, a haloed dancer skanking below",
+   "batch": "batch_20261017_1633",
+   "file": "img/HYB_TIME_SKA_02.b64"
+  },
+  {
+   "id": "HYB_MOZART_DISCOVERY_02",
+   "title": "Discovery / Chamber · second pass · the marble bust opening into a galaxy · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T16:39:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_MOZART_DISCOVERY_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_MOZART_DISCOVERY_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Discovery / Chamber: from the poster's classical marble bust whose far half dissolves into a glittering nebula inside a honeycomb ring: a colossal marble bust in profile stands in a flooded concrete chamber, the back half of the head opening into a galaxy of iridescent crystal, a haloed listener below. No headphones (fixes headphone audit #22)",
+   "batch": "batch_20261017_1633",
+   "file": "img/HYB_MOZART_DISCOVERY_02.b64"
+  },
+  {
+   "id": "HYB_SHOUT_SUNSET_02",
+   "title": "Shout × Sunset · second pass · the gold lightning pillar in the violet storm · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T16:39:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_SHOUT_SUNSET_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SHOUT_SUNSET_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Shout × Sunset: from the poster's pillar of gold light striking down through violet storm clouds: one colossal pillar of molten gold light crashes down through violet thunderclouds onto a flooded concrete plaza, a haloed singer shouting into it",
+   "batch": "batch_20261017_1633",
+   "file": "img/HYB_SHOUT_SUNSET_02.b64"
+  },
+  {
+   "id": "HYB_STREETS_SUN_02",
+   "title": "Streets / Sun · second pass · the arched sun gate on the black horizon · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T16:39:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_STREETS_SUN_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_STREETS_SUN_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Streets / Sun: from the poster's blazing sun flaring through a dark arch on a black horizon: a colossal faceted concrete arch stands on a flooded black street at the horizon, the sun blazing gold-white through it, a haloed figure walking toward it",
+   "batch": "batch_20261017_1633",
+   "file": "img/HYB_STREETS_SUN_02.b64"
+  },
+  {
+   "id": "HYB_CREEK_CHECKER_02",
+   "title": "Creek / Checker · second pass · the giant chrome letters rising from rippled ink · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T16:39:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_CREEK_CHECKER_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_CREEK_CHECKER_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Creek / Checker: from the poster's tall thin serif letters ghosted in silver over rippling black water: colossal chrome serif letters spelling HALO rise from a rippling black creek in a dark concrete canyon, a haloed figure on a stepping stone",
+   "batch": "batch_20261017_1633",
+   "file": "img/HYB_CREEK_CHECKER_02.b64"
+  },
+  {
+   "id": "HYB_BLONDE_NIGHT_02",
+   "title": "Blonde / Night · second pass · the sea of golden hair waves · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T16:39:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_BLONDE_NIGHT_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_BLONDE_NIGHT_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Blonde / Night: from the poster's full-frame macro of flowing honey-blonde hair: a vast landscape of flowing honey-blonde hair waves fills a dark concrete loft like a golden sea, a haloed figure lying in it under a soft warm lamp",
+   "batch": "batch_20261017_1633",
+   "file": "img/HYB_BLONDE_NIGHT_02.b64"
+  },
   {
    "id": "HYB_ERAS_BRACELETS_02",
    "title": "Taylor / Eras · second pass · the river of bead bracelets down the stairs · hybrid",
@@ -27871,6 +28119,23 @@
    ],
    "voted_to_archive": 0,
    "note": "No new votes since #118 and no Build Ons pending. New: second passes on yay'd first takes, each led by its poster's one iconic object and palette: Taylor/Eras (bead bracelet river down the stairs), Family/Halo (steaming clay cups under one gold halo), Unfinished/Third (two monoliths and lime energy wraith), Full/Table (bronze table with floating candle ring), Between (gold shaft between two years), Sympathy/Nails (colossal chain from the storm), Jungle/80s (chrome synth in gold-dripping monstera), Unfinished (luminous smoke ribbon over flooded city). No floating headphones."
+  },
+  {
+   "at": "2026-10-17T16:39:52Z",
+   "build": "20261017x",
+   "batch": "batch_20261017_1633",
+   "added": [
+    "HYB_ALMOST_HOME_02",
+    "HYB_BEAM_LAWN_02",
+    "HYB_TIME_SKA_02",
+    "HYB_MOZART_DISCOVERY_02",
+    "HYB_SHOUT_SUNSET_02",
+    "HYB_STREETS_SUN_02",
+    "HYB_CREEK_CHECKER_02",
+    "HYB_BLONDE_NIGHT_02"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new votes since #118 and no Build Ons pending. New: second passes on yay'd first takes, each led by its poster's one iconic object and palette: Almost/Home (ember horizon and one lit door at the end of a flooded causeway), Beam/Lawn (brass reactor firing a lime beam), Time/Ska (gold clock shattering into checker tiles), Mozart/Discovery (marble bust opening into a crystal galaxy; replaces the headphone-audit #22 subject), Shout/Sunset (gold light pillar in a violet storm), Streets/Sun (sun blazing through a faceted arch), Creek/Checker (chrome HALO letters rising from rippled ink), Blonde/Night (sea of golden hair waves). No headphones."
   }
  ]
 }
