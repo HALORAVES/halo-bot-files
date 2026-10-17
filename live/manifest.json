@@ -1,8 +1,256 @@
 {
- "total": 145,
- "done": 145,
- "updated": "2026-10-17T13:40:21Z",
+ "total": 153,
+ "done": 153,
+ "updated": "2026-10-17T14:38:49Z",
  "items": [
+  {
+   "id": "HYB_AFTER_NOON_02",
+   "title": "After / Noon · second pass · the lemon sun on its pole · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T14:38:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_AFTER_NOON_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_AFTER_NOON_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on After / Noon: from the poster's flat lemon sun on a tall yellow pole over black: a giant glowing lemon-yellow sun disc stands on a tall thin pole in a flooded black concrete plaza at high noon, a haloed figure resting in its pool of light",
+   "batch": "batch_20261017_1432",
+   "file": "img/HYB_AFTER_NOON_02.b64"
+  },
+  {
+   "id": "HYB_AFTER_MIDNIGHT_02",
+   "title": "After / Midnight · second pass · the yellow ring and the cyan slash · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T14:38:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_AFTER_MIDNIGHT_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_AFTER_MIDNIGHT_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on After / Midnight: from the poster's thin yellow ring crossed by a cyan light slash: a colossal ring of acid-yellow neon hangs over a black rain city, a razor cyan beam slicing diagonally through it, a haloed walker on the wet street below",
+   "batch": "batch_20261017_1432",
+   "file": "img/HYB_AFTER_MIDNIGHT_02.b64"
+  },
+  {
+   "id": "HYB_REPUTATION_02",
+   "title": "Reputation · second pass · the lone mic in the falling white shards · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T14:38:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_REPUTATION_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_REPUTATION_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Reputation: from the poster's single white spotlight over a lone microphone with shards of white paper falling: one hard white spotlight falls on a single vintage microphone on a black mirror stage, white shards hanging in the air, a haloed singer stepping into the light",
+   "batch": "batch_20261017_1432",
+   "file": "img/HYB_REPUTATION_02.b64"
+  },
+  {
+   "id": "HYB_MOON_METER_02",
+   "title": "Moon / Meter · second pass · the glass wire moon over the keys · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T14:38:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_MOON_METER_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_MOON_METER_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Moon / Meter: from the poster's clear wireframe crystal sphere marked 0/4 over a strip of piano keys and yellow paint: a colossal clear glass wireframe moon hangs over a flooded concrete hall whose floor is a giant row of piano keys, acid-yellow paint splashing up, a haloed pianist below",
+   "batch": "batch_20261017_1432",
+   "file": "img/HYB_MOON_METER_02.b64"
+  },
+  {
+   "id": "HYB_AIR_JUNGLE_02",
+   "title": "Air / Jungle · second pass · the brass clock bursting into teal light · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T14:38:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_AIR_JUNGLE_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_AIR_JUNGLE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Air / Jungle: from the poster's old brass clock face exploding into teal and copper spark threads: a colossal antique brass clock face floats over a flooded concrete garden, a burst of teal light threads and copper sparks blowing out of it, a haloed dancer below",
+   "batch": "batch_20261017_1432",
+   "file": "img/HYB_AIR_JUNGLE_02.b64"
+  },
+  {
+   "id": "HYB_SEPARATE_WAYS_02",
+   "title": "Separate / Ways · second pass · the red lightning splitting the night · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T14:38:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_SEPARATE_WAYS_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SEPARATE_WAYS_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Separate / Ways: from the poster's violent red lightning tearing across black: colossal frozen forks of crimson lightning split the sky over a flooded concrete crossroads, the road below splitting two ways, a haloed traveler at the fork",
+   "batch": "batch_20261017_1432",
+   "file": "img/HYB_SEPARATE_WAYS_02.b64"
+  },
+  {
+   "id": "HYB_HAZE_RIFF_02",
+   "title": "Haze / Riff / Future · second pass · the violet smoke and the crescent arc · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T14:38:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_HAZE_RIFF_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_HAZE_RIFF_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Haze / Riff / Future: from the poster's swirling violet smoke cut by a thin bright crescent arc: a colossal river of violet smoke curls through a flooded concrete hall under a giant glowing white-violet crescent arc, a haloed guitarist silhouette below",
+   "batch": "batch_20261017_1432",
+   "file": "img/HYB_HAZE_RIFF_02.b64"
+  },
+  {
+   "id": "HYB_LOVE_RUDY_02",
+   "title": "Love × Rudy · second pass · the gold neon heart and the trumpet · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T14:38:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_LOVE_RUDY_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_LOVE_RUDY_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Love × Rudy: from the poster's glowing gold neon heart beside a brass trumpet in black: a colossal gold neon heart outline glows over a flooded brass-and-concrete lounge, a giant brass trumpet floating beside it, a haloed trumpeter below",
+   "batch": "batch_20261017_1432",
+   "file": "img/HYB_LOVE_RUDY_02.b64"
+  },
   {
    "id": "HYB_CRYSTAL_CUT_02",
    "title": "Crystal / Cut · second pass · the cyan gem split by yellow light · hybrid",
@@ -27341,6 +27589,23 @@
    ],
    "voted_to_archive": 0,
    "note": "No new votes since #118 and no Build Ons pending. New: second passes on yay'd first takes, each led by its poster's one iconic object and palette: Crystal/Cut (yellow-traced cyan gem in a flooded quarry), Elevation (floating stair into the amber light shaft), Zelda/Crystal (gold-hilted blade sealed in a quartz cluster), Sky/Ship (dragonfly glider past the golden cloud citadel), Color Map/Commix (frozen liquid-marble wave), Disco/Roller (chrome HALO letters over the mirror rink), Higher/Eyes (rose-chrome eye in the pink nebula), Sinner/Ska (bronze bell bursting into cyan horns). No floating headphones."
+  },
+  {
+   "at": "2026-10-17T14:38:49Z",
+   "build": "20261017v",
+   "batch": "batch_20261017_1432",
+   "added": [
+    "HYB_AFTER_NOON_02",
+    "HYB_AFTER_MIDNIGHT_02",
+    "HYB_REPUTATION_02",
+    "HYB_MOON_METER_02",
+    "HYB_AIR_JUNGLE_02",
+    "HYB_SEPARATE_WAYS_02",
+    "HYB_HAZE_RIFF_02",
+    "HYB_LOVE_RUDY_02"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new votes since #118 and no Build Ons pending. New: second passes on yay'd first takes, each led by its poster's one iconic object and palette: After/Noon (lemon sun disc on its pole over a flooded plaza), After/Midnight (yellow neon ring split by a cyan slash), Reputation (lone mic in a white spotlight with hanging shards), Moon/Meter (glass wireframe moon 0/4 over half-sunk piano keys), Air/Jungle (cracked brass clock bursting into teal light threads), Separate/Ways (crimson lightning over a forked causeway), Haze/Riff/Future (violet smoke under a white-violet crescent), Love x Rudy (gold neon heart and floating trumpet). No floating headphones."
   }
  ]
 }
