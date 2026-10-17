@@ -1,8 +1,257 @@
 {
- "total": 129,
- "done": 129,
- "updated": "2026-10-17T03:34:12Z",
+ "total": 137,
+ "done": 137,
+ "updated": "2026-10-17T12:33:26Z",
  "items": [
+  {
+   "id": "HYB_BATTLE_HYMN_02",
+   "title": "Battle / Hymn · second pass · the crystal sword of light over the ghost choir · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T12:33:26Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_BATTLE_HYMN_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_BATTLE_HYMN_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Battle / Hymn: from the poster's blazing crystal blade and ghostly choir: a colossal crystal sword planted point-down in a flooded concrete nave erupts with white-gold light, a choir of luminous robed silhouettes rising in its glow, a haloed singer small at the water's edge",
+   "batch": "batch_20261017_1226",
+   "file": "img/HYB_BATTLE_HYMN_02.b64"
+  },
+  {
+   "id": "HYB_PIGS_FLY_02",
+   "title": "Pigs / Fly · second pass · the voxel pig takes off from the yellow skyline · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T12:33:26Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_PIGS_FLY_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_PIGS_FLY_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Pigs / Fly: from the poster's acid-yellow voxel pig with crystal wings: a giant pig built of glowing yellow voxels lifts off a flooded rooftop on huge faceted crystal wings above a skyline of yellow equalizer towers, a haloed raver cheering below",
+   "batch": "batch_20261017_1226",
+   "file": "img/HYB_PIGS_FLY_02.b64"
+  },
+  {
+   "id": "HYB_NINA_BREAK_02",
+   "title": "Nina × Break · second pass · the chrome mic in the cyan splash · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T12:33:26Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_NINA_BREAK_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_NINA_BREAK_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Nina × Break: from the poster's vintage chrome microphone bursting out of a cyan liquid splash: a colossal chrome studio mic rises from a black lake inside a frozen crown of cyan water, a haloed vocalist singing up to it from a concrete pier",
+   "batch": "batch_20261017_1226",
+   "file": "img/HYB_NINA_BREAK_02.b64"
+  },
+  {
+   "id": "HYB_PRAISE_HOUR_02",
+   "title": "Praise / Hour · second pass · the gold hand bursting through the dark · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T12:33:26Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_PRAISE_HOUR_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_PRAISE_HOUR_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Praise / Hour: from the poster's open golden hand exploding into gold dust: a colossal open hand of faceted gold rises palm-up out of a flooded concrete atrium, bursting into a storm of gold glitter and light, a haloed figure kneeling on the steps below",
+   "batch": "batch_20261017_1226",
+   "file": "img/HYB_PRAISE_HOUR_02.b64"
+  },
+  {
+   "id": "HYB_HEAVY_BIRTH_02",
+   "title": "Heavy × Birth · second pass · the black egg cracking open with gold light · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T12:33:26Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_HEAVY_BIRTH_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_HEAVY_BIRTH_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Heavy × Birth (no headphones this time): from the poster's dark orb splitting with gold lightning: a colossal black obsidian egg on a flooded concrete plinth cracks open with branching molten-gold light, shards floating outward, a haloed watcher small before it",
+   "batch": "batch_20261017_1226",
+   "file": "img/HYB_HEAVY_BIRTH_02.b64"
+  },
+  {
+   "id": "HYB_MONOLITH_MOON_02",
+   "title": "Monolith / Moon · second pass · the yellow-edged slab and the pod at moonrise · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T12:33:26Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_MONOLITH_MOON_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_MONOLITH_MOON_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Monolith / Moon: from the poster's black slab with an acid-yellow edge and a small white moon: a colossal black monolith with a glowing yellow edge stands in a flooded lunar plain as a tiny white moon rises over its corner, the HALO pod hovering far behind",
+   "batch": "batch_20261017_1226",
+   "file": "img/HYB_MONOLITH_MOON_02.b64"
+  },
+  {
+   "id": "HYB_AFRO_STRINGS_02",
+   "title": "Afro / Strings · second pass · the giant kora in the emerald grotto · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T12:33:26Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_AFRO_STRINGS_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_AFRO_STRINGS_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Afro / Strings: from the poster's carved West African harp-lute in deep green shadow: a colossal carved wood-and-gold kora stands in a flooded emerald concrete grotto, light running up its strings like plucked notes, a haloed player seated on a stone ledge",
+   "batch": "batch_20261017_1226",
+   "file": "img/HYB_AFRO_STRINGS_02.b64"
+  },
+  {
+   "id": "HYB_DARKSIDE_BUKEM_02",
+   "title": "Dark Side / Bukem · second pass · the crystal pyramid dripping liquid neon · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T12:33:26Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_DARKSIDE_BUKEM_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DARKSIDE_BUKEM_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Dark Side / Bukem: from the poster's glass pyramid full of swirling magenta and cyan liquid that drips below: a colossal clear crystal pyramid filled with swirling liquid neon stands over a black lake, its colors dripping down into the water, a haloed traveler on a concrete jetty",
+   "batch": "batch_20261017_1226",
+   "file": "img/HYB_DARKSIDE_BUKEM_02.b64"
+  },
   {
    "id": "HYB_BOLERO_SNARE_02",
    "title": "Boléro / Snare · second pass · the snare that erupts into yellow voxels · hybrid",
@@ -26810,6 +27059,23 @@
    ],
    "voted_to_archive": 0,
    "note": "No new votes since #118 and no Build Ons pending. New: second passes on the next event nights whose first hybrid takes were yay'd or still in review (Boléro/Snare, Orchestra/Peak, Castle/Organ, Game/Piano/Sands, Gold/Rings, Kiss/Madness, Swan/Wake, Watts/Void), each led by its poster's one iconic object and palette, varied compositions, the pod in just one piece (Gold/Rings), no floating headphones."
+  },
+  {
+   "at": "2026-10-17T12:33:26Z",
+   "build": "20261017t",
+   "batch": "batch_20261017_1226",
+   "added": [
+    "HYB_BATTLE_HYMN_02",
+    "HYB_PIGS_FLY_02",
+    "HYB_NINA_BREAK_02",
+    "HYB_PRAISE_HOUR_02",
+    "HYB_HEAVY_BIRTH_02",
+    "HYB_MONOLITH_MOON_02",
+    "HYB_AFRO_STRINGS_02",
+    "HYB_DARKSIDE_BUKEM_02"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new votes since #118 and no Build Ons pending. New: second passes on yay'd first takes, each led by its poster's one iconic object and palette: Battle/Hymn (crystal sword over the ghost choir), Pigs/Fly (voxel pig liftoff), Nina/Break (chrome mic in the cyan splash), Praise/Hour (gold hand burst), Heavy/Birth (cracking obsidian egg, no headphones this time), Monolith/Moon (yellow-edged slab, pod far behind), Afro/Strings (giant kora grotto), Dark Side/Bukem (dripping liquid-neon pyramid). No floating headphones."
   }
  ]
 }
