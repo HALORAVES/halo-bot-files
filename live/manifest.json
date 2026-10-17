@@ -1,8 +1,257 @@
 {
- "total": 113,
- "done": 113,
- "updated": "2026-10-17T01:34:04Z",
+ "total": 121,
+ "done": 121,
+ "updated": "2026-10-17T02:40:49Z",
  "items": [
+  {
+   "id": "HYB_NIGHTMARE_02",
+   "title": "Nightmare / Calibre · second pass · the split mask rising from the black lake · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T02:40:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_NIGHTMARE_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_NIGHTMARE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Nightmare / Calibre (Oct 31): straight from the poster: a colossal split mask rises from a black lake, one half smooth white porcelain, the other dark faceted chrome, acid-green glowing vines pouring down the seam, a gold halo above",
+   "batch": "batch_20261017_0225",
+   "file": "img/HYB_NIGHTMARE_02.b64"
+  },
+  {
+   "id": "HYB_SLEEPY_TEA_02",
+   "title": "Sleepy Tea · second pass · the teacup pool under the honey moon · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T02:40:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_SLEEPY_TEA_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SLEEPY_TEA_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Sleepy Tea (Nov 20): the poster's warm honey-tan glow on black became a giant steaming teacup pool in a quiet concrete courtyard, a haloed sleeper drifting on the tea under a honey-gold moon",
+   "batch": "batch_20261017_0225",
+   "file": "img/HYB_SLEEPY_TEA_02.b64"
+  },
+  {
+   "id": "HYB_THRILLER_LOFI_02",
+   "title": "Thriller / Downtempo / Lofi · second pass · walking the grooves of the crimson record · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T02:40:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_THRILLER_LOFI_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_THRILLER_LOFI_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Thriller / Downtempo / Lofi (Dec 12): the poster's dripping red-and-gold record is now a landscape: a tiny haloed walker crossing the grooves of a colossal crimson vinyl laid flat, its edge pouring liquid gold into a black sea",
+   "batch": "batch_20261017_0225",
+   "file": "img/HYB_THRILLER_LOFI_02.b64"
+  },
+  {
+   "id": "HYB_SPORE_AMEN_02",
+   "title": "Spore / Amen · second pass · the fruit jar in the flooded honeycomb hall · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T02:40:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_SPORE_AMEN_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SPORE_AMEN_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Spore / Amen (Dec 18): from the poster's FRUIT jar: a colossal glass jar stands in a flooded honeycomb-hex concrete hall, inside it a giant half-lemon fused to a glowing violet mushroom-brain, gold spores drifting out the lid",
+   "batch": "batch_20261017_0225",
+   "file": "img/HYB_SPORE_AMEN_02.b64"
+  },
+  {
+   "id": "HYB_EVE_HOUR_02",
+   "title": "Eve Hour · second pass · one candle on the stair of a dark flooded hall · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T02:40:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_EVE_HOUR_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_EVE_HOUR_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Eve Hour (Dec 24): the poster's single candle on black, taken further: one small candle on a concrete stair in a vast dark flooded hall, snow falling through a single roof slit, a haloed figure seated quietly beside it",
+   "batch": "batch_20261017_0225",
+   "file": "img/HYB_EVE_HOUR_02.b64"
+  },
+  {
+   "id": "HYB_AFTER_WRAP_02",
+   "title": "After / Wrap · second pass · the gold foil ribbon spilling down the black stair · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T02:40:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_AFTER_WRAP_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_AFTER_WRAP_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on After / Wrap (Jan 2): the poster's crumpled gold foil became one endless ribbon of crinkled gold foil unspooling from the night sky down a stark black stair cascade into water, a haloed raver resting on a step",
+   "batch": "batch_20261017_0225",
+   "file": "img/HYB_AFTER_WRAP_02.b64"
+  },
+  {
+   "id": "HYB_TIME_BLADE_02",
+   "title": "Time / Blade · second pass · the gold clock sliced by a blade of light · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T02:40:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_TIME_BLADE_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_TIME_BLADE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Time / Blade (Jan 15): from the poster's gold clockwork and white slash: a colossal gold clockwork disc stands on edge in a mirror-flooded hall, cut cleanly in half by a razor-thin blade of white light, gears frozen mid-fall",
+   "batch": "batch_20261017_0225",
+   "file": "img/HYB_TIME_BLADE_02.b64"
+  },
+  {
+   "id": "HYB_NINETIES_JUNGLE_02",
+   "title": "Nineties / Jungle · second pass · the pod over the pixel-bloom canopy · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T02:40:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_NINETIES_JUNGLE_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_NINETIES_JUNGLE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Nineties / Jungle (Jan 16): the poster's magenta-and-blue pixel bloom became a rain-soaked jungle canopy whose flowers burst open as glowing pixel blooms, the pod hovering low with its beam on a flooded concrete clearing",
+   "batch": "batch_20261017_0225",
+   "file": "img/HYB_NINETIES_JUNGLE_02.b64"
+  },
   {
    "id": "HYB_DEAD_PUNCH_02",
    "title": "Dead / Punch · second pass · the DEAD crystal in the flooded ring · hybrid",
@@ -26278,6 +26527,23 @@
    ],
    "voted_to_archive": 8,
    "note": "Vote #118 applied (8 votes, all nay, no reasons picked): batch 22's Build On pushes, the third Sledge/3AM take, the Three170 retake and the four pastel Pod Night Flyover retakes all archived and those concepts retired instead of retaken again. New: a second pass on the nearest event nights (Dead/Punch, Cold/Open, Home/Table, The Feast, Leftovers, Choir/Liquid/DNB, The Turn, Office/Out), each built from its own poster's one iconic idea and palette rather than a shared lilac sky, the pod in just one piece, no floating headphones."
+  },
+  {
+   "at": "2026-10-17T02:40:49Z",
+   "build": "20261017r",
+   "batch": "batch_20261017_0225",
+   "added": [
+    "HYB_NIGHTMARE_02",
+    "HYB_SLEEPY_TEA_02",
+    "HYB_THRILLER_LOFI_02",
+    "HYB_SPORE_AMEN_02",
+    "HYB_EVE_HOUR_02",
+    "HYB_AFTER_WRAP_02",
+    "HYB_TIME_BLADE_02",
+    "HYB_NINETIES_JUNGLE_02"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new votes since #118 and no Build Ons pending. New: second passes on the next event nights whose first hybrid takes were yay'd or still in review (Nightmare/Calibre, Sleepy Tea, Thriller/Lofi, Spore/Amen, Eve Hour, After/Wrap, Time/Blade, Nineties/Jungle), each led by its poster's one iconic object and palette, varied compositions, the pod in just one piece (Nineties/Jungle), no floating headphones."
   }
  ]
 }
