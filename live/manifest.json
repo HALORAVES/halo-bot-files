@@ -1,274 +1,256 @@
 {
  "total": 113,
  "done": 113,
- "updated": "2026-10-17T00:37:53Z",
+ "updated": "2026-10-17T01:34:04Z",
  "items": [
   {
-   "id": "HYB_GOJIRA_GARAGE_01_B3",
-   "title": "Gojira / Garage · build on · eye to eye with the leviathan · hybrid",
-   "theme": "Build On",
-   "section": "Build On · Hybrid · Oct 17",
-   "status": "review",
-   "rooms": [
-    "Build On · Hybrid · Oct 17"
-   ],
-   "updated": "2026-10-17T00:37:53Z",
-   "kind": "build_on",
-   "kindLabel": "BUILD ON · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "Built on HYB_GOJIRA_GARAGE_01_B2",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_GOJIRA_GARAGE_01_B2.b64"
-    },
-    {
-     "label": "Spirit vote/note #117",
-     "url": "https://github.com/HALORAVES/halo-bot-files/issues/117"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "build-on"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Build On HYB_GOJIRA_GARAGE_01_B2 (#117): pushed in close for the money shot: the breaching crystal-spined leviathan's huge gold eye meets the hovering pod at eye level, the pod's gold halo ring reflected in the wet stone, storm water cascading in slow motion",
-   "batch": "batch_20261017_0030",
-   "file": "img/HYB_GOJIRA_GARAGE_01_B3.b64",
-   "of": "HYB_GOJIRA_GARAGE_01_B2",
-   "builds_on": "HYB_GOJIRA_GARAGE_01_B2"
-  },
-  {
-   "id": "HYB_MEGA_LIQUID_02_B2",
-   "title": "Mega / Liquid · build on · the cobalt robot drops the bass · hybrid",
-   "theme": "Build On",
-   "section": "Build On · Hybrid · Oct 17",
-   "status": "review",
-   "rooms": [
-    "Build On · Hybrid · Oct 17"
-   ],
-   "updated": "2026-10-17T00:37:53Z",
-   "kind": "build_on",
-   "kindLabel": "BUILD ON · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "Built on HYB_MEGA_LIQUID_02_B1",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_MEGA_LIQUID_02_B1.b64"
-    },
-    {
-     "label": "Spirit vote/note #117",
-     "url": "https://github.com/HALORAVES/halo-bot-files/issues/117"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "build-on"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Build On HYB_MEGA_LIQUID_02_B1 (#117): the same original cobalt-and-chrome robot, now mid-stomp on the drop, a full crown of liquid blue light erupting around it and rippling rings racing out across the black mirror pool, headphones on and gold halo above",
-   "batch": "batch_20261017_0030",
-   "file": "img/HYB_MEGA_LIQUID_02_B2.b64",
-   "of": "HYB_MEGA_LIQUID_02_B1",
-   "builds_on": "HYB_MEGA_LIQUID_02_B1"
-  },
-  {
-   "id": "HYB_SLEDGE_3AM_03",
-   "title": "Sledge × 3AM · third take · the shattered sky over the 3AM pool · hybrid",
+   "id": "HYB_DEAD_PUNCH_02",
+   "title": "Dead / Punch · second pass · the DEAD crystal in the flooded ring · hybrid",
    "theme": "Event Nights",
-   "section": "Event Nights · Second Take · Oct 17",
+   "section": "Event Nights · Second Pass · Oct 17",
    "status": "review",
    "rooms": [
-    "Event Nights · Second Take · Oct 17"
+    "Event Nights · Second Pass · Oct 17"
    ],
-   "updated": "2026-10-17T00:37:53Z",
-   "kind": "second_take",
-   "kindLabel": "SECOND TAKE · HYBRID",
+   "updated": "2026-10-17T01:34:04Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
    "source_pins": [],
    "refs": [
     {
-     "label": "Earlier take HYB_SLEDGE_3AM_02 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SLEDGE_3AM_02.b64"
+     "label": "Earlier take HYB_DEAD_PUNCH_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DEAD_PUNCH_01.b64"
     }
    ],
    "tags": [
     "hybrid",
     "v2",
-    "oct16-batch",
+    "oct17-batch",
     "event",
-    "second-take"
+    "second-pass"
    ],
    "catalog": "catalog_v1",
-   "note": "Third take on Sledge × 3AM (two nays): moved out of the dark skyline into a pastel dreamcore liminal space: an empty violet-tiled pool at 3AM where a chrome sledgehammer has cracked the sky itself, faceted shards of sky floating down, the violet headphones hovering in the gap",
-   "batch": "batch_20261017_0030",
-   "file": "img/HYB_SLEDGE_3AM_03.b64"
+   "note": "Second pass on Dead / Punch (Oct 30): straight from the poster: the tall hexagonal DEAD crystal stands in a flooded concrete boxing ring, the grinning pixel-green zombie boxer sealed inside under a gold halo, a wall of glowing magenta pixel hearts behind",
+   "batch": "batch_20261017_0128",
+   "file": "img/HYB_DEAD_PUNCH_02.b64"
   },
   {
-   "id": "HYB_POD_THREE170_01_B3",
-   "title": "UFO Pod Worlds · Three170 · second take · the stone circle in the creek · hybrid",
+   "id": "HYB_COLD_OPEN_02",
+   "title": "Cold / Open · second pass · the seam of light in the frozen lake · hybrid",
    "theme": "Event Nights",
-   "section": "Event Nights · Second Take · Oct 17",
+   "section": "Event Nights · Second Pass · Oct 17",
    "status": "review",
    "rooms": [
-    "Event Nights · Second Take · Oct 17"
+    "Event Nights · Second Pass · Oct 17"
    ],
-   "updated": "2026-10-17T00:37:53Z",
-   "kind": "second_take",
-   "kindLabel": "SECOND TAKE · HYBRID",
+   "updated": "2026-10-17T01:34:04Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
    "source_pins": [],
    "refs": [
     {
-     "label": "Earlier take HYB_POD_THREE170_01_B2 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_THREE170_01_B2.b64"
+     "label": "Earlier take HYB_COLD_OPEN_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_COLD_OPEN_01.b64"
     }
    ],
    "tags": [
     "hybrid",
     "v2",
-    "oct16-batch",
+    "oct17-batch",
     "event",
-    "second-take",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Cold / Open (Nov 13): the poster's lone horizon glow became a long seam of warm gold light opening in a frozen black lake, one tiny haloed raver walking out toward it across the ice",
+   "batch": "batch_20261017_0128",
+   "file": "img/HYB_COLD_OPEN_02.b64"
+  },
+  {
+   "id": "HYB_HOME_TABLE_02",
+   "title": "Home / Table · second pass · the door ajar in the black sea · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T01:34:04Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_HOME_TABLE_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_HOME_TABLE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Home / Table (Nov 14): the poster's door left ajar now stands alone in a calm black sea, warm living-room light spilling out across the water and a glimpse of a set table with lamps inside",
+   "batch": "batch_20261017_0128",
+   "file": "img/HYB_HOME_TABLE_02.b64"
+  },
+  {
+   "id": "HYB_THE_FEAST_02",
+   "title": "The Feast · second pass · the endless candle table on the salt mirror · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T01:34:04Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_THE_FEAST_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_THE_FEAST_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on The Feast (Nov 21): the poster's row of candles became an endless banquet table running to the horizon across a salt-flat mirror, a gold halo rising at the vanishing point like the moon",
+   "batch": "batch_20261017_0128",
+   "file": "img/HYB_THE_FEAST_02.b64"
+  },
+  {
+   "id": "HYB_LEFTOVERS_02",
+   "title": "Leftovers · second pass · the cracked gold plate monument · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T01:34:04Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_LEFTOVERS_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_LEFTOVERS_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Leftovers (Nov 27): the poster's gold plate with its red lightning crack is now a colossal monument standing on edge in a rain-slick neo-brutal plaza, the crack glowing red-hot and spitting sparks",
+   "batch": "batch_20261017_0128",
+   "file": "img/HYB_LEFTOVERS_02.b64"
+  },
+  {
+   "id": "HYB_CHOIR_LIQUID_02",
+   "title": "Choir / Liquid / DNB · second pass · the black bell in the acid-yellow nave · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T01:34:04Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_CHOIR_LIQUID_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_CHOIR_LIQUID_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Choir / Liquid / DNB (Nov 28): taken straight from the poster's graphic: an acid-yellow brutalist nave cut by heavy black slabs, one small black bell ringing, and the floor rippling like liquid sound",
+   "batch": "batch_20261017_0128",
+   "file": "img/HYB_CHOIR_LIQUID_02.b64"
+  },
+  {
+   "id": "HYB_THE_TURN_02",
+   "title": "The Turn · second pass · twelve monoliths and the midnight pod · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T01:34:04Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_THE_TURN_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_THE_TURN_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
     "ufo-pod"
    ],
    "catalog": "catalog_v1",
-   "note": "Second take on the Three170 creek (B2 was a nay): back to the Build On'd B1 framing, nature surrealism kept on the ground: a ring of floating river stones circles the pod over a still pool of Clear Creek, giant teal headphones half-buried like an ancient boulder on the bank",
-   "batch": "batch_20261017_0030",
-   "file": "img/HYB_POD_THREE170_01_B3.b64"
+   "note": "Second pass on The Turn (NYE): the poster's thin gold ring laid flat on a black ice lake as a clock face, twelve faceted monoliths standing at the hours, and the pod hovering dead center at midnight with a beam straight down",
+   "batch": "batch_20261017_0128",
+   "file": "img/HYB_THE_TURN_02.b64"
   },
   {
-   "id": "HYB_POD_FLYOVER_AFTER_MIDNIGHT_02",
-   "title": "Pod Night Flyovers · After / Midnight · second take · the headphone monument in the yellow ring · hybrid",
-   "theme": "UFO Pod Worlds",
-   "section": "UFO Pod · Night Flyovers · Oct 17",
+   "id": "HYB_OFFICE_OUT_02",
+   "title": "Office / Out · second pass · the gold-spark pipeline through the empty tower · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
    "status": "review",
    "rooms": [
-    "UFO Pod · Night Flyovers · Oct 17"
+    "Event Nights · Second Pass · Oct 17"
    ],
-   "updated": "2026-10-17T00:37:53Z",
-   "kind": "pod_flyover",
-   "kindLabel": "POD FLYOVER · HYBRID",
+   "updated": "2026-10-17T01:34:04Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
    "source_pins": [],
    "refs": [
     {
-     "label": "Earlier take HYB_POD_FLYOVER_AFTER_MIDNIGHT_01 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_FLYOVER_AFTER_MIDNIGHT_01.b64"
+     "label": "Earlier take HYB_OFFICE_OUT_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_OFFICE_OUT_01.b64"
     }
    ],
    "tags": [
     "hybrid",
     "v2",
-    "oct16-batch",
-    "ufo-pod",
-    "pod-flyover",
-    "loop-ready",
-    "second-take"
+    "oct17-batch",
+    "event",
+    "second-pass"
    ],
    "catalog": "catalog_v1",
-   "note": "Second take on the After / Midnight flyover (first was a nay): out of the black void into a luminous lilac blue-hour lake, the poster's yellow headphones standing as a giant monument inside the neon-yellow halo ring, the pod gliding through",
-   "batch": "batch_20261017_0030",
-   "file": "img/HYB_POD_FLYOVER_AFTER_MIDNIGHT_02.b64"
-  },
-  {
-   "id": "HYB_POD_FLYOVER_LIGHTS_ON_02",
-   "title": "Pod Night Flyovers · Lights / On · second take · the festoon canopy village · hybrid",
-   "theme": "UFO Pod Worlds",
-   "section": "UFO Pod · Night Flyovers · Oct 17",
-   "status": "review",
-   "rooms": [
-    "UFO Pod · Night Flyovers · Oct 17"
-   ],
-   "updated": "2026-10-17T00:37:53Z",
-   "kind": "pod_flyover",
-   "kindLabel": "POD FLYOVER · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "Earlier take HYB_POD_FLYOVER_LIGHTS_ON_01 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_FLYOVER_LIGHTS_ON_01.b64"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "ufo-pod",
-    "pod-flyover",
-    "loop-ready",
-    "second-take"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Second take on the Lights / On flyover (first was a nay): instead of one string in the dark, a whole dreamy floating village of warm festoon lights strung between faceted concrete pavilions over a pastel lake, the pod drifting beneath the canopy",
-   "batch": "batch_20261017_0030",
-   "file": "img/HYB_POD_FLYOVER_LIGHTS_ON_02.b64"
-  },
-  {
-   "id": "HYB_POD_FLYOVER_REPUTATION_02",
-   "title": "Pod Night Flyovers · Reputation · second take · the spotlight in the cloud cathedral · hybrid",
-   "theme": "UFO Pod Worlds",
-   "section": "UFO Pod · Night Flyovers · Oct 17",
-   "status": "review",
-   "rooms": [
-    "UFO Pod · Night Flyovers · Oct 17"
-   ],
-   "updated": "2026-10-17T00:37:53Z",
-   "kind": "pod_flyover",
-   "kindLabel": "POD FLYOVER · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "Earlier take HYB_POD_FLYOVER_REPUTATION_01 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_FLYOVER_REPUTATION_01.b64"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "ufo-pod",
-    "pod-flyover",
-    "loop-ready",
-    "second-take"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Second take on the Reputation flyover (first was a nay): the single spotlight kept but opened into a pastel cloud cathedral, the poster's yellow headphones on a mirror stage in the beam and black-glass shards orbiting the pod above",
-   "batch": "batch_20261017_0030",
-   "file": "img/HYB_POD_FLYOVER_REPUTATION_02.b64"
-  },
-  {
-   "id": "HYB_POD_FLYOVER_FULL_TABLE_02",
-   "title": "Pod Night Flyovers · Full Table · second take · the long table on the water · hybrid",
-   "theme": "UFO Pod Worlds",
-   "section": "UFO Pod · Night Flyovers · Oct 17",
-   "status": "review",
-   "rooms": [
-    "UFO Pod · Night Flyovers · Oct 17"
-   ],
-   "updated": "2026-10-17T00:37:53Z",
-   "kind": "pod_flyover",
-   "kindLabel": "POD FLYOVER · HYBRID",
-   "source_pins": [],
-   "refs": [
-    {
-     "label": "Earlier take HYB_POD_FLYOVER_FULL_TABLE_01 (nay)",
-     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_FLYOVER_FULL_TABLE_01.b64"
-    }
-   ],
-   "tags": [
-    "hybrid",
-    "v2",
-    "oct16-batch",
-    "ufo-pod",
-    "pod-flyover",
-    "loop-ready",
-    "second-take"
-   ],
-   "catalog": "catalog_v1",
-   "note": "Second take on the Full Table flyover (first was a nay): the lantern ring became a dreamy long banquet table set right on a pastel lake, glowing orb lanterns as place settings, the copper headphones at the head of the table and the pod floating over it",
-   "batch": "batch_20261017_0030",
-   "file": "img/HYB_POD_FLYOVER_FULL_TABLE_02.b64"
+   "note": "Second pass on Office / Out (Dec 18): the poster's glass tube pouring gold sparks became a giant glass pipeline bursting diagonally through a dark after-hours office tower atrium, a river of gold sparks flooding out over the empty desks",
+   "batch": "batch_20261017_0128",
+   "file": "img/HYB_OFFICE_OUT_02.b64"
   },
   {
    "id": "CAT_052_B2",
@@ -5842,6 +5824,313 @@
   "request": 1
  },
  "archive": [
+  {
+   "id": "HYB_GOJIRA_GARAGE_01_B3",
+   "title": "Gojira / Garage · build on · eye to eye with the leviathan · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 17",
+   "status": "archive",
+   "rooms": [
+    "Build On · Hybrid · Oct 17"
+   ],
+   "updated": "2026-10-17T00:37:53Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_GOJIRA_GARAGE_01_B2",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_GOJIRA_GARAGE_01_B2.b64"
+    },
+    {
+     "label": "Spirit vote/note #117",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/117"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On HYB_GOJIRA_GARAGE_01_B2 (#117): pushed in close for the money shot: the breaching crystal-spined leviathan's huge gold eye meets the hovering pod at eye level, the pod's gold halo ring reflected in the wet stone, storm water cascading in slow motion",
+   "batch": "batch_20261017_0030",
+   "file": "img/HYB_GOJIRA_GARAGE_01_B3.b64",
+   "of": "HYB_GOJIRA_GARAGE_01_B2",
+   "builds_on": "HYB_GOJIRA_GARAGE_01_B2",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 118,
+   "archive_reason": "voted",
+   "archived": "2026-10-17"
+  },
+  {
+   "id": "HYB_MEGA_LIQUID_02_B2",
+   "title": "Mega / Liquid · build on · the cobalt robot drops the bass · hybrid",
+   "theme": "Build On",
+   "section": "Build On · Hybrid · Oct 17",
+   "status": "archive",
+   "rooms": [
+    "Build On · Hybrid · Oct 17"
+   ],
+   "updated": "2026-10-17T00:37:53Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_MEGA_LIQUID_02_B1",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_MEGA_LIQUID_02_B1.b64"
+    },
+    {
+     "label": "Spirit vote/note #117",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/117"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Build On HYB_MEGA_LIQUID_02_B1 (#117): the same original cobalt-and-chrome robot, now mid-stomp on the drop, a full crown of liquid blue light erupting around it and rippling rings racing out across the black mirror pool, headphones on and gold halo above",
+   "batch": "batch_20261017_0030",
+   "file": "img/HYB_MEGA_LIQUID_02_B2.b64",
+   "of": "HYB_MEGA_LIQUID_02_B1",
+   "builds_on": "HYB_MEGA_LIQUID_02_B1",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 118,
+   "archive_reason": "voted",
+   "archived": "2026-10-17"
+  },
+  {
+   "id": "HYB_SLEDGE_3AM_03",
+   "title": "Sledge × 3AM · third take · the shattered sky over the 3AM pool · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 17",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Second Take · Oct 17"
+   ],
+   "updated": "2026-10-17T00:37:53Z",
+   "kind": "second_take",
+   "kindLabel": "SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_SLEDGE_3AM_02 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SLEDGE_3AM_02.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Third take on Sledge × 3AM (two nays): moved out of the dark skyline into a pastel dreamcore liminal space: an empty violet-tiled pool at 3AM where a chrome sledgehammer has cracked the sky itself, faceted shards of sky floating down, the violet headphones hovering in the gap",
+   "batch": "batch_20261017_0030",
+   "file": "img/HYB_SLEDGE_3AM_03.b64",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 118,
+   "archive_reason": "voted",
+   "archived": "2026-10-17"
+  },
+  {
+   "id": "HYB_POD_THREE170_01_B3",
+   "title": "UFO Pod Worlds · Three170 · second take · the stone circle in the creek · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Take · Oct 17",
+   "status": "archive",
+   "rooms": [
+    "Event Nights · Second Take · Oct 17"
+   ],
+   "updated": "2026-10-17T00:37:53Z",
+   "kind": "second_take",
+   "kindLabel": "SECOND TAKE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POD_THREE170_01_B2 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_THREE170_01_B2.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "event",
+    "second-take",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on the Three170 creek (B2 was a nay): back to the Build On'd B1 framing, nature surrealism kept on the ground: a ring of floating river stones circles the pod over a still pool of Clear Creek, giant teal headphones half-buried like an ancient boulder on the bank",
+   "batch": "batch_20261017_0030",
+   "file": "img/HYB_POD_THREE170_01_B3.b64",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 118,
+   "archive_reason": "voted",
+   "archived": "2026-10-17"
+  },
+  {
+   "id": "HYB_POD_FLYOVER_AFTER_MIDNIGHT_02",
+   "title": "Pod Night Flyovers · After / Midnight · second take · the headphone monument in the yellow ring · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod · Night Flyovers · Oct 17",
+   "status": "archive",
+   "rooms": [
+    "UFO Pod · Night Flyovers · Oct 17"
+   ],
+   "updated": "2026-10-17T00:37:53Z",
+   "kind": "pod_flyover",
+   "kindLabel": "POD FLYOVER · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POD_FLYOVER_AFTER_MIDNIGHT_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_FLYOVER_AFTER_MIDNIGHT_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-flyover",
+    "loop-ready",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on the After / Midnight flyover (first was a nay): out of the black void into a luminous lilac blue-hour lake, the poster's yellow headphones standing as a giant monument inside the neon-yellow halo ring, the pod gliding through",
+   "batch": "batch_20261017_0030",
+   "file": "img/HYB_POD_FLYOVER_AFTER_MIDNIGHT_02.b64",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 118,
+   "archive_reason": "voted",
+   "archived": "2026-10-17"
+  },
+  {
+   "id": "HYB_POD_FLYOVER_LIGHTS_ON_02",
+   "title": "Pod Night Flyovers · Lights / On · second take · the festoon canopy village · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod · Night Flyovers · Oct 17",
+   "status": "archive",
+   "rooms": [
+    "UFO Pod · Night Flyovers · Oct 17"
+   ],
+   "updated": "2026-10-17T00:37:53Z",
+   "kind": "pod_flyover",
+   "kindLabel": "POD FLYOVER · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POD_FLYOVER_LIGHTS_ON_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_FLYOVER_LIGHTS_ON_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-flyover",
+    "loop-ready",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on the Lights / On flyover (first was a nay): instead of one string in the dark, a whole dreamy floating village of warm festoon lights strung between faceted concrete pavilions over a pastel lake, the pod drifting beneath the canopy",
+   "batch": "batch_20261017_0030",
+   "file": "img/HYB_POD_FLYOVER_LIGHTS_ON_02.b64",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 118,
+   "archive_reason": "voted",
+   "archived": "2026-10-17"
+  },
+  {
+   "id": "HYB_POD_FLYOVER_REPUTATION_02",
+   "title": "Pod Night Flyovers · Reputation · second take · the spotlight in the cloud cathedral · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod · Night Flyovers · Oct 17",
+   "status": "archive",
+   "rooms": [
+    "UFO Pod · Night Flyovers · Oct 17"
+   ],
+   "updated": "2026-10-17T00:37:53Z",
+   "kind": "pod_flyover",
+   "kindLabel": "POD FLYOVER · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POD_FLYOVER_REPUTATION_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_FLYOVER_REPUTATION_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-flyover",
+    "loop-ready",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on the Reputation flyover (first was a nay): the single spotlight kept but opened into a pastel cloud cathedral, the poster's yellow headphones on a mirror stage in the beam and black-glass shards orbiting the pod above",
+   "batch": "batch_20261017_0030",
+   "file": "img/HYB_POD_FLYOVER_REPUTATION_02.b64",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 118,
+   "archive_reason": "voted",
+   "archived": "2026-10-17"
+  },
+  {
+   "id": "HYB_POD_FLYOVER_FULL_TABLE_02",
+   "title": "Pod Night Flyovers · Full Table · second take · the long table on the water · hybrid",
+   "theme": "UFO Pod Worlds",
+   "section": "UFO Pod · Night Flyovers · Oct 17",
+   "status": "archive",
+   "rooms": [
+    "UFO Pod · Night Flyovers · Oct 17"
+   ],
+   "updated": "2026-10-17T00:37:53Z",
+   "kind": "pod_flyover",
+   "kindLabel": "POD FLYOVER · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POD_FLYOVER_FULL_TABLE_01 (nay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_FLYOVER_FULL_TABLE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "ufo-pod",
+    "pod-flyover",
+    "loop-ready",
+    "second-take"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second take on the Full Table flyover (first was a nay): the lantern ring became a dreamy long banquet table set right on a pastel lake, glowing orb lanterns as place settings, the copper headphones at the head of the table and the pod floating over it",
+   "batch": "batch_20261017_0030",
+   "file": "img/HYB_POD_FLYOVER_FULL_TABLE_02.b64",
+   "prev_status": "review",
+   "vote": "nay",
+   "vote_issue": 118,
+   "archive_reason": "voted",
+   "archived": "2026-10-17"
+  },
   {
    "id": "HYB_DOOM_DUNE_02_B1",
    "title": "DOOM × Dune · build on · the giant stone face in the canyon · hybrid",
@@ -25972,6 +26261,23 @@
    ],
    "voted_to_archive": 17,
    "note": "Vote #117 applied (17 votes: 9 yay, 2 Build On, 6 nay). Build Ons first: the Gojira/Garage leviathan pushed in close, eye to eye with the pod, and the Mega/Liquid cobalt robot mid-stomp on the drop with a crown splash and racing ripple rings. Then retakes of every nay: Sledge/3AM third take moved into a pastel 3AM pool hall where the hammer cracked the sky, Three170 back on the ground with a floating stone ring and moss-sunk teal headphones, and the four nay'd Pod Night Flyovers (After/Midnight, Lights/On, Reputation, Full Table) pulled out of black voids into luminous lilac-peach dream worlds like the yay'd Dass/Nobody, each with its poster's headphones in the scene."
+  },
+  {
+   "at": "2026-10-17T01:34:04Z",
+   "build": "20261017p",
+   "batch": "batch_20261017_0128",
+   "added": [
+    "HYB_DEAD_PUNCH_02",
+    "HYB_COLD_OPEN_02",
+    "HYB_HOME_TABLE_02",
+    "HYB_THE_FEAST_02",
+    "HYB_LEFTOVERS_02",
+    "HYB_CHOIR_LIQUID_02",
+    "HYB_THE_TURN_02",
+    "HYB_OFFICE_OUT_02"
+   ],
+   "voted_to_archive": 8,
+   "note": "Vote #118 applied (8 votes, all nay, no reasons picked): batch 22's Build On pushes, the third Sledge/3AM take, the Three170 retake and the four pastel Pod Night Flyover retakes all archived and those concepts retired instead of retaken again. New: a second pass on the nearest event nights (Dead/Punch, Cold/Open, Home/Table, The Feast, Leftovers, Choir/Liquid/DNB, The Turn, Office/Out), each built from its own poster's one iconic idea and palette rather than a shared lilac sky, the pod in just one piece, no floating headphones."
   }
  ]
 }
