@@ -1,8 +1,217 @@
 {
- "total": 209,
- "done": 209,
- "updated": "2026-10-17T21:35:42Z",
+ "total": 217,
+ "done": 217,
+ "updated": "2026-10-17T22:35:52Z",
  "items": [
+  {
+   "id": "HYB_HALLOWEEN_PUNCH_F1",
+   "title": "Halloween / Punch · fresh · the lantern pod over the punch bowl · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (late)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (late)"
+   ],
+   "updated": "2026-10-17T22:35:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Halloween / Punch: the lantern pod over the punch bowl, built from the night's theme in the locked hybrid style, pod held to the crystal lens-saucer silhouette.",
+   "batch": "batch_20261017_2229",
+   "file": "img/HYB_HALLOWEEN_PUNCH_F1.b64"
+  },
+  {
+   "id": "HYB_ZIMMER_SKA_F1",
+   "title": "Zimmer × Ska · fresh · the checker clock tower · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (late)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (late)"
+   ],
+   "updated": "2026-10-17T22:35:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Zimmer × Ska: the checker clock tower, built from the night's theme in the locked hybrid style.",
+   "batch": "batch_20261017_2229",
+   "file": "img/HYB_ZIMMER_SKA_F1.b64"
+  },
+  {
+   "id": "HYB_THRILLER_LOFI_F1",
+   "title": "Thriller / Downtempo / Lofi · fresh · the moon and the tape · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (late)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (late)"
+   ],
+   "updated": "2026-10-17T22:35:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Thriller / Downtempo / Lofi: the moon and the tape, built from the night's theme in the locked hybrid style.",
+   "batch": "batch_20261017_2229",
+   "file": "img/HYB_THRILLER_LOFI_F1.b64"
+  },
+  {
+   "id": "HYB_NINA_BREAK_F1",
+   "title": "Nina × Break · fresh · the grand piano in the rain · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (late)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (late)"
+   ],
+   "updated": "2026-10-17T22:35:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Nina × Break: the grand piano in the rain, built from the night's theme in the locked hybrid style.",
+   "batch": "batch_20261017_2229",
+   "file": "img/HYB_NINA_BREAK_F1.b64"
+  },
+  {
+   "id": "HYB_SINNER_SKA_F1",
+   "title": "Sinner × Ska · fresh · the confession booth on the checker lake · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (late)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (late)"
+   ],
+   "updated": "2026-10-17T22:35:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Sinner × Ska: the confession booth on the checker lake, built from the night's theme in the locked hybrid style.",
+   "batch": "batch_20261017_2229",
+   "file": "img/HYB_SINNER_SKA_F1.b64"
+  },
+  {
+   "id": "HYB_LIGHTS_ON_F1",
+   "title": "Lights / On · fresh · the cathedral of bulbs · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (late)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (late)"
+   ],
+   "updated": "2026-10-17T22:35:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Lights / On: the cathedral of bulbs, built from the night's theme in the locked hybrid style.",
+   "batch": "batch_20261017_2229",
+   "file": "img/HYB_LIGHTS_ON_F1.b64"
+  },
+  {
+   "id": "HYB_SCHISM_SNARES_F1",
+   "title": "Schism / Snares · fresh · the split monolith · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (late)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (late)"
+   ],
+   "updated": "2026-10-17T22:35:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Schism / Snares: the split monolith, built from the night's theme in the locked hybrid style.",
+   "batch": "batch_20261017_2229",
+   "file": "img/HYB_SCHISM_SNARES_F1.b64"
+  },
+  {
+   "id": "HYB_BOWIE_STAR_F1",
+   "title": "Bowie / Star · fresh · the falling star in the glam hall · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 17 (late)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 17 (late)"
+   ],
+   "updated": "2026-10-17T22:35:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Bowie / Star: the falling star in the glam hall, built from the night's theme in the locked hybrid style.",
+   "batch": "batch_20261017_2229",
+   "file": "img/HYB_BOWIE_STAR_F1.b64"
+  },
   {
    "id": "HYB_SPORE_AMEN_F1",
    "title": "Spore / Amen · fresh · the spore cathedral · hybrid",
@@ -29472,6 +29681,23 @@
    ],
    "voted_to_archive": 0,
    "note": "No new gallery votes since #118; Build On and second-pass backlog both empty. 8 fresh event-night pieces for under-covered nights (Spore/Amen, Kiss x Madness, Cold/Open, Word/Sade/Soul, Choir/Liquid/DNB, Leftovers, Love x Rudy, The Feast with the pod). No headphones on the wall."
+  },
+  {
+   "at": "2026-10-17T22:35:52Z",
+   "build": "20261017zd",
+   "batch": "batch_20261017_2229",
+   "added": [
+    "HYB_HALLOWEEN_PUNCH_F1",
+    "HYB_ZIMMER_SKA_F1",
+    "HYB_THRILLER_LOFI_F1",
+    "HYB_NINA_BREAK_F1",
+    "HYB_SINNER_SKA_F1",
+    "HYB_LIGHTS_ON_F1",
+    "HYB_SCHISM_SNARES_F1",
+    "HYB_BOWIE_STAR_F1"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new gallery votes since #118. 8 fresh event-night pieces for nights with no wall coverage yet (Halloween/Punch with a pumpkin-skinned pod, Zimmer x Ska, Thriller/Downtempo/Lofi, Nina x Break, Sinner x Ska, Lights/On, Schism/Snares, Bowie/Star). No headphones on the wall."
   }
  ]
 }
