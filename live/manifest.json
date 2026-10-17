@@ -1,8 +1,256 @@
 {
- "total": 169,
- "done": 169,
- "updated": "2026-10-17T16:39:52Z",
+ "total": 177,
+ "done": 177,
+ "updated": "2026-10-17T17:34:07Z",
  "items": [
+  {
+   "id": "HYB_FLUTE_JUNGLE_02",
+   "title": "Flute / Jungle · second pass · the gold flute bursting with turquoise water · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T17:34:07Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_FLUTE_JUNGLE_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_FLUTE_JUNGLE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Flute / Jungle: from the poster's antique gold flute exploding with turquoise water in a night jungle: a colossal gold flute lies across a flooded concrete jungle ruin, bursting with turquoise water splashes, a haloed listener below",
+   "batch": "batch_20261017_1727",
+   "file": "img/HYB_FLUTE_JUNGLE_02.b64"
+  },
+  {
+   "id": "HYB_FLUTE_BLESS_02",
+   "title": "Flute / Bless · second pass · the upright gold flute in cyan lightning · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T17:34:07Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_FLUTE_BLESS_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_FLUTE_BLESS_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Flute / Bless: from the poster's upright antique gold flute wrapped in a crackling cyan lightning vine on pure black: a colossal upright gold flute stands like a tower in a black flooded concrete sanctuary, cyan lightning coiling up it, a haloed figure kneeling at its base. No headphones",
+   "batch": "batch_20261017_1727",
+   "file": "img/HYB_FLUTE_BLESS_02.b64"
+  },
+  {
+   "id": "HYB_WEEK_HIGHER_02",
+   "title": "Higher / Love · second pass · the chrome heart over the sunset highway · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T17:34:07Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_WEEK_HIGHER_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_WEEK_HIGHER_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Higher / Love: from the poster's polished chrome heart floating over a glowing sunset highway: a colossal chrome heart hovers above a flooded concrete highway running into a magenta-gold sunset, a haloed driver standing beside an open car door",
+   "batch": "batch_20261017_1727",
+   "file": "img/HYB_WEEK_HIGHER_02.b64"
+  },
+  {
+   "id": "HYB_THE_DOCK_02",
+   "title": "The / Dock · second pass · the gold ring portal and its light rails · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T17:34:07Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_THE_DOCK_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_THE_DOCK_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on The / Dock: from the poster's blazing gold ring of light in deep black space with thin white light rails converging into it: a colossal glowing gold ring portal hangs over a flooded concrete docking pier in the void, white light rails converging into it, a haloed traveller at the end of the pier",
+   "batch": "batch_20261017_1727",
+   "file": "img/HYB_THE_DOCK_02.b64"
+  },
+  {
+   "id": "HYB_GYPSY_PALM_02",
+   "title": "Gypsy × Palm · second pass · the liquid gold hand · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T17:34:07Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_GYPSY_PALM_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_GYPSY_PALM_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Gypsy × Palm: from the poster's flowing ribbon of liquid gold that ends in an open palm on black: a colossal swirling ribbon of liquid gold rises out of a flooded concrete plaza and opens into a giant upturned palm, a haloed dancer standing on it",
+   "batch": "batch_20261017_1727",
+   "file": "img/HYB_GYPSY_PALM_02.b64"
+  },
+  {
+   "id": "HYB_THE_BUILD_02",
+   "title": "The Build · second pass · the chrome microphone exploding into gold and cyan · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T17:34:07Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_THE_BUILD_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_THE_BUILD_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on The Build: from the poster's vintage chrome microphone exploding with gold flakes, cyan data shards and floating black cubes: a colossal chrome studio microphone in a flooded concrete scaffold hall, bursting into gold paint and cyan glitch shards with concrete cubes flying out, a haloed builder below",
+   "batch": "batch_20261017_1727",
+   "file": "img/HYB_THE_BUILD_02.b64"
+  },
+  {
+   "id": "HYB_WEEK_INWARDS_02",
+   "title": "Inwards · second pass · the golden path into the jungle · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T17:34:07Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_WEEK_INWARDS_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_WEEK_INWARDS_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Inwards: from the poster's narrow glowing path running into a misty golden jungle: a narrow flooded concrete path runs inward between towering dark jungle walls toward a glowing golden haze, a haloed walker on it",
+   "batch": "batch_20261017_1727",
+   "file": "img/HYB_WEEK_INWARDS_02.b64"
+  },
+  {
+   "id": "HYB_WORD_SOUL_02",
+   "title": "Word / Sade / Soul · second pass · the golden furred spirit in its chain · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T17:34:07Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_WORD_SOUL_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_WORD_SOUL_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Word / Sade / Soul: from the poster's soft yellow furred teardrop creature with chrome spikes, a silver chain and a gold honeycomb fin on black: a giant soft furred golden-yellow spirit form floats in a flooded black concrete lounge, wrapped in a silver chain, a gold honeycomb wing beside it, a haloed singer below",
+   "batch": "batch_20261017_1727",
+   "file": "img/HYB_WORD_SOUL_02.b64"
+  },
   {
    "id": "HYB_ALMOST_HOME_02",
    "title": "Almost / Home · second pass · the last ember line on the dark ridge · hybrid",
@@ -28136,6 +28384,23 @@
    ],
    "voted_to_archive": 0,
    "note": "No new votes since #118 and no Build Ons pending. New: second passes on yay'd first takes, each led by its poster's one iconic object and palette: Almost/Home (ember horizon and one lit door at the end of a flooded causeway), Beam/Lawn (brass reactor firing a lime beam), Time/Ska (gold clock shattering into checker tiles), Mozart/Discovery (marble bust opening into a crystal galaxy; replaces the headphone-audit #22 subject), Shout/Sunset (gold light pillar in a violet storm), Streets/Sun (sun blazing through a faceted arch), Creek/Checker (chrome HALO letters rising from rippled ink), Blonde/Night (sea of golden hair waves). No headphones."
+  },
+  {
+   "at": "2026-10-17T17:34:07Z",
+   "build": "20261017y",
+   "batch": "batch_20261017_1727",
+   "added": [
+    "HYB_FLUTE_JUNGLE_02",
+    "HYB_FLUTE_BLESS_02",
+    "HYB_WEEK_HIGHER_02",
+    "HYB_THE_DOCK_02",
+    "HYB_GYPSY_PALM_02",
+    "HYB_THE_BUILD_02",
+    "HYB_WEEK_INWARDS_02",
+    "HYB_WORD_SOUL_02"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new votes since #118 and no Build Ons pending. New: second passes on yay'd first takes, each led by its poster's one iconic object and palette: Flute/Jungle (gold flute gushing turquoise water over a jungle ruin), Flute/Bless (upright gold flute tower in cyan lightning; the poster's headphones left out), Higher/Love (chrome heart over a sunset highway), The/Dock (gold ring portal with white light rails over a flooded pier), Gypsy/Palm (liquid gold ribbon opening into a giant palm), The Build (chrome microphone exploding into gold and cyan), Inwards (golden path into the jungle), Word/Sade/Soul (furred yellow spirit in a silver chain). No headphones."
   }
  ]
 }
