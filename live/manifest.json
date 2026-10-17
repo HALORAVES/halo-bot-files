@@ -1,8 +1,257 @@
 {
- "total": 121,
- "done": 121,
- "updated": "2026-10-17T02:40:49Z",
+ "total": 129,
+ "done": 129,
+ "updated": "2026-10-17T03:34:12Z",
  "items": [
+  {
+   "id": "HYB_BOLERO_SNARE_02",
+   "title": "Boléro / Snare · second pass · the snare that erupts into yellow voxels · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T03:34:12Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_BOLERO_SNARE_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_BOLERO_SNARE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Boléro / Snare: straight from the poster's yellow pixel burst: a colossal chrome-and-black snare drum on a flooded concrete plinth erupts upward into a towering fountain of glowing yellow voxels, a haloed drummer small at its foot",
+   "batch": "batch_20261017_0329",
+   "file": "img/HYB_BOLERO_SNARE_02.b64"
+  },
+  {
+   "id": "HYB_ORCHESTRA_PEAK_02",
+   "title": "Orchestra / Peak · second pass · the pendulum through the red paint storm · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T03:34:12Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_ORCHESTRA_PEAK_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_ORCHESTRA_PEAK_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Orchestra / Peak: from the poster's red, black and cream paint explosion: a giant gold pendulum swings through a monumental concrete concert hall frozen mid-burst in red and gold paint splash, a haloed conductor below",
+   "batch": "batch_20261017_0329",
+   "file": "img/HYB_ORCHESTRA_PEAK_02.b64"
+  },
+  {
+   "id": "HYB_CASTLE_ORGAN_02",
+   "title": "Castle / Organ · second pass · lightning strikes the crimson organ cathedral · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T03:34:12Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_CASTLE_ORGAN_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_CASTLE_ORGAN_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Castle / Organ: from the poster's red gothic spires and white lightning: a black gothic cathedral of organ pipes stands in a flooded crimson storm, a single white lightning bolt striking its tallest pipe, a haloed organist on the steps",
+   "batch": "batch_20261017_0329",
+   "file": "img/HYB_CASTLE_ORGAN_02.b64"
+  },
+  {
+   "id": "HYB_GAME_PIANO_SANDS_02",
+   "title": "Game / Piano / Sands · second pass · the spiked gold heart locket over the honeycomb dunes · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T03:34:12Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_GAME_PIANO_SANDS_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_GAME_PIANO_SANDS_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Game / Piano / Sands: from the poster's gold spiked heart on a chain: a colossal gold heart locket studded with crystal spikes hangs on a giant chain over night dunes whose sand is patterned like honeycomb, a haloed pianist playing a white piano on the sand below",
+   "batch": "batch_20261017_0329",
+   "file": "img/HYB_GAME_PIANO_SANDS_02.b64"
+  },
+  {
+   "id": "HYB_GOLD_RINGS_02",
+   "title": "Gold / Rings · second pass · the pod threading the green-gold ring stream · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T03:34:12Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_GOLD_RINGS_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_GOLD_RINGS_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Gold / Rings: from the poster's gold rings flying through green and gold light streaks: the HALO pod threads a diagonal stream of giant floating gold rings and emerald light trails above a flooded concrete causeway at night",
+   "batch": "batch_20261017_0329",
+   "file": "img/HYB_GOLD_RINGS_02.b64"
+  },
+  {
+   "id": "HYB_KISS_MADNESS_02",
+   "title": "Kiss × Madness · second pass · the chrome lips and the pink stiletto bridge · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T03:34:12Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_KISS_MADNESS_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_KISS_MADNESS_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Kiss × Madness: from the poster's chrome lips and hot pink stiletto: a colossal liquid-chrome pair of lips rises from a black lake beside a giant glossy hot-pink stiletto heel arching over the water like a bridge, a haloed dancer crossing it",
+   "batch": "batch_20261017_0329",
+   "file": "img/HYB_KISS_MADNESS_02.b64"
+  },
+  {
+   "id": "HYB_SWAN_WAKE_02",
+   "title": "Swan / Wake · second pass · the glass swan rising from the gold whirlpool · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T03:34:12Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_SWAN_WAKE_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SWAN_WAKE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Swan / Wake: from the poster's glass scroll over a yellow whirlpool: a colossal clear glass swan, its neck curled like a violin scroll, rises from a glowing gold-yellow whirlpool in a black lake ringed by concrete, a haloed swimmer floating at the spiral's edge",
+   "batch": "batch_20261017_0329",
+   "file": "img/HYB_SWAN_WAKE_02.b64"
+  },
+  {
+   "id": "HYB_WATTS_VOID_02",
+   "title": "Watts / Void · second pass · the spiked gold portal ring over the mirror void · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Second Pass · Oct 17",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Second Pass · Oct 17"
+   ],
+   "updated": "2026-10-17T03:34:12Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_WATTS_VOID_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_WATTS_VOID_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Watts / Void: from the poster's spiked gold ring holding a magenta-and-cyan nebula: a colossal ornate gold portal ring crowned with silver spikes stands on a mirror-black plain, a swirling magenta and cyan nebula churning inside it, a haloed traveler before it",
+   "batch": "batch_20261017_0329",
+   "file": "img/HYB_WATTS_VOID_02.b64"
+  },
   {
    "id": "HYB_NIGHTMARE_02",
    "title": "Nightmare / Calibre · second pass · the split mask rising from the black lake · hybrid",
@@ -26544,6 +26793,23 @@
    ],
    "voted_to_archive": 0,
    "note": "No new votes since #118 and no Build Ons pending. New: second passes on the next event nights whose first hybrid takes were yay'd or still in review (Nightmare/Calibre, Sleepy Tea, Thriller/Lofi, Spore/Amen, Eve Hour, After/Wrap, Time/Blade, Nineties/Jungle), each led by its poster's one iconic object and palette, varied compositions, the pod in just one piece (Nineties/Jungle), no floating headphones."
+  },
+  {
+   "at": "2026-10-17T03:34:12Z",
+   "build": "20261017s",
+   "batch": "batch_20261017_0329",
+   "added": [
+    "HYB_BOLERO_SNARE_02",
+    "HYB_ORCHESTRA_PEAK_02",
+    "HYB_CASTLE_ORGAN_02",
+    "HYB_GAME_PIANO_SANDS_02",
+    "HYB_GOLD_RINGS_02",
+    "HYB_KISS_MADNESS_02",
+    "HYB_SWAN_WAKE_02",
+    "HYB_WATTS_VOID_02"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new votes since #118 and no Build Ons pending. New: second passes on the next event nights whose first hybrid takes were yay'd or still in review (Boléro/Snare, Orchestra/Peak, Castle/Organ, Game/Piano/Sands, Gold/Rings, Kiss/Madness, Swan/Wake, Watts/Void), each led by its poster's one iconic object and palette, varied compositions, the pod in just one piece (Gold/Rings), no floating headphones."
   }
  ]
 }
