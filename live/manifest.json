@@ -1,7 +1,7 @@
 {
- "total": 234,
- "done": 234,
- "updated": "2026-10-18T01:45:47Z",
+ "total": 255,
+ "done": 255,
+ "updated": "2026-10-18T02:27:52Z",
  "items": [
   {
    "id": "HYB_HALLOWEEN_PUNCH_F2",
@@ -9461,12 +9461,537 @@
    "box_only": [
     "full 300dpi DTF PNG at /workspace/halo-output/catalog/full/CAT_095_print_master.png"
    ]
+  },
+  {
+   "id": "BOARD_FW26_V306_DECK",
+   "title": "V3-06 Seven Gates · kicktail · deck",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · DECK",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v3-06",
+    "deck"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V3-06 Seven Gates (kicktail) deck. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V306_DECK.b64"
+  },
+  {
+   "id": "BOARD_FW26_V306_PREVIEW",
+   "title": "V3-06 Seven Gates · kicktail · shape preview",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · SHAPE PREVIEW",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v3-06",
+    "preview"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V3-06 Seven Gates (kicktail) shape preview. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V306_PREVIEW.b64"
+  },
+  {
+   "id": "BOARD_FW26_V306_GRIP",
+   "title": "V3-06 Seven Gates · kicktail · grip",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · GRIP",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v3-06",
+    "grip"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V3-06 Seven Gates (kicktail) grip. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V306_GRIP.b64"
+  },
+  {
+   "id": "BOARD_FW26_V303_DECK",
+   "title": "V3-03 Torus Pod · dropthrough · deck",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · DECK",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v3-03",
+    "deck"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V3-03 Torus Pod (dropthrough) deck. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V303_DECK.b64"
+  },
+  {
+   "id": "BOARD_FW26_V303_PREVIEW",
+   "title": "V3-03 Torus Pod · dropthrough · shape preview",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · SHAPE PREVIEW",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v3-03",
+    "preview"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V3-03 Torus Pod (dropthrough) shape preview. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V303_PREVIEW.b64"
+  },
+  {
+   "id": "BOARD_FW26_V303_GRIP",
+   "title": "V3-03 Torus Pod · dropthrough · grip",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · GRIP",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v3-03",
+    "grip"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V3-03 Torus Pod (dropthrough) grip. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V303_GRIP.b64"
+  },
+  {
+   "id": "BOARD_FW26_V307_DECK",
+   "title": "V3-07 Solar Plexus Sun · pintail · deck",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · DECK",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v3-07",
+    "deck"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V3-07 Solar Plexus Sun (pintail) deck. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V307_DECK.b64"
+  },
+  {
+   "id": "BOARD_FW26_V307_PREVIEW",
+   "title": "V3-07 Solar Plexus Sun · pintail · shape preview",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · SHAPE PREVIEW",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v3-07",
+    "preview"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V3-07 Solar Plexus Sun (pintail) shape preview. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V307_PREVIEW.b64"
+  },
+  {
+   "id": "BOARD_FW26_V307_GRIP",
+   "title": "V3-07 Solar Plexus Sun · pintail · grip",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · GRIP",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v3-07",
+    "grip"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V3-07 Solar Plexus Sun (pintail) grip. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V307_GRIP.b64"
+  },
+  {
+   "id": "BOARD_FW26_V401_DECK",
+   "title": "V4-01 Frost Lotus · fishtail mini cruiser · deck",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · DECK",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v4-01",
+    "deck"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V4-01 Frost Lotus (fishtail mini cruiser) deck. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V401_DECK.b64"
+  },
+  {
+   "id": "BOARD_FW26_V401_PREVIEW",
+   "title": "V4-01 Frost Lotus · fishtail mini cruiser · shape preview",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · SHAPE PREVIEW",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v4-01",
+    "preview"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V4-01 Frost Lotus (fishtail mini cruiser) shape preview. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V401_PREVIEW.b64"
+  },
+  {
+   "id": "BOARD_FW26_V401_GRIP",
+   "title": "V4-01 Frost Lotus · fishtail mini cruiser · grip",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · GRIP",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v4-01",
+    "grip"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V4-01 Frost Lotus (fishtail mini cruiser) grip. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V401_GRIP.b64"
+  },
+  {
+   "id": "BOARD_FW26_V402_DECK",
+   "title": "V4-02 Aurora River · double-drop freeride · deck",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · DECK",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v4-02",
+    "deck"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V4-02 Aurora River (double-drop freeride) deck. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V402_DECK.b64"
+  },
+  {
+   "id": "BOARD_FW26_V402_PREVIEW",
+   "title": "V4-02 Aurora River · double-drop freeride · shape preview",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · SHAPE PREVIEW",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v4-02",
+    "preview"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V4-02 Aurora River (double-drop freeride) shape preview. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V402_PREVIEW.b64"
+  },
+  {
+   "id": "BOARD_FW26_V402_GRIP",
+   "title": "V4-02 Aurora River · double-drop freeride · grip",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · GRIP",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v4-02",
+    "grip"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V4-02 Aurora River (double-drop freeride) grip. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V402_GRIP.b64"
+  },
+  {
+   "id": "BOARD_FW26_V403_DECK",
+   "title": "V4-03 Ember Leaves · surfskate · deck",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · DECK",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v4-03",
+    "deck"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V4-03 Ember Leaves (surfskate) deck. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V403_DECK.b64"
+  },
+  {
+   "id": "BOARD_FW26_V403_PREVIEW",
+   "title": "V4-03 Ember Leaves · surfskate · shape preview",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · SHAPE PREVIEW",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v4-03",
+    "preview"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V4-03 Ember Leaves (surfskate) shape preview. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V403_PREVIEW.b64"
+  },
+  {
+   "id": "BOARD_FW26_V403_GRIP",
+   "title": "V4-03 Ember Leaves · surfskate · grip",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · GRIP",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v4-03",
+    "grip"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V4-03 Ember Leaves (surfskate) grip. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V403_GRIP.b64"
+  },
+  {
+   "id": "BOARD_FW26_V404_DECK",
+   "title": "V4-04 Snow Heartbeat · dancer · deck",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · DECK",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v4-04",
+    "deck"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V4-04 Snow Heartbeat (dancer) deck. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V404_DECK.b64"
+  },
+  {
+   "id": "BOARD_FW26_V404_PREVIEW",
+   "title": "V4-04 Snow Heartbeat · dancer · shape preview",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · SHAPE PREVIEW",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v4-04",
+    "preview"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V4-04 Snow Heartbeat (dancer) shape preview. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V404_PREVIEW.b64"
+  },
+  {
+   "id": "BOARD_FW26_V404_GRIP",
+   "title": "V4-04 Snow Heartbeat · dancer · grip",
+   "theme": "BOARDS FW26",
+   "section": "BOARDS FW26",
+   "status": "review",
+   "rooms": [
+    "BOARDS FW26"
+   ],
+   "updated": "2026-10-18T02:27:52Z",
+   "kind": "board",
+   "kindLabel": "BOARD · FW26 · GRIP",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "board",
+    "fw26",
+    "v4-04",
+    "grip"
+   ],
+   "catalog": "catalog_v1",
+   "note": "V4-04 Snow Heartbeat (dancer) grip. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
+   "batch": "boards_fw26",
+   "file": "img/BOARD_FW26_V404_GRIP.b64"
   }
  ],
  "updates": [],
  "kinds": {
   "general": 73,
-  "board": 16,
+  "board": 37,
   "request": 1
  },
  "archive": [
@@ -30180,6 +30705,34 @@
    ],
    "voted_to_archive": 0,
    "note": "No new gallery votes since #118. 9 second fresh takes (Halloween/Punch with a pumpkin pod, Cold/Open, Spore/Amen, Lights/On, The Feast with a honey pod, Nina x Break, Love x Rudy, Kiss x Madness, Swan/Wake with a pearl pod). No headphones on the wall."
+  },
+  {
+   "at": "2026-10-18T02:27:52Z",
+   "batch": "boards_fw26",
+   "added": [
+    "BOARD_FW26_V306_DECK",
+    "BOARD_FW26_V306_PREVIEW",
+    "BOARD_FW26_V306_GRIP",
+    "BOARD_FW26_V303_DECK",
+    "BOARD_FW26_V303_PREVIEW",
+    "BOARD_FW26_V303_GRIP",
+    "BOARD_FW26_V307_DECK",
+    "BOARD_FW26_V307_PREVIEW",
+    "BOARD_FW26_V307_GRIP",
+    "BOARD_FW26_V401_DECK",
+    "BOARD_FW26_V401_PREVIEW",
+    "BOARD_FW26_V401_GRIP",
+    "BOARD_FW26_V402_DECK",
+    "BOARD_FW26_V402_PREVIEW",
+    "BOARD_FW26_V402_GRIP",
+    "BOARD_FW26_V403_DECK",
+    "BOARD_FW26_V403_PREVIEW",
+    "BOARD_FW26_V403_GRIP",
+    "BOARD_FW26_V404_DECK",
+    "BOARD_FW26_V404_PREVIEW",
+    "BOARD_FW26_V404_GRIP"
+   ],
+   "note": "BOARDS FW26 room: 7 boards x deck/preview/grip, for review"
   }
  ]
 }
