@@ -1,8 +1,270 @@
 {
- "total": 255,
- "done": 255,
- "updated": "2026-10-18T02:27:52Z",
+ "total": 265,
+ "done": 265,
+ "updated": "2026-10-18T03:27:27Z",
  "items": [
+  {
+   "id": "HYB_BOXING_NIGHT_F2",
+   "title": "Boxing Night · second fresh take · the ruby heavy bag in the flooded gym · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T03:27:27Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Boxing Night: A faceted ruby-crystal heavy bag under a gold halo hangs on a chain in a flooded neo-brutal boxing gym, caught mid-swing with a spray of water droplets frozen around it, crimson rope lights mirrored in the black water; a gold-trimmed ring bell on a post in the foreground.",
+   "batch": "batch_20261018_0231",
+   "file": "img/HYB_BOXING_NIGHT_F2.b64"
+  },
+  {
+   "id": "HYB_GARAGE_RIFF_F2",
+   "title": "Gojira / Garage · second fresh take · the amp monolith and the standing waves · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T03:27:27Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Gojira / Garage: A towering faceted black amplifier monolith with a glowing teal grille stands in a flooded concrete garage, its sound pushing the water into rings of standing waves, one cable snaking across the wet floor; a crystal guitar pick on an oil-slick puddle in the foreground.",
+   "batch": "batch_20261018_0231",
+   "file": "img/HYB_GARAGE_RIFF_F2.b64"
+  },
+  {
+   "id": "HYB_HAZE_GUITAR_F2",
+   "title": "Hendrix / Kravitz / Future · second fresh take · the haze tuning fork · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T03:27:27Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Hendrix / Kravitz / Future: A giant faceted crystal tuning fork under a gold halo stands in a flooded desert courtyard at night, its vibration pouring spirals of purple, orange and electric-blue haze upward into the stars; an amber guitar pick on a wet stone in the foreground.",
+   "batch": "batch_20261018_0231",
+   "file": "img/HYB_HAZE_GUITAR_F2.b64"
+  },
+  {
+   "id": "HYB_UPSIDE_DOWN_F2",
+   "title": "Upside / Down · second fresh take · the stair that falls up, under the mirror pod · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T03:27:27Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Upside / Down: A faceted concrete staircase rises out of black water and continues upside down into a second mirrored plaza hanging overhead, droplets falling upward between them; at the turning point hovers the HALO UFO pod, a mirror-chrome-skinned very low, flat, thin lens-shaped disc, like two shallow plates rim to rim, four times wider than tall, seen nearly edge-on, faceted crystal, no dome, no cockpit, no legs, no lights ring. A floating crystal step in the foreground. Pod held to the crystal lens-saucer silhouette.",
+   "batch": "batch_20261018_0231",
+   "file": "img/HYB_UPSIDE_DOWN_F2.b64"
+  },
+  {
+   "id": "HYB_CASTLE_ORGAN_F2",
+   "title": "Castle / Organ · second fresh take · the drawbridge of organ pipes · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T03:27:27Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Castle / Organ: A drawbridge built from faceted emerald-crystal organ pipes lowers across a moonlit moat toward a neo-brutal castle gate, each pipe glowing as it sounds, sound rings rippling across the moat; a wrought-iron key on a wet stone in the foreground.",
+   "batch": "batch_20261018_0231",
+   "file": "img/HYB_CASTLE_ORGAN_F2.b64"
+  },
+  {
+   "id": "HYB_AFRO_STRINGS_F2",
+   "title": "Afro / Strings · second fresh take · the harp arch at sunset · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T03:27:27Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Afro / Strings: A colossal faceted sandstone arch strung with glowing gold light strings like a giant harp frames a setting sun over a desert river delta, a thin gold halo ring hanging in the arch's apex, the strings reflected in the rippling river; a beaded gourd shaker on a wet rock in the foreground.",
+   "batch": "batch_20261018_0231",
+   "file": "img/HYB_AFRO_STRINGS_F2.b64"
+  },
+  {
+   "id": "HYB_OFFICE_OUT_F2",
+   "title": "Office / Out · second fresh take · the brass elevator to the roof · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T03:27:27Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Office / Out: An open faceted brass elevator car glows warm amber at the edge of a flooded rooftop at dusk, loosened neckties hanging from its ceiling like streamers, its doors open onto the water, a city of lit office windows below; a glass coffee mug turned into a candle on the wet ledge in the foreground.",
+   "batch": "batch_20261018_0231",
+   "file": "img/HYB_OFFICE_OUT_F2.b64"
+  },
+  {
+   "id": "HYB_ZIMMER_SKA_F2",
+   "title": "Zimmer × Ska · second fresh take · the checker pendulum · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T03:27:27Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Zimmer × Ska: A colossal brass pendulum with a faceted black-and-white checker crystal bob swings through a flooded neo-brutal clock chamber, its arc leaving a trail of gold light, giant gears half sunk in the water; a crystal hourglass on a wet step in the foreground.",
+   "batch": "batch_20261018_0231",
+   "file": "img/HYB_ZIMMER_SKA_F2.b64"
+  },
+  {
+   "id": "HYB_THRILLER_LOFI_F2",
+   "title": "Thriller / Downtempo / Lofi · second fresh take · the listening booth on the moon lake · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T03:27:27Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Thriller / Downtempo / Lofi: A small faceted concrete listening booth glows soft pink on a still lake under a huge full moon, a vinyl record turning on a turntable inside, steam rising from a teacup on the sill; reeds and a crystal cassette at the water's edge in the foreground.",
+   "batch": "batch_20261018_0231",
+   "file": "img/HYB_THRILLER_LOFI_F2.b64"
+  },
+  {
+   "id": "HYB_SINNER_SKA_F2",
+   "title": "Sinner × Ska · second fresh take · the ember apple and the ember pod · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T03:27:27Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Sinner × Ska: A faceted crystal apple glowing ember red under a gold halo floats above a flooded black-and-white checker-tiled chapel floor, red and gold stained-glass light shafts cutting the fog, under the HALO UFO pod, an ember-skinned very low, flat, thin lens-shaped disc, like two shallow plates rim to rim, four times wider than tall, seen nearly edge-on, faceted crystal, no dome, no cockpit, no legs, no lights ring. A brass trombone mouthpiece on a wet tile in the foreground. Pod held to the crystal lens-saucer silhouette.",
+   "batch": "batch_20261018_0231",
+   "file": "img/HYB_SINNER_SKA_F2.b64"
+  },
   {
    "id": "HYB_HALLOWEEN_PUNCH_F2",
    "title": "Halloween / Punch · second fresh take · the crystal pumpkin patch and the pumpkin pod · hybrid",
@@ -30733,6 +30995,25 @@
     "BOARD_FW26_V404_GRIP"
    ],
    "note": "BOARDS FW26 room: 7 boards x deck/preview/grip, for review"
+  },
+  {
+   "at": "2026-10-18T03:27:27Z",
+   "build": "20261018b",
+   "batch": "batch_20261018_0231",
+   "added": [
+    "HYB_BOXING_NIGHT_F2",
+    "HYB_GARAGE_RIFF_F2",
+    "HYB_HAZE_GUITAR_F2",
+    "HYB_UPSIDE_DOWN_F2",
+    "HYB_CASTLE_ORGAN_F2",
+    "HYB_AFRO_STRINGS_F2",
+    "HYB_OFFICE_OUT_F2",
+    "HYB_ZIMMER_SKA_F2",
+    "HYB_THRILLER_LOFI_F2",
+    "HYB_SINNER_SKA_F2"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new gallery votes since #118. Second fresh takes for the thinnest nights: Boxing Night, Gojira / Garage, Hendrix / Kravitz / Future, Upside / Down, Castle / Organ, Afro / Strings, Office / Out, Zimmer × Ska, Thriller / Downtempo / Lofi, Sinner × Ska. Pods (Upside/Down mirror pod, Sinner x Ska ember pod) held to the lens-saucer silhouette. No headphones on the wall."
   }
  ]
 }
