@@ -1,8 +1,245 @@
 {
- "total": 225,
- "done": 225,
- "updated": "2026-10-17T23:36:56Z",
+ "total": 234,
+ "done": 234,
+ "updated": "2026-10-18T01:45:47Z",
  "items": [
+  {
+   "id": "HYB_HALLOWEEN_PUNCH_F2",
+   "title": "Halloween / Punch · second fresh take · the crystal pumpkin patch and the pumpkin pod · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T01:45:47Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Halloween / Punch: Cut-crystal pumpkins glow ember orange across a flooded courtyard while a pumpkin-skinned lens-saucer pod pours a violet beam into a crystal punch goblet in the foreground. Pod held to the crystal lens-saucer silhouette.",
+   "batch": "batch_20261018_0125",
+   "file": "img/HYB_HALLOWEEN_PUNCH_F2.b64"
+  },
+  {
+   "id": "HYB_COLD_OPEN_F2",
+   "title": "Cold / Open · second fresh take · the ice door on the frozen lake · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T01:45:47Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Cold / Open: A faceted ice-blue crystal door stands open alone on a frozen lake at blue hour, warm peach-gold light spilling across the ice; frost shards in the foreground.",
+   "batch": "batch_20261018_0125",
+   "file": "img/HYB_COLD_OPEN_F2.b64"
+  },
+  {
+   "id": "HYB_SPORE_AMEN_F2",
+   "title": "Spore / Amen · second fresh take · the haloed crystal mushroom · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T01:45:47Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Spore / Amen: A bioluminescent cyan-lime crystal mushroom under a gold halo rises from a flooded moss floor among mossy concrete arches, gold spores drifting, a small crystal toadstool in the foreground.",
+   "batch": "batch_20261018_0125",
+   "file": "img/HYB_SPORE_AMEN_F2.b64"
+  },
+  {
+   "id": "HYB_LIGHTS_ON_F2",
+   "title": "Lights / On · second fresh take · the giant crystal bulb · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T01:45:47Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Lights / On: One colossal faceted crystal Edison bulb with a blazing gold filament hangs in a flooded concrete hall, throwing caustics across walls and water; a brass pull-chain in the foreground.",
+   "batch": "batch_20261018_0125",
+   "file": "img/HYB_LIGHTS_ON_F2.b64"
+  },
+  {
+   "id": "HYB_THE_FEAST_F2",
+   "title": "The Feast · second fresh take · the long table under the honey pod · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T01:45:47Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for The Feast: A long faceted concrete banquet table with crystal goblets, glowing honey-gold fruit and candles runs into a flooded hall under a honey-amber lens-saucer pod. Pod held to the crystal lens-saucer silhouette.",
+   "batch": "batch_20261018_0125",
+   "file": "img/HYB_THE_FEAST_F2.b64"
+  },
+  {
+   "id": "HYB_NINA_BREAK_F2",
+   "title": "Nina x Break · second fresh take · the crystal grand in amber rain · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T01:45:47Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Nina x Break: A faceted crystal grand piano with glowing amber strings and a gold halo over its raised lid stands in a flooded loft under amber rain; a red rose on a wet step in the foreground.",
+   "batch": "batch_20261018_0125",
+   "file": "img/HYB_NINA_BREAK_F2.b64"
+  },
+  {
+   "id": "HYB_LOVE_RUDY_F2",
+   "title": "Love x Rudy · second fresh take · the rose-gold crystal horn · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T01:45:47Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Love x Rudy: A giant faceted rose-pink crystal trumpet bell under a gold halo throws glowing sound rings across a flooded rooftop at dusk; rose petals in the air and a crystal rose in the foreground.",
+   "batch": "batch_20261018_0125",
+   "file": "img/HYB_LOVE_RUDY_F2.b64"
+  },
+  {
+   "id": "HYB_KISS_MADNESS_F2",
+   "title": "Kiss x Madness · second fresh take · the chrome heel in the mirror maze · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T01:45:47Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Kiss x Madness: A colossal polished chrome stiletto stands in a flooded mirror maze lit by hot pink and red neon strips; a crystal lipstick on the wet floor in the foreground.",
+   "batch": "batch_20261018_0125",
+   "file": "img/HYB_KISS_MADNESS_F2.b64"
+  },
+  {
+   "id": "HYB_SWAN_WAKE_F2",
+   "title": "Swan / Wake · second fresh take · the haloed crystal swan and the pearl pod · hybrid",
+   "theme": "Event Nights",
+   "section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "status": "review",
+   "rooms": [
+    "Event Nights · Fresh · Oct 18 (overnight)"
+   ],
+   "updated": "2026-10-18T01:45:47Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Swan / Wake: A faceted pearl-crystal swan under a gold halo leaves a luminous silver-cyan wake across a moonlit lake between faceted cliffs, under a pearl-skinned lens-saucer pod; a crystal feather in the foreground. Pod held to the crystal lens-saucer silhouette.",
+   "batch": "batch_20261018_0125",
+   "file": "img/HYB_SWAN_WAKE_F2.b64"
+  },
   {
    "id": "HYB_BOXING_NIGHT_F1",
    "title": "Boxing Night · fresh · the gold gloves over the flooded ring · hybrid",
@@ -29925,6 +30162,24 @@
    ],
    "voted_to_archive": 0,
    "note": "No new gallery votes since #118. 8 fresh event-night pieces (Boxing Night, Gojira/Garage, Hendrix/Kravitz/Future, Upside/Down, Swan/Wake with a pearl pod, Castle/Organ, Afro/Strings, Office/Out with an amber pod). No headphones on the wall."
+  },
+  {
+   "at": "2026-10-18T01:45:47Z",
+   "build": "20261018a",
+   "batch": "batch_20261018_0125",
+   "added": [
+    "HYB_HALLOWEEN_PUNCH_F2",
+    "HYB_COLD_OPEN_F2",
+    "HYB_SPORE_AMEN_F2",
+    "HYB_LIGHTS_ON_F2",
+    "HYB_THE_FEAST_F2",
+    "HYB_NINA_BREAK_F2",
+    "HYB_LOVE_RUDY_F2",
+    "HYB_KISS_MADNESS_F2",
+    "HYB_SWAN_WAKE_F2"
+   ],
+   "voted_to_archive": 0,
+   "note": "No new gallery votes since #118. 9 second fresh takes (Halloween/Punch with a pumpkin pod, Cold/Open, Spore/Amen, Lights/On, The Feast with a honey pod, Nina x Break, Love x Rudy, Kiss x Madness, Swan/Wake with a pearl pod). No headphones on the wall."
   }
  ]
 }
