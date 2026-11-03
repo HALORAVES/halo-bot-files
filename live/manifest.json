@@ -1,7 +1,7 @@
 {
  "total": 11,
  "done": 11,
- "updated": "2026-11-03T05:08:56Z",
+ "updated": "2026-11-03T05:08:59Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3263,14 +3263,14 @@
   },
   {
    "id": "FRESH_C1_CREEK_PADS",
-   "title": "Creek Pads",
+   "title": "Creek Pads (v3) · SUPERSEDED",
    "theme": "FRESH · NOV 2026",
    "section": "FRESH · NOV 2026",
    "status": "review",
    "rooms": [
     "FRESH · NOV 2026"
    ],
-   "updated": "2026-11-03T02:51:32Z",
+   "updated": "2026-11-03T05:08:59Z",
    "kind": "general",
    "kindLabel": "FRESH · NOV 2026",
    "source_pins": [],
@@ -3281,7 +3281,7 @@
     "pink"
    ],
    "hue": "pink",
-   "note": "Glowing river stones drifting in a pink canyon creek; one lime stone. Reason passed.",
+   "note": "Superseded, Push 3 pads version coming. Glowing pads staggered up a pink canyon creek, one lime. AI render, upscaled to 3072x3840 (not native 4K).",
    "batch": "fresh_20261103",
    "file": "img/FRESH_C1_CREEK_PADS.b64"
   },
@@ -23595,6 +23595,13 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:08:59Z",
+   "updated_items": [
+    "FRESH_C1_CREEK_PADS"
+   ],
+   "note": "fresh render updated in place: Creek Pads (v3) · SUPERSEDED"
+  },
   {
    "at": "2026-11-03T05:08:56Z",
    "updated_items": [
