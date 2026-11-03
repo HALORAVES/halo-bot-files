@@ -1,7 +1,7 @@
 {
  "total": 11,
  "done": 11,
- "updated": "2026-11-03T05:08:59Z",
+ "updated": "2026-11-03T05:09:03Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3287,14 +3287,14 @@
   },
   {
    "id": "FRESH_ROOM_LATE_HALL",
-   "title": "Homepage room: Late Hall",
+   "title": "Homepage room: Late Hall (wire v5)",
    "theme": "FRESH · NOV 2026",
    "section": "FRESH · NOV 2026",
    "status": "review",
    "rooms": [
     "FRESH · NOV 2026"
    ],
-   "updated": "2026-11-03T02:51:36Z",
+   "updated": "2026-11-03T05:09:03Z",
    "kind": "general",
    "kindLabel": "FRESH · NOV 2026",
    "source_pins": [],
@@ -3305,7 +3305,7 @@
     "acid lime"
    ],
    "hue": "acid lime",
-   "note": "Acid-lime late hall with HALO clips on the TV screens. Test composite, not approved to build.",
+   "note": "Acid-lime late hall with HALO clips on the TVs and one thin electric-yellow wire halo. Reason passed. Test composite, not approved to build.",
    "batch": "fresh_20261103",
    "file": "img/FRESH_ROOM_LATE_HALL.b64"
   },
@@ -23595,6 +23595,13 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:09:03Z",
+   "updated_items": [
+    "FRESH_ROOM_LATE_HALL"
+   ],
+   "note": "fresh render updated in place: Homepage room: Late Hall (wire v5)"
+  },
   {
    "at": "2026-11-03T05:08:59Z",
    "updated_items": [
