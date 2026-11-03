@@ -1,7 +1,7 @@
 {
- "total": 5,
- "done": 5,
- "updated": "2026-11-03T03:05:02Z",
+ "total": 6,
+ "done": 6,
+ "updated": "2026-11-03T03:05:24Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3380,6 +3380,30 @@
    "note": "Teal jellyfish over a flat-topped mesa, ribbons streaming to one side. Reason passed, 4K upscale, awaiting Spirit's pick.",
    "batch": "fresh_20261103",
    "file": "img/G7_MESA_JELLY.b64"
+  },
+  {
+   "id": "G6_SHIP_7077",
+   "title": "Ship 7077",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-03T03:05:24Z",
+   "kind": "general",
+   "kindLabel": "FRESH · NOV 2026",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "green"
+   ],
+   "hue": "green",
+   "note": "Poster render, nozzle rims darkened to metal. Reason passed, 4K upscale, awaiting Spirit's pick.",
+   "batch": "fresh_20261103",
+   "file": "img/G6_SHIP_7077.b64"
   }
  ],
  "updates": [],
@@ -23421,6 +23445,14 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T03:05:24Z",
+   "batch": "fresh_20261103",
+   "added": [
+    "G6_SHIP_7077"
+   ],
+   "note": "fresh render: Ship 7077"
+  },
   {
    "at": "2026-11-03T03:05:02Z",
    "batch": "fresh_20261103",
