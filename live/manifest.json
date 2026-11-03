@@ -1,7 +1,7 @@
 {
- "total": 8,
- "done": 8,
- "updated": "2026-11-03T05:08:43Z",
+ "total": 9,
+ "done": 9,
+ "updated": "2026-11-03T05:08:47Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3452,6 +3452,30 @@
    "note": "Street-level look up at a huge wedge ship over Mount Zion's M, violet-magenta dusk. AI render, upscaled to 3072x3840 (not native 4K). Not a phone photo; the M is a serif glyph, not the real block M. Reason result not on file.",
    "batch": "fresh_20261103",
    "file": "img/G9_M_MOUNTAIN_SHIP.b64"
+  },
+  {
+   "id": "S1_TERRACED_SHIP",
+   "title": "Terraced Ship (S1 v4)",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-03T05:08:47Z",
+   "kind": "general",
+   "kindLabel": "FRESH · NOV 2026",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "lime"
+   ],
+   "hue": "lime",
+   "note": "Torn lime-lit hull over a hazy canyon, now with glowing engine bells at the stern. AI render, upscaled to 3072x3840 (not native 4K). Reason check pending (its last round).",
+   "batch": "fresh_20261103",
+   "file": "img/S1_TERRACED_SHIP.b64"
   }
  ],
  "updates": [],
@@ -23523,6 +23547,14 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:08:47Z",
+   "batch": "fresh_20261103",
+   "added": [
+    "S1_TERRACED_SHIP"
+   ],
+   "note": "fresh render: Terraced Ship (S1 v4)"
+  },
   {
    "at": "2026-11-03T05:08:43Z",
    "batch": "fresh_20261103",
