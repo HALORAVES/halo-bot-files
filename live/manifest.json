@@ -1,7 +1,7 @@
 {
  "total": 19,
  "done": 19,
- "updated": "2026-11-03T05:18:37Z",
+ "updated": "2026-11-03T05:18:39Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3654,7 +3654,7 @@
    "rooms": [
     "FRESH · NOV 2026"
    ],
-   "updated": "2026-11-03T05:12:43Z",
+   "updated": "2026-11-03T05:18:39Z",
    "kind": "general",
    "kindLabel": "FRESH · NOV 2026",
    "source_pins": [],
@@ -3665,7 +3665,7 @@
     "ultraviolet"
    ],
    "hue": "ultraviolet",
-   "note": "A huge manta glides over Mount Zion, its shadow on the slope. All-over purple wash; the M is a serif glyph, not the real block M. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K).",
+   "note": "A huge manta glides over Mount Zion, its shadow on the slope. All-over purple wash; the M is a serif glyph, not the real block M. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K). HALO RAVES wordmark added in the corner.",
    "batch": "fresh_20261103",
    "file": "img/SOLO_S6_M_MANTA.b64"
   },
@@ -23787,6 +23787,13 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:18:39Z",
+   "updated_items": [
+    "SOLO_S6_M_MANTA"
+   ],
+   "note": "fresh render updated in place: Solo 6 · M Manta"
+  },
   {
    "at": "2026-11-03T05:18:37Z",
    "updated_items": [
