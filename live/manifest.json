@@ -1,7 +1,7 @@
 {
  "total": 19,
  "done": 19,
- "updated": "2026-11-03T05:18:26Z",
+ "updated": "2026-11-03T05:18:28Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3558,7 +3558,7 @@
    "rooms": [
     "FRESH · NOV 2026"
    ],
-   "updated": "2026-11-03T05:12:33Z",
+   "updated": "2026-11-03T05:18:28Z",
    "kind": "general",
    "kindLabel": "FRESH · NOV 2026",
    "source_pins": [],
@@ -3569,7 +3569,7 @@
     "acid lime"
    ],
    "hue": "acid lime",
-   "note": "A giant axolotl-like creek dragon rests its chin on a boulder in a lime canyon creek. Face is a bit cartoony; canyon is generic. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K).",
+   "note": "A giant axolotl-like creek dragon rests its chin on a boulder in a lime canyon creek. Face is a bit cartoony; canyon is generic. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K). HALO RAVES wordmark added in the corner.",
    "batch": "fresh_20261103",
    "file": "img/SOLO_S2_CREEK_DRAGON.b64"
   },
@@ -23787,6 +23787,13 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:18:28Z",
+   "updated_items": [
+    "SOLO_S2_CREEK_DRAGON"
+   ],
+   "note": "fresh render updated in place: Solo 2 · Creek Dragon"
+  },
   {
    "at": "2026-11-03T05:18:26Z",
    "updated_items": [
