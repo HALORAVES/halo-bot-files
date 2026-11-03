@@ -1,7 +1,7 @@
 {
- "total": 4,
- "done": 4,
- "updated": "2026-11-03T02:51:41Z",
+ "total": 5,
+ "done": 5,
+ "updated": "2026-11-03T03:05:02Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3356,6 +3356,30 @@
    "note": "Acid-violet den of stacked TVs playing HALO clips. Test composite, not approved to build.",
    "batch": "fresh_20261103",
    "file": "img/FRESH_ROOM_STACK_DEN.b64"
+  },
+  {
+   "id": "G7_MESA_JELLY",
+   "title": "Mesa Jelly",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-03T03:05:02Z",
+   "kind": "general",
+   "kindLabel": "FRESH · NOV 2026",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "teal"
+   ],
+   "hue": "teal",
+   "note": "Teal jellyfish over a flat-topped mesa, ribbons streaming to one side. Reason passed, 4K upscale, awaiting Spirit's pick.",
+   "batch": "fresh_20261103",
+   "file": "img/G7_MESA_JELLY.b64"
   }
  ],
  "updates": [],
@@ -23397,6 +23421,14 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T03:05:02Z",
+   "batch": "fresh_20261103",
+   "added": [
+    "G7_MESA_JELLY"
+   ],
+   "note": "fresh render: Mesa Jelly"
+  },
   {
    "at": "2026-11-03T02:51:41Z",
    "batch": "fresh_20261103",
