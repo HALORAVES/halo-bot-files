@@ -1,7 +1,7 @@
 {
- "total": 6,
- "done": 6,
- "updated": "2026-11-03T05:08:36Z",
+ "total": 7,
+ "done": 7,
+ "updated": "2026-11-03T05:08:41Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3404,6 +3404,30 @@
    "note": "Two sun dogs flank the sun over Mount Zion in a cold blue sky. AI render, upscaled to 3072x3840 (not native 4K). Not a real photo. Reason passed.",
    "batch": "fresh_20261103",
    "file": "img/G10_ZION_SKY_HALO.b64"
+  },
+  {
+   "id": "G11_TABLE_MESA_SKY_HALO",
+   "title": "Table Mesa Sky Halo (G11)",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-03T05:08:41Z",
+   "kind": "general",
+   "kindLabel": "FRESH · NOV 2026",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "amber"
+   ],
+   "hue": "amber",
+   "note": "Iridescent cloud band and a bright arc over South Table Mountain at golden hour. AI render, upscaled to 3072x3840 (not native 4K). Not a real photo; the arc is not physically centred on the sun. Reason passed.",
+   "batch": "fresh_20261103",
+   "file": "img/G11_TABLE_MESA_SKY_HALO.b64"
   }
  ],
  "updates": [],
@@ -23475,6 +23499,14 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:08:41Z",
+   "batch": "fresh_20261103",
+   "added": [
+    "G11_TABLE_MESA_SKY_HALO"
+   ],
+   "note": "fresh render: Table Mesa Sky Halo (G11)"
+  },
   {
    "at": "2026-11-03T05:08:36Z",
    "batch": "fresh_20261103",
