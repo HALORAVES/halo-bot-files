@@ -65,7 +65,7 @@ form.ncf{display:none;margin-top:8px;background:#111114;border:1px solid rgba(24
 <div id="nr" role="dialog" aria-label="Why nay"><div id="nrb"><h3 id="nrh">WHY NAY?</h3><div class="nri" id="nrt"></div><div class="nri" id="nrin">Your NAY is already recorded. Tap any reasons (optional) so the next batch fixes it.</div><div id="nrc"></div><div id="nrbw" style="display:none"><label>BUILD IT INTO… (OPTIONAL)</label><input id="nrbi" placeholder="e.g. a Halloween door poster, a 9:16 reel, the deck graphic"></div><label>ANYTHING ELSE (OPTIONAL)</label><input id="nrn" placeholder="e.g. pod reads like a diamond, want more color"><label>PINTEREST PIN / LINK (OPTIONAL)</label><input id="nrp" type="url" placeholder="https://pin.it/…"><div class="nra"><button id="nrskip">SKIP</button><button id="nrsave">SAVE REASONS</button></div></div></div>
 <div id="lsm" role="dialog" aria-label="Send to GitHub"><div id="lsb"><h3 id="lsh">YOUR VOTES ARE SAFE</h3><p id="lsp">This batch is too long to pre-fill on GitHub. The full text is below and was copied to your clipboard. In the GitHub tab, paste it into the issue (Ctrl/Cmd+V), then Submit.</p><textarea id="lst" readonly></textarea><div id="lsok"></div><div class="lsa"><button id="lscopy" class="pri">COPY AGAIN</button><button id="lsopen">OPEN GITHUB ISSUE</button><button id="lsdl">DOWNLOAD .TXT</button><button id="lsx">CLOSE</button></div></div></div>
 <script>
-const BUILD='20261018b';
+const BUILD='20261102a';
 const safeSet=(k,v)=>{try{localStorage.setItem(k,v);return true}catch(e){console.warn('storage save failed',k,e);return false}};
 const toast=m=>{let t=document.getElementById('toast');if(!t){t=document.createElement('div');t.id='toast';t.style.cssText='position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:#111;color:#fff;border:1px solid #ff0;padding:10px 16px;z-index:9999;font:14px sans-serif;border-radius:6px;pointer-events:none';document.body.appendChild(t)}t.textContent=m;t.style.display='block';clearTimeout(t._h);t._h=setTimeout(()=>t.style.display='none',2200)};
 try{const mk=JSON.parse(localStorage.getItem('halo_live_mk')||'{}'),ks=Object.keys(mk);if(ks.length>5){const o={};ks.slice(-5).forEach(k=>o[k]=mk[k]);if(!safeSet('halo_live_mk',JSON.stringify(o)))localStorage.removeItem('halo_live_mk')}}catch(e){}
@@ -73,7 +73,7 @@ const REPO='HALORAVES/halo-bot-files',K='halo_live_votes',KK='halo_live_keeps',P
 // Safe load: a corrupt value is backed up (never silently replaced), and a rolling snapshot restores votes/keeps if the browser dropped those keys.
 const lsLoad=(k,d)=>{let raw=null;try{raw=localStorage.getItem(k)}catch(e){return d}if(raw==null)return d;try{const v=JSON.parse(raw);return v==null?d:v}catch(e){safeSet(k+'_corrupt_'+Date.now(),raw);(window.__lsBad=window.__lsBad||{})[k]=1;console.warn('corrupt storage backed up',k);return d}};
 const MBK='halo_live_marks_bak';
-let votes=lsLoad(K,{}),keeps=lsLoad(KK,{}),pend=lsLoad(PK,[]),sig='',M=null,room=decodeURIComponent(location.hash.slice(1))||'UPDATES';
+let votes=lsLoad(K,{}),keeps=lsLoad(KK,{}),pend=lsLoad(PK,[]),sig='',M=null,room=decodeURIComponent(location.hash.slice(1))||'FRESH · NOV 2026';
 const THEMES=[["MONO/LITH", "One impossible solid in open water or wild land, alone, with weather around it."], ["DREAM/COLLAGE", "Two scales in one frame, and neither one apologizes."], ["HEAD/OPEN", "The head is a container. Show what is inside it."], ["HIDE/SKIN", "Pattern grown, not drawn."], ["SMALL/LIFE", "The smallest animal, lit like a monument."], ["MATTER/TYPE", "The letter is made of the thing it says."], ["BENT/TYPE", "The word moves the way it means."], ["SIGN/MARK", "One mark, no explanation."], ["BITE/COLOR", "Appetite in one saturated color."], ["TAPE/DECK", "The machine that played it, kept as a relic."], ["TOY/SMILE", "A small grin with a hard edge."], ["ACID/GRADIENT", "Color that glows like a screen, not paint."], ["POSTER/GRID", "Type, grid, one image, no mercy."], ["POUR/DRIP", "Something solid lets go."], ["SIGNAL/NOISE", "The picture is the interference."]];
 const NIGHTS=['time-ska','dead-punch','wizard-court','nina-break','disco-roller','spore-amen','game-piano-sands','pepper-jungle','pigs-fly','watts-void-bukem'];
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -142,6 +142,8 @@ function ktile(it){const d=document.createElement('div');d.className='kc';const 
  fillTh(d);
  return d}
 function rooms(){const P=all(),live=P.filter(x=>stat(x)!=='nay'),R=[];
+ R.push({g:'WALL',id:'FRESH · NOV 2026',name:'FRESH · NOV 2026',law:'The fresh wall: new solid renders only. Vote KEEP, YAY, NAY or BUILD ON.',empty:'New renders coming.',all:1,f:x=>x.section==='FRESH · NOV 2026'});
+ R.push({g:'WALL',id:'BOARDS + MERCH · TO EXPAND',name:'BOARDS + MERCH · TO EXPAND',law:'Board designs and merch concepts set aside to expand on.',empty:'Nothing set aside yet.',all:1,f:x=>x.section==='BOARDS + MERCH · TO EXPAND'});
  R.push({g:'WALL',id:'UPDATES',name:'UPDATES',law:'Each new version beside the one before it, with the note that moved it.',f:x=>x.upd});
  R.push({g:'WALL',id:'KEEPERS',name:'KEEPERS',law:'The gallery. Only what earned a KEEP.',f:x=>stat(x)==='keep'});
  R.push({g:'WALL',id:'IN REVIEW',name:'IN REVIEW',law:'New pieces waiting on a call: KEEP, YAY, NAY or BUILD ON.',f:x=>isRev(x)});
@@ -154,7 +156,7 @@ function rooms(){const P=all(),live=P.filter(x=>stat(x)!=='nay'),R=[];
  NIGHTS.forEach(n=>R.push({g:'NIGHTS',id:'nights:'+n,name:n.replace(/-/g,' '),law:'haloraves.com/nights/'+n,f:x=>stat(x)!=='nay'&&rms(x).includes('nights:'+n)}));
  const other=new Set();P.forEach(x=>rms(x).forEach(r=>{if(r.includes(':')&&!r.startsWith('nights:'))other.add(r)}));
  [...other].sort().forEach(r=>{const[g,...n]=r.split(':');R.push({g:g.toUpperCase(),id:r,name:n.join(':'),law:'',f:x=>stat(x)!=='nay'&&rms(x).includes(r)})});
- R.forEach(r=>r.items=(r.id==='UPDATES'?P:live.concat(r.id==='IN REVIEW'||r.id==='KEEPERS'?[]:[])).filter(r.f));const KR=R.find(r=>r.id==='KEEPERS');if(KR)KR.items=keepFinal(P);
+ R.forEach(r=>r.items=(r.id==='UPDATES'||r.all?P:live.concat(r.id==='IN REVIEW'||r.id==='KEEPERS'?[]:[])).filter(r.f));const KR=R.find(r=>r.id==='KEEPERS');if(KR)KR.items=keepFinal(P);
  R.push({g:'VIDEO',id:'VIDEO REVIEW',name:'VIDEO REVIEW',law:'HALO clips to make final calls on. Watch each one, vote KEEP, MAYBE or CUT, and leave a note. Votes and notes go out with SEND ALL PENDING and DOWNLOAD.',items:VIDS});
  R.push({g:'ARCHIVE',id:'ARCHIVE',name:'ARCHIVE',law:'Stored, not on the wall: older versions of keepers and pieces taken down in cleanup. No voting here.',items:arch()});return R}
 function arch(){return M&&M.archive?M.archive.map(x=>({...x})).filter(x=>(kindF==='all'||kof(x)[0]===kindF)&&(arF==='all'||x.archive_reason===arF)):[]}
@@ -215,8 +217,8 @@ function tile(it){const v=votes[it.id],st=stat(it),d=document.createElement('div
  if(it.upd){const be=d.querySelector('img.bef');if(bef){b64img(be,bef.file);be.style.cursor='zoom-in';be.onclick=()=>openLB(bef)}}
  d.querySelectorAll('.pp button.pdf').forEach(b=>b.onclick=()=>pdfDl(it.prints[+b.dataset.i]));{const fb=d.querySelector('.rq button.full');if(fb)fb.onclick=()=>fullDl(it.full);const fd=d.querySelector('button.fdl');if(fd)fd.onclick=()=>fullDl(it.full)}
  d.querySelectorAll('.v button[data-x]').forEach(b=>b.onclick=()=>b.dataset.x==='fb'?openLB(it):act(it,b.dataset.x));{const z=d.querySelector('button.chz');if(z)z.onclick=()=>cheesy(it)}ncWire(d,it);{const w=d.querySelector('a.nrw');if(w)w.onclick=e=>{e.preventDefault();nrOpen(it,votes[it.id])}}return d}
-function draw(){if(!M)return;const R=rooms();let r=R.find(x=>x.id===room);if(!r){room='UPDATES';r=R[0]}nav(R);
- const kept=(()=>{const kf=kindF;kindF='all';try{return all().filter(x=>stat(x)==='keep').length}finally{kindF=kf}})();document.getElementById('count').textContent=`${kept} / ${M.total} KEPT · ${all().filter(isRev).length} IN REVIEW`;document.getElementById('fill').style.width=Math.min(100,100*kept/M.total)+'%';
+function draw(){if(!M)return;const R=rooms();let r=R.find(x=>x.id===room);if(!r){room='FRESH · NOV 2026';r=R[0]}nav(R);
+ const kept=(()=>{const kf=kindF;kindF='all';try{return all().filter(x=>stat(x)==='keep').length}finally{kindF=kf}})();document.getElementById('count').textContent=`${kept} / ${M.total} KEPT · ${all().filter(isRev).length} IN REVIEW`;document.getElementById('fill').style.width=Math.min(100,100*kept/(M.total||1))+'%';
  document.getElementById('pend').textContent=`SEND ALL PENDING (${pend.length})`;
  document.getElementById('head').innerHTML=`<h1>${esc(r.name)}</h1><div class="law">${esc(r.law)}</div><div class="sub">${r.items.length} piece${r.items.length==1?'':'s'}</div>`;
  const g=document.getElementById('grid');g.className=r.id==='UPDATES'?'ups':r.id==='KEEPERS'?'kg':r.id==='PROMO PRINTS'?'pg':'';g.innerHTML='';
