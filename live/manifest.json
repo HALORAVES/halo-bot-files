@@ -1,7 +1,7 @@
 {
- "total": 9,
- "done": 9,
- "updated": "2026-11-03T05:08:47Z",
+ "total": 10,
+ "done": 10,
+ "updated": "2026-11-03T05:08:50Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3476,6 +3476,30 @@
    "note": "Torn lime-lit hull over a hazy canyon, now with glowing engine bells at the stern. AI render, upscaled to 3072x3840 (not native 4K). Reason check pending (its last round).",
    "batch": "fresh_20261103",
    "file": "img/S1_TERRACED_SHIP.b64"
+  },
+  {
+   "id": "S2_SPEAR_SHIP",
+   "title": "Spear Ship (S2 v2)",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-03T05:08:50Z",
+   "kind": "general",
+   "kindLabel": "FRESH · NOV 2026",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "electric violet"
+   ],
+   "hue": "electric violet",
+   "note": "Spear-shaped hull with hot violet rim light above a cloud deck. AI render, upscaled to 3072x3840 (not native 4K). Reason result not on file.",
+   "batch": "fresh_20261103",
+   "file": "img/S2_SPEAR_SHIP.b64"
   }
  ],
  "updates": [],
@@ -23547,6 +23571,14 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:08:50Z",
+   "batch": "fresh_20261103",
+   "added": [
+    "S2_SPEAR_SHIP"
+   ],
+   "note": "fresh render: Spear Ship (S2 v2)"
+  },
   {
    "at": "2026-11-03T05:08:47Z",
    "batch": "fresh_20261103",
