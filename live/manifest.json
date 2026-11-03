@@ -1,7 +1,7 @@
 {
- "total": 7,
- "done": 7,
- "updated": "2026-11-03T05:08:41Z",
+ "total": 8,
+ "done": 8,
+ "updated": "2026-11-03T05:08:43Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3428,6 +3428,30 @@
    "note": "Iridescent cloud band and a bright arc over South Table Mountain at golden hour. AI render, upscaled to 3072x3840 (not native 4K). Not a real photo; the arc is not physically centred on the sun. Reason passed.",
    "batch": "fresh_20261103",
    "file": "img/G11_TABLE_MESA_SKY_HALO.b64"
+  },
+  {
+   "id": "G9_M_MOUNTAIN_SHIP",
+   "title": "M Mountain Ship (G9 v2)",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-03T05:08:43Z",
+   "kind": "general",
+   "kindLabel": "FRESH · NOV 2026",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "violet-magenta"
+   ],
+   "hue": "violet-magenta",
+   "note": "Street-level look up at a huge wedge ship over Mount Zion's M, violet-magenta dusk. AI render, upscaled to 3072x3840 (not native 4K). Not a phone photo; the M is a serif glyph, not the real block M. Reason result not on file.",
+   "batch": "fresh_20261103",
+   "file": "img/G9_M_MOUNTAIN_SHIP.b64"
   }
  ],
  "updates": [],
@@ -23499,6 +23523,14 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:08:43Z",
+   "batch": "fresh_20261103",
+   "added": [
+    "G9_M_MOUNTAIN_SHIP"
+   ],
+   "note": "fresh render: M Mountain Ship (G9 v2)"
+  },
   {
    "at": "2026-11-03T05:08:41Z",
    "batch": "fresh_20261103",
