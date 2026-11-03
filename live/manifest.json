@@ -1,7 +1,7 @@
 {
  "total": 19,
  "done": 19,
- "updated": "2026-11-03T05:18:31Z",
+ "updated": "2026-11-03T05:18:34Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3606,7 +3606,7 @@
    "rooms": [
     "FRESH · NOV 2026"
    ],
-   "updated": "2026-11-03T05:12:38Z",
+   "updated": "2026-11-03T05:18:34Z",
    "kind": "general",
    "kindLabel": "FRESH · NOV 2026",
    "source_pins": [],
@@ -3617,7 +3617,7 @@
     "acid orange-red"
    ],
    "hue": "acid orange-red",
-   "note": "A giant black cat drapes over a flat-top butte above a town and a freight train. Butte is generic, closer to Castle Rock than South Table. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K).",
+   "note": "A giant black cat drapes over a flat-top butte above a town and a freight train. Butte is generic, closer to Castle Rock than South Table. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K). HALO RAVES wordmark added in the corner.",
    "batch": "fresh_20261103",
    "file": "img/SOLO_S4_MESA_CAT.b64"
   },
@@ -23787,6 +23787,13 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:18:34Z",
+   "updated_items": [
+    "SOLO_S4_MESA_CAT"
+   ],
+   "note": "fresh render updated in place: Solo 4 · Mesa Cat"
+  },
   {
    "at": "2026-11-03T05:18:31Z",
    "updated_items": [
