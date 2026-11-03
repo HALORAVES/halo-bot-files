@@ -1,7 +1,7 @@
 {
- "total": 15,
- "done": 15,
- "updated": "2026-11-03T05:12:38Z",
+ "total": 16,
+ "done": 16,
+ "updated": "2026-11-03T05:12:40Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3620,6 +3620,30 @@
    "note": "A giant black cat drapes over a flat-top butte above a town and a freight train. Butte is generic, closer to Castle Rock than South Table. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K).",
    "batch": "fresh_20261103",
    "file": "img/SOLO_S4_MESA_CAT.b64"
+  },
+  {
+   "id": "SOLO_S5_ANT_TRAIL",
+   "title": "Solo 5 · Ant Trail",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-03T05:12:40Z",
+   "kind": "general",
+   "kindLabel": "FRESH · NOV 2026",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "teal-pink"
+   ],
+   "hue": "teal-pink",
+   "note": "A trail of glowing giant ants climbs a mesa and lifts off as a pink cloud ribbon. Ants read only up close; ribbon may read as smoke. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K).",
+   "batch": "fresh_20261103",
+   "file": "img/SOLO_S5_ANT_TRAIL.b64"
   }
  ],
  "updates": [],
@@ -23691,6 +23715,14 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:12:40Z",
+   "batch": "fresh_20261103",
+   "added": [
+    "SOLO_S5_ANT_TRAIL"
+   ],
+   "note": "fresh render: Solo 5 · Ant Trail"
+  },
   {
    "at": "2026-11-03T05:12:38Z",
    "batch": "fresh_20261103",
