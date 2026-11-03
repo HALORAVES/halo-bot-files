@@ -1,7 +1,7 @@
 {
- "total": 2,
- "done": 2,
- "updated": "2026-11-03T02:51:36Z",
+ "total": 3,
+ "done": 3,
+ "updated": "2026-11-03T02:51:39Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3308,6 +3308,30 @@
    "note": "Acid-lime late hall with HALO clips on the TV screens. Test composite, not approved to build.",
    "batch": "fresh_20261103",
    "file": "img/FRESH_ROOM_LATE_HALL.b64"
+  },
+  {
+   "id": "FRESH_ROOM_DEEP_END",
+   "title": "Homepage room: Deep End",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-03T02:51:39Z",
+   "kind": "general",
+   "kindLabel": "FRESH · NOV 2026",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "teal"
+   ],
+   "hue": "teal",
+   "note": "Teal tiled deep end with HALO clips on the TV screens. Test composite, not approved to build.",
+   "batch": "fresh_20261103",
+   "file": "img/FRESH_ROOM_DEEP_END.b64"
   }
  ],
  "updates": [],
@@ -23349,6 +23373,14 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T02:51:39Z",
+   "batch": "fresh_20261103",
+   "added": [
+    "FRESH_ROOM_DEEP_END"
+   ],
+   "note": "fresh render: Homepage room: Deep End"
+  },
   {
    "at": "2026-11-03T02:51:36Z",
    "batch": "fresh_20261103",
