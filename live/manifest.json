@@ -1,7 +1,7 @@
 {
  "total": 11,
  "done": 11,
- "updated": "2026-11-03T05:08:53Z",
+ "updated": "2026-11-03T05:08:56Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3359,14 +3359,14 @@
   },
   {
    "id": "G7_MESA_JELLY",
-   "title": "Mesa Jelly",
+   "title": "Mesa Jelly (v6)",
    "theme": "FRESH · NOV 2026",
    "section": "FRESH · NOV 2026",
    "status": "review",
    "rooms": [
     "FRESH · NOV 2026"
    ],
-   "updated": "2026-11-03T03:05:02Z",
+   "updated": "2026-11-03T05:08:56Z",
    "kind": "general",
    "kindLabel": "FRESH · NOV 2026",
    "source_pins": [],
@@ -3374,10 +3374,10 @@
    "tags": [
     "fresh",
     "nov2026",
-    "teal"
+    "blue-violet"
    ],
-   "hue": "teal",
-   "note": "Teal jellyfish over a flat-topped mesa, ribbons streaming to one side. Reason passed, 4K upscale, awaiting Spirit's pick.",
+   "hue": "blue-violet",
+   "note": "Frosted white bell glowing blue-violet over South Table Mountain; golden clouds on the left side only. Replaces the teal version on this card. AI render, upscaled to 3072x3840 (not native 4K). Reason check pending.",
    "batch": "fresh_20261103",
    "file": "img/G7_MESA_JELLY.b64"
   },
@@ -23595,6 +23595,13 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:08:56Z",
+   "updated_items": [
+    "G7_MESA_JELLY"
+   ],
+   "note": "fresh render updated in place: Mesa Jelly (v6)"
+  },
   {
    "at": "2026-11-03T05:08:53Z",
    "batch": "fresh_20261103",
