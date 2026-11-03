@@ -1,7 +1,7 @@
 {
  "total": 11,
  "done": 11,
- "updated": "2026-11-03T05:09:05Z",
+ "updated": "2026-11-03T05:09:08Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3335,14 +3335,14 @@
   },
   {
    "id": "FRESH_ROOM_STACK_DEN",
-   "title": "Homepage room: Stack Den",
+   "title": "Homepage room: Stack Den (wire v4)",
    "theme": "FRESH · NOV 2026",
    "section": "FRESH · NOV 2026",
    "status": "review",
    "rooms": [
     "FRESH · NOV 2026"
    ],
-   "updated": "2026-11-03T02:51:41Z",
+   "updated": "2026-11-03T05:09:08Z",
    "kind": "general",
    "kindLabel": "FRESH · NOV 2026",
    "source_pins": [],
@@ -3353,7 +3353,7 @@
     "acid violet"
    ],
    "hue": "acid violet",
-   "note": "Acid-violet den of stacked TVs playing HALO clips. Test composite, not approved to build.",
+   "note": "Acid-violet den of stacked TVs playing HALO clips, with brighter electric-yellow wire halos. Reason recheck pending. Test composite, not approved to build.",
    "batch": "fresh_20261103",
    "file": "img/FRESH_ROOM_STACK_DEN.b64"
   },
@@ -23595,6 +23595,13 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:09:08Z",
+   "updated_items": [
+    "FRESH_ROOM_STACK_DEN"
+   ],
+   "note": "fresh render updated in place: Homepage room: Stack Den (wire v4)"
+  },
   {
    "at": "2026-11-03T05:09:05Z",
    "updated_items": [
