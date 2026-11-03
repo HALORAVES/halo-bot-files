@@ -1,7 +1,7 @@
 {
- "total": 12,
- "done": 12,
- "updated": "2026-11-03T05:12:30Z",
+ "total": 13,
+ "done": 13,
+ "updated": "2026-11-03T05:12:33Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3548,6 +3548,30 @@
    "note": "A block-size orange cat naps on a park lawn by a creek, mesa behind. Lawn is olive, so not fully teal; the mesa is generic. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K).",
    "batch": "fresh_20261103",
    "file": "img/SOLO_S1_LAWN_CAT.b64"
+  },
+  {
+   "id": "SOLO_S2_CREEK_DRAGON",
+   "title": "Solo 2 · Creek Dragon",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-03T05:12:33Z",
+   "kind": "general",
+   "kindLabel": "FRESH · NOV 2026",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "acid lime"
+   ],
+   "hue": "acid lime",
+   "note": "A giant axolotl-like creek dragon rests its chin on a boulder in a lime canyon creek. Face is a bit cartoony; canyon is generic. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K).",
+   "batch": "fresh_20261103",
+   "file": "img/SOLO_S2_CREEK_DRAGON.b64"
   }
  ],
  "updates": [],
@@ -23619,6 +23643,14 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:12:33Z",
+   "batch": "fresh_20261103",
+   "added": [
+    "SOLO_S2_CREEK_DRAGON"
+   ],
+   "note": "fresh render: Solo 2 · Creek Dragon"
+  },
   {
    "at": "2026-11-03T05:12:30Z",
    "batch": "fresh_20261103",
