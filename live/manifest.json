@@ -1,8 +1,1464 @@
 {
- "total": 20,
- "done": 20,
- "updated": "2026-11-03T02:43:28Z",
+ "total": 0,
+ "done": 0,
+ "updated": "2026-11-03T02:47:06Z",
  "items": [
+  {
+   "id": "HYB_SINNER_SKA_F2",
+   "title": "Sinner × Ska · second fresh take · the ember apple and the ember pod · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-18T03:27:27Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct18-batch",
+    "event",
+    "fresh",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second fresh take for Sinner × Ska: A faceted crystal apple glowing ember red under a gold halo floats above a flooded black-and-white checker-tiled chapel floor, red and gold stained-glass light shafts cutting the fog, under the HALO UFO pod, an ember-skinned very low, flat, thin lens-shaped disc, like two shallow plates rim to rim, four times wider than tall, seen nearly edge-on, faceted crystal, no dome, no cockpit, no legs, no lights ring. A brass trombone mouthpiece on a wet tile in the foreground. Pod held to the crystal lens-saucer silhouette.",
+   "batch": "batch_20261018_0231",
+   "file": "img/HYB_SINNER_SKA_F2.b64",
+   "prev_section": "Event Nights · Fresh · Oct 18 (overnight)",
+   "reference": true
+  },
+  {
+   "id": "HYB_UPSIDE_DOWN_F1",
+   "title": "Upside / Down · fresh · the inverted plaza · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T23:36:56Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Upside / Down: A neo-brutal plaza hangs upside down over black water that mirrors it the right way up; a cyan waterfall pours upward; floating crystal steps. No outside IP cues.",
+   "batch": "batch_20261017_2331",
+   "file": "img/HYB_UPSIDE_DOWN_F1.b64",
+   "prev_section": "Event Nights · Fresh · Oct 17 (late night)",
+   "reference": true
+  },
+  {
+   "id": "HYB_OFFICE_OUT_F1",
+   "title": "Office / Out · fresh · the paper birds and the amber pod · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T23:36:56Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Office / Out: A flooded empty office at dusk; paper sheets fold into birds and fly out an open window toward an amber-skinned lens-saucer pod. Pod held to the crystal lens-saucer silhouette.",
+   "batch": "batch_20261017_2331",
+   "file": "img/HYB_OFFICE_OUT_F1.b64",
+   "prev_section": "Event Nights · Fresh · Oct 17 (late night)",
+   "reference": true
+  },
+  {
+   "id": "HYB_SINNER_SKA_F1",
+   "title": "Sinner × Ska · fresh · the confession booth on the checker lake · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T22:35:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Sinner × Ska: the confession booth on the checker lake, built from the night's theme in the locked hybrid style.",
+   "batch": "batch_20261017_2229",
+   "file": "img/HYB_SINNER_SKA_F1.b64",
+   "prev_section": "Event Nights · Fresh · Oct 17 (late)",
+   "reference": true
+  },
+  {
+   "id": "HYB_SPORE_AMEN_F1",
+   "title": "Spore / Amen · fresh · the spore cathedral · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T21:35:42Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Spore / Amen: the spore cathedral, built from the night's poster hero object in the locked hybrid style.",
+   "batch": "batch_20261017_2129",
+   "file": "img/HYB_SPORE_AMEN_F1.b64",
+   "prev_section": "Event Nights · Fresh · Oct 17 (night)",
+   "reference": true
+  },
+  {
+   "id": "HYB_WORD_SOUL_F1",
+   "title": "Word / Sade / Soul · fresh · the golden mic lounge · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T21:35:42Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · FRESH · HYBRID",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "fresh"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Fresh event-night piece for Word / Sade / Soul: the golden mic lounge, built from the night's poster hero object in the locked hybrid style.",
+   "batch": "batch_20261017_2129",
+   "file": "img/HYB_WORD_SOUL_F1.b64",
+   "prev_section": "Event Nights · Fresh · Oct 17 (night)",
+   "reference": true
+  },
+  {
+   "id": "HYB_POD_DEFAULT_02",
+   "title": "UFO Pod Worlds · Default · second pass · pastel clouds, checker plinths, tiny doors · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T20:39:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_POD_DEFAULT_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_DEFAULT_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd HYB_POD_DEFAULT_01: second pass · pastel clouds, checker plinths, tiny doors, with the pod held to the locked crystal lens-saucer silhouette and a sharper hero composition.",
+   "batch": "batch_20261017_2033",
+   "file": "img/HYB_POD_DEFAULT_02.b64",
+   "prev_section": "Second Pass · Oct 17 (evening)",
+   "reference": true
+  },
+  {
+   "id": "HYB_DREAM_BLOCKS_02",
+   "title": "Dream / Blocks · second pass · the stacked cube dream city · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T20:39:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_DREAM_BLOCKS_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DREAM_BLOCKS_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on the yay'd HYB_DREAM_BLOCKS_01: the stacked cube dream city, with the pod held to the locked crystal lens-saucer silhouette and a sharper hero composition.",
+   "batch": "batch_20261017_2033",
+   "file": "img/HYB_DREAM_BLOCKS_02.b64",
+   "prev_section": "Second Pass · Oct 17 (evening)",
+   "reference": true
+  },
+  {
+   "id": "HYB_DIAMONDS_GARDEN_03",
+   "title": "Diamonds / Garden · rebuild · exotic crystal plants (not a sneaker) · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T18:40:35Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · SPIRIT NOTE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_DIAMONDS_GARDEN_02",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DIAMONDS_GARDEN_02.b64"
+    },
+    {
+     "label": "Spirit vote/note #112",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/112"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Rebuild honoring Spirit feedback #112 on Diamonds/Garden: rather see exotic plants looking like crystals than a sneaker. A flooded neo-brutal greenhouse garden of towering exotic plants whose leaves and blooms are living crystal facets, no sneaker",
+   "batch": "batch_20261017_1825",
+   "file": "img/HYB_DIAMONDS_GARDEN_03.b64",
+   "of": "HYB_DIAMONDS_GARDEN_02",
+   "builds_on": "HYB_DIAMONDS_GARDEN_02",
+   "spirit_note": "rather see exotic plants looking like crystals than a sneaker",
+   "spirit_note_issue": 112,
+   "prev_section": "Build On · Spirit Notes · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_THREE170_02",
+   "title": "Three / 170 · rebuild · Clear Creek Canyon nature surrealism · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T18:40:35Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · SPIRIT NOTE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_POD_THREE170_01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_POD_THREE170_01.b64"
+    },
+    {
+     "label": "Spirit vote/note #110",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/110"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Rebuild honoring Spirit feedback #110 on POD/Three170: more like nature surrealism dreamcore within Clear Creek Canyon — red granite canyon walls, a turquoise creek, dreamcore flora, the crystal-lens pod gliding low",
+   "batch": "batch_20261017_1825",
+   "file": "img/HYB_THREE170_02.b64",
+   "of": "HYB_POD_THREE170_01",
+   "builds_on": "HYB_POD_THREE170_01",
+   "spirit_note": "more like nature surrealism dreamcore within clear creek canyon",
+   "spirit_note_issue": 110,
+   "prev_section": "Build On · Spirit Notes · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_ROCKY_WARP_03",
+   "title": "Rocky / Warp · rebuild · the iconic house and the time-warp gate · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T18:40:35Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · SPIRIT NOTE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_ROCKY_WARP_02",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_ROCKY_WARP_02.b64"
+    },
+    {
+     "label": "Spirit vote/note #111",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/111"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Rebuild honoring Spirit feedback #111 on Rocky/Warp: use the iconic house and time machine aspect of the rocky/warp vibe — a solitary mid-century house on a rocky mesa with a glowing circular time-warp gate (original design, no outside IP vehicles or logos)",
+   "batch": "batch_20261017_1825",
+   "file": "img/HYB_ROCKY_WARP_03.b64",
+   "of": "HYB_ROCKY_WARP_02",
+   "builds_on": "HYB_ROCKY_WARP_02",
+   "spirit_note": "use the iconic house and time machine aspect of the rocky/warp vibe",
+   "spirit_note_issue": 111,
+   "prev_section": "Build On · Spirit Notes · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_DOOM_DUNE_03",
+   "title": "Doom / Dune · rebuild · liminal CRT field (pin-faithful) · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T18:40:35Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · SPIRIT NOTE · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Built on HYB_DOOM_DUNE_02",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DOOM_DUNE_02.b64"
+    },
+    {
+     "label": "Spirit vote/note #116",
+     "url": "https://github.com/HALORAVES/halo-bot-files/issues/116"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch",
+    "build-on"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Rebuild honoring Spirit feedback #116 on Doom/Dune: more like the reference photos — liminal grassy hill, colossal CRT with cyan-purple glitch screen, soft daylight dreamcore (from Spirit's pin refs), no outside IP UI chrome",
+   "batch": "batch_20261017_1825",
+   "file": "img/HYB_DOOM_DUNE_03.b64",
+   "of": "HYB_DOOM_DUNE_02",
+   "builds_on": "HYB_DOOM_DUNE_02",
+   "spirit_note": "more like the reference photos (pin refs)",
+   "spirit_note_issue": 116,
+   "prev_section": "Build On · Spirit Notes · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_THE_DOCK_02",
+   "title": "The / Dock · second pass · the gold ring portal and its light rails · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T17:34:07Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_THE_DOCK_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_THE_DOCK_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on The / Dock: from the poster's blazing gold ring of light in deep black space with thin white light rails converging into it: a colossal glowing gold ring portal hangs over a flooded concrete docking pier in the void, white light rails converging into it, a haloed traveller at the end of the pier",
+   "batch": "batch_20261017_1727",
+   "file": "img/HYB_THE_DOCK_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_GYPSY_PALM_02",
+   "title": "Gypsy × Palm · second pass · the liquid gold hand · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T17:34:07Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_GYPSY_PALM_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_GYPSY_PALM_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Gypsy × Palm: from the poster's flowing ribbon of liquid gold that ends in an open palm on black: a colossal swirling ribbon of liquid gold rises out of a flooded concrete plaza and opens into a giant upturned palm, a haloed dancer standing on it",
+   "batch": "batch_20261017_1727",
+   "file": "img/HYB_GYPSY_PALM_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_THE_BUILD_02",
+   "title": "The Build · second pass · the chrome microphone exploding into gold and cyan · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T17:34:07Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_THE_BUILD_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_THE_BUILD_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on The Build: from the poster's vintage chrome microphone exploding with gold flakes, cyan data shards and floating black cubes: a colossal chrome studio microphone in a flooded concrete scaffold hall, bursting into gold paint and cyan glitch shards with concrete cubes flying out, a haloed builder below",
+   "batch": "batch_20261017_1727",
+   "file": "img/HYB_THE_BUILD_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_WEEK_INWARDS_02",
+   "title": "Inwards · second pass · the golden path into the jungle · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T17:34:07Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_WEEK_INWARDS_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_WEEK_INWARDS_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Inwards: from the poster's narrow glowing path running into a misty golden jungle: a narrow flooded concrete path runs inward between towering dark jungle walls toward a glowing golden haze, a haloed walker on it",
+   "batch": "batch_20261017_1727",
+   "file": "img/HYB_WEEK_INWARDS_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_WORD_SOUL_02",
+   "title": "Word / Sade / Soul · second pass · the golden furred spirit in its chain · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T17:34:07Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_WORD_SOUL_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_WORD_SOUL_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Word / Sade / Soul: from the poster's soft yellow furred teardrop creature with chrome spikes, a silver chain and a gold honeycomb fin on black: a giant soft furred golden-yellow spirit form floats in a flooded black concrete lounge, wrapped in a silver chain, a gold honeycomb wing beside it, a haloed singer below",
+   "batch": "batch_20261017_1727",
+   "file": "img/HYB_WORD_SOUL_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_ALMOST_HOME_02",
+   "title": "Almost / Home · second pass · the last ember line on the dark ridge · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T16:39:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_ALMOST_HOME_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_ALMOST_HOME_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Almost / Home: from the poster's thin burning ember horizon under a heavy dusk sky: a dark flooded concrete ridge road runs toward one lit doorway on the horizon, a single glowing ember-red seam of last light across the sky, a haloed walker almost home",
+   "batch": "batch_20261017_1633",
+   "file": "img/HYB_ALMOST_HOME_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_BEAM_LAWN_02",
+   "title": "Beam / Lawn · second pass · the brass reactor and its lime beam · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T16:39:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_BEAM_LAWN_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_BEAM_LAWN_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Beam / Lawn: from the poster's ornate brass-and-glass reactor firing a lime beam: a colossal antique brass reactor tower with a glowing lime-green core stands on a flooded concrete lawn cathedral, firing one lime beam into the night, a haloed engineer below",
+   "batch": "batch_20261017_1633",
+   "file": "img/HYB_BEAM_LAWN_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_TIME_SKA_02",
+   "title": "Time × Ska · second pass · the gold clock melting into checkerboard · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T16:39:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_TIME_SKA_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_TIME_SKA_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Time × Ska: from the poster's antique gold clock whose right half breaks into black-and-white checker tiles: a colossal gold clock face hangs over a flooded concrete plaza, its right side shattering into floating black and white checker tiles, a haloed dancer skanking below",
+   "batch": "batch_20261017_1633",
+   "file": "img/HYB_TIME_SKA_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_MOZART_DISCOVERY_02",
+   "title": "Discovery / Chamber · second pass · the marble bust opening into a galaxy · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T16:39:52Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_MOZART_DISCOVERY_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_MOZART_DISCOVERY_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Discovery / Chamber: from the poster's classical marble bust whose far half dissolves into a glittering nebula inside a honeycomb ring: a colossal marble bust in profile stands in a flooded concrete chamber, the back half of the head opening into a galaxy of iridescent crystal, a haloed listener below. No headphones (fixes headphone audit #22)",
+   "batch": "batch_20261017_1633",
+   "file": "img/HYB_MOZART_DISCOVERY_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_UNFINISHED_THIRD_02",
+   "title": "Unfinished / Third · second pass · two monoliths and the lime energy wraith · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T15:33:31Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_UNFINISHED_THIRD_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_UNFINISHED_THIRD_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Unfinished / Third: from the poster's two rough monoliths and a third shape of crackling lime energy: two colossal unfinished concrete monoliths stand in a flooded quarry, a third figure of crackling lime energy between them, a haloed watcher below",
+   "batch": "batch_20261017_1526",
+   "file": "img/HYB_UNFINISHED_THIRD_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_SYMPATHY_NAILS_02",
+   "title": "Sympathy / Nails · second pass · the chain from the storm · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T15:33:31Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_SYMPATHY_NAILS_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SYMPATHY_NAILS_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Sympathy / Nails: from the poster's heavy chain lowered from the storm: a colossal rusted iron chain descends from a storm ceiling into a flooded concrete nave, sparks at each link, a haloed figure reaching up",
+   "batch": "batch_20261017_1526",
+   "file": "img/HYB_SYMPATHY_NAILS_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_JUNGLE_80S_02",
+   "title": "Jungle / 80s · second pass · the synth in the gold-dripping monstera grove · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T15:33:31Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_JUNGLE_80S_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_JUNGLE_80S_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Jungle / 80s: from the poster's synth keyboard in a gold-dripping monstera grove: a giant chrome synth floats in a flooded concrete greenhouse of colossal monstera leaves dripping liquid gold, a haloed player below",
+   "batch": "batch_20261017_1526",
+   "file": "img/HYB_JUNGLE_80S_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_AFTER_NOON_02",
+   "title": "After / Noon · second pass · the lemon sun on its pole · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T14:38:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_AFTER_NOON_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_AFTER_NOON_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on After / Noon: from the poster's flat lemon sun on a tall yellow pole over black: a giant glowing lemon-yellow sun disc stands on a tall thin pole in a flooded black concrete plaza at high noon, a haloed figure resting in its pool of light",
+   "batch": "batch_20261017_1432",
+   "file": "img/HYB_AFTER_NOON_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_AFTER_MIDNIGHT_02",
+   "title": "After / Midnight · second pass · the yellow ring and the cyan slash · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T14:38:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_AFTER_MIDNIGHT_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_AFTER_MIDNIGHT_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on After / Midnight: from the poster's thin yellow ring crossed by a cyan light slash: a colossal ring of acid-yellow neon hangs over a black rain city, a razor cyan beam slicing diagonally through it, a haloed walker on the wet street below",
+   "batch": "batch_20261017_1432",
+   "file": "img/HYB_AFTER_MIDNIGHT_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_REPUTATION_02",
+   "title": "Reputation · second pass · the lone mic in the falling white shards · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T14:38:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_REPUTATION_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_REPUTATION_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Reputation: from the poster's single white spotlight over a lone microphone with shards of white paper falling: one hard white spotlight falls on a single vintage microphone on a black mirror stage, white shards hanging in the air, a haloed singer stepping into the light",
+   "batch": "batch_20261017_1432",
+   "file": "img/HYB_REPUTATION_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_MOON_METER_02",
+   "title": "Moon / Meter · second pass · the glass wire moon over the keys · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T14:38:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_MOON_METER_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_MOON_METER_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Moon / Meter: from the poster's clear wireframe crystal sphere marked 0/4 over a strip of piano keys and yellow paint: a colossal clear glass wireframe moon hangs over a flooded concrete hall whose floor is a giant row of piano keys, acid-yellow paint splashing up, a haloed pianist below",
+   "batch": "batch_20261017_1432",
+   "file": "img/HYB_MOON_METER_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_SEPARATE_WAYS_02",
+   "title": "Separate / Ways · second pass · the red lightning splitting the night · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T14:38:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_SEPARATE_WAYS_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SEPARATE_WAYS_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Separate / Ways: from the poster's violent red lightning tearing across black: colossal frozen forks of crimson lightning split the sky over a flooded concrete crossroads, the road below splitting two ways, a haloed traveler at the fork",
+   "batch": "batch_20261017_1432",
+   "file": "img/HYB_SEPARATE_WAYS_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_HAZE_RIFF_02",
+   "title": "Haze / Riff / Future · second pass · the violet smoke and the crescent arc · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T14:38:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_HAZE_RIFF_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_HAZE_RIFF_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Haze / Riff / Future: from the poster's swirling violet smoke cut by a thin bright crescent arc: a colossal river of violet smoke curls through a flooded concrete hall under a giant glowing white-violet crescent arc, a haloed guitarist silhouette below",
+   "batch": "batch_20261017_1432",
+   "file": "img/HYB_HAZE_RIFF_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_CRYSTAL_CUT_02",
+   "title": "Crystal / Cut · second pass · the cyan gem split by yellow light · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T13:40:21Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_CRYSTAL_CUT_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_CRYSTAL_CUT_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Crystal / Cut: from the poster's giant faceted cyan gem outlined in acid-yellow light with a violet star inside: a colossal cut cyan crystal stands in a flooded black quarry, its facets traced by razor yellow light lines, a violet nebula glowing in its heart, a haloed miner small at its base",
+   "batch": "batch_20261017_1333",
+   "file": "img/HYB_CRYSTAL_CUT_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_SKY_SHIP_02",
+   "title": "Sky / Ship · second pass · the dragonfly glider and the cloud castle · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T13:40:21Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_SKY_SHIP_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_SKY_SHIP_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Sky / Ship: from the poster's brass dragonfly-winged airship flying past a castle on golden clouds: a small brass glider with four dragonfly wings drifts past a floating neo-brutal concrete citadel on a bank of golden clouds, a haloed pilot at its helm",
+   "batch": "batch_20261017_1333",
+   "file": "img/HYB_SKY_SHIP_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_HEAVY_BIRTH_02",
+   "title": "Heavy × Birth · second pass · the black egg cracking open with gold light · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T12:33:26Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_HEAVY_BIRTH_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_HEAVY_BIRTH_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Heavy × Birth (no headphones this time): from the poster's dark orb splitting with gold lightning: a colossal black obsidian egg on a flooded concrete plinth cracks open with branching molten-gold light, shards floating outward, a haloed watcher small before it",
+   "batch": "batch_20261017_1226",
+   "file": "img/HYB_HEAVY_BIRTH_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_MONOLITH_MOON_02",
+   "title": "Monolith / Moon · second pass · the yellow-edged slab and the pod at moonrise · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T12:33:26Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_MONOLITH_MOON_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_MONOLITH_MOON_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Monolith / Moon: from the poster's black slab with an acid-yellow edge and a small white moon: a colossal black monolith with a glowing yellow edge stands in a flooded lunar plain as a tiny white moon rises over its corner, the HALO pod hovering far behind",
+   "batch": "batch_20261017_1226",
+   "file": "img/HYB_MONOLITH_MOON_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_DARKSIDE_BUKEM_02",
+   "title": "Dark Side / Bukem · second pass · the crystal pyramid dripping liquid neon · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T12:33:26Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_DARKSIDE_BUKEM_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_DARKSIDE_BUKEM_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Dark Side / Bukem: from the poster's glass pyramid full of swirling magenta and cyan liquid that drips below: a colossal clear crystal pyramid filled with swirling liquid neon stands over a black lake, its colors dripping down into the water, a haloed traveler on a concrete jetty",
+   "batch": "batch_20261017_1226",
+   "file": "img/HYB_DARKSIDE_BUKEM_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_BOLERO_SNARE_02",
+   "title": "Boléro / Snare · second pass · the snare that erupts into yellow voxels · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T03:34:12Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_BOLERO_SNARE_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_BOLERO_SNARE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Boléro / Snare: straight from the poster's yellow pixel burst: a colossal chrome-and-black snare drum on a flooded concrete plinth erupts upward into a towering fountain of glowing yellow voxels, a haloed drummer small at its foot",
+   "batch": "batch_20261017_0329",
+   "file": "img/HYB_BOLERO_SNARE_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_ORCHESTRA_PEAK_02",
+   "title": "Orchestra / Peak · second pass · the pendulum through the red paint storm · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T03:34:12Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_ORCHESTRA_PEAK_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_ORCHESTRA_PEAK_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Orchestra / Peak: from the poster's red, black and cream paint explosion: a giant gold pendulum swings through a monumental concrete concert hall frozen mid-burst in red and gold paint splash, a haloed conductor below",
+   "batch": "batch_20261017_0329",
+   "file": "img/HYB_ORCHESTRA_PEAK_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_CASTLE_ORGAN_02",
+   "title": "Castle / Organ · second pass · lightning strikes the crimson organ cathedral · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T03:34:12Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_CASTLE_ORGAN_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_CASTLE_ORGAN_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Castle / Organ: from the poster's red gothic spires and white lightning: a black gothic cathedral of organ pipes stands in a flooded crimson storm, a single white lightning bolt striking its tallest pipe, a haloed organist on the steps",
+   "batch": "batch_20261017_0329",
+   "file": "img/HYB_CASTLE_ORGAN_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_GAME_PIANO_SANDS_02",
+   "title": "Game / Piano / Sands · second pass · the spiked gold heart locket over the honeycomb dunes · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T03:34:12Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_GAME_PIANO_SANDS_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_GAME_PIANO_SANDS_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Game / Piano / Sands: from the poster's gold spiked heart on a chain: a colossal gold heart locket studded with crystal spikes hangs on a giant chain over night dunes whose sand is patterned like honeycomb, a haloed pianist playing a white piano on the sand below",
+   "batch": "batch_20261017_0329",
+   "file": "img/HYB_GAME_PIANO_SANDS_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_GOLD_RINGS_02",
+   "title": "Gold / Rings · second pass · the pod threading the green-gold ring stream · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T03:34:12Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_GOLD_RINGS_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_GOLD_RINGS_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass",
+    "ufo-pod"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Gold / Rings: from the poster's gold rings flying through green and gold light streaks: the HALO pod threads a diagonal stream of giant floating gold rings and emerald light trails above a flooded concrete causeway at night",
+   "batch": "batch_20261017_0329",
+   "file": "img/HYB_GOLD_RINGS_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_WATTS_VOID_02",
+   "title": "Watts / Void · second pass · the spiked gold portal ring over the mirror void · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T03:34:12Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_WATTS_VOID_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_WATTS_VOID_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Watts / Void: from the poster's spiked gold ring holding a magenta-and-cyan nebula: a colossal ornate gold portal ring crowned with silver spikes stands on a mirror-black plain, a swirling magenta and cyan nebula churning inside it, a haloed traveler before it",
+   "batch": "batch_20261017_0329",
+   "file": "img/HYB_WATTS_VOID_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_NIGHTMARE_02",
+   "title": "Nightmare / Calibre · second pass · the split mask rising from the black lake · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T02:40:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_NIGHTMARE_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_NIGHTMARE_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Nightmare / Calibre (Oct 31): straight from the poster: a colossal split mask rises from a black lake, one half smooth white porcelain, the other dark faceted chrome, acid-green glowing vines pouring down the seam, a gold halo above",
+   "batch": "batch_20261017_0225",
+   "file": "img/HYB_NIGHTMARE_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_THRILLER_LOFI_02",
+   "title": "Thriller / Downtempo / Lofi · second pass · walking the grooves of the crimson record · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T02:40:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_THRILLER_LOFI_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_THRILLER_LOFI_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Thriller / Downtempo / Lofi (Dec 12): the poster's dripping red-and-gold record is now a landscape: a tiny haloed walker crossing the grooves of a colossal crimson vinyl laid flat, its edge pouring liquid gold into a black sea",
+   "batch": "batch_20261017_0225",
+   "file": "img/HYB_THRILLER_LOFI_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "HYB_EVE_HOUR_02",
+   "title": "Eve Hour · second pass · one candle on the stair of a dark flooded hall · hybrid",
+   "theme": "Event Nights",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-17T02:40:49Z",
+   "kind": "event",
+   "kindLabel": "EVENT NIGHT · SECOND PASS · HYBRID",
+   "source_pins": [],
+   "refs": [
+    {
+     "label": "Earlier take HYB_EVE_HOUR_01 (yay)",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/HYB_EVE_HOUR_01.b64"
+    }
+   ],
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct17-batch",
+    "event",
+    "second-pass"
+   ],
+   "catalog": "catalog_v1",
+   "note": "Second pass on Eve Hour (Dec 24): the poster's single candle on black, taken further: one small candle on a concrete stair in a vast dark flooded hall, snow falling through a single roof slit, a haloed figure seated quietly beside it",
+   "batch": "batch_20261017_0225",
+   "file": "img/HYB_EVE_HOUR_02.b64",
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
   {
    "id": "HYB_TIME_BLADE_02",
    "title": "Time / Blade · second pass · the gold clock sliced by a blade of light · hybrid",
@@ -33,7 +1489,8 @@
    "note": "Second pass on Time / Blade (Jan 15): from the poster's gold clockwork and white slash: a colossal gold clockwork disc stands on edge in a mirror-flooded hall, cut cleanly in half by a razor-thin blade of white light, gears frozen mid-fall",
    "batch": "batch_20261017_0225",
    "file": "img/HYB_TIME_BLADE_02.b64",
-   "prev_section": "Event Nights · Second Pass · Oct 17"
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
   },
   {
    "id": "HYB_DEAD_PUNCH_02",
@@ -65,7 +1522,8 @@
    "note": "Second pass on Dead / Punch (Oct 30): straight from the poster: the tall hexagonal DEAD crystal stands in a flooded concrete boxing ring, the grinning pixel-green zombie boxer sealed inside under a gold halo, a wall of glowing magenta pixel hearts behind",
    "batch": "batch_20261017_0128",
    "file": "img/HYB_DEAD_PUNCH_02.b64",
-   "prev_section": "Event Nights · Second Pass · Oct 17"
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
   },
   {
    "id": "HYB_CHOIR_LIQUID_02",
@@ -97,7 +1555,92 @@
    "note": "Second pass on Choir / Liquid / DNB (Nov 28): taken straight from the poster's graphic: an acid-yellow brutalist nave cut by heavy black slabs, one small black bell ringing, and the floor rippling like liquid sound",
    "batch": "batch_20261017_0128",
    "file": "img/HYB_CHOIR_LIQUID_02.b64",
-   "prev_section": "Event Nights · Second Pass · Oct 17"
+   "prev_section": "Event Nights · Second Pass · Oct 17",
+   "reference": true
+  },
+  {
+   "id": "TUNNEL_V3_T2b_B1",
+   "file": "img/TUNNEL_V3_T2b_B1.b64",
+   "title": "TUNNEL v3 · T2b hybrid rebuild · B1",
+   "theme": "TUNNEL v3",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "TUNNEL:Build On · Hybrid · Oct 16",
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-16T03:39:11Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · TUNNEL v3",
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch"
+   ],
+   "note": "Rebuild in locked v2 hybrid style",
+   "batch": "batch_20261016_0231",
+   "of": "TUNNEL_V3_T2b",
+   "version": "B1",
+   "before_file": "TUNNEL_V3_T2b",
+   "keeperNote": "Rebuild in locked v2 hybrid style",
+   "prev_section": "Build On · Hybrid · Oct 16",
+   "reference": true
+  },
+  {
+   "id": "TUNNEL_V3_T2a_B1",
+   "file": "img/TUNNEL_V3_T2a_B1.b64",
+   "title": "TUNNEL v3 · T2a hybrid rebuild · B1",
+   "theme": "TUNNEL v3",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "TUNNEL:Build On · Hybrid · Oct 16",
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-16T03:39:11Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · TUNNEL v3",
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch"
+   ],
+   "note": "Rebuild in locked v2 hybrid style",
+   "batch": "batch_20261016_0231",
+   "of": "TUNNEL_V3_T2a",
+   "version": "B1",
+   "before_file": "TUNNEL_V3_T2a",
+   "keeperNote": "Rebuild in locked v2 hybrid style",
+   "prev_section": "Build On · Hybrid · Oct 16",
+   "reference": true
+  },
+  {
+   "id": "TUNNEL_V3_T1_B1",
+   "file": "img/TUNNEL_V3_T1_B1.b64",
+   "title": "TUNNEL v3 · T1 hybrid rebuild · B1",
+   "theme": "TUNNEL v3",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "TUNNEL:Build On · Hybrid · Oct 16",
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-16T03:39:11Z",
+   "kind": "build_on",
+   "kindLabel": "BUILD ON · TUNNEL v3",
+   "tags": [
+    "hybrid",
+    "v2",
+    "oct16-batch"
+   ],
+   "note": "Rebuild in locked v2 hybrid style",
+   "batch": "batch_20261016_0231",
+   "of": "TUNNEL_V3_T1",
+   "version": "B1",
+   "before_file": "TUNNEL_V3_T1",
+   "keeperNote": "Rebuild in locked v2 hybrid style",
+   "prev_section": "Build On · Hybrid · Oct 16",
+   "reference": true
   },
   {
    "id": "CAT_023_B1",
@@ -183,7 +1726,8 @@
    "version": "B1",
    "before_file": "CAT_023",
    "keeperNote": "Different grip tape design",
-   "prev_section": "Build On · Hybrid · Oct 16"
+   "prev_section": "Build On · Hybrid · Oct 16",
+   "reference": true
   },
   {
    "id": "CAT_069_B1",
@@ -268,7 +1812,8 @@
    "version": "B1",
    "before_file": "CAT_069",
    "keeperNote": "Change the grip tape design entirely",
-   "prev_section": "Build On · Hybrid · Oct 16"
+   "prev_section": "Build On · Hybrid · Oct 16",
+   "reference": true
   },
   {
    "id": "CAT_011_B1",
@@ -349,7 +1894,108 @@
    "version": "B1",
    "before_file": "CAT_011",
    "keeperNote": "Grip tape doesn't go with it — make grip like the statue style with crystals coming through and around the edges of the board",
-   "prev_section": "Build On · Hybrid · Oct 16"
+   "prev_section": "Build On · Hybrid · Oct 16",
+   "reference": true
+  },
+  {
+   "id": "TUNNEL_V3_T8",
+   "file": "img/TUNNEL_V3_T8.b64",
+   "title": "TUNNEL v3 · T8",
+   "theme": "TUNNEL v3",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "TUNNEL:TUNNEL v3 · Oct 15",
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-15T19:10:00Z",
+   "kind": "general",
+   "kindLabel": "TUNNEL v3",
+   "tags": [],
+   "prev_section": "TUNNEL v3 · Oct 15",
+   "reference": true
+  },
+  {
+   "id": "TUNNEL_V3_T2c",
+   "file": "img/TUNNEL_V3_T2c.b64",
+   "title": "TUNNEL v3 · T2c",
+   "theme": "TUNNEL v3",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "TUNNEL:TUNNEL v3 · Oct 15",
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-15T19:10:00Z",
+   "kind": "general",
+   "kindLabel": "TUNNEL v3",
+   "tags": [],
+   "prev_section": "TUNNEL v3 · Oct 15",
+   "reference": true
+  },
+  {
+   "id": "TUNNEL_V3_T0",
+   "file": "img/TUNNEL_V3_T0.b64",
+   "title": "TUNNEL v3 · T0",
+   "theme": "TUNNEL v3",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "TUNNEL:TUNNEL v3 · Oct 15",
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-15T19:10:00Z",
+   "kind": "general",
+   "kindLabel": "TUNNEL v3",
+   "tags": [],
+   "prev_section": "TUNNEL v3 · Oct 15",
+   "reference": true
+  },
+  {
+   "id": "IBP_92_B1",
+   "file": "img/IBP_92_B1.b64",
+   "title": "Cube Island · Inspired by Pinterest · single pin · B1",
+   "theme": "INSPIRED BY PINTEREST",
+   "section": "APPROVED POSTERS + YAYS",
+   "single_pin": true,
+   "note": "Build-on of IBP_92: same composition re-rendered sharper with richer light, one small acid-yellow ring accent, plain HALO RAVES wordmark + haloraves.com typeset in a clean corner. 300 dpi 8.5x11.3 in PNG on the box: /workspace/halo-output/catalog/full/IBP_92_B1.png",
+   "status": "review",
+   "rooms": [
+    "INSPIRED BY PINTEREST",
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-13T21:50:52Z",
+   "kind": "general",
+   "kindLabel": "GENERAL · INSPIRED BY PINTEREST",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704136055/",
+     "thumb": "1137440449704136055",
+     "label": "pin …136055"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin …136055",
+     "url": "https://www.pinterest.com/pin/1137440449704136055/"
+    },
+    {
+     "label": "Built on IBP_92",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/IBP_92.b64"
+    }
+   ],
+   "of": "IBP_92",
+   "builds_on": "IBP_92",
+   "tags": [
+    "F11",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ],
+   "catalog": "catalog_v1",
+   "prev_section": "Inspired by Pinterest",
+   "reference": true
   },
   {
    "id": "G_IBP_77",
@@ -403,7 +2049,8 @@
     "back_big"
    ],
    "catalog": "catalog_v1",
-   "prev_section": "Inspired by Pinterest"
+   "prev_section": "Inspired by Pinterest",
+   "reference": true
   },
   {
    "id": "G_IBP_80",
@@ -457,7 +2104,8 @@
     "back_big"
    ],
    "catalog": "catalog_v1",
-   "prev_section": "Inspired by Pinterest"
+   "prev_section": "Inspired by Pinterest",
+   "reference": true
   },
   {
    "id": "CAT_022",
@@ -505,7 +2153,61 @@
    "layout": "pack_6",
    "note": "Sticker pack, 6 die-cut (moss, foam, crystal, bubbles, acid chrome ring, stone stack). Ninja UV DTF.",
    "vendor": "Ninja UV DTF PermaStickers die-cut (holo/glitter needs a second vendor, approval required)",
-   "prev_section": "Catalog Test"
+   "prev_section": "Catalog Test",
+   "reference": true
+  },
+  {
+   "id": "CAT_025",
+   "file": "img/CAT_025.b64",
+   "title": "Glossy Liquid & Chrome Object · poster",
+   "theme": "CATALOG V1",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "CATALOG",
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-14T01:41:25Z",
+   "kind": "general",
+   "kindLabel": "CATALOG · POSTER",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704210423/",
+     "thumb": "1137440449704210423",
+     "label": "pin …210423 (new)"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin …210423",
+     "url": "https://www.pinterest.com/pin/1137440449704210423/"
+    },
+    {
+     "label": "Source keeper T_POURDRIP_02",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/T_POURDRIP_02.b64"
+    }
+   ],
+   "tags": [
+    "F4",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ],
+   "catalog": "catalog_v1",
+   "family": "F4",
+   "family_name": "Glossy Liquid & Chrome Object",
+   "product": "poster",
+   "finish": "none",
+   "layout": "wall_3x4",
+   "note": "Poster from Spirit's teal liquid-marble pin: marble pour around one floating acid chrome ring; wordmark typeset.",
+   "full": {
+    "path": "full/CAT_025.jpg.b64",
+    "name": "HALO_CAT_025_300dpi.jpg",
+    "type": "image/jpeg"
+   },
+   "prev_section": "Catalog Test",
+   "reference": true
   },
   {
    "id": "CAT_026",
@@ -590,7 +2292,8 @@
     "/workspace/halo-output/catalog/build/CAT_026/CAT_026_deck_print.png",
     "/workspace/halo-output/catalog/build/CAT_026/CAT_026_grip_print.png"
    ],
-   "prev_section": "Board Designs"
+   "prev_section": "Board Designs",
+   "reference": true
   },
   {
    "id": "CAT_040",
@@ -684,7 +2387,114 @@
     "/workspace/halo-output/catalog/build/CAT_040/CAT_040_deck_print.png",
     "/workspace/halo-output/catalog/build/CAT_040/CAT_040_grip_print.png"
    ],
-   "prev_section": "Board Designs"
+   "prev_section": "Board Designs",
+   "reference": true
+  },
+  {
+   "id": "CAT_043",
+   "file": "img/CAT_043.b64",
+   "title": "Acid Op-Art & Gradient · social_916",
+   "theme": "CATALOG V1",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "CATALOG",
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-14T02:44:33Z",
+   "kind": "general",
+   "kindLabel": "CATALOG · SOCIAL_916",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704210873/",
+     "thumb": "1137440449704210873",
+     "label": "pin …210873 (new)"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin …210873",
+     "url": "https://www.pinterest.com/pin/1137440449704210873/"
+    },
+    {
+     "label": "Source keeper P4_G01",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/P4_G01.b64"
+    }
+   ],
+   "tags": [
+    "F6",
+    "-",
+    "social_916",
+    "none",
+    "social_9x16"
+   ],
+   "catalog": "catalog_v1",
+   "family": "F6",
+   "family_name": "Acid Op-Art & Gradient",
+   "product": "social_916",
+   "finish": "none",
+   "layout": "social_9x16",
+   "note": "Social 9:16. Op-art rings on black; quiet top/bottom for captions; wordmark typeset.",
+   "full": {
+    "path": "full/CAT_043.jpg.b64",
+    "name": "HALO_CAT_043.jpg",
+    "type": "image/jpeg"
+   },
+   "prev_section": "Catalog Test",
+   "reference": true
+  },
+  {
+   "id": "CAT_047",
+   "file": "img/CAT_047.b64",
+   "title": "Designer Type Poster · poster",
+   "theme": "CATALOG V1",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "CATALOG",
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-14T02:44:33Z",
+   "kind": "general",
+   "kindLabel": "CATALOG · POSTER",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704210448/",
+     "thumb": "1137440449704210448",
+     "label": "pin …210448 (new)"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin …210448",
+     "url": "https://www.pinterest.com/pin/1137440449704210448/"
+    },
+    {
+     "label": "Source keeper P4_G03",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/P4_G03.b64"
+    }
+   ],
+   "tags": [
+    "F7",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ],
+   "catalog": "catalog_v1",
+   "family": "F7",
+   "family_name": "Designer Type Poster",
+   "product": "poster",
+   "finish": "none",
+   "layout": "wall_3x4",
+   "note": "Poster: Swiss minimal triptych abstract marks + acid ring; wordmark typeset.",
+   "full": {
+    "path": "full/CAT_047.jpg.b64",
+    "name": "HALO_CAT_047.jpg",
+    "type": "image/jpeg"
+   },
+   "prev_section": "Catalog Test",
+   "reference": true
   },
   {
    "id": "CAT_050",
@@ -751,7 +2561,8 @@
     "name": "HALO_CAT_050_print_300dpi.png",
     "type": "image/png"
    },
-   "prev_section": "Catalog Test"
+   "prev_section": "Catalog Test",
+   "reference": true
   },
   {
    "id": "CAT_052",
@@ -834,7 +2645,8 @@
     "/workspace/halo-output/catalog/build/CAT_052/CAT_052_deck_print.png",
     "/workspace/halo-output/catalog/build/CAT_052/CAT_052_grip_print.png"
    ],
-   "prev_section": "Board Designs"
+   "prev_section": "Board Designs",
+   "reference": true
   },
   {
    "id": "CAT_054",
@@ -917,7 +2729,61 @@
     "/workspace/halo-output/catalog/build/CAT_054/CAT_054_deck_print.png",
     "/workspace/halo-output/catalog/build/CAT_054/CAT_054_grip_print.png"
    ],
-   "prev_section": "Board Designs"
+   "prev_section": "Board Designs",
+   "reference": true
+  },
+  {
+   "id": "CAT_056",
+   "file": "img/CAT_056.b64",
+   "title": "Mark & Restraint · poster",
+   "theme": "CATALOG V1",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "CATALOG",
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-14T03:33:00Z",
+   "kind": "general",
+   "kindLabel": "CATALOG · POSTER",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449704129855/",
+     "thumb": "1137440449704129855",
+     "label": "pin …129855"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin …129855",
+     "url": "https://www.pinterest.com/pin/1137440449704129855/"
+    },
+    {
+     "label": "Source keeper P_SIGNMARK_V2",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/P_SIGNMARK_V2.b64"
+    }
+   ],
+   "tags": [
+    "F8",
+    "-",
+    "poster",
+    "none",
+    "wall_3x4"
+   ],
+   "catalog": "catalog_v1",
+   "family": "F8",
+   "family_name": "Mark & Restraint",
+   "product": "poster",
+   "finish": "none",
+   "layout": "wall_3x4",
+   "note": "Minimal monolith with acid-yellow ring. Poster 3:4.",
+   "full": {
+    "path": "full/CAT_056.jpg.b64",
+    "name": "HALO_CAT_056_300dpi.jpg",
+    "type": "image/jpeg"
+   },
+   "prev_section": "Catalog Test",
+   "reference": true
   },
   {
    "id": "CAT_058",
@@ -984,7 +2850,61 @@
     "name": "HALO_CAT_058_print_300dpi.png",
     "type": "image/png"
    },
-   "prev_section": "Catalog Test"
+   "prev_section": "Catalog Test",
+   "reference": true
+  },
+  {
+   "id": "CAT_077",
+   "file": "img/CAT_077.b64",
+   "title": "Cloud Sea Whimsy · social_916",
+   "theme": "CATALOG V1",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "CATALOG",
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-14T04:34:29Z",
+   "kind": "general",
+   "kindLabel": "CATALOG · SOCIAL_916",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702612507/",
+     "thumb": "1137440449702612507",
+     "label": "pin …612507"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin …612507",
+     "url": "https://www.pinterest.com/pin/1137440449702612507/"
+    },
+    {
+     "label": "Source keeper IBP_57",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/IBP_57.b64"
+    }
+   ],
+   "tags": [
+    "F11",
+    "-",
+    "social_916",
+    "none",
+    "social_9x16"
+   ],
+   "catalog": "catalog_v1",
+   "family": "F11",
+   "family_name": "Cloud Sea Whimsy",
+   "product": "social_916",
+   "finish": "none",
+   "layout": "social_9x16",
+   "note": "Social 9:16. Small bird inside a faint acid ring over a cloud sea, quiet top and bottom for captions.",
+   "full": {
+    "path": "full/CAT_077.jpg.b64",
+    "name": "HALO_CAT_077_300dpi.jpg",
+    "type": "image/jpeg"
+   },
+   "prev_section": "Catalog Test",
+   "reference": true
   },
   {
    "id": "CAT_090",
@@ -1067,7 +2987,114 @@
     "/workspace/halo-output/catalog/build/CAT_090/CAT_090_deck_print.png",
     "/workspace/halo-output/catalog/build/CAT_090/CAT_090_grip_print.png"
    ],
-   "prev_section": "Board Designs"
+   "prev_section": "Board Designs",
+   "reference": true
+  },
+  {
+   "id": "CAT_091",
+   "file": "img/CAT_091.b64",
+   "title": "Cloud Sea Whimsy · poster",
+   "theme": "CATALOG V1",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "CATALOG",
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-14T05:35:17Z",
+   "kind": "general",
+   "kindLabel": "CATALOG · POSTER",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449703889358/",
+     "thumb": "1137440449703889358",
+     "label": "pin …889358"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin …889358",
+     "url": "https://www.pinterest.com/pin/1137440449703889358/"
+    },
+    {
+     "label": "Source keeper IBP_57",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/IBP_57.b64"
+    }
+   ],
+   "tags": [
+    "F11",
+    "T11",
+    "poster",
+    "none",
+    "wall_3x4"
+   ],
+   "catalog": "catalog_v1",
+   "family": "F11",
+   "family_name": "Cloud Sea Whimsy",
+   "product": "poster",
+   "finish": "none",
+   "layout": "wall_3x4",
+   "note": "Poster 3:4. Lone figure above cloud sea with acid-yellow halo.",
+   "full": {
+    "path": "full/CAT_091.jpg.b64",
+    "name": "HALO_CAT_091_300dpi.jpg",
+    "type": "image/jpeg"
+   },
+   "prev_section": "Catalog Test",
+   "reference": true
+  },
+  {
+   "id": "CAT_092",
+   "file": "img/CAT_092.b64",
+   "title": "Glossy Liquid & Chrome Object · poster",
+   "theme": "CATALOG V1",
+   "section": "APPROVED POSTERS + YAYS",
+   "status": "review",
+   "rooms": [
+    "CATALOG",
+    "APPROVED POSTERS + YAYS"
+   ],
+   "updated": "2026-10-14T05:35:17Z",
+   "kind": "general",
+   "kindLabel": "CATALOG · POSTER",
+   "source_pins": [
+    {
+     "url": "https://www.pinterest.com/pin/1137440449702375538/",
+     "thumb": "1137440449702375538",
+     "label": "pin …375538"
+    }
+   ],
+   "refs": [
+    {
+     "label": "Pinterest pin …375538",
+     "url": "https://www.pinterest.com/pin/1137440449702375538/"
+    },
+    {
+     "label": "Source keeper T_POURDRIP_02",
+     "url": "https://github.com/HALORAVES/halo-bot-files/blob/master/live/img/T_POURDRIP_02.b64"
+    }
+   ],
+   "tags": [
+    "F4",
+    "T12",
+    "poster",
+    "none",
+    "wall_3x4"
+   ],
+   "catalog": "catalog_v1",
+   "family": "F4",
+   "family_name": "Glossy Liquid & Chrome Object",
+   "product": "poster",
+   "finish": "none",
+   "layout": "wall_3x4",
+   "note": "Poster 3:4. Liquid chrome pour with acid-yellow ring at base.",
+   "full": {
+    "path": "full/CAT_092.jpg.b64",
+    "name": "HALO_CAT_092_300dpi.jpg",
+    "type": "image/jpeg"
+   },
+   "prev_section": "Catalog Test",
+   "reference": true
   },
   {
    "id": "CAT_093",
@@ -1150,7 +3177,8 @@
     "/workspace/halo-output/catalog/build/CAT_093/CAT_093_deck_print.png",
     "/workspace/halo-output/catalog/build/CAT_093/CAT_093_grip_print.png"
    ],
-   "prev_section": "Board Designs"
+   "prev_section": "Board Designs",
+   "reference": true
   },
   {
    "id": "BOARD_FW26_V306_DECK",
@@ -1176,7 +3204,8 @@
    "note": "V3-06 Seven Gates (kicktail) deck. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
    "batch": "boards_fw26",
    "file": "img/BOARD_FW26_V306_DECK.b64",
-   "prev_section": "BOARDS FW26"
+   "prev_section": "BOARDS FW26",
+   "reference": true
   },
   {
    "id": "BOARD_FW26_V307_GRIP",
@@ -1202,7 +3231,8 @@
    "note": "V3-07 Solar Plexus Sun (pintail) grip. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
    "batch": "boards_fw26",
    "file": "img/BOARD_FW26_V307_GRIP.b64",
-   "prev_section": "BOARDS FW26"
+   "prev_section": "BOARDS FW26",
+   "reference": true
   },
   {
    "id": "BOARD_FW26_V401_PREVIEW",
@@ -1228,7 +3258,8 @@
    "note": "V4-01 Frost Lotus (fishtail mini cruiser) shape preview. Draft: 720p render upscaled, not print-final. For Spirit's review only; not for Boardpusher, site or socials.",
    "batch": "boards_fw26",
    "file": "img/BOARD_FW26_V401_PREVIEW.b64",
-   "prev_section": "BOARDS FW26"
+   "prev_section": "BOARDS FW26",
+   "reference": true
   }
  ],
  "updates": [],
@@ -21271,104 +23302,108 @@
  ],
  "changelog": [
   {
-   "at": "2026-11-03T02:43:28Z",
-   "build": "20261102a",
+   "at": "2026-11-03T02:47:06Z",
+   "build": "20261102b",
    "batch": "fresh_start_20261102",
    "removed": [
-    "HYB_SINNER_SKA_F2",
-    "HYB_UPSIDE_DOWN_F1",
-    "HYB_OFFICE_OUT_F1",
-    "HYB_SINNER_SKA_F1",
-    "HYB_SPORE_AMEN_F1",
-    "HYB_WORD_SOUL_F1",
-    "HYB_POD_DEFAULT_02",
-    "HYB_DREAM_BLOCKS_02",
-    "HYB_DIAMONDS_GARDEN_03",
-    "HYB_THREE170_02",
-    "HYB_ROCKY_WARP_03",
-    "HYB_DOOM_DUNE_03",
-    "HYB_THE_DOCK_02",
-    "HYB_GYPSY_PALM_02",
-    "HYB_THE_BUILD_02",
-    "HYB_WEEK_INWARDS_02",
-    "HYB_WORD_SOUL_02",
-    "HYB_ALMOST_HOME_02",
-    "HYB_BEAM_LAWN_02",
-    "HYB_TIME_SKA_02",
-    "HYB_MOZART_DISCOVERY_02",
-    "HYB_UNFINISHED_THIRD_02",
-    "HYB_SYMPATHY_NAILS_02",
-    "HYB_JUNGLE_80S_02",
-    "HYB_AFTER_NOON_02",
-    "HYB_AFTER_MIDNIGHT_02",
-    "HYB_REPUTATION_02",
-    "HYB_MOON_METER_02",
-    "HYB_SEPARATE_WAYS_02",
-    "HYB_HAZE_RIFF_02",
-    "HYB_CRYSTAL_CUT_02",
-    "HYB_SKY_SHIP_02",
-    "HYB_HEAVY_BIRTH_02",
-    "HYB_MONOLITH_MOON_02",
-    "HYB_DARKSIDE_BUKEM_02",
-    "HYB_BOLERO_SNARE_02",
-    "HYB_ORCHESTRA_PEAK_02",
-    "HYB_CASTLE_ORGAN_02",
-    "HYB_GAME_PIANO_SANDS_02",
-    "HYB_GOLD_RINGS_02",
-    "HYB_WATTS_VOID_02",
-    "HYB_NIGHTMARE_02",
-    "HYB_THRILLER_LOFI_02",
-    "HYB_EVE_HOUR_02",
     "HYB_NIGHTMARE_01",
     "HYB_WIZARD_COURT_01",
     "HYB_SLEEPY_TEA_01",
-    "TUNNEL_V3_T2b_B1",
-    "TUNNEL_V3_T2a_B1",
-    "TUNNEL_V3_T1_B1",
-    "TUNNEL_V3_T8",
     "TUNNEL_V3_T5",
     "TUNNEL_V3_T3",
-    "TUNNEL_V3_T2c",
-    "TUNNEL_V3_T0",
     "IBP_90_B1",
-    "IBP_92_B1",
     "REQ_RISEYOGA_A_v4",
-    "CAT_025",
     "CAT_028",
-    "CAT_043",
     "CAT_045",
     "CAT_046",
-    "CAT_047",
-    "CAT_056",
     "CAT_067",
-    "CAT_073",
-    "CAT_077",
-    "CAT_091",
-    "CAT_092"
+    "CAT_073"
    ],
-   "set_aside": [
-    "BOARD_FW26_V306_DECK",
-    "BOARD_FW26_V307_GRIP",
-    "BOARD_FW26_V401_PREVIEW",
-    "CAT_026",
-    "CAT_040",
-    "CAT_052",
-    "CAT_054",
-    "CAT_090",
-    "CAT_093",
-    "CAT_023_B1",
-    "CAT_069_B1",
-    "CAT_011_B1",
-    "HYB_TIME_BLADE_02",
-    "HYB_DEAD_PUNCH_02",
-    "HYB_CHOIR_LIQUID_02",
-    "G_IBP_77",
-    "G_IBP_80",
-    "CAT_050",
-    "CAT_058",
-    "CAT_022"
-   ],
-   "note": "Fresh start per Spirit t1027u/t1028u/t1029u: wall cleared of old pieces; boards + merch set aside to expand; FRESH · NOV 2026 section opened for new renders. Backup: halo_live_backups/2026-11-02_pre_fresh_start/"
+   "reference": {
+    "BOARDS + MERCH · TO EXPAND": [
+     "HYB_TIME_BLADE_02",
+     "HYB_DEAD_PUNCH_02",
+     "HYB_CHOIR_LIQUID_02",
+     "CAT_023_B1",
+     "CAT_069_B1",
+     "CAT_011_B1",
+     "G_IBP_77",
+     "G_IBP_80",
+     "CAT_022",
+     "CAT_026",
+     "CAT_040",
+     "CAT_050",
+     "CAT_052",
+     "CAT_054",
+     "CAT_058",
+     "CAT_090",
+     "CAT_093",
+     "BOARD_FW26_V306_DECK",
+     "BOARD_FW26_V307_GRIP",
+     "BOARD_FW26_V401_PREVIEW"
+    ],
+    "APPROVED POSTERS + YAYS": [
+     "HYB_SINNER_SKA_F2",
+     "HYB_UPSIDE_DOWN_F1",
+     "HYB_OFFICE_OUT_F1",
+     "HYB_SINNER_SKA_F1",
+     "HYB_SPORE_AMEN_F1",
+     "HYB_WORD_SOUL_F1",
+     "HYB_POD_DEFAULT_02",
+     "HYB_DREAM_BLOCKS_02",
+     "HYB_DIAMONDS_GARDEN_03",
+     "HYB_THREE170_02",
+     "HYB_ROCKY_WARP_03",
+     "HYB_DOOM_DUNE_03",
+     "HYB_THE_DOCK_02",
+     "HYB_GYPSY_PALM_02",
+     "HYB_THE_BUILD_02",
+     "HYB_WEEK_INWARDS_02",
+     "HYB_WORD_SOUL_02",
+     "HYB_ALMOST_HOME_02",
+     "HYB_BEAM_LAWN_02",
+     "HYB_TIME_SKA_02",
+     "HYB_MOZART_DISCOVERY_02",
+     "HYB_UNFINISHED_THIRD_02",
+     "HYB_SYMPATHY_NAILS_02",
+     "HYB_JUNGLE_80S_02",
+     "HYB_AFTER_NOON_02",
+     "HYB_AFTER_MIDNIGHT_02",
+     "HYB_REPUTATION_02",
+     "HYB_MOON_METER_02",
+     "HYB_SEPARATE_WAYS_02",
+     "HYB_HAZE_RIFF_02",
+     "HYB_CRYSTAL_CUT_02",
+     "HYB_SKY_SHIP_02",
+     "HYB_HEAVY_BIRTH_02",
+     "HYB_MONOLITH_MOON_02",
+     "HYB_DARKSIDE_BUKEM_02",
+     "HYB_BOLERO_SNARE_02",
+     "HYB_ORCHESTRA_PEAK_02",
+     "HYB_CASTLE_ORGAN_02",
+     "HYB_GAME_PIANO_SANDS_02",
+     "HYB_GOLD_RINGS_02",
+     "HYB_WATTS_VOID_02",
+     "HYB_NIGHTMARE_02",
+     "HYB_THRILLER_LOFI_02",
+     "HYB_EVE_HOUR_02",
+     "TUNNEL_V3_T2b_B1",
+     "TUNNEL_V3_T2a_B1",
+     "TUNNEL_V3_T1_B1",
+     "TUNNEL_V3_T8",
+     "TUNNEL_V3_T2c",
+     "TUNNEL_V3_T0",
+     "IBP_92_B1",
+     "CAT_025",
+     "CAT_043",
+     "CAT_047",
+     "CAT_056",
+     "CAT_077",
+     "CAT_091",
+     "CAT_092"
+    ]
+   },
+   "note": "Fresh start per Spirit t1027u-t1032u: FRESH · NOV 2026 area for new renders only; boards+merch and approved posters+YAYs kept as REFERENCE only (not counted, not in review). Backup: halo_live_backups/2026-11-02_pre_fresh_start/"
   },
   {
    "at": "2026-11-03T02:35:29Z",
@@ -22280,8 +24315,14 @@
    "note": "No new gallery votes since #118. Second fresh takes for the thinnest nights: Boxing Night, Gojira / Garage, Hendrix / Kravitz / Future, Upside / Down, Castle / Organ, Afro / Strings, Office / Out, Zimmer × Ska, Thriller / Downtempo / Lofi, Sinner × Ska. Pods (Upside/Down mirror pod, Sinner x Ska ember pod) held to the lens-saucer silhouette. No headphones on the wall."
   }
  ],
- "sections": [
-  "FRESH · NOV 2026",
-  "BOARDS + MERCH · TO EXPAND"
- ]
+ "reference_total": 78,
+ "sections": {
+  "FRESH": [
+   "FRESH · NOV 2026"
+  ],
+  "REFERENCE": [
+   "BOARDS + MERCH · TO EXPAND",
+   "APPROVED POSTERS + YAYS"
+  ]
+ }
 }
