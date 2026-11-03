@@ -1,7 +1,7 @@
 {
- "total": 10,
- "done": 10,
- "updated": "2026-11-03T05:08:50Z",
+ "total": 11,
+ "done": 11,
+ "updated": "2026-11-03T05:08:53Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3500,6 +3500,30 @@
    "note": "Spear-shaped hull with hot violet rim light above a cloud deck. AI render, upscaled to 3072x3840 (not native 4K). Reason result not on file.",
    "batch": "fresh_20261103",
    "file": "img/S2_SPEAR_SHIP.b64"
+  },
+  {
+   "id": "S3_BLOCK_HAULER",
+   "title": "Block Hauler (S3 v2)",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-03T05:08:53Z",
+   "kind": "general",
+   "kindLabel": "FRESH · NOV 2026",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "acid orange"
+   ],
+   "hue": "acid orange",
+   "note": "A tug tows a barge-like hauler through acid-orange fog past broken towers. AI render, upscaled to 3072x3840 (not native 4K). Tug panels may show faint letter-like shapes at 100%. Reason result not on file.",
+   "batch": "fresh_20261103",
+   "file": "img/S3_BLOCK_HAULER.b64"
   }
  ],
  "updates": [],
@@ -23571,6 +23595,14 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:08:53Z",
+   "batch": "fresh_20261103",
+   "added": [
+    "S3_BLOCK_HAULER"
+   ],
+   "note": "fresh render: Block Hauler (S3 v2)"
+  },
   {
    "at": "2026-11-03T05:08:50Z",
    "batch": "fresh_20261103",
