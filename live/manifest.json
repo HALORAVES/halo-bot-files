@@ -1,7 +1,7 @@
 {
  "total": 19,
  "done": 19,
- "updated": "2026-11-03T05:18:34Z",
+ "updated": "2026-11-03T05:18:37Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3630,7 +3630,7 @@
    "rooms": [
     "FRESH · NOV 2026"
    ],
-   "updated": "2026-11-03T05:12:40Z",
+   "updated": "2026-11-03T05:18:37Z",
    "kind": "general",
    "kindLabel": "FRESH · NOV 2026",
    "source_pins": [],
@@ -3641,7 +3641,7 @@
     "teal-pink"
    ],
    "hue": "teal-pink",
-   "note": "A trail of glowing giant ants climbs a mesa and lifts off as a pink cloud ribbon. Ants read only up close; ribbon may read as smoke. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K).",
+   "note": "A trail of glowing giant ants climbs a mesa and lifts off as a pink cloud ribbon. Ants read only up close; ribbon may read as smoke. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K). HALO RAVES wordmark added in the corner.",
    "batch": "fresh_20261103",
    "file": "img/SOLO_S5_ANT_TRAIL.b64"
   },
@@ -23787,6 +23787,13 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:18:37Z",
+   "updated_items": [
+    "SOLO_S5_ANT_TRAIL"
+   ],
+   "note": "fresh render updated in place: Solo 5 · Ant Trail"
+  },
   {
    "at": "2026-11-03T05:18:34Z",
    "updated_items": [
