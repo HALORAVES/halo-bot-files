@@ -1,7 +1,7 @@
 {
- "total": 18,
- "done": 18,
- "updated": "2026-11-03T05:12:46Z",
+ "total": 19,
+ "done": 19,
+ "updated": "2026-11-03T05:12:49Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3692,6 +3692,30 @@
    "note": "Bank-side look up at a heavy ship hovering over misty Clear Creek by the creekside apartments. Hull is boxy, not a sleek wedge. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K).",
    "batch": "fresh_20261103",
    "file": "img/SOLO_S7_CREEK_SHIP.b64"
+  },
+  {
+   "id": "SOLO_S8_CREEK_LEOPARD",
+   "title": "Solo 8 · Creek Leopard",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-03T05:12:49Z",
+   "kind": "general",
+   "kindLabel": "FRESH · NOV 2026",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "cyan-teal"
+   ],
+   "hue": "cyan-teal",
+   "note": "Over-under shot: a giant snow leopard underwater raises a paw, town above the waterline. Creek bed looks more like a reef. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K).",
+   "batch": "fresh_20261103",
+   "file": "img/SOLO_S8_CREEK_LEOPARD.b64"
   }
  ],
  "updates": [],
@@ -23763,6 +23787,14 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:12:49Z",
+   "batch": "fresh_20261103",
+   "added": [
+    "SOLO_S8_CREEK_LEOPARD"
+   ],
+   "note": "fresh render: Solo 8 · Creek Leopard"
+  },
   {
    "at": "2026-11-03T05:12:46Z",
    "batch": "fresh_20261103",
