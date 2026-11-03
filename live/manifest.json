@@ -1,7 +1,7 @@
 {
- "total": 17,
- "done": 17,
- "updated": "2026-11-03T05:12:43Z",
+ "total": 18,
+ "done": 18,
+ "updated": "2026-11-03T05:12:46Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3668,6 +3668,30 @@
    "note": "A huge manta glides over Mount Zion, its shadow on the slope. All-over purple wash; the M is a serif glyph, not the real block M. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K).",
    "batch": "fresh_20261103",
    "file": "img/SOLO_S6_M_MANTA.b64"
+  },
+  {
+   "id": "SOLO_S7_CREEK_SHIP",
+   "title": "Solo 7 · Creek Ship",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-03T05:12:46Z",
+   "kind": "general",
+   "kindLabel": "FRESH · NOV 2026",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "sodium yellow"
+   ],
+   "hue": "sodium yellow",
+   "note": "Bank-side look up at a heavy ship hovering over misty Clear Creek by the creekside apartments. Hull is boxy, not a sleek wedge. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K).",
+   "batch": "fresh_20261103",
+   "file": "img/SOLO_S7_CREEK_SHIP.b64"
   }
  ],
  "updates": [],
@@ -23739,6 +23763,14 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:12:46Z",
+   "batch": "fresh_20261103",
+   "added": [
+    "SOLO_S7_CREEK_SHIP"
+   ],
+   "note": "fresh render: Solo 7 · Creek Ship"
+  },
   {
    "at": "2026-11-03T05:12:43Z",
    "batch": "fresh_20261103",
