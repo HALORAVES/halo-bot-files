@@ -1,7 +1,7 @@
 {
  "total": 19,
  "done": 19,
- "updated": "2026-11-03T05:18:39Z",
+ "updated": "2026-11-03T05:18:42Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3678,7 +3678,7 @@
    "rooms": [
     "FRESH · NOV 2026"
    ],
-   "updated": "2026-11-03T05:12:46Z",
+   "updated": "2026-11-03T05:18:42Z",
    "kind": "general",
    "kindLabel": "FRESH · NOV 2026",
    "source_pins": [],
@@ -3689,7 +3689,7 @@
     "sodium yellow"
    ],
    "hue": "sodium yellow",
-   "note": "Bank-side look up at a heavy ship hovering over misty Clear Creek by the creekside apartments. Hull is boxy, not a sleek wedge. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K).",
+   "note": "Bank-side look up at a heavy ship hovering over misty Clear Creek by the creekside apartments. Hull is boxy, not a sleek wedge. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K). HALO RAVES wordmark added in the corner.",
    "batch": "fresh_20261103",
    "file": "img/SOLO_S7_CREEK_SHIP.b64"
   },
@@ -23787,6 +23787,13 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-03T05:18:42Z",
+   "updated_items": [
+    "SOLO_S7_CREEK_SHIP"
+   ],
+   "note": "fresh render updated in place: Solo 7 · Creek Ship"
+  },
   {
    "at": "2026-11-03T05:18:39Z",
    "updated_items": [
