@@ -1,7 +1,7 @@
 {
- "total": 25,
- "done": 25,
- "updated": "2026-11-04T04:23:34Z",
+ "total": 31,
+ "done": 31,
+ "updated": "2026-11-04T16:11:34Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3866,6 +3866,156 @@
    "note": "Big Type Golden: a torn O shows the Golden arch (photo Steven Miller, CC BY 2.0).",
    "batch": "batch3_20261103",
    "file": "img/BATCH3_1103_GT.b64"
+  },
+  {
+   "id": "BATCH4_1104_DN",
+   "title": "BATCH 4 · DENVER · SPINS",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T16:11:34Z",
+   "kind": "general",
+   "kindLabel": "BATCH 4 · POSTERS · NOV 4",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch4",
+    "#d9a420"
+   ],
+   "hue": "#d9a420",
+   "note": "Turntable on mustard; yellow ring on the spindle; QR bottom-right.",
+   "batch": "batch4_20261104",
+   "file": "img/BATCH4_1104_DN.b64"
+  },
+  {
+   "id": "BATCH4_1104_AU",
+   "title": "BATCH 4 · AURORA · CRACK IT OPEN",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T16:11:34Z",
+   "kind": "general",
+   "kindLabel": "BATCH 4 · POSTERS · NOV 4",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch4",
+    "#1f8a8a"
+   ],
+   "hue": "#1f8a8a",
+   "note": "Teal can, ring-pull as the halo; QR on a bone square.",
+   "batch": "batch4_20261104",
+   "file": "img/BATCH4_1104_AU.b64"
+  },
+  {
+   "id": "BATCH4_1104_LK",
+   "title": "BATCH 4 · LAKEWOOD · THIS WAY",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T16:11:34Z",
+   "kind": "general",
+   "kindLabel": "BATCH 4 · POSTERS · NOV 4",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch4",
+    "#f26a1b"
+   ],
+   "hue": "#f26a1b",
+   "note": "Orange traffic cone, yellow ring on the tip; QR bottom-left.",
+   "batch": "batch4_20261104",
+   "file": "img/BATCH4_1104_LK.b64"
+  },
+  {
+   "id": "BATCH4_1104_LT",
+   "title": "BATCH 4 · LITTLETON · REFILL?",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T16:11:34Z",
+   "kind": "general",
+   "kindLabel": "BATCH 4 · POSTERS · NOV 4",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch4",
+    "#f2a0b4"
+   ],
+   "hue": "#f2a0b4",
+   "note": "Diner mug with a yellow rim on pink; QR on a guest-check ticket.",
+   "batch": "batch4_20261104",
+   "file": "img/BATCH4_1104_LT.b64"
+  },
+  {
+   "id": "BATCH4_1104_LG",
+   "title": "BATCH 4 · LONGMONT · COME IN",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T16:11:34Z",
+   "kind": "general",
+   "kindLabel": "BATCH 4 · POSTERS · NOV 4",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch4",
+    "#a3242a"
+   ],
+   "hue": "#a3242a",
+   "note": "Barn-red door, yellow key ring on the knob; QR on a cream plaque.",
+   "batch": "batch4_20261104",
+   "file": "img/BATCH4_1104_LG.b64"
+  },
+  {
+   "id": "BATCH4_1104_AR",
+   "title": "BATCH 4 · ARVADA · PLUG IN",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T16:11:34Z",
+   "kind": "general",
+   "kindLabel": "BATCH 4 · POSTERS · NOV 4",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch4",
+    "#2446c8"
+   ],
+   "hue": "#2446c8",
+   "note": "Coiled cable on cobalt, yellow O-ring on a plug; QR on gaff tape.",
+   "batch": "batch4_20261104",
+   "file": "img/BATCH4_1104_AR.b64"
   }
  ],
  "updates": [],
@@ -23937,6 +24087,19 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-04T16:11:34Z",
+   "batch": "batch4_20261104",
+   "added": [
+    "BATCH4_1104_DN",
+    "BATCH4_1104_AU",
+    "BATCH4_1104_LK",
+    "BATCH4_1104_LT",
+    "BATCH4_1104_LG",
+    "BATCH4_1104_AR"
+   ],
+   "note": "batch 4 posters (6) from pin study"
+  },
   {
    "at": "2026-11-04T04:23:34Z",
    "batch": "batch3_20261103",
