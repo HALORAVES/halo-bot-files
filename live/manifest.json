@@ -1,7 +1,7 @@
 {
- "total": 31,
- "done": 31,
- "updated": "2026-11-04T16:11:34Z",
+ "total": 37,
+ "done": 37,
+ "updated": "2026-11-04T17:13:21Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -4016,6 +4016,156 @@
    "note": "Coiled cable on cobalt, yellow O-ring on a plug; QR on gaff tape.",
    "batch": "batch4_20261104",
    "file": "img/BATCH4_1104_AR.b64"
+  },
+  {
+   "id": "BATCH5_1104_DN",
+   "title": "BATCH 5 · DENVER · DIVE IN",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T17:13:21Z",
+   "kind": "general",
+   "kindLabel": "BATCH 5 · POSTERS · NOV 4",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch5",
+    "#ff00aa"
+   ],
+   "hue": "#ff00aa",
+   "note": "Dreamcore pool hall: floating chrome hi-fi speaker doubled in acid-green water; #FFFF00 float ring.",
+   "batch": "batch5_20261104",
+   "file": "img/BATCH5_1104_DN.b64"
+  },
+  {
+   "id": "BATCH5_1104_BO",
+   "title": "BATCH 5 · BOULDER · IT'S MELTING",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T17:13:21Z",
+   "kind": "general",
+   "kindLabel": "BATCH 5 · POSTERS · NOV 4",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch5",
+    "#b8ff00"
+   ],
+   "hue": "#b8ff00",
+   "note": "Three magenta soft-serve Flatirons melting in a liminal waiting room; yellow ring on carpet.",
+   "batch": "batch5_20261104",
+   "file": "img/BATCH5_1104_BO.b64"
+  },
+  {
+   "id": "BATCH5_1104_GO",
+   "title": "BATCH 5 · GOLDEN · FLOAT ON",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T17:13:21Z",
+   "kind": "general",
+   "kindLabel": "BATCH 5 · POSTERS · NOV 4",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch5",
+    "#ff5400"
+   ],
+   "hue": "#ff5400",
+   "note": "Flooded office corridor as Clear Creek; orange tube with a yellow ring on its rope.",
+   "batch": "batch5_20261104",
+   "file": "img/BATCH5_1104_GO.b64"
+  },
+  {
+   "id": "BATCH5_1104_SH",
+   "title": "BATCH 5 · SHERIDAN · GOING UP",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T17:13:21Z",
+   "kind": "general",
+   "kindLabel": "BATCH 5 · POSTERS · NOV 4",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch5",
+    "#ff00aa"
+   ],
+   "hue": "#ff00aa",
+   "note": "Impossible looping chrome escalator in a magenta dead-mall atrium; ring on the floor.",
+   "batch": "batch5_20261104",
+   "file": "img/BATCH5_1104_SH.b64"
+  },
+  {
+   "id": "BATCH5_1104_FC",
+   "title": "BATCH 5 · FORT COLLINS · TAPPED IN",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T17:13:21Z",
+   "kind": "general",
+   "kindLabel": "BATCH 5 · POSTERS · NOV 4",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch5",
+    "#b8ff00"
+   ],
+   "hue": "#b8ff00",
+   "note": "Floating chrome keg over a grass-floored tile room, doubled doorways; ring on the keg handle.",
+   "batch": "batch5_20261104",
+   "file": "img/BATCH5_1104_FC.b64"
+  },
+  {
+   "id": "BATCH5_1104_LV",
+   "title": "BATCH 5 · LOVELAND · LOUD LOVE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T17:13:21Z",
+   "kind": "general",
+   "kindLabel": "BATCH 5 · POSTERS · NOV 4",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch5",
+    "#ff5400"
+   ],
+   "hue": "#ff5400",
+   "note": "Giant magenta heart balloon jammed in an orange bathroom, acid-green in the mirror; ring on the sink.",
+   "batch": "batch5_20261104",
+   "file": "img/BATCH5_1104_LV.b64"
   }
  ],
  "updates": [],
@@ -24087,6 +24237,19 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-04T17:13:21Z",
+   "batch": "batch5_20261104",
+   "added": [
+    "BATCH5_1104_DN",
+    "BATCH5_1104_BO",
+    "BATCH5_1104_GO",
+    "BATCH5_1104_SH",
+    "BATCH5_1104_FC",
+    "BATCH5_1104_LV"
+   ],
+   "note": "batch 5 posters (dreamcore/acid) (6) from pin study"
+  },
   {
    "at": "2026-11-04T16:11:34Z",
    "batch": "batch4_20261104",
