@@ -1,7 +1,7 @@
 {
- "total": 19,
- "done": 19,
- "updated": "2026-11-03T05:18:44Z",
+ "total": 25,
+ "done": 25,
+ "updated": "2026-11-04T04:23:34Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -3716,6 +3716,156 @@
    "note": "Over-under shot: a giant snow leopard underwater raises a paw, town above the waterline. Creek bed looks more like a reef. Solo batch, no Reason/CoS review. AI render, upscaled to 3072x3840 (not native 4K). HALO RAVES wordmark added in the corner.",
    "batch": "fresh_20261103",
    "file": "img/SOLO_S8_CREEK_LEOPARD.b64"
+  },
+  {
+   "id": "BATCH3_1103_ST",
+   "title": "BATCH 3 · DENVER · LIVE BAIT",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T04:23:34Z",
+   "kind": "general",
+   "kindLabel": "BATCH 3 · POSTERS · NOV 3",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch3",
+    "#e23a2c"
+   ],
+   "hue": "#e23a2c",
+   "note": "Sound Trap: headphones as mousetrap bait; QR on the trap label.",
+   "batch": "batch3_20261103",
+   "file": "img/BATCH3_1103_ST.b64"
+  },
+  {
+   "id": "BATCH3_1103_TC",
+   "title": "BATCH 3 · FORT COLLINS · SETTING UP",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T04:23:34Z",
+   "kind": "general",
+   "kindLabel": "BATCH 3 · POSTERS · NOV 3",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch3",
+    "#f08a1c"
+   ],
+   "hue": "#f08a1c",
+   "note": "Tiny Crew: hi-vis crew rigging a stage on a pretzel; QR on a road-case label.",
+   "batch": "batch3_20261103",
+   "file": "img/BATCH3_1103_TC.b64"
+  },
+  {
+   "id": "BATCH3_1103_FF",
+   "title": "BATCH 3 · BOULDER · FINGER FOLK",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T04:23:34Z",
+   "kind": "general",
+   "kindLabel": "BATCH 3 · POSTERS · NOV 3",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch3",
+    "#4a8fd8"
+   ],
+   "hue": "#4a8fd8",
+   "note": "Finger Folk: three fingertip ravers; QR on a side-A sticker.",
+   "batch": "batch3_20261103",
+   "file": "img/BATCH3_1103_FF.b64"
+  },
+  {
+   "id": "BATCH3_1103_WW",
+   "title": "BATCH 3 · KEN CARYL · FLIP IT",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T04:23:34Z",
+   "kind": "general",
+   "kindLabel": "BATCH 3 · POSTERS · NOV 3",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch3",
+    "#d8cfb8"
+   ],
+   "hue": "#d8cfb8",
+   "note": "Wrong Window: a light switch bursting streamers; QR printed on the blank plate.",
+   "batch": "batch3_20261103",
+   "file": "img/BATCH3_1103_WW.b64"
+  },
+  {
+   "id": "BATCH3_1103_XR",
+   "title": "BATCH 3 · SHERIDAN DANCES",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T04:23:34Z",
+   "kind": "general",
+   "kindLabel": "BATCH 3 · POSTERS · NOV 3",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch3",
+    "#a6e22e"
+   ],
+   "hue": "#a6e22e",
+   "note": "Xerox Riot: B/W ransom-letter collage with a tear-off QR strip.",
+   "batch": "batch3_20261103",
+   "file": "img/BATCH3_1103_XR.b64"
+  },
+  {
+   "id": "BATCH3_1103_GT",
+   "title": "BATCH 3 · GOLDEN",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-04T04:23:34Z",
+   "kind": "general",
+   "kindLabel": "BATCH 3 · POSTERS · NOV 3",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "batch3",
+    "#f6c500"
+   ],
+   "hue": "#f6c500",
+   "note": "Big Type Golden: a torn O shows the Golden arch (photo Steven Miller, CC BY 2.0).",
+   "batch": "batch3_20261103",
+   "file": "img/BATCH3_1103_GT.b64"
   }
  ],
  "updates": [],
@@ -23787,6 +23937,19 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-04T04:23:34Z",
+   "batch": "batch3_20261103",
+   "added": [
+    "BATCH3_1103_ST",
+    "BATCH3_1103_TC",
+    "BATCH3_1103_FF",
+    "BATCH3_1103_WW",
+    "BATCH3_1103_XR",
+    "BATCH3_1103_GT"
+   ],
+   "note": "batch 3 posters (6) from pin study"
+  },
   {
    "at": "2026-11-03T05:18:44Z",
    "updated_items": [
