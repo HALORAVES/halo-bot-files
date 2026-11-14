@@ -1,7 +1,7 @@
 {
- "total": 110,
- "done": 110,
- "updated": "2026-11-14T09:43:54Z",
+ "total": 120,
+ "done": 120,
+ "updated": "2026-11-14T09:59:08Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -6233,6 +6233,276 @@
    "note": "Violet copperplate snail whose shell is a spinning record with tonearm; tiny UI cursor and registration marks on cream. Pins #17, #12 (14 Nov pin sheet; feeds re-checked, nothing newer).",
    "batch": "stillsound_core3_20261114",
    "file": "img/STILLCORE3_1114_03.b64"
+  },
+  {
+   "id": "STILLBOARD2_1114_01",
+   "title": "STILL SOUND · BOARD v2 · COFFEE RAVE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:59:08Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS v2 · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "v2",
+    "coffee"
+   ],
+   "hue": "cream",
+   "note": "Bolder v2 of the Coffee Rave board (v1 kept): impossible scale, swapped materials, spicy contrast pins. Pins: Bottomless Groove Cup (hero); Spin Before Sip; Bean Levels Peaking; Moka Drop Incoming; Disco Foam Dive; Sugar Rush Floor.",
+   "batch": "stillsound_boards_v2_20261114",
+   "file": "img/STILLBOARD2_1114_01.b64"
+  },
+  {
+   "id": "STILLBOARD2_1114_02",
+   "title": "STILL SOUND · BOARD v2 · PARK RAVE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:59:08Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS v2 · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "v2",
+    "park"
+   ],
+   "hue": "cream",
+   "note": "Bolder v2 of the Park Rave board (v1 kept): impossible scale, swapped materials, spicy contrast pins. Pins: Make a Disco Wish (hero); Mic Drip Melt; Bench Went Vinyl; Ladybug Subwoofer; Up, Up and Disco; Drink the Drop.",
+   "batch": "stillsound_boards_v2_20261114",
+   "file": "img/STILLBOARD2_1114_02.b64"
+  },
+  {
+   "id": "STILLBOARD2_1114_03",
+   "title": "STILL SOUND · BOARD v2 · BOOK CLUB RAVE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:59:08Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS v2 · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "v2",
+    "book"
+   ],
+   "hue": "cream",
+   "note": "Bolder v2 of the Book Club Rave board (v1 kept): impossible scale, swapped materials, spicy contrast pins. Pins: Chapter One: Dance (hero); Plot Twist Drop; Hot Off the Press; Shelf Sub Section; Read the Room; Mixtape Bookworm.",
+   "batch": "stillsound_boards_v2_20261114",
+   "file": "img/STILLBOARD2_1114_03.b64"
+  },
+  {
+   "id": "STILLBOARD2_1114_04",
+   "title": "STILL SOUND · BOARD v2 · WORSHIP · COMMUNITY",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:59:08Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS v2 · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "v2",
+    "worship"
+   ],
+   "hue": "cream",
+   "note": "Bolder v2 of the Worship · Community board (v1 kept): impossible scale, swapped materials, spicy contrast pins. Pins: Everybody on the Tambourine (hero); Raise It Together; Crash Course Potluck; Bloom Brass Section; Wobble Speaker Stack; Jingle Hearts Club.",
+   "batch": "stillsound_boards_v2_20261114",
+   "file": "img/STILLBOARD2_1114_04.b64"
+  },
+  {
+   "id": "STILLBOARD2_1114_05",
+   "title": "STILL SOUND · BOARD v2 · PICKLEBALL RAVE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:59:08Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS v2 · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "v2",
+    "pickleball"
+   ],
+   "hue": "cream",
+   "note": "Bolder v2 of the Pickleball Rave board (v1 kept): impossible scale, swapped materials, spicy contrast pins. Pins: Dink of the Moon (hero); Drum Head Paddle; Pickle EQ; Laser Net Rally; Hatched a Disco; Hot Serve Drum Roll.",
+   "batch": "stillsound_boards_v2_20261114",
+   "file": "img/STILLBOARD2_1114_05.b64"
+  },
+  {
+   "id": "STILLBOARD2_1114_06",
+   "title": "STILL SOUND · BOARD v2 · YOGA RAVE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:59:08Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS v2 · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "v2",
+    "yoga"
+   ],
+   "hue": "cream",
+   "note": "Bolder v2 of the Yoga Rave board (v1 kept): impossible scale, swapped materials, spicy contrast pins. Pins: Stretch It Like Taffy (hero); Downward Keyboard; Jelly Block Spin; Pretzel Pose Treble; Core Bass Ball; Unroll the Wave.",
+   "batch": "stillsound_boards_v2_20261114",
+   "file": "img/STILLBOARD2_1114_06.b64"
+  },
+  {
+   "id": "STILLBOARD2_1114_07",
+   "title": "STILL SOUND · BOARD v2 · GAMER · LAN",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:59:08Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS v2 · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "v2",
+    "gamer"
+   ],
+   "hue": "cream",
+   "note": "Bolder v2 of the Gamer · LAN board (v1 kept): impossible scale, swapped materials, spicy contrast pins. Pins: Player One Beach Party (hero); Melting Button Mash; Pepperoni D-Pad; Claw a Disco; Mouse Fuse Lit; Pixel Record Rain.",
+   "batch": "stillsound_boards_v2_20261114",
+   "file": "img/STILLBOARD2_1114_07.b64"
+  },
+  {
+   "id": "STILLBOARD2_1114_08",
+   "title": "STILL SOUND · BOARD v2 · SKATE RAVE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:59:08Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS v2 · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "v2",
+    "skate"
+   ],
+   "hue": "cream",
+   "note": "Bolder v2 of the Skate Rave board (v1 kept): impossible scale, swapped materials, spicy contrast pins. Pins: Espresso Bowl Drop (hero); Ride Side A; Gum Deck Stretch; Jawbreaker Wheel; Hot Rail Grind; Skate the Sub.",
+   "batch": "stillsound_boards_v2_20261114",
+   "file": "img/STILLBOARD2_1114_08.b64"
+  },
+  {
+   "id": "STILLBOARD2_1114_09",
+   "title": "STILL SOUND · BOARD v2 · SOUND BATH",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:59:08Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS v2 · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "v2",
+    "soundbath"
+   ],
+   "hue": "cream",
+   "note": "Bolder v2 of the Sound Bath board (v1 kept): impossible scale, swapped materials, spicy contrast pins. Pins: Soak in the Rings (hero); Hold the Frequency; Speaker Bubble Bath; Gong Duck; Quack the Bass; Disco Foam Soak.",
+   "batch": "stillsound_boards_v2_20261114",
+   "file": "img/STILLBOARD2_1114_09.b64"
+  },
+  {
+   "id": "STILLBOARD2_1114_10",
+   "title": "STILL SOUND · BOARD v2 · FLOWSTATE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:59:08Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS v2 · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "v2",
+    "flowstate"
+   ],
+   "hue": "cream",
+   "note": "Bolder v2 of the FLOWSTATE board (v1 kept): impossible scale, swapped materials, spicy contrast pins. Pins: Hoop on Fire (hero); Disco Poi Trails; Ribbon Waveform; Slinky Over the Road; Lava Lamp Notes; Melt Spin Scoop.",
+   "batch": "stillsound_boards_v2_20261114",
+   "file": "img/STILLBOARD2_1114_10.b64"
   }
  ],
  "updates": [],
@@ -26304,6 +26574,23 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-14T09:59:08Z",
+   "batch": "stillsound_boards_v2_20261114",
+   "added": [
+    "STILLBOARD2_1114_01",
+    "STILLBOARD2_1114_02",
+    "STILLBOARD2_1114_03",
+    "STILLBOARD2_1114_04",
+    "STILLBOARD2_1114_05",
+    "STILLBOARD2_1114_06",
+    "STILLBOARD2_1114_07",
+    "STILLBOARD2_1114_08",
+    "STILLBOARD2_1114_09",
+    "STILLBOARD2_1114_10"
+   ],
+   "note": "STILL SOUND · NICHE BOARDS v2 (10), bolder redo after C grade; v1 kept"
+  },
   {
    "at": "2026-11-14T09:43:54Z",
    "batch": "pincat_fixes_20261114",
