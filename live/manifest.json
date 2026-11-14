@@ -1,7 +1,7 @@
 {
- "total": 37,
- "done": 37,
- "updated": "2026-11-04T17:13:21Z",
+ "total": 47,
+ "done": 47,
+ "updated": "2026-11-14T09:04:18Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -4166,6 +4166,303 @@
    "note": "Giant magenta heart balloon jammed in an orange bathroom, acid-green in the mirror; ring on the sink.",
    "batch": "batch5_20261104",
    "file": "img/BATCH5_1104_LV.b64"
+  },
+  {
+   "id": "PINCAT_1114_01",
+   "title": "PIN CATALOG · 01 · TAPE BOUQUET",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:04:18Z",
+   "kind": "general",
+   "kindLabel": "PIN CATALOG · SURREAL POP STILL LIFE · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906846/",
+    "https://www.pinterest.com/pin/1137440449706906709/",
+    "https://www.pinterest.com/pin/1137440449706906661/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "pincat1114",
+    "surreal-pop",
+    "#b9a8e0"
+   ],
+   "hue": "#b9a8e0",
+   "note": "A clear cassette whose tape ribbon ties a bouquet of pansies and sweet peas, on a lavender seamless. Pins #01, #14, #52 (14 Nov pin sheet).",
+   "batch": "pincat_20261114",
+   "file": "img/PINCAT_1114_01.b64"
+  },
+  {
+   "id": "PINCAT_1114_02",
+   "title": "PIN CATALOG · 02 · SPEAKER ROSE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:04:18Z",
+   "kind": "general",
+   "kindLabel": "PIN CATALOG · SURREAL POP STILL LIFE · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906818/",
+    "https://www.pinterest.com/pin/1137440449706906638/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "pincat1114",
+    "surreal-pop",
+    "#d7263d"
+   ],
+   "hue": "#d7263d",
+   "note": "A thorned rose stem that blooms into a glossy red candy speaker cone, on butter cream. Pins #08, #57 (14 Nov pin sheet).",
+   "batch": "pincat_20261114",
+   "file": "img/PINCAT_1114_02.b64"
+  },
+  {
+   "id": "PINCAT_1114_03",
+   "title": "PIN CATALOG · 03 · BEAN WAVE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:04:18Z",
+   "kind": "general",
+   "kindLabel": "PIN CATALOG · SURREAL POP STILL LIFE · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906618/",
+    "https://www.pinterest.com/pin/1137440449706906624/",
+    "https://www.pinterest.com/pin/1137440449706906607/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "pincat1114",
+    "surreal-pop",
+    "#8a5a3c"
+   ],
+   "hue": "#8a5a3c",
+   "note": "A great wave built from coffee beans and sugar foam, with three miniature surfers about to wipe out over an espresso cup. Pins #64, #61, #66 (14 Nov pin sheet).",
+   "batch": "pincat_20261114",
+   "file": "img/PINCAT_1114_03.b64"
+  },
+  {
+   "id": "PINCAT_1114_04",
+   "title": "PIN CATALOG · 04 · FRAME IN THE MEADOW",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:04:18Z",
+   "kind": "general",
+   "kindLabel": "PIN CATALOG · SURREAL POP STILL LIFE · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/e1_AfqPShyY_x9wtoBlpWAsOBTmuqpbfA8wxI5oJzXcHLBQs06nIBSU9A/",
+    "https://www.pinterest.com/pin/e1_AfqPShxREcMz7zjkOtHGIc0aiM00dsFOzsuGuWf3K-BIU59OEV1NuA/",
+    "https://www.pinterest.com/pin/1137440449706906838/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "pincat1114",
+    "surreal-pop",
+    "#7fa36b"
+   ],
+   "hue": "#7fa36b",
+   "note": "Vintage paper photomontage: a hand reaches out of an ocean painting in a meadow while a cut-out kid runs to it; one cut-paper yellow ring above. Pins #43, #44, #03 (14 Nov pin sheet).",
+   "batch": "pincat_20261114",
+   "file": "img/PINCAT_1114_04.b64"
+  },
+  {
+   "id": "PINCAT_1114_05",
+   "title": "PIN CATALOG · 05 · JELLY DECK",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:04:18Z",
+   "kind": "general",
+   "kindLabel": "PIN CATALOG · SURREAL POP STILL LIFE · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906622/",
+    "https://www.pinterest.com/pin/1137440449706906619/",
+    "https://www.pinterest.com/pin/1137440449706906822/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "pincat1114",
+    "surreal-pop",
+    "#a3e000"
+   ],
+   "hue": "#a3e000",
+   "note": "A portable record player cast in translucent lime jelly resin, spinning an amber glass record on black. Pins #62, #63, #07 (14 Nov pin sheet).",
+   "batch": "pincat_20261114",
+   "file": "img/PINCAT_1114_05.b64"
+  },
+  {
+   "id": "PINCAT_1114_06",
+   "title": "PIN CATALOG · 06 · DISCO COCONUT",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:04:18Z",
+   "kind": "general",
+   "kindLabel": "PIN CATALOG · SURREAL POP STILL LIFE · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906607/",
+    "https://www.pinterest.com/pin/1137440449706906649/",
+    "https://www.pinterest.com/pin/1137440449706906817/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "pincat1114",
+    "surreal-pop",
+    "#8fc3ef"
+   ],
+   "hue": "#8fc3ef",
+   "note": "A mirror ball cracked open like a coconut, spilling a glitter ski run with miniature skiers, on sky blue. Pins #66, #55, #09 (14 Nov pin sheet).",
+   "batch": "pincat_20261114",
+   "file": "img/PINCAT_1114_06.b64"
+  },
+  {
+   "id": "PINCAT_1114_07",
+   "title": "PIN CATALOG · 07 · WALK HOME",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:04:18Z",
+   "kind": "general",
+   "kindLabel": "PIN CATALOG · SURREAL POP STILL LIFE · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906840/",
+    "https://www.pinterest.com/pin/1137440449706906823/",
+    "https://www.pinterest.com/pin/1137440449706906658/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "pincat1114",
+    "surreal-pop",
+    "#ff6fd0"
+   ],
+   "hue": "#ff6fd0",
+   "note": "A puppy in a puffer jacket walking home on an empty sidewalk with a pink glow stick, one yellow ring above. Pins #02, #06, #53 (14 Nov pin sheet).",
+   "batch": "pincat_20261114",
+   "file": "img/PINCAT_1114_07.b64"
+  },
+  {
+   "id": "PINCAT_1114_08",
+   "title": "PIN CATALOG · 08 · SCORE GARDENERS",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:04:18Z",
+   "kind": "general",
+   "kindLabel": "PIN CATALOG · SURREAL POP STILL LIFE · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906634/",
+    "https://www.pinterest.com/pin/1137440449706906670/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "pincat1114",
+    "surreal-pop",
+    "#f2c14e"
+   ],
+   "hue": "#f2c14e",
+   "note": "Miniature gardeners water, weed and wheelbarrow roses growing out of a sheet of music. Pins #59, #48 (14 Nov pin sheet).",
+   "batch": "pincat_20261114",
+   "file": "img/PINCAT_1114_08.b64"
+  },
+  {
+   "id": "PINCAT_1114_09",
+   "title": "PIN CATALOG · 09 · OCEAN IN A BAG",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:04:18Z",
+   "kind": "general",
+   "kindLabel": "PIN CATALOG · SURREAL POP STILL LIFE · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906680/",
+    "https://www.pinterest.com/pin/1137440449706906690/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "pincat1114",
+    "surreal-pop",
+    "#14c4d4"
+   ],
+   "hue": "#14c4d4",
+   "note": "A carnival fish bag on a keychain, held over the sea, with a tiny surfer riding a wave inside it. Pins #24, #20 (14 Nov pin sheet).",
+   "batch": "pincat_20261114",
+   "file": "img/PINCAT_1114_09.b64"
+  },
+  {
+   "id": "PINCAT_1114_10",
+   "title": "PIN CATALOG · 10 · SPIKE SMILE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:04:18Z",
+   "kind": "general",
+   "kindLabel": "PIN CATALOG · SURREAL POP STILL LIFE · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906606/",
+    "https://www.pinterest.com/pin/1137440449706906619/",
+    "https://www.pinterest.com/pin/e1_AfqPShzLpIagZsPbC4GhcXvlPN6P7TesQECTlWCIpYylFZnYpePH0g/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "pincat1114",
+    "surreal-pop",
+    "#ffff00"
+   ],
+   "hue": "#ffff00",
+   "note": "Streetwear poster: a scuffed acid-yellow spiked smiley swinging on a chain over black, small typeset HALO RAVES. Pins #67, #63, #28 (14 Nov pin sheet).",
+   "batch": "pincat_20261114",
+   "file": "img/PINCAT_1114_10.b64"
   }
  ],
  "updates": [],
@@ -24237,6 +24534,23 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-14T09:04:18Z",
+   "batch": "pincat_20261114",
+   "added": [
+    "PINCAT_1114_01",
+    "PINCAT_1114_02",
+    "PINCAT_1114_03",
+    "PINCAT_1114_04",
+    "PINCAT_1114_05",
+    "PINCAT_1114_06",
+    "PINCAT_1114_07",
+    "PINCAT_1114_08",
+    "PINCAT_1114_09",
+    "PINCAT_1114_10"
+   ],
+   "note": "pin catalog (10) in Surreal Pop Still Life, from Spirit's 14 Nov pins"
+  },
   {
    "at": "2026-11-04T17:13:21Z",
    "batch": "batch5_20261104",
