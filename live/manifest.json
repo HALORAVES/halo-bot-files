@@ -1,7 +1,7 @@
 {
- "total": 47,
- "done": 47,
- "updated": "2026-11-14T09:04:18Z",
+ "total": 77,
+ "done": 77,
+ "updated": "2026-11-14T09:21:37Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -4463,6 +4463,889 @@
    "note": "Streetwear poster: a scuffed acid-yellow spiked smiley swinging on a chain over black, small typeset HALO RAVES. Pins #67, #63, #28 (14 Nov pin sheet).",
    "batch": "pincat_20261114",
    "file": "img/PINCAT_1114_10.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_01",
+   "title": "STILL SOUND · C01 · VINYL PIZZA",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906638/",
+    "https://www.pinterest.com/pin/1137440449706906706/",
+    "https://www.pinterest.com/pin/1137440449706906818/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#e8570e"
+   ],
+   "hue": "#e8570e",
+   "note": "A record sliced like pizza, one slice lifting with stretchy cheese, sauce for a label. Pins #57, #16, #08 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_01.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_02",
+   "title": "STILL SOUND · C02 · CABLE CARBONARA",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906826/",
+    "https://www.pinterest.com/pin/1137440449706906709/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#ff8fb1"
+   ],
+   "hue": "#ff8fb1",
+   "note": "A fork twirling pastel patch cables like spaghetti, jack plugs as pasta ends. Pins #04, #14 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_02.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_03",
+   "title": "STILL SOUND · C03 · MIC CONE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906661/",
+    "https://www.pinterest.com/pin/1137440449706906818/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#9ccf8f"
+   ],
+   "hue": "#9ccf8f",
+   "note": "A waffle cone topped with a mint-chip microphone grille, starting to drip. Pins #52, #08 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_03.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_04",
+   "title": "STILL SOUND · C04 · PIANO CORN",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906638/",
+    "https://www.pinterest.com/pin/1137440449706906846/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#a3c400"
+   ],
+   "hue": "#a3c400",
+   "note": "An ear of corn whose cob is a keyboard, loose kernels scattered. Pins #57, #01 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_04.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_05",
+   "title": "STILL SOUND · C05 · METRO POP",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906818/",
+    "https://www.pinterest.com/pin/1137440449706906706/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#d7263d"
+   ],
+   "hue": "#d7263d",
+   "note": "A metronome whose pendulum is a cherry popsicle, drips flicked mid-swing. Pins #08, #16 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_05.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_06",
+   "title": "STILL SOUND · C06 · DRUM CAKE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906706/",
+    "https://www.pinterest.com/pin/1137440449706906624/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#ff6fa8"
+   ],
+   "hue": "#ff6fa8",
+   "note": "A snare drum frosted as a birthday cake, drumsticks burning like candles. Pins #16, #61 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_06.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_07",
+   "title": "STILL SOUND · C07 · GLOW TULIPS",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906817/",
+    "https://www.pinterest.com/pin/1137440449706906707/",
+    "https://www.pinterest.com/pin/1137440449706906643/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#ff4fd8"
+   ],
+   "hue": "#ff4fd8",
+   "note": "Neon glow-stick tulips in a milk bottle. Pins #09, #15, #56 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_07.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_08",
+   "title": "STILL SOUND · C08 · CITRUS TAMBOURINE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906649/",
+    "https://www.pinterest.com/pin/1137440449706906638/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#ff9a1f"
+   ],
+   "hue": "#ff9a1f",
+   "note": "A tambourine with an orange-slice skin and lemon and lime jingles. Pins #55, #57 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_08.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_09",
+   "title": "STILL SOUND · C09 · TOAST POP",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906643/",
+    "https://www.pinterest.com/pin/1137440449706906706/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#7fd1b9"
+   ],
+   "hue": "#7fd1b9",
+   "note": "A mint toaster popping two toasted records. Pins #56, #16 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_09.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_10",
+   "title": "STILL SOUND · C10 · BLOOM SKATE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906817/",
+    "https://www.pinterest.com/pin/1137440449706906661/",
+    "https://www.pinterest.com/pin/1137440449706906846/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#f2c14e"
+   ],
+   "hue": "#f2c14e",
+   "note": "A roller skate overflowing with spring flowers, laces turned to vines. Pins #09, #52, #01 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_10.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_11",
+   "title": "STILL SOUND · C11 · FIELD FLOOR",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/e1_AfqPShyY_x9wtoBlpWAsOBTmuqpbfA8wxI5oJzXcHLBQs06nIBSU9A/",
+    "https://www.pinterest.com/pin/1137440449706906669/",
+    "https://www.pinterest.com/pin/e1_AfqPShwUUvZDvf4t_N1USza6fLvgsdSoOnkiFuWdhEbNNAniFe9sAg/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#c9a227"
+   ],
+   "hue": "#c9a227",
+   "note": "Cut-paper collage: a couple twirls on a giant record in a wheat field as paper doves rise. Pins #43, #49, #33 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_11.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_12",
+   "title": "STILL SOUND · C12 · HORN OASIS",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/e1_AfqPShxREcMz7zjkOtHGIc0aiM00dsFOzsuGuWf3K-BIU59OEV1NuA/",
+    "https://www.pinterest.com/pin/1137440449706906670/",
+    "https://www.pinterest.com/pin/1137440449706906838/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#14c4d4"
+   ],
+   "hue": "#14c4d4",
+   "note": "Cut-paper collage: a gramophone horn pours a waterfall into a desert oasis. Pins #44, #48, #03 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_12.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_13",
+   "title": "STILL SOUND · C13 · BALLROOM CLOUD",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/e1_AfqPShwUUvZDvf4t_N1USza6fLvgsdSoOnkiFuWdhEbNNAniFe9sAg/",
+    "https://www.pinterest.com/pin/e1_AfqPShyY_x9wtoBlpWAsOBTmuqpbfA8wxI5oJzXcHLBQs06nIBSU9A/",
+    "https://www.pinterest.com/pin/1137440449706906683/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#ff5a5f"
+   ],
+   "hue": "#ff5a5f",
+   "note": "Cut-paper collage: an indoor cloud rains confetti on three pairs of dancing legs. Pins #33, #43, #22 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_13.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_14",
+   "title": "STILL SOUND · C14 · JELLY PADS",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906622/",
+    "https://www.pinterest.com/pin/1137440449706906822/",
+    "https://www.pinterest.com/pin/1137440449706906619/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#ff7eb6"
+   ],
+   "hue": "#ff7eb6",
+   "note": "A 16-pad beat box cast in bubblegum jelly, two pads lit. Pins #62, #07, #63 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_14.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_15",
+   "title": "STILL SOUND · C15 · SPRINKLE MARACAS",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906619/",
+    "https://www.pinterest.com/pin/1137440449706906622/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#b48cff"
+   ],
+   "hue": "#b48cff",
+   "note": "Blown-glass maracas filled with rainbow sprinkles. Pins #63, #62 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_15.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_16",
+   "title": "STILL SOUND · C16 · HONEY GROOVE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906619/",
+    "https://www.pinterest.com/pin/1137440449706906709/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#e0a100"
+   ],
+   "hue": "#e0a100",
+   "note": "Honey drips onto a record made of honey, a honeycomb for a label. Pins #63, #14 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_16.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_17",
+   "title": "STILL SOUND · C17 · BUBBLE HORN",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906709/",
+    "https://www.pinterest.com/pin/1137440449706906680/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#c9a227"
+   ],
+   "hue": "#c9a227",
+   "note": "A trumpet blowing soap bubbles, one holding a single flower. Pins #14, #24 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_17.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_18",
+   "title": "STILL SOUND · C18 · SPRINKLE WAVE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906674/",
+    "https://www.pinterest.com/pin/1137440449706906624/",
+    "https://www.pinterest.com/pin/1137440449706906694/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#5bc0eb"
+   ],
+   "hue": "#5bc0eb",
+   "note": "A sugar cookie with a sound waveform drawn in sprinkles. Pins #46, #61, #18 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_18.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_19",
+   "title": "STILL SOUND · C19 · KICK NAP",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906811/",
+    "https://www.pinterest.com/pin/1137440449706906615/",
+    "https://www.pinterest.com/pin/e1_AfqPShwAIiGj-NqDXeCHcfiVwAG8WkqB8Pb_B9jsOW-5byG1nEUKcg/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#b48cff"
+   ],
+   "hue": "#b48cff",
+   "note": "A kitten asleep inside a lilac kick drum, drumstick beside it. Pins #10, #65, #32 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_19.b64"
+  },
+  {
+   "id": "STILLSOUND_1114_20",
+   "title": "STILL SOUND · C20 · HAMSTER MIX",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · COLLECTION · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906637/",
+    "https://www.pinterest.com/pin/e1_AfqPShykQYy71HEjYAQfMWD4DSiSDxjr8QljEaANMnIulxZL7TYaCg/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "surreal-pop",
+    "#e8b04a"
+   ],
+   "hue": "#e8b04a",
+   "note": "Two hamsters working a tiny two-channel mixer, a sunflower seed on deck. Pins #58, #26 (14 Nov pin sheet).",
+   "batch": "stillsound_20261114",
+   "file": "img/STILLSOUND_1114_20.b64"
+  },
+  {
+   "id": "STILLSPICY_1114_01",
+   "title": "STILL SOUND · SPICY · S01 · HOT ROSE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · SPICY · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906818/",
+    "https://www.pinterest.com/pin/1137440449706906649/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound-spicy",
+    "surreal-pop",
+    "#d7263d"
+   ],
+   "hue": "#d7263d",
+   "note": "Rose stem blooming into a flaming chili speaker on blood red. Twin of Speaker Rose. Pins #08, #55 (14 Nov pin sheet).",
+   "batch": "stillsound_spicy_20261114",
+   "file": "img/STILLSPICY_1114_01.b64"
+  },
+  {
+   "id": "STILLSPICY_1114_02",
+   "title": "STILL SOUND · SPICY · S02 · MELTDOWN DECK",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · SPICY · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906622/",
+    "https://www.pinterest.com/pin/1137440449706906619/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound-spicy",
+    "surreal-pop",
+    "#ff3b1f"
+   ],
+   "hue": "#ff3b1f",
+   "note": "A record melting off a black turntable in molten red drips, the needle on fire. Twin of Jelly Deck. Pins #62, #63 (14 Nov pin sheet).",
+   "batch": "stillsound_spicy_20261114",
+   "file": "img/STILLSPICY_1114_02.b64"
+  },
+  {
+   "id": "STILLSPICY_1114_03",
+   "title": "STILL SOUND · SPICY · S03 · HOT TAPE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · SPICY · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906846/",
+    "https://www.pinterest.com/pin/1137440449706906661/",
+    "https://www.pinterest.com/pin/1137440449706906649/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound-spicy",
+    "surreal-pop",
+    "#ff1f6b"
+   ],
+   "hue": "#ff1f6b",
+   "note": "A cassette oozing hot sauce under a bouquet of chilies, on hot pink. Twin of Tape Bouquet. Pins #01, #52, #55 (14 Nov pin sheet).",
+   "batch": "stillsound_spicy_20261114",
+   "file": "img/STILLSPICY_1114_03.b64"
+  },
+  {
+   "id": "STILLSPICY_1114_04",
+   "title": "STILL SOUND · SPICY · S04 · GRILLED DISCO",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · SPICY · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906638/",
+    "https://www.pinterest.com/pin/1137440449706906619/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound-spicy",
+    "surreal-pop",
+    "#ff6a00"
+   ],
+   "hue": "#ff6a00",
+   "note": "A mirror ball searing on a grill over live coals. Twin of Disco Coconut. Pins #57, #63 (14 Nov pin sheet).",
+   "batch": "stillsound_spicy_20261114",
+   "file": "img/STILLSPICY_1114_04.b64"
+  },
+  {
+   "id": "STILLSPICY_1114_05",
+   "title": "STILL SOUND · SPICY · S05 · DEVIL SMILE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · SPICY · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906606/",
+    "https://www.pinterest.com/pin/1137440449706906619/",
+    "https://www.pinterest.com/pin/1137440449706906622/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound-spicy",
+    "surreal-pop",
+    "#ffd400"
+   ],
+   "hue": "#ffd400",
+   "note": "A scuffed yellow smiley with red horns and a wink, on blood red. Poster. Twin of Spike Smile. Pins #67, #63, #62 (14 Nov pin sheet).",
+   "batch": "stillsound_spicy_20261114",
+   "file": "img/STILLSPICY_1114_05.b64"
+  },
+  {
+   "id": "STILLSPICY_1114_06",
+   "title": "STILL SOUND · SPICY · S06 · HOT MIC",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · SPICY · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906818/",
+    "https://www.pinterest.com/pin/1137440449706906668/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound-spicy",
+    "surreal-pop",
+    "#ff1f6b"
+   ],
+   "hue": "#ff1f6b",
+   "note": "A chrome mic with a red lipstick kiss and a wisp of steam, on hot pink. Pins #08, #50 (14 Nov pin sheet).",
+   "batch": "stillsound_spicy_20261114",
+   "file": "img/STILLSPICY_1114_06.b64"
+  },
+  {
+   "id": "STILLSPICY_1114_07",
+   "title": "STILL SOUND · SPICY · S07 · LAVA CONE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · SPICY · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906661/",
+    "https://www.pinterest.com/pin/1137440449706906619/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound-spicy",
+    "surreal-pop",
+    "#ff3b1f"
+   ],
+   "hue": "#ff3b1f",
+   "note": "A charcoal cone with chili sorbet melting under a burning microphone. Twin of Mic Cone. Pins #52, #63 (14 Nov pin sheet).",
+   "batch": "stillsound_spicy_20261114",
+   "file": "img/STILLSPICY_1114_07.b64"
+  },
+  {
+   "id": "STILLSPICY_1114_08",
+   "title": "STILL SOUND · SPICY · S08 · CHERRY BOMB",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · SPICY · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906649/",
+    "https://www.pinterest.com/pin/1137440449706906818/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound-spicy",
+    "surreal-pop",
+    "#b0001e"
+   ],
+   "hue": "#b0001e",
+   "note": "A pair of cherries with lit, sparking fuse stems, on cherry red. Pins #55, #08 (14 Nov pin sheet).",
+   "batch": "stillsound_spicy_20261114",
+   "file": "img/STILLSPICY_1114_08.b64"
+  },
+  {
+   "id": "STILLSPICY_1114_09",
+   "title": "STILL SOUND · SPICY · S09 · RECORD VOLCANO",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · SPICY · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/e1_AfqPShyY_x9wtoBlpWAsOBTmuqpbfA8wxI5oJzXcHLBQs06nIBSU9A/",
+    "https://www.pinterest.com/pin/e1_AfqPShwUUvZDvf4t_N1USza6fLvgsdSoOnkiFuWdhEbNNAniFe9sAg/",
+    "https://www.pinterest.com/pin/1137440449706906838/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound-spicy",
+    "surreal-pop",
+    "#ff3b1f"
+   ],
+   "hue": "#ff3b1f",
+   "note": "Cut-paper collage: a volcano erupting records and fire, a small figure cheering from behind. Twin of Frame in the Meadow. Pins #43, #33, #03 (14 Nov pin sheet).",
+   "batch": "stillsound_spicy_20261114",
+   "file": "img/STILLSPICY_1114_09.b64"
+  },
+  {
+   "id": "STILLSPICY_1114_10",
+   "title": "STILL SOUND · SPICY · S10 · EMBER CHILI",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:21:37Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · SPICY · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906622/",
+    "https://www.pinterest.com/pin/1137440449706906619/",
+    "https://www.pinterest.com/pin/1137440449706906822/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound-spicy",
+    "surreal-pop",
+    "#e0102f"
+   ],
+   "hue": "#e0102f",
+   "note": "A ruby jelly chili with a candle flame trapped inside, on black. Pins #62, #63, #07 (14 Nov pin sheet).",
+   "batch": "stillsound_spicy_20261114",
+   "file": "img/STILLSPICY_1114_10.b64"
   }
  ],
  "updates": [],
@@ -24534,6 +25417,50 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-14T09:21:37Z",
+   "batch": "stillsound_spicy_20261114",
+   "added": [
+    "STILLSPICY_1114_01",
+    "STILLSPICY_1114_02",
+    "STILLSPICY_1114_03",
+    "STILLSPICY_1114_04",
+    "STILLSPICY_1114_05",
+    "STILLSPICY_1114_06",
+    "STILLSPICY_1114_07",
+    "STILLSPICY_1114_08",
+    "STILLSPICY_1114_09",
+    "STILLSPICY_1114_10"
+   ],
+   "note": "STILL SOUND · SPICY (10), bold twin of the collection"
+  },
+  {
+   "at": "2026-11-14T09:21:37Z",
+   "batch": "stillsound_20261114",
+   "added": [
+    "STILLSOUND_1114_01",
+    "STILLSOUND_1114_02",
+    "STILLSOUND_1114_03",
+    "STILLSOUND_1114_04",
+    "STILLSOUND_1114_05",
+    "STILLSOUND_1114_06",
+    "STILLSOUND_1114_07",
+    "STILLSOUND_1114_08",
+    "STILLSOUND_1114_09",
+    "STILLSOUND_1114_10",
+    "STILLSOUND_1114_11",
+    "STILLSOUND_1114_12",
+    "STILLSOUND_1114_13",
+    "STILLSOUND_1114_14",
+    "STILLSOUND_1114_15",
+    "STILLSOUND_1114_16",
+    "STILLSOUND_1114_17",
+    "STILLSOUND_1114_18",
+    "STILLSOUND_1114_19",
+    "STILLSOUND_1114_20"
+   ],
+   "note": "STILL SOUND collection (20) in Surreal Pop Still Life"
+  },
   {
    "at": "2026-11-14T09:04:18Z",
    "batch": "pincat_20261114",
