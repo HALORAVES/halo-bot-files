@@ -1,7 +1,7 @@
 {
- "total": 77,
- "done": 77,
- "updated": "2026-11-14T09:21:37Z",
+ "total": 110,
+ "done": 110,
+ "updated": "2026-11-14T09:43:54Z",
  "items": [
   {
    "id": "HYB_SINNER_SKA_F2",
@@ -4265,7 +4265,7 @@
    "rooms": [
     "FRESH · NOV 2026"
    ],
-   "updated": "2026-11-14T09:04:18Z",
+   "updated": "2026-11-14T09:43:54Z",
    "kind": "general",
    "kindLabel": "PIN CATALOG · SURREAL POP STILL LIFE · NOV 14",
    "source_pins": [
@@ -4282,7 +4282,7 @@
     "#7fa36b"
    ],
    "hue": "#7fa36b",
-   "note": "Vintage paper photomontage: a hand reaches out of an ocean painting in a meadow while a cut-out kid runs to it; one cut-paper yellow ring above. Pins #43, #44, #03 (14 Nov pin sheet).",
+   "note": "Vintage paper photomontage: a hand reaches out of an ocean painting in a meadow while a cut-out kid runs to it; one cut-paper yellow ring above. Pins #43, #44, #03 (14 Nov pin sheet). Halo recolored to acid #FFFF00 (fix 14 Nov; original kept locally and in git history).",
    "batch": "pincat_20261114",
    "file": "img/PINCAT_1114_04.b64"
   },
@@ -4355,7 +4355,7 @@
    "rooms": [
     "FRESH · NOV 2026"
    ],
-   "updated": "2026-11-14T09:04:18Z",
+   "updated": "2026-11-14T09:43:54Z",
    "kind": "general",
    "kindLabel": "PIN CATALOG · SURREAL POP STILL LIFE · NOV 14",
    "source_pins": [
@@ -4372,7 +4372,7 @@
     "#ff6fd0"
    ],
    "hue": "#ff6fd0",
-   "note": "A puppy in a puffer jacket walking home on an empty sidewalk with a pink glow stick, one yellow ring above. Pins #02, #06, #53 (14 Nov pin sheet).",
+   "note": "A puppy in a puffer jacket walking home on an empty sidewalk with a pink glow stick, one yellow ring above. Pins #02, #06, #53 (14 Nov pin sheet). Halo ring lowered over the head (fix 14 Nov; original kept locally and in git history).",
    "batch": "pincat_20261114",
    "file": "img/PINCAT_1114_07.b64"
   },
@@ -5346,6 +5346,893 @@
    "note": "A ruby jelly chili with a candle flame trapped inside, on black. Pins #62, #63, #07 (14 Nov pin sheet).",
    "batch": "stillsound_spicy_20261114",
    "file": "img/STILLSPICY_1114_10.b64"
+  },
+  {
+   "id": "STILLWINK_1114_01",
+   "title": "STILL SOUND · WINK · K01 · LIPSTICK MIC",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · WINK · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "wink",
+    "pinup",
+    "red"
+   ],
+   "hue": "red",
+   "note": "A gold lipstick bullet that is a vintage ribbon mic, kiss mark on the grille. Mid-century pin-up / pop-art wink, All Ages, faceless.",
+   "batch": "stillsound_wink_20261114",
+   "file": "img/STILLWINK_1114_01.b64"
+  },
+  {
+   "id": "STILLWINK_1114_02",
+   "title": "STILL SOUND · WINK · K02 · MARTINI SPEAKER",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · WINK · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "wink",
+    "pinup",
+    "cream"
+   ],
+   "hue": "cream",
+   "note": "Chrome martini glass with a speaker cone in the bowl, sound rings, satin and an opera glove. Mid-century pin-up / pop-art wink, All Ages, faceless.",
+   "batch": "stillsound_wink_20261114",
+   "file": "img/STILLWINK_1114_02.b64"
+  },
+  {
+   "id": "STILLWINK_1114_03",
+   "title": "STILL SOUND · WINK · K03 · HEEL SCRATCH",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · WINK · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "wink",
+    "pinup",
+    "red"
+   ],
+   "hue": "red",
+   "note": "A stockinged leg in a red heel scratching a record on a turntable, Elvgren gouache. Mid-century pin-up / pop-art wink, All Ages, faceless.",
+   "batch": "stillsound_wink_20261114",
+   "file": "img/STILLWINK_1114_03.b64"
+  },
+  {
+   "id": "STILLWINK_1114_04",
+   "title": "STILL SOUND · WINK · K04 · RECORD SWING",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · WINK · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "wink",
+    "pinup",
+    "pink"
+   ],
+   "hue": "pink",
+   "note": "Faceless pin-up from behind on a vinyl-record swing, polka dress, pink clouds. Mid-century pin-up / pop-art wink, All Ages, faceless.",
+   "batch": "stillsound_wink_20261114",
+   "file": "img/STILLWINK_1114_04.b64"
+  },
+  {
+   "id": "STILLWINK_1114_05",
+   "title": "STILL SOUND · WINK · K05 · FEATHER REVEAL",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · WINK · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "wink",
+    "pinup",
+    "pink"
+   ],
+   "hue": "pink",
+   "note": "A record peeking from pink ostrich feathers and pearls, burlesque reveal as object. Mid-century pin-up / pop-art wink, All Ages, faceless.",
+   "batch": "stillsound_wink_20261114",
+   "file": "img/STILLWINK_1114_05.b64"
+  },
+  {
+   "id": "STILLWINK_1114_06",
+   "title": "STILL SOUND · WINK · K06 · COVER MARTINI SINGER",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · WINK · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "wink",
+    "pinup",
+    "green"
+   ],
+   "hue": "green",
+   "note": "Retro cover framing: a silhouette crooner standing on a giant olive in a martini. Mid-century pin-up / pop-art wink, All Ages, faceless.",
+   "batch": "stillsound_wink_20261114",
+   "file": "img/STILLWINK_1114_06.b64"
+  },
+  {
+   "id": "STILLWINK_1114_07",
+   "title": "STILL SOUND · WINK · K07 · SATIN SIDE B",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · WINK · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "wink",
+    "pinup",
+    "red"
+   ],
+   "hue": "red",
+   "note": "Record, rose, satin glove and a kissed coupe on red satin. Label pseudo-text painted out. Mid-century pin-up / pop-art wink, All Ages, faceless.",
+   "batch": "stillsound_wink_20261114",
+   "file": "img/STILLWINK_1114_07.b64"
+  },
+  {
+   "id": "STILLWINK_1114_08",
+   "title": "STILL SOUND · WINK · K08 · STILETTO STYLUS",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · WINK · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "wink",
+    "pinup",
+    "pink"
+   ],
+   "hue": "pink",
+   "note": "A patent red stiletto parked on a spinning record by the tonearm. Mid-century pin-up / pop-art wink, All Ages, faceless.",
+   "batch": "stillsound_wink_20261114",
+   "file": "img/STILLWINK_1114_08.b64"
+  },
+  {
+   "id": "STILLWINK_1114_09",
+   "title": "STILL SOUND · WINK · K09 · BUBBLE BOOMBOX",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · WINK · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "wink",
+    "pinup",
+    "teal"
+   ],
+   "hue": "teal",
+   "note": "Clawfoot bubble bath with a gloved toast and a boombox. Stray glyph and brand-like text painted out. Mid-century pin-up / pop-art wink, All Ages, faceless.",
+   "batch": "stillsound_wink_20261114",
+   "file": "img/STILLWINK_1114_09.b64"
+  },
+  {
+   "id": "STILLWINK_1114_10",
+   "title": "STILL SOUND · WINK · K10 · LOLLIPOP SAILOR",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · WINK · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "wink",
+    "pinup",
+    "red"
+   ],
+   "hue": "red",
+   "note": "Faceless sailor pin-up leaning on a giant lollipop, red cover field. Mid-century pin-up / pop-art wink, All Ages, faceless.",
+   "batch": "stillsound_wink_20261114",
+   "file": "img/STILLWINK_1114_10.b64"
+  },
+  {
+   "id": "STILLPOV_1114_01",
+   "title": "STILL SOUND · POV · P01 · VINYL PIZZA · FIRST-PERSON HANDS",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · POV · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "pov",
+    "orange"
+   ],
+   "hue": "orange",
+   "note": "POV: first-person hands. Remake of c01 Vinyl Pizza.",
+   "batch": "stillsound_pov_20261114",
+   "file": "img/STILLPOV_1114_01.b64"
+  },
+  {
+   "id": "STILLPOV_1114_02",
+   "title": "STILL SOUND · POV · P02 · SPEAKER ROSE · EXTREME MACRO",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · POV · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "pov",
+    "red"
+   ],
+   "hue": "red",
+   "note": "POV: extreme macro. Remake of s01 Hot Rose.",
+   "batch": "stillsound_pov_20261114",
+   "file": "img/STILLPOV_1114_02.b64"
+  },
+  {
+   "id": "STILLPOV_1114_03",
+   "title": "STILL SOUND · POV · P03 · BLOOM SKATE · SEEN IN THE WORLD",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · POV · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "pov",
+    "pink"
+   ],
+   "hue": "pink",
+   "note": "POV: seen in the world (boardwalk, wheel height). Remake of c10 Bloom Skate.",
+   "batch": "stillsound_pov_20261114",
+   "file": "img/STILLPOV_1114_03.b64"
+  },
+  {
+   "id": "STILLPOV_1114_04",
+   "title": "STILL SOUND · POV · P04 · HOT TAPE · SEEN IN THE WORLD",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · POV · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "pov",
+    "red"
+   ],
+   "hue": "red",
+   "note": "POV: seen in the world (dance floor). Remake of s03 Hot Tape.",
+   "batch": "stillsound_pov_20261114",
+   "file": "img/STILLPOV_1114_04.b64"
+  },
+  {
+   "id": "STILLPOV_1114_05",
+   "title": "STILL SOUND · POV · P05 · JELLY DECK · FIRST-PERSON HANDS",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · POV · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "pov",
+    "green"
+   ],
+   "hue": "green",
+   "note": "POV: first-person hands. Remake of catalog 05 Jelly Turntable / c14.",
+   "batch": "stillsound_pov_20261114",
+   "file": "img/STILLPOV_1114_05.b64"
+  },
+  {
+   "id": "STILLPOV_1114_06",
+   "title": "STILL SOUND · POV · P06 · OCEAN BAG · WORM'S-EYE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · POV · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "pov",
+    "blue"
+   ],
+   "hue": "blue",
+   "note": "POV: worm's-eye. Remake of STILL SOUND ocean bag idea.",
+   "batch": "stillsound_pov_20261114",
+   "file": "img/STILLPOV_1114_06.b64"
+  },
+  {
+   "id": "STILLPOV_1114_07",
+   "title": "STILL SOUND · POV · P07 · GLOW TULIPS · SEEN IN THE WORLD",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · POV · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "pov",
+    "green"
+   ],
+   "hue": "green",
+   "note": "POV: seen in the world (park bench). Remake of c07 Glow Tulips.",
+   "batch": "stillsound_pov_20261114",
+   "file": "img/STILLPOV_1114_07.b64"
+  },
+  {
+   "id": "STILLPOV_1114_08",
+   "title": "STILL SOUND · POV · P08 · DRUM CAKE · TOP-DOWN FLAT LAY",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · POV · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "pov",
+    "pink"
+   ],
+   "hue": "pink",
+   "note": "POV: top-down flat lay. Remake of c06 Drum Cake.",
+   "batch": "stillsound_pov_20261114",
+   "file": "img/STILLPOV_1114_08.b64"
+  },
+  {
+   "id": "STILLPOV_1114_09",
+   "title": "STILL SOUND · POV · P09 · HOT MIC · EXTREME MACRO",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · POV · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "pov",
+    "red"
+   ],
+   "hue": "red",
+   "note": "POV: extreme macro. Remake of s06 Hot Mic.",
+   "batch": "stillsound_pov_20261114",
+   "file": "img/STILLPOV_1114_09.b64"
+  },
+  {
+   "id": "STILLPOV_1114_10",
+   "title": "STILL SOUND · POV · P10 · SPIKE SMILE · WORM'S-EYE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · POV · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "pov",
+    "yellow"
+   ],
+   "hue": "yellow",
+   "note": "POV: worm's-eye (warehouse). Remake of catalog 10 Spike Smile.",
+   "batch": "stillsound_pov_20261114",
+   "file": "img/STILLPOV_1114_10.b64"
+  },
+  {
+   "id": "STILLBOARD_1114_01",
+   "title": "STILL SOUND · BOARD · COFFEE RAVE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "coffee",
+    "cream"
+   ],
+   "hue": "cream",
+   "note": "Imagined Pinterest board for the Coffee Rave niche, 6 pins: Espresso on the Platter; Latte Waveform; Moka Bean Notes; Press Play Brew; Cup Speaker Stack; Bean Bag Floor.",
+   "batch": "stillsound_boards_20261114",
+   "file": "img/STILLBOARD_1114_01.b64"
+  },
+  {
+   "id": "STILLBOARD_1114_02",
+   "title": "STILL SOUND · BOARD · PARK RAVE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "park",
+    "cream"
+   ],
+   "hue": "cream",
+   "note": "Imagined Pinterest board for the Park Rave niche, 6 pins: Picnic Side A; Glowstick Kite Tail; Fountain Sound Wave; Sunflower Subwoofer; Disco Frisbee; Mowing the Melody.",
+   "batch": "stillsound_boards_20261114",
+   "file": "img/STILLBOARD_1114_02.b64"
+  },
+  {
+   "id": "STILLBOARD_1114_03",
+   "title": "STILL SOUND · BOARD · BOOK CLUB RAVE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "book",
+    "cream"
+   ],
+   "hue": "cream",
+   "note": "Imagined Pinterest board for the Book Club Rave niche, 6 pins: Gramophone Pages; Bookmark Side B; Disco Reading Lamp; Mixtape Tea Bag; Speaker Specs; Confetti Chapter.",
+   "batch": "stillsound_boards_20261114",
+   "file": "img/STILLBOARD_1114_03.b64"
+  },
+  {
+   "id": "STILLBOARD_1114_04",
+   "title": "STILL SOUND · BOARD · WORSHIP · COMMUNITY",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "worship",
+    "cream"
+   ],
+   "hue": "cream",
+   "note": "Imagined Pinterest board for the Worship · Community niche, 6 pins: Mug Equalizer; Speaker Loaf; Chair Circle Groove; Lemonade Notes; Heart Light Boombox; Honey Groove · reused.",
+   "batch": "stillsound_boards_20261114",
+   "file": "img/STILLBOARD_1114_04.b64"
+  },
+  {
+   "id": "STILLBOARD_1114_05",
+   "title": "STILL SOUND · BOARD · PICKLEBALL RAVE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "pickleball",
+    "cream"
+   ],
+   "hue": "cream",
+   "note": "Imagined Pinterest board for the Pickleball Rave niche, 6 pins: Disco Dink; Vinyl Paddle; Strung Up Net; Pickle Speaker Stack; Jelly Gear Case; Drum Rally.",
+   "batch": "stillsound_boards_20261114",
+   "file": "img/STILLBOARD_1114_05.b64"
+  },
+  {
+   "id": "STILLBOARD_1114_06",
+   "title": "STILL SOUND · BOARD · YOGA RAVE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "yoga",
+    "cream"
+   ],
+   "hue": "cream",
+   "note": "Imagined Pinterest board for the Yoga Rave niche, 6 pins: Violet Mat Roll; Cork Block Speaker; Metronome Balance; Tuning Fork Strap; Ripple Cushion; Monstera Calm.",
+   "batch": "stillsound_boards_20261114",
+   "file": "img/STILLBOARD_1114_06.b64"
+  },
+  {
+   "id": "STILLBOARD_1114_07",
+   "title": "STILL SOUND · BOARD · GAMER · LAN",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "gamer",
+    "cream"
+   ],
+   "hue": "cream",
+   "note": "Imagined Pinterest board for the Gamer · LAN niche, 6 pins: Jelly Controller Deck; Glow Keyboard; Ethernet Note; Disco Mouse; Pizza Box Sub; Can of Bass.",
+   "batch": "stillsound_boards_20261114",
+   "file": "img/STILLBOARD_1114_07.b64"
+  },
+  {
+   "id": "STILLBOARD_1114_08",
+   "title": "STILL SOUND · BOARD · SKATE RAVE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "skate",
+    "cream"
+   ],
+   "hue": "cream",
+   "note": "Imagined Pinterest board for the Skate Rave niche, 6 pins: Bloom Skate · reused; Concrete Bowl Sub; Glitter Jelly Wheel; Mixtape Quarter Pipe; Waveform Grip; Bearing Drum Kit.",
+   "batch": "stillsound_boards_20261114",
+   "file": "img/STILLBOARD_1114_08.b64"
+  },
+  {
+   "id": "STILLBOARD_1114_09",
+   "title": "STILL SOUND · BOARD · SOUND BATH",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "soundbath",
+    "cream"
+   ],
+   "hue": "cream",
+   "note": "Imagined Pinterest board for the Sound Bath niche, 6 pins: Ripple Bowl; Cloud in Brass; Glass Jellyfish Gong; Stone Speaker; Sine Wave Steam; Blanket Equalizer.",
+   "batch": "stillsound_boards_20261114",
+   "file": "img/STILLBOARD_1114_09.b64"
+  },
+  {
+   "id": "STILLBOARD_1114_10",
+   "title": "STILL SOUND · BOARD · FLOWSTATE",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · NICHE BOARDS · NOV 14",
+   "source_pins": [],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "niche-board",
+    "flowstate",
+    "cream"
+   ],
+   "hue": "cream",
+   "note": "Imagined Pinterest board for the FLOWSTATE niche, 6 pins: Vinyl Hoop; Disco Poi; Ribbon Sound Wave; Liquid Glow Hoop; Spin Top Trails; Slinky Arc.",
+   "batch": "stillsound_boards_20261114",
+   "file": "img/STILLBOARD_1114_10.b64"
+  },
+  {
+   "id": "STILLCORE3_1114_01",
+   "title": "STILL SOUND · CORE 3 · 01 · CUP HEAD CHEER",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · CORE 3 · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906810/",
+    "https://www.pinterest.com/pin/1137440449706906811/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "core3",
+    "orange"
+   ],
+   "hue": "orange",
+   "note": "A real espresso cup as the head of a pencil-drawn figure cheering, arms up, on white paper. Pins #11, #10 (14 Nov pin sheet; feeds re-checked, nothing newer).",
+   "batch": "stillsound_core3_20261114",
+   "file": "img/STILLCORE3_1114_01.b64"
+  },
+  {
+   "id": "STILLCORE3_1114_02",
+   "title": "STILL SOUND · CORE 3 · 02 · GLASS BLOCK SPEAKER",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · CORE 3 · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906802/",
+    "https://www.pinterest.com/pin/1137440449706906807/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "core3",
+    "green"
+   ],
+   "hue": "green",
+   "note": "A lime-lit chrome speaker behind a clear glass-block grid that pixelates the sound, mint backdrop. Pins #13, #12 (14 Nov pin sheet; feeds re-checked, nothing newer).",
+   "batch": "stillsound_core3_20261114",
+   "file": "img/STILLCORE3_1114_02.b64"
+  },
+  {
+   "id": "STILLCORE3_1114_03",
+   "title": "STILL SOUND · CORE 3 · 03 · SLOW JAM SNAIL",
+   "theme": "FRESH · NOV 2026",
+   "section": "FRESH · NOV 2026",
+   "status": "review",
+   "rooms": [
+    "FRESH · NOV 2026"
+   ],
+   "updated": "2026-11-14T09:43:54Z",
+   "kind": "general",
+   "kindLabel": "STILL SOUND · CORE 3 · NOV 14",
+   "source_pins": [
+    "https://www.pinterest.com/pin/1137440449706906702/",
+    "https://www.pinterest.com/pin/1137440449706906807/"
+   ],
+   "refs": [],
+   "tags": [
+    "fresh",
+    "nov2026",
+    "stillsound",
+    "core3",
+    "purple"
+   ],
+   "hue": "purple",
+   "note": "Violet copperplate snail whose shell is a spinning record with tonearm; tiny UI cursor and registration marks on cream. Pins #17, #12 (14 Nov pin sheet; feeds re-checked, nothing newer).",
+   "batch": "stillsound_core3_20261114",
+   "file": "img/STILLCORE3_1114_03.b64"
   }
  ],
  "updates": [],
@@ -25417,6 +26304,76 @@
   }
  ],
  "changelog": [
+  {
+   "at": "2026-11-14T09:43:54Z",
+   "batch": "pincat_fixes_20261114",
+   "replaced": [
+    "PINCAT_1114_04",
+    "PINCAT_1114_07"
+   ],
+   "note": "Catalog 04 halo #FFFF00, catalog 07 ring lowered"
+  },
+  {
+   "at": "2026-11-14T09:43:54Z",
+   "batch": "stillsound_wink_20261114",
+   "added": [
+    "STILLWINK_1114_01",
+    "STILLWINK_1114_02",
+    "STILLWINK_1114_03",
+    "STILLWINK_1114_04",
+    "STILLWINK_1114_05",
+    "STILLWINK_1114_06",
+    "STILLWINK_1114_07",
+    "STILLWINK_1114_08",
+    "STILLWINK_1114_09",
+    "STILLWINK_1114_10"
+   ],
+   "note": "STILL SOUND · WINK (10), pin-up / pop-art cheeky category"
+  },
+  {
+   "at": "2026-11-14T09:43:54Z",
+   "batch": "stillsound_pov_20261114",
+   "added": [
+    "STILLPOV_1114_01",
+    "STILLPOV_1114_02",
+    "STILLPOV_1114_03",
+    "STILLPOV_1114_04",
+    "STILLPOV_1114_05",
+    "STILLPOV_1114_06",
+    "STILLPOV_1114_07",
+    "STILLPOV_1114_08",
+    "STILLPOV_1114_09",
+    "STILLPOV_1114_10"
+   ],
+   "note": "STILL SOUND · POV (10), remakes from new viewpoints"
+  },
+  {
+   "at": "2026-11-14T09:43:54Z",
+   "batch": "stillsound_boards_20261114",
+   "added": [
+    "STILLBOARD_1114_01",
+    "STILLBOARD_1114_02",
+    "STILLBOARD_1114_03",
+    "STILLBOARD_1114_04",
+    "STILLBOARD_1114_05",
+    "STILLBOARD_1114_06",
+    "STILLBOARD_1114_07",
+    "STILLBOARD_1114_08",
+    "STILLBOARD_1114_09",
+    "STILLBOARD_1114_10"
+   ],
+   "note": "STILL SOUND · NICHE BOARDS (10), each niche as a Pinterest board"
+  },
+  {
+   "at": "2026-11-14T09:43:54Z",
+   "batch": "stillsound_core3_20261114",
+   "added": [
+    "STILLCORE3_1114_01",
+    "STILLCORE3_1114_02",
+    "STILLCORE3_1114_03"
+   ],
+   "note": "STILL SOUND · CORE 3 (3) from newest pins"
+  },
   {
    "at": "2026-11-14T09:21:37Z",
    "batch": "stillsound_spicy_20261114",
